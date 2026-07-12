@@ -359,11 +359,11 @@ chan'aase	n'aas.v	n'aas	variant	v.	cha n'aase	collapsed
 chan'aase	n'aas.v	n'aas	univerbated	v.	cha n'aase	
 n'aase	n'aas.v	n'aas	particle	v.	cha n'aase	demutation-unvalidated
 aase	n'aas.v	n'aas	mutation	v.	cha n'aase	demutation-unvalidated
-er n'aase	n'aase.v	n'aase	self	v.	er n'aase	demutation-unvalidated
-ern'aase	n'aase.v	n'aase	self	v.	er n'aase	collapsed
-ern'aase	n'aase.v	n'aase	univerbated	v.	er n'aase	
-n'aase	n'aase.v	n'aase	particle	v.	er n'aase	demutation-unvalidated
-aase	n'aase.v	n'aase	mutation	v.	er n'aase	demutation-unvalidated
+er n'aase	aase.v	aase	inflected	v.	er n'aase	
+ern'aase	aase.v	aase	inflected	v.	er n'aase	collapsed
+ern'aase	aase.v	aase	univerbated	v.	er n'aase	
+n'aase	aase.v	aase	particle	v.	er n'aase	
+aase	aase.v	aase	mutation	v.	er n'aase	
 daase	aase.v	aase	self	v.	daase	
 gaase	aase.v	aase	self	v.	gaase	
 e haase	aase.n	aase	self	s.	e haase	
@@ -1727,11 +1727,11 @@ area	area.n	area	self	s. m.	area
 arey	area.n	area	variant	s. m.	arey	
 arrish	arrish.v	arrish	self	v.	arrish	
 garrish	garrish.v	garrish	self	v.	garrish	
-er n'arrish	n'arrish.v	n'arrish	self	v.	er n'arrish	
-ern'arrish	n'arrish.v	n'arrish	self	v.	er n'arrish	collapsed
-ern'arrish	n'arrish.v	n'arrish	univerbated	v.	er n'arrish	
-n'arrish	n'arrish.v	n'arrish	particle	v.	er n'arrish	
-arrish	n'arrish.v	n'arrish	mutation	v.	er n'arrish	
+er n'arrish	arrish.v	arrish	inflected	v.	er n'arrish	
+ern'arrish	arrish.v	arrish	inflected	v.	er n'arrish	collapsed
+ern'arrish	arrish.v	arrish	univerbated	v.	er n'arrish	
+n'arrish	arrish.v	arrish	particle	v.	er n'arrish	
+arrish	arrish.v	arrish	mutation	v.	er n'arrish	
 arroo	arroo.n	arroo	self	s. m.	arroo	
 arrooyn	arroo.n	arroo	inflected	s. m.	arroo	
 e harroo	arroo.n	arroo	self	s.	e harroo	
@@ -27436,11 +27436,11 @@ dygheddyn	gheddyn.v	gheddyn	self	v.	dy gheddyn	collapsed
 dygheddyn	gheddyn.v	gheddyn	univerbated	v.	dy gheddyn	
 gheddyn	gheddyn.v	gheddyn	particle	v.	dy gheddyn	
 gheddyn	geddyn.v	geddyn	demutated	v.	dy gheddyn	
-er n'gheddyn	n'gheddyn.x	n'gheddyn	self	pt.	er n'gheddyn	demutation-unvalidated
-ern'gheddyn	n'gheddyn.x	n'gheddyn	self	pt.	er n'gheddyn	collapsed
-ern'gheddyn	n'gheddyn.x	n'gheddyn	univerbated	pt.	er n'gheddyn	
-n'gheddyn	n'gheddyn.x	n'gheddyn	particle	pt.	er n'gheddyn	demutation-unvalidated
-gheddyn	n'gheddyn.x	n'gheddyn	mutation	pt.	er n'gheddyn	demutation-unvalidated
+er n'gheddyn	geddyn.v	geddyn	inflected	v.	er n'gheddyn	
+ern'gheddyn	geddyn.v	geddyn	inflected	v.	er n'gheddyn	collapsed
+ern'gheddyn	geddyn.v	geddyn	univerbated	v.	er n'gheddyn	
+n'gheddyn	geddyn.v	geddyn	particle	v.	er n'gheddyn	
+gheddyn	geddyn.v	geddyn	mutation	v.	er n'gheddyn	
 feddyn	feddyn.v	feddyn	self	v.	feddyn	
 feddyn magh	feddyn-magh.v	feddyn-magh	self	v.	feddyn-magh	
 feddynmagh	feddyn-magh.v	feddyn-magh	self	v.	feddyn-magh	collapsed
@@ -27823,11 +27823,11 @@ eryialdyn	yialdyn.v	yialdyn	self	v.	er yialdyn	collapsed
 eryialdyn	yialdyn.v	yialdyn	univerbated	v.	er yialdyn	
 yialdyn	yialdyn.v	yialdyn	particle	v.	er yialdyn	demutation-unvalidated
 ghialtaghey	ghialtaghey.v	ghialtaghey	self	v.	ghialtaghey	
-er n'ghialtaghey	n'ghialtaghey.x	n'ghialtaghey	self	pt.	er n'ghialtaghey	demutation-unvalidated
-ern'ghialtaghey	n'ghialtaghey.x	n'ghialtaghey	self	pt.	er n'ghialtaghey	collapsed
-ern'ghialtaghey	n'ghialtaghey.x	n'ghialtaghey	univerbated	pt.	er n'ghialtaghey	
-n'ghialtaghey	n'ghialtaghey.x	n'ghialtaghey	particle	pt.	er n'ghialtaghey	demutation-unvalidated
-ghialtaghey	n'ghialtaghey.x	n'ghialtaghey	mutation	pt.	er n'ghialtaghey	demutation-unvalidated
+er n'ghialtaghey	ghialtaghey.v	ghialtaghey	inflected	v.	er n'ghialtaghey	
+ern'ghialtaghey	ghialtaghey.v	ghialtaghey	inflected	v.	er n'ghialtaghey	collapsed
+ern'ghialtaghey	ghialtaghey.v	ghialtaghey	univerbated	v.	er n'ghialtaghey	
+n'ghialtaghey	ghialtaghey.v	ghialtaghey	particle	v.	er n'ghialtaghey	
+ghialtaghey	ghialtaghey.v	ghialtaghey	mutation	v.	er n'ghialtaghey	
 gialdin	gialdin.n	gialdin	self	s. m.	gialdin	
 gialdinyn	gialdin.n	gialdin	inflected	s. m.	gialdin	
 dty ghialdinyn	ghialdinyn.n	ghialdinyn	self	s. pl.	dty ghialdinyn	
@@ -28911,11 +28911,11 @@ ergholl	er-gholl.v	ergholl	univerbated	v.	er-gholl
 er n'gholl	er-n'gholl.v	er-n'gholl	self	v.	er-n'gholl	
 ern'gholl	er-n'gholl.v	er-n'gholl	self	v.	er-n'gholl	collapsed
 ern'gholl	er-n'gholl.v	ern'gholl	univerbated	v.	er-n'gholl	
-er n'gholl	n'gholl.x	n'gholl	self	pt.	er n'gholl	demutation-unvalidated
-ern'gholl	n'gholl.x	n'gholl	self	pt.	er n'gholl	collapsed
-ern'gholl	n'gholl.x	n'gholl	univerbated	pt.	er n'gholl	
-n'gholl	n'gholl.x	n'gholl	particle	pt.	er n'gholl	demutation-unvalidated
-gholl	n'gholl.x	n'gholl	mutation	pt.	er n'gholl	demutation-unvalidated
+er n'gholl	doll.v	doll	inflected	v.	er n'gholl	
+ern'gholl	doll.v	doll	inflected	v.	er n'gholl	collapsed
+ern'gholl	doll.v	doll	univerbated	v.	er n'gholl	
+n'gholl	doll.v	doll	particle	v.	er n'gholl	
+gholl	doll.v	doll	mutation	v.	er n'gholl	
 golleyder	golleyder.n	golleyder	self	s. m.	golleyder	
 golleyderyn	golleyder.n	golleyder	inflected	s. m.	golleyder	
 hed	hed.v	hed	self	v.	hed	
@@ -30319,11 +30319,11 @@ imlyms	n'iml.v	n'iml	inflected	v.	cha n'iml	demutation-unvalidated
 dhimbyl	dhimbyl.v	dhimbyl	self	v.	dhimbyl	demutation-unvalidated
 dymbyl	dymbyl.v	dymbyl	self	v.	dymbyl	demutation-unvalidated
 gimbyl	imbyl.v	imbyl	self	v.	gimbyl	
-er n'imbyl	n'imbyl.v	n'imbyl	self	v.	er n'imbyl	demutation-unvalidated
-ern'imbyl	n'imbyl.v	n'imbyl	self	v.	er n'imbyl	collapsed
-ern'imbyl	n'imbyl.v	n'imbyl	univerbated	v.	er n'imbyl	
-n'imbyl	n'imbyl.v	n'imbyl	particle	v.	er n'imbyl	demutation-unvalidated
-imbyl	n'imbyl.v	n'imbyl	mutation	v.	er n'imbyl	demutation-unvalidated
+er n'imbyl	imbyl.v	imbyl	inflected	v.	er n'imbyl	
+ern'imbyl	imbyl.v	imbyl	inflected	v.	er n'imbyl	collapsed
+ern'imbyl	imbyl.v	imbyl	univerbated	v.	er n'imbyl	
+n'imbyl	imbyl.v	imbyl	particle	v.	er n'imbyl	
+imbyl	imbyl.v	imbyl	mutation	v.	er n'imbyl	
 thie imbyl	thie-imbyl.n	thie imbyl	self	s. m.	thie imbyl	
 thieimbyl	thie-imbyl.n	thie imbyl	self	s. m.	thie imbyl	collapsed
 thieimbyl	thie-imbyl.n	thieimbyl	univerbated	s. m.	thie imbyl	
@@ -30401,9 +30401,11 @@ n'immanyms	n'imman.v	n'imman	inflected	v.	cha n'imman	demutation-unvalidated
 immanyms	n'imman.v	n'imman	inflected	v.	cha n'imman	demutation-unvalidated
 dimman	imman.v	imman	self	v.	dimman	
 gimman	imman.v	imman	self	v.	gimman	
-er n'imman	n'imman.v	n'imman	self	v.	er n'imman	demutation-unvalidated
-ern'imman	n'imman.v	n'imman	self	v.	er n'imman	collapsed
-ern'imman	n'imman.v	n'imman	univerbated	v.	er n'imman	
+er n'imman	imman.v	imman	inflected	v.	er n'imman	
+ern'imman	imman.v	imman	inflected	v.	er n'imman	collapsed
+ern'imman	imman.v	imman	univerbated	v.	er n'imman	
+n'imman	imman.v	imman	particle	v.	er n'imman	
+imman	imman.v	imman	mutation	v.	er n'imman	
 e himman	imman.v	imman	self	v.	e himman	
 ehimman	imman.v	imman	self	v.	e himman	collapsed
 ehimman	imman.v	imman	univerbated	v.	e himman	
@@ -30426,11 +30428,11 @@ jimmee	immee.v	immee	self	v.	jimmee
 immeeaght	immeeaght.v	immeeaght	self	v.	immeeaght	
 gimmeeaght	immeeaght.v	immeeaght	self	v.	gimmeeaght	
 gimmeeaghtyn	immeeaght.v	immeeaght	inflected	v.	gimmeeaght	
-er n'immeeaght	n'immeeaght.v	n'immeeaght	self	v.	er n'immeeaght	demutation-unvalidated
-ern'immeeaght	n'immeeaght.v	n'immeeaght	self	v.	er n'immeeaght	collapsed
-ern'immeeaght	n'immeeaght.v	n'immeeaght	univerbated	v.	er n'immeeaght	
-n'immeeaght	n'immeeaght.v	n'immeeaght	particle	v.	er n'immeeaght	demutation-unvalidated
-immeeaght	n'immeeaght.v	n'immeeaght	mutation	v.	er n'immeeaght	demutation-unvalidated
+er n'immeeaght	immeeaght.v	immeeaght	inflected	v.	er n'immeeaght	
+ern'immeeaght	immeeaght.v	immeeaght	inflected	v.	er n'immeeaght	collapsed
+ern'immeeaght	immeeaght.v	immeeaght	univerbated	v.	er n'immeeaght	
+n'immeeaght	immeeaght.v	immeeaght	particle	v.	er n'immeeaght	
+immeeaght	immeeaght.v	immeeaght	mutation	v.	er n'immeeaght	
 immeeit	immeeit.x	immeeit	self		immeeit	
 immyr	immyr.n	immyr	self	s. f.	immyr	
 imraghyn	imraghyn.n	imraghyn	self	s. pl.	imraghyn	
@@ -30915,10 +30917,10 @@ iuyms	n'iu.v	n'iu	inflected	v.	cha n'iu	demutation-unvalidated
 diu	diu.v	diu	self	v.	diu	
 j'ïu	j'ïu.v	j'ïu	self	v.	j'ïu	demutation-unvalidated
 giu	giu.v	giu	self	v.	giu	demutation-unvalidated
-er n'iu	n'iu.x	n'iu	self	pt.	er n'iu	demutation-unvalidated
-ern'iu	n'iu.x	n'iu	self	pt.	er n'iu	collapsed
-ern'iu	n'iu.x	n'iu	univerbated	pt.	er n'iu	
-n'iu	n'iu.x	n'iu	particle	pt.	er n'iu	demutation-unvalidated
+er n'iu	iu.v	iu	inflected	v.	er n'iu	
+ern'iu	iu.v	iu	inflected	v.	er n'iu	collapsed
+ern'iu	iu.v	iu	univerbated	v.	er n'iu	
+n'iu	iu.v	iu	particle	v.	er n'iu	
 iuit	iuit.x	iuit	self		iuit	
 s'iuit	s'iuit.a	s'iuit	self	a.	s'iuit	demutation-unvalidated
 iuit	s'iuit.a	s'iuit	mutation	a.	s'iuit	demutation-unvalidated
@@ -31246,11 +31248,11 @@ dyyannoo	jannoo.v	jannoo	self	v.	dy yannoo	collapsed
 dyyannoo	jannoo.v	jannoo	univerbated	v.	dy yannoo	
 yannoo	jannoo.v	jannoo	particle	v.	dy yannoo	
 yannoo	jannoo.v	jannoo	demutated	v.	dy yannoo	
-er n'yannoo	n'yannoo.v	n'yannoo	self	v.	er n'yannoo	demutation-unvalidated
-ern'yannoo	n'yannoo.v	n'yannoo	self	v.	er n'yannoo	collapsed
-ern'yannoo	n'yannoo.v	n'yannoo	univerbated	v.	er n'yannoo	
-n'yannoo	n'yannoo.v	n'yannoo	particle	v.	er n'yannoo	demutation-unvalidated
-yannoo	n'yannoo.v	n'yannoo	mutation	v.	er n'yannoo	demutation-unvalidated
+er n'yannoo	jannoo.v	jannoo	inflected	v.	er n'yannoo	
+ern'yannoo	jannoo.v	jannoo	inflected	v.	er n'yannoo	collapsed
+ern'yannoo	jannoo.v	jannoo	univerbated	v.	er n'yannoo	
+n'yannoo	jannoo.v	jannoo	particle	v.	er n'yannoo	
+yannoo	jannoo.v	jannoo	mutation	v.	er n'yannoo	
 drogh yannoo	drogh-yannoo.n	drogh-yannoo	self	s. m.	drogh-yannoo	
 droghyannoo	drogh-yannoo.n	drogh-yannoo	self	s. m.	drogh-yannoo	collapsed
 droghyannoo	drogh-yannoo.n	droghyannoo	univerbated	s. m.	drogh-yannoo	
@@ -53368,11 +53370,11 @@ dy oaley	oaley.x	oaley	self		dy oaley	demutation-unvalidated
 dyoaley	oaley.x	oaley	self		dy oaley	collapsed
 dyoaley	oaley.x	oaley	univerbated		dy oaley	
 oaley	oaley.x	oaley	particle		dy oaley	demutation-unvalidated
-er n'whaaley	n'whaaley.v	n'whaaley	self	v.	er n'whaaley	demutation-unvalidated
-ern'whaaley	n'whaaley.v	n'whaaley	self	v.	er n'whaaley	collapsed
-ern'whaaley	n'whaaley.v	n'whaaley	univerbated	v.	er n'whaaley	
-n'whaaley	n'whaaley.v	n'whaaley	particle	v.	er n'whaaley	demutation-unvalidated
-whaaley	n'whaaley.v	n'whaaley	mutation	v.	er n'whaaley	demutation-unvalidated
+er n'whaaley	whaaley.v	whaaley	inflected	v.	er n'whaaley	
+ern'whaaley	whaaley.v	whaaley	inflected	v.	er n'whaaley	collapsed
+ern'whaaley	whaaley.v	whaaley	univerbated	v.	er n'whaaley	
+n'whaaley	whaaley.v	whaaley	particle	v.	er n'whaaley	
+whaaley	whaaley.v	whaaley	mutation	v.	er n'whaaley	
 whaaylit	whaaylit.x	whaaylit	self	pt.	whaaylit	
 whaalt	whaalt.x	whaalt	self	pt.	whaalt	
 s'whaaylit	s'whaaylit.a	s'whaaylit	self	a.	s'whaaylit	demutation-unvalidated
