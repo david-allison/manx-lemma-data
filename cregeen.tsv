@@ -27457,10 +27457,10 @@ yiow	yiow.x	yiow	self	p.	yiow
 yo'in	yo'in.x	yo'in	self		yo'in	
 yiom	yiom.x	yiom	self	p.	yiom	demutation-unvalidated
 yoin	yoin.x	yoin	self	p.	yoin	
-cha vow	gow.x	gow	self	p.	cha vow	
-chavow	gow.x	gow	self	p.	cha vow	collapsed
-chavow	gow.x	gow	univerbated	p.	cha vow	
-vow	gow.x	gow	particle	p.	cha vow	
+cha vow	fow.v	fow	override	v.	cha vow	
+chavow	fow.v	fow	override	v.	cha vow	collapsed
+chavow	fow.v	fow	univerbated	v.	cha vow	
+vow	fow.v	fow	particle	v.	cha vow	
 vow	mow.a	mow	demutated	a.	cha vow	
 vow ad	vow-ad.x	vow ad	self		vow ad	demutation-unvalidated
 vowad	vow-ad.x	vow ad	self		vow ad	collapsed
@@ -27483,7 +27483,7 @@ ymbaase	gowym.x	gowym	univerbated		my vo'ym baase
 vowyms	gowyms.x	gowyms	self	p.	vowyms	
 vo'yms	gowyms.x	gowyms	variant	p.	vo'yms	
 yms	gowyms.x	gowyms	mutation	p.	vo'yms	
-vow	gow.x	gow	self	p.	vow	
+vow	fow.v	fow	override	v.	vow	
 now	now.x	now	self	p.	now	demutation-unvalidated
 no'ym	no'ym.x	no'ym	self	p.	no'ym	
 nowys	now.x	now	variant	p.	nowys	demutation-unvalidated
