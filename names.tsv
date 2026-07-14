@@ -521,6 +521,9 @@ gaernarfon	caernarfon.np	Caernarfon	mutation	np. other	Caernarfon	generated-ecli
 caesar	caesar.np	Caesar	self	np. personal	Caesar	
 chaesar	caesar.np	Caesar	mutation	np. personal	Caesar	generated-lenition
 gaesar	caesar.np	Caesar	mutation	np. personal	Caesar	generated-eclipsis
+cæsar	caesar.np	Caesar	variant	np. personal	Cæsar	
+chæsar	caesar.np	Caesar	mutation	np. personal	Cæsar	generated-lenition
+gæsar	caesar.np	Caesar	mutation	np. personal	Cæsar	generated-eclipsis
 caiaphas	caiaphas.np	Caiaphas	self	np. personal	Caiaphas	
 chaiaphas	caiaphas.np	Caiaphas	mutation	np. personal	Caiaphas	generated-lenition
 gaiaphas	caiaphas.np	Caiaphas	mutation	np. personal	Caiaphas	generated-eclipsis
