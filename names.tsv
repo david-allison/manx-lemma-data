@@ -121,6 +121,7 @@ anah	anah.np	Anah	self	np. other	Anah
 anak	anak.np	Anak	self	np. other	Anak	
 ananias	ananias.np	Ananias	self	np. personal	Ananias	
 anathoth	anathoth.np	Anathoth	self	np. place	Anathoth	
+anglesey	anglesey.np	Anglesey	self	np. place	Anglesey	
 anglo hostnee	anglo-hostnee.np	Anglo-Hostnee	self	np. ethnonym	Anglo-Hostnee	
 anglohostnee	anglo-hostnee.np	Anglo-Hostnee	self	np. ethnonym	Anglo-Hostnee	collapsed
 anna	anna.np	Anna	self	np. other	Anna	
@@ -283,6 +284,9 @@ bathsheba	bath-sheba.np	Bath-Sheba	self	np. other	Bath-Sheba	collapsed
 bebai	bebai.np	Bebai	self	np. other	Bebai	
 vebai	bebai.np	Bebai	mutation	np. other	Bebai	generated-lenition
 mebai	bebai.np	Bebai	mutation	np. other	Bebai	generated-eclipsis
+bebington	bebington.np	Bebington	self	np. place	Bebington	
+vebington	bebington.np	Bebington	mutation	np. place	Bebington	generated-lenition
+mebington	bebington.np	Bebington	mutation	np. place	Bebington	generated-eclipsis
 becher	becher.np	Becher	self	np. other	Becher	
 vecher	becher.np	Becher	mutation	np. other	Becher	generated-lenition
 mecher	becher.np	Becher	mutation	np. other	Becher	generated-eclipsis
@@ -553,6 +557,9 @@ gallister	callister.np	Callister	mutation	np. other	Callister	generated-eclipsis
 calvary	calvary.np	Calvary	self	np. other	Calvary	
 chalvary	calvary.np	Calvary	mutation	np. other	Calvary	generated-lenition
 galvary	calvary.np	Calvary	mutation	np. other	Calvary	generated-eclipsis
+cambridge	cambridge.np	Cambridge	self	np. place	Cambridge	
+chambridge	cambridge.np	Cambridge	mutation	np. place	Cambridge	generated-lenition
+gambridge	cambridge.np	Cambridge	mutation	np. place	Cambridge	generated-eclipsis
 cana	cana.np	Cana	self	np. other	Cana	
 chana	cana.np	Cana	mutation	np. other	Cana	generated-lenition
 gana	cana.np	Cana	mutation	np. other	Cana	generated-eclipsis
@@ -584,6 +591,9 @@ garmi	carmi.np	Carmi	mutation	np. other	Carmi	generated-eclipsis
 carnac	carnac.np	Carnac	self	np. other	Carnac	
 charnac	carnac.np	Carnac	mutation	np. other	Carnac	generated-lenition
 garnac	carnac.np	Carnac	mutation	np. other	Carnac	generated-eclipsis
+caroline	caroline.np	Caroline	self	np. personal	Caroline	
+charoline	caroline.np	Caroline	mutation	np. personal	Caroline	generated-lenition
+garoline	caroline.np	Caroline	mutation	np. personal	Caroline	generated-eclipsis
 cashin	cashin.np	Cashin	self	np. other	Cashin	
 chashin	cashin.np	Cashin	mutation	np. other	Cashin	generated-lenition
 gashin	cashin.np	Cashin	mutation	np. other	Cashin	generated-eclipsis
@@ -670,6 +680,9 @@ hernobyl	chernobyl.np	Chernobyl	mutation	np. other	Chernobyl	generated-lenition
 jernobyl	chernobyl.np	Chernobyl	mutation	np. other	Chernobyl	generated-eclipsis
 cheshaght obbree	cheshaght-obbree.np	Cheshaght-Obbree	self	np. ethnonym	Cheshaght-Obbree	
 cheshaghtobbree	cheshaght-obbree.np	Cheshaght-Obbree	self	np. ethnonym	Cheshaght-Obbree	collapsed
+cheshire	cheshire.np	Cheshire	self	np. place	Cheshire	
+heshire	cheshire.np	Cheshire	mutation	np. place	Cheshire	generated-lenition
+jeshire	cheshire.np	Cheshire	mutation	np. place	Cheshire	generated-eclipsis
 chiarn shansyleyr	chiarn-shansyleyr.np	Chiarn-Shansyleyr	self	np. other	Chiarn-Shansyleyr	
 chiarnshansyleyr	chiarn-shansyleyr.np	Chiarn-Shansyleyr	self	np. other	Chiarn-Shansyleyr	collapsed
 chittim	chittim.np	Chittim	self	np. other	Chittim	
@@ -1530,6 +1543,8 @@ hodijah	hodijah.np	Hodijah	self	np. other	Hodijah
 holofernes	holofernes.np	Holofernes	self	np. personal	Holofernes	
 homileeyn	homileeyn.np	Homileeyn	self	np. ethnonym	Homileeyn	
 homily	homily.np	Homily	self	np. other	Homily	
+hong kong	hong-kong.np	Hong Kong	self	np. place	Hong Kong	
+hongkong	hong-kong.np	Hong Kong	self	np. place	Hong Kong	collapsed
 hophni	hophni.np	Hophni	self	np. other	Hophni	
 horeb	horeb.np	Horeb	self	np. place	Horeb	
 hormah	hormah.np	Hormah	self	np. other	Hormah	
