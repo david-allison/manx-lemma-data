@@ -254,6 +254,9 @@ barran	barran.np	Barran	self	np. other	Barran
 barrool	barrool.np	Barrool	self	np. other	Barrool	
 varrool	barrool.np	Barrool	mutation	np. other	Barrool	generated-lenition
 marrool	barrool.np	Barrool	mutation	np. other	Barrool	generated-eclipsis
+bartholomew	bartholomew.np	Bartholomew	self	np. personal	Bartholomew	
+vartholomew	bartholomew.np	Bartholomew	mutation	np. personal	Bartholomew	generated-lenition
+martholomew	bartholomew.np	Bartholomew	mutation	np. personal	Bartholomew	generated-eclipsis
 baruch	baruch.np	Baruch	self	np. personal	Baruch	
 varuch	baruch.np	Baruch	mutation	np. personal	Baruch	generated-lenition
 maruch	baruch.np	Baruch	mutation	np. personal	Baruch	generated-eclipsis
@@ -1096,6 +1099,7 @@ elliot	elliot.np	Elliot	self	np. other	Elliot
 elnathan	elnathan.np	Elnathan	self	np. other	Elnathan	
 elon	elon.np	Elon	self	np. personal	Elon	
 emily	emily.np	Emily	self	np. other	Emily	
+emmanuel	emmanuel.np	Emmanuel	self	np. personal	Emmanuel	
 en gedi	en-gedi.np	En-Gedi	self	np. other	En-Gedi	
 engedi	en-gedi.np	En-Gedi	self	np. other	En-Gedi	collapsed
 enan	enan.np	Enan	self	np. other	Enan	
@@ -1321,6 +1325,12 @@ nera	gera.np	Gera	mutation	np. other	Gera	generated-eclipsis
 gerar	gerar.np	Gerar	self	np. other	Gerar	
 gherar	gerar.np	Gerar	mutation	np. other	Gerar	generated-lenition
 nerar	gerar.np	Gerar	mutation	np. other	Gerar	generated-eclipsis
+gergesenee	gergesenes.np	Gergesenes	variant	np. ethnonym	Gergesenee	
+ghergesenee	gergesenes.np	Gergesenes	mutation	np. ethnonym	Gergesenee	generated-lenition
+nergesenee	gergesenes.np	Gergesenes	mutation	np. ethnonym	Gergesenee	generated-eclipsis
+gergesenes	gergesenes.np	Gergesenes	self	np. ethnonym	Gergesenes	
+ghergesenes	gergesenes.np	Gergesenes	mutation	np. ethnonym	Gergesenes	generated-lenition
+nergesenes	gergesenes.np	Gergesenes	mutation	np. ethnonym	Gergesenes	generated-eclipsis
 germaanagh	germaanagh.np	Germaanagh	self	np. ethnonym	Germaanagh	
 germaanee	germaanagh.np	Germaanagh	inflected	np. ethnonym	Germaanagh	
 ghermaanagh	germaanagh.np	Germaanagh	mutation	np. ethnonym	Germaanagh	generated-lenition
@@ -1949,6 +1959,8 @@ laughlin	laughlin.np	Laughlin	self	np. other	Laughlin
 laxey	laxey.np	Laxey	self	np. other	Laxey	
 lazarus	lazarus.np	Lazarus	self	np. personal	Lazarus	
 lebanon	lebanon.np	Lebanon	self	np. place	Lebanon	
+lebbaeus	lebbaeus.np	Lebbaeus	self	np. personal	Lebbaeus	
+lebbeus	lebbaeus.np	Lebbaeus	variant	np. personal	Lebbeus	
 leece	leece.np	Leece	self	np. other	Leece	
 leirr	leirr.np	Leirr	self	np. other	Leirr	
 leoagher	leoagher.np	Leoagher	self	np. other	Leoagher	
@@ -2007,6 +2019,8 @@ machpelah	machpelah.np	Machpelah	self	np. other	Machpelah
 vachpelah	machpelah.np	Machpelah	mutation	np. other	Machpelah	generated-lenition
 maddrell	maddrell.np	Maddrell	self	np. personal	Maddrell	
 vaddrell	maddrell.np	Maddrell	mutation	np. personal	Maddrell	generated-lenition
+magdala	magdala.np	Magdala	self	np. place	Magdala	
+vagdala	magdala.np	Magdala	mutation	np. place	Magdala	generated-lenition
 mahalaleel	mahalaleel.np	Mahalaleel	self	np. other	Mahalaleel	
 vahalaleel	mahalaleel.np	Mahalaleel	mutation	np. other	Mahalaleel	generated-lenition
 mahanaim	mahanaim.np	Mahanaim	self	np. other	Mahanaim	
@@ -2029,6 +2043,8 @@ malew	malew.np	Malew	self	np. other	Malew
 valew	malew.np	Malew	mutation	np. other	Malew	generated-lenition
 malluch	malluch.np	Malluch	self	np. other	Malluch	
 valluch	malluch.np	Malluch	mutation	np. other	Malluch	generated-lenition
+mammon	mammon.np	Mammon	self	np. other	Mammon	
+vammon	mammon.np	Mammon	mutation	np. other	Mammon	generated-lenition
 mamon	mamon.np	Mamon	self	np. other	Mamon	
 vamon	mamon.np	Mamon	mutation	np. other	Mamon	generated-lenition
 mamre	mamre.np	Mamre	self	np. other	Mamre	
@@ -2223,6 +2239,7 @@ nathanael	nathanael.np	Nathanael	self	np. other	Nathanael
 nato	nato.np	Nato	self	np. other	Nato	
 natseeyn	natseeyn.np	Natseeyn	self	np. ethnonym	Natseeyn	
 navajo	navajo.np	Navajo	self	np. other	Navajo	
+nazarene	nazarene.np	Nazarene	self	np. ethnonym	Nazarene	
 nazareth	nazareth.np	Nazareth	self	np. place	Nazareth	
 nazarite	nazarite.np	Nazarite	self	np. other	Nazarite	
 nebat	nebat.np	Nebat	self	np. personal	Nebat	
@@ -2517,11 +2534,13 @@ rab shakeh	rab-shakeh.np	Rab-Shakeh	self	np. other	Rab-Shakeh
 rabshakeh	rab-shakeh.np	Rab-Shakeh	self	np. other	Rab-Shakeh	collapsed
 rabbah	rabbah.np	Rabbah	self	np. other	Rabbah	
 rabshakeh	rabshakeh.np	Rabshakeh	self	np. personal	Rabshakeh	
+rachab	rachab.np	Rachab	self	np. personal	Rachab	
 rachel	rachel.np	Rachel	self	np. personal	Rachel	
 radcliffe	radcliffe.np	Radcliffe	self	np. other	Radcliffe	
 radlagh	radlagh.np	Radlagh	self	np. ethnonym	Radlagh	
 rages	rages.np	Rages	self	np. other	Rages	
 rahab	rahab.np	Rahab	self	np. other	Rahab	
+rama	ramah.np	Ramah	variant	np. place	Rama	
 ramah	ramah.np	Ramah	self	np. place	Ramah	
 ramoth	ramoth.np	Ramoth	self	np. other	Ramoth	
 ramoth gilead	ramoth-gilead.np	Ramoth-Gilead	self	np. place	Ramoth-Gilead	
@@ -2595,6 +2614,8 @@ salem	salem.np	Salem	self	np. other	Salem
 halem	salem.np	Salem	mutation	np. other	Salem	generated-lenition
 salisbury	salisbury.np	Salisbury	self	np. other	Salisbury	
 halisbury	salisbury.np	Salisbury	mutation	np. other	Salisbury	generated-lenition
+salmon	salmon.np	Salmon	self	np. personal	Salmon	
+halmon	salmon.np	Salmon	mutation	np. personal	Salmon	generated-lenition
 salmond	salmond.np	Salmond	self	np. other	Salmond	
 halmond	salmond.np	Salmond	mutation	np. other	Salmond	generated-lenition
 salome	salome.np	Salome	self	np. other	Salome	
@@ -2869,6 +2890,9 @@ derah	terah.np	Terah	mutation	np. other	Terah	generated-eclipsis
 thaddeus	thaddeus.np	Thaddeus	self	np. personal	Thaddeus	
 haddeus	thaddeus.np	Thaddeus	mutation	np. personal	Thaddeus	generated-lenition
 dhaddeus	thaddeus.np	Thaddeus	mutation	np. personal	Thaddeus	generated-eclipsis
+thamar	thamar.np	Thamar	self	np. personal	Thamar	
+hamar	thamar.np	Thamar	mutation	np. personal	Thamar	generated-lenition
+dhamar	thamar.np	Thamar	mutation	np. personal	Thamar	generated-eclipsis
 thatcher	thatcher.np	Thatcher	self	np. other	Thatcher	
 hatcher	thatcher.np	Thatcher	mutation	np. other	Thatcher	generated-lenition
 dhatcher	thatcher.np	Thatcher	mutation	np. other	Thatcher	generated-eclipsis
@@ -3021,6 +3045,7 @@ ultagh	ultagh.np	Ultagh	self	np. ethnonym	Ultagh
 ungaar	ungaar.np	Ungaar	self	np. other	Ungaar	
 uri	uri.np	Uri	self	np. other	Uri	
 uriah	uriah.np	Uriah	self	np. personal	Uriah	
+urias	urias.np	Urias	self	np. personal	Urias	
 uriel	uriel.np	Uriel	self	np. other	Uriel	
 urijah	urijah.np	Urijah	self	np. other	Urijah	
 urim	urim.np	Urim	self	np. other	Urim	
@@ -3081,6 +3106,7 @@ zacharias	zechariah.np	Zechariah	variant	np. personal	Zacharias
 zadok	zadok.np	Zadok	self	np. personal	Zadok	
 zalmunna	zalmunna.np	Zalmunna	self	np. other	Zalmunna	
 zanoah	zanoah.np	Zanoah	self	np. other	Zanoah	
+zarah	zarah.np	Zarah	self	np. personal	Zarah	
 zarhiteyn	zarhiteyn.np	Zarhiteyn	self	np. ethnonym	Zarhiteyn	
 zebadiah	zebadiah.np	Zebadiah	self	np. other	Zebadiah	
 zebah	zebah.np	Zebah	self	np. other	Zebah	
