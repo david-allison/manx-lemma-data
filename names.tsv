@@ -121,6 +121,7 @@ anah	anah.np	Anah	self	np. other	Anah
 anak	anak.np	Anak	self	np. other	Anak	
 ananias	ananias.np	Ananias	self	np. personal	Ananias	
 anathoth	anathoth.np	Anathoth	self	np. place	Anathoth	
+andorra	andorra.np	Andorra	self	np. place	Andorra	
 anglesey	anglesey.np	Anglesey	self	np. place	Anglesey	
 anglo hostnee	anglo-hostnee.np	Anglo-Hostnee	self	np. ethnonym	Anglo-Hostnee	
 anglohostnee	anglo-hostnee.np	Anglo-Hostnee	self	np. ethnonym	Anglo-Hostnee	collapsed
@@ -1330,6 +1331,7 @@ nelling	gelling.np	Gelling	mutation	np. other	Gelling	generated-eclipsis
 genesis	genesis.np	Genesis	self	np. other	Genesis	
 ghenesis	genesis.np	Genesis	mutation	np. other	Genesis	generated-lenition
 nenesis	genesis.np	Genesis	mutation	np. other	Genesis	generated-eclipsis
+genoa	genoa.np	Genoa	self	np. place	Genoa	
 geoghegan quinn	geoghegan-quinn.np	Geoghegan-Quinn	self	np. other	Geoghegan-Quinn	
 geogheganquinn	geoghegan-quinn.np	Geoghegan-Quinn	self	np. other	Geoghegan-Quinn	collapsed
 george	george.np	George	self	np. personal	George	
@@ -1408,6 +1410,7 @@ nibeon	gibeon.np	Gibeon	mutation	np. place	Gibeon	generated-eclipsis
 gibeoniteyn	gibeoniteyn.np	Gibeoniteyn	self	np. ethnonym	Gibeoniteyn	
 ghibeoniteyn	gibeoniteyn.np	Gibeoniteyn	mutation	np. ethnonym	Gibeoniteyn	generated-lenition
 nibeoniteyn	gibeoniteyn.np	Gibeoniteyn	mutation	np. ethnonym	Gibeoniteyn	generated-eclipsis
+gibraltar	gibraltar.np	Gibraltar	self	np. place	Gibraltar	
 gideon	gideon.np	Gideon	self	np. personal	Gideon	
 ghideon	gideon.np	Gideon	mutation	np. personal	Gideon	generated-lenition
 nideon	gideon.np	Gideon	mutation	np. personal	Gideon	generated-eclipsis
@@ -1467,9 +1470,12 @@ nreek	greek.np	Greek	mutation	np. other	Greek	generated-eclipsis
 greekyn	greekyn.np	Greekyn	self	np. ethnonym	Greekyn	
 ghreekyn	greekyn.np	Greekyn	mutation	np. ethnonym	Greekyn	generated-lenition
 nreekyn	greekyn.np	Greekyn	mutation	np. ethnonym	Greekyn	generated-eclipsis
+grimaldi	grimaldi.np	Grimaldi	self	np. personal	Grimaldi	
+grimaldo	grimaldo.np	Grimaldo	self	np. personal	Grimaldo	
 gryphon	gryphon.np	Gryphon	self	np. personal	Gryphon	
 ghryphon	gryphon.np	Gryphon	mutation	np. personal	Gryphon	generated-lenition
 nryphon	gryphon.np	Gryphon	mutation	np. personal	Gryphon	generated-eclipsis
+guernsey	guernsey.np	Guernsey	self	np. place	Guernsey	
 gwrtheyrn	gwrtheyrn.np	Gwrtheyrn	self	np. other	Gwrtheyrn	
 ghwrtheyrn	gwrtheyrn.np	Gwrtheyrn	mutation	np. other	Gwrtheyrn	generated-lenition
 nwrtheyrn	gwrtheyrn.np	Gwrtheyrn	mutation	np. other	Gwrtheyrn	generated-eclipsis
@@ -1705,6 +1711,7 @@ jeroboam	jeroboam.np	Jeroboam	self	np. personal	Jeroboam
 yeroboam	jeroboam.np	Jeroboam	mutation	np. personal	Jeroboam	generated-lenition
 jeroham	jeroham.np	Jeroham	self	np. other	Jeroham	
 yeroham	jeroham.np	Jeroham	mutation	np. other	Jeroham	generated-lenition
+jersey	jersey.np	Jersey	self	np. place	Jersey	
 jerubbaal	jerubbaal.np	Jerubbaal	self	np. other	Jerubbaal	
 yerubbaal	jerubbaal.np	Jerubbaal	mutation	np. other	Jerubbaal	generated-lenition
 jerusalem	jerusalem.np	Jerusalem	self	np. place	Jerusalem	
@@ -1995,6 +2002,8 @@ lherpuyl	lherpuyl.np	Lherpuyl	self	np. other	Lherpuyl
 libanus	libanus.np	Libanus	self	np. other	Libanus	
 libnah	libnah.np	Libnah	self	np. place	Libnah	
 libni	libni.np	Libni	self	np. other	Libni	
+liechtenstein	liechtenstein.np	Liechtenstein	self	np. place	Liechtenstein	
+liechenstein	liechtenstein.np	Liechtenstein	variant	np. place	Liechenstein	
 linda	linda.np	Linda	self	np. other	Linda	
 lioas	lioas.np	Lioas	self	np. other	Lioas	
 liverpool	lerpoyll.np	Lerpoyll	variant	np. place	Liverpool	
@@ -2653,6 +2662,8 @@ samson	samson.np	Samson	self	np. personal	Samson
 hamson	samson.np	Samson	mutation	np. personal	Samson	generated-lenition
 samuel	samuel.np	Samuel	self	np. personal	Samuel	
 hamuel	samuel.np	Samuel	mutation	np. personal	Samuel	generated-lenition
+san marino	san-marino.np	San Marino	self	np. place	San Marino	
+sanmarino	san-marino.np	San Marino	self	np. place	San Marino	collapsed
 sanballat	sanballat.np	Sanballat	self	np. other	Sanballat	
 hanballat	sanballat.np	Sanballat	mutation	np. other	Sanballat	generated-lenition
 sara	sara.np	Sara	self	np. other	Sara	
@@ -2856,6 +2867,8 @@ dabor	tabor.np	Tabor	mutation	np. other	Tabor	generated-eclipsis
 tadhg	tadhg.np	Tadhg	self	np. other	Tadhg	
 hadhg	tadhg.np	Tadhg	mutation	np. other	Tadhg	generated-lenition
 dadhg	tadhg.np	Tadhg	mutation	np. other	Tadhg	generated-eclipsis
+tadhg o hifearnain	tadhg-o-hifearnain.np	Tadhg Ó hIfearnáin	self	np. personal	Tadhg Ó hIfearnáin	
+tadhgohifearnain	tadhg-o-hifearnain.np	Tadhg Ó hIfearnáin	self	np. personal	Tadhg Ó hIfearnáin	collapsed
 tahath	tahath.np	Tahath	self	np. other	Tahath	
 hahath	tahath.np	Tahath	mutation	np. other	Tahath	generated-lenition
 dahath	tahath.np	Tahath	mutation	np. other	Tahath	generated-eclipsis
