@@ -2826,7 +2826,6 @@ banneejeeshiu	bannee-jee-shiu.x	banneeJeeshiu	univerbated	in.	bannee Jee shiu
 vann	bann.v	bann	self	v.	vann	
 vann	bann.v	bann	demutated	v.	vann	
 vannagh	bann.v	bann	inflected	v.	vann	
-vannin	bann.v	bann	inflected	v.	vann	
 vannins	bann.v	bann	inflected	v.	vann	
 vannym	bann.v	bann	inflected	v.	vann	
 vannys	bann.v	bann	inflected	v.	vann	
@@ -53685,6 +53684,7 @@ yskan	yskan.n	yskan	self	s.	yskan
 yskanyn	yskan.n	yskan	inflected	s.	yskan	
 yskid	yskid.n	yskid	self	s.	yskid	
 yskidyn	yskid.n	yskid	inflected	s.	yskid	
+vannin	mannin.n	Mannin	override	s. f.	Mannin	
 yn	yn.x	yn	irregular			closed-class
 y	yn.x	yn	irregular			closed-class
 ny	yn.x	yn	irregular			closed-class

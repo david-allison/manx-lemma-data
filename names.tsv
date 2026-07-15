@@ -1332,6 +1332,8 @@ genesis	genesis.np	Genesis	self	np. other	Genesis
 ghenesis	genesis.np	Genesis	mutation	np. other	Genesis	generated-lenition
 nenesis	genesis.np	Genesis	mutation	np. other	Genesis	generated-eclipsis
 genoa	genoa.np	Genoa	self	np. place	Genoa	
+ghenoa	genoa.np	Genoa	mutation	np. place	Genoa	generated-lenition
+nenoa	genoa.np	Genoa	mutation	np. place	Genoa	generated-eclipsis
 geoghegan quinn	geoghegan-quinn.np	Geoghegan-Quinn	self	np. other	Geoghegan-Quinn	
 geogheganquinn	geoghegan-quinn.np	Geoghegan-Quinn	self	np. other	Geoghegan-Quinn	collapsed
 george	george.np	George	self	np. personal	George	
@@ -1411,6 +1413,8 @@ gibeoniteyn	gibeoniteyn.np	Gibeoniteyn	self	np. ethnonym	Gibeoniteyn
 ghibeoniteyn	gibeoniteyn.np	Gibeoniteyn	mutation	np. ethnonym	Gibeoniteyn	generated-lenition
 nibeoniteyn	gibeoniteyn.np	Gibeoniteyn	mutation	np. ethnonym	Gibeoniteyn	generated-eclipsis
 gibraltar	gibraltar.np	Gibraltar	self	np. place	Gibraltar	
+ghibraltar	gibraltar.np	Gibraltar	mutation	np. place	Gibraltar	generated-lenition
+nibraltar	gibraltar.np	Gibraltar	mutation	np. place	Gibraltar	generated-eclipsis
 gideon	gideon.np	Gideon	self	np. personal	Gideon	
 ghideon	gideon.np	Gideon	mutation	np. personal	Gideon	generated-lenition
 nideon	gideon.np	Gideon	mutation	np. personal	Gideon	generated-eclipsis
@@ -1471,11 +1475,17 @@ greekyn	greekyn.np	Greekyn	self	np. ethnonym	Greekyn
 ghreekyn	greekyn.np	Greekyn	mutation	np. ethnonym	Greekyn	generated-lenition
 nreekyn	greekyn.np	Greekyn	mutation	np. ethnonym	Greekyn	generated-eclipsis
 grimaldi	grimaldi.np	Grimaldi	self	np. personal	Grimaldi	
+ghrimaldi	grimaldi.np	Grimaldi	mutation	np. personal	Grimaldi	generated-lenition
+nrimaldi	grimaldi.np	Grimaldi	mutation	np. personal	Grimaldi	generated-eclipsis
 grimaldo	grimaldo.np	Grimaldo	self	np. personal	Grimaldo	
+ghrimaldo	grimaldo.np	Grimaldo	mutation	np. personal	Grimaldo	generated-lenition
+nrimaldo	grimaldo.np	Grimaldo	mutation	np. personal	Grimaldo	generated-eclipsis
 gryphon	gryphon.np	Gryphon	self	np. personal	Gryphon	
 ghryphon	gryphon.np	Gryphon	mutation	np. personal	Gryphon	generated-lenition
 nryphon	gryphon.np	Gryphon	mutation	np. personal	Gryphon	generated-eclipsis
 guernsey	guernsey.np	Guernsey	self	np. place	Guernsey	
+ghuernsey	guernsey.np	Guernsey	mutation	np. place	Guernsey	generated-lenition
+nuernsey	guernsey.np	Guernsey	mutation	np. place	Guernsey	generated-eclipsis
 gwrtheyrn	gwrtheyrn.np	Gwrtheyrn	self	np. other	Gwrtheyrn	
 ghwrtheyrn	gwrtheyrn.np	Gwrtheyrn	mutation	np. other	Gwrtheyrn	generated-lenition
 nwrtheyrn	gwrtheyrn.np	Gwrtheyrn	mutation	np. other	Gwrtheyrn	generated-eclipsis
@@ -1712,6 +1722,7 @@ yeroboam	jeroboam.np	Jeroboam	mutation	np. personal	Jeroboam	generated-lenition
 jeroham	jeroham.np	Jeroham	self	np. other	Jeroham	
 yeroham	jeroham.np	Jeroham	mutation	np. other	Jeroham	generated-lenition
 jersey	jersey.np	Jersey	self	np. place	Jersey	
+yersey	jersey.np	Jersey	mutation	np. place	Jersey	generated-lenition
 jerubbaal	jerubbaal.np	Jerubbaal	self	np. other	Jerubbaal	
 yerubbaal	jerubbaal.np	Jerubbaal	mutation	np. other	Jerubbaal	generated-lenition
 jerusalem	jerusalem.np	Jerusalem	self	np. place	Jerusalem	
@@ -2002,8 +2013,8 @@ lherpuyl	lherpuyl.np	Lherpuyl	self	np. other	Lherpuyl
 libanus	libanus.np	Libanus	self	np. other	Libanus	
 libnah	libnah.np	Libnah	self	np. place	Libnah	
 libni	libni.np	Libni	self	np. other	Libni	
-liechtenstein	liechtenstein.np	Liechtenstein	self	np. place	Liechtenstein	
 liechenstein	liechtenstein.np	Liechtenstein	variant	np. place	Liechenstein	
+liechtenstein	liechtenstein.np	Liechtenstein	self	np. place	Liechtenstein	
 linda	linda.np	Linda	self	np. other	Linda	
 lioas	lioas.np	Lioas	self	np. other	Lioas	
 liverpool	lerpoyll.np	Lerpoyll	variant	np. place	Liverpool	
@@ -2855,6 +2866,7 @@ susan	susan.np	Susan	self	np. other	Susan
 husan	susan.np	Susan	mutation	np. other	Susan	generated-lenition
 susanna	susanna.np	Susanna	self	np. other	Susanna	
 husanna	susanna.np	Susanna	mutation	np. other	Susanna	generated-lenition
+syrack	syrack.np	Syrack	self	np. personal	Syrack	
 syria	syria.np	Syria	self	np. place	Syria	
 syrian	syrian.np	Syrian	self	np. other	Syrian	
 syrianee	syrianee.np	Syrianee	self	np. ethnonym	Syrianee	
