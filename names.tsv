@@ -1450,6 +1450,8 @@ nittite	gittite.np	Gittite	mutation	np. other	Gittite	generated-eclipsis
 glaschu	glaschu.np	Glaschu	self	np. other	Glaschu	
 ghlaschu	glaschu.np	Glaschu	mutation	np. other	Glaschu	generated-lenition
 nlaschu	glaschu.np	Glaschu	mutation	np. other	Glaschu	generated-eclipsis
+glione valure	glione-valure.np	Glione-valure	self	np. place	Glione-valure	
+glionevalure	glione-valure.np	Glione-valure	self	np. place	Glione-valure	collapsed
 god	god.np	God	self	np. other	God	
 ghod	god.np	God	mutation	np. other	God	generated-lenition
 gog	gog.np	Gog	self	np. other	Gog	
