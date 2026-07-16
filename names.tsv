@@ -713,6 +713,8 @@ jristian	christian.np	Christian	mutation	np. other	Christian	generated-eclipsis
 christmas	christmas.np	Christmas	self	np. other	Christmas	
 hristmas	christmas.np	Christmas	mutation	np. other	Christmas	generated-lenition
 jristmas	christmas.np	Christmas	mutation	np. other	Christmas	generated-eclipsis
+christopher briscoe	christopher-briscoe.np	Christopher Briscoe	self	np. personal	Christopher Briscoe	
+christopherbriscoe	christopher-briscoe.np	Christopher Briscoe	self	np. personal	Christopher Briscoe	collapsed
 chrovan	chrovan.np	Chrovan	self	np. other	Chrovan	
 hrovan	chrovan.np	Chrovan	mutation	np. other	Chrovan	generated-lenition
 jrovan	chrovan.np	Chrovan	mutation	np. other	Chrovan	generated-eclipsis
@@ -2318,6 +2320,8 @@ noph	noph.np	Noph	self	np. other	Noph
 norlann	norlann.np	Norlann	self	np. other	Norlann	
 norman	norman.np	Norman	self	np. other	Norman	
 normanee	normanee.np	Normanee	self	np. ethnonym	Normanee	
+north america	north-america.np	North America	self	np. place	North America	
+northamerica	north-america.np	North America	self	np. place	North America	collapsed
 northumberland	northumberland.np	Northumberland	self	np. other	Northumberland	
 nun	nun.np	Nun	self	np. personal	Nun	
 oallyssyn	oallyssyn.np	Oallyssyn	self	np. ethnonym	Oallyssyn	
@@ -2380,6 +2384,8 @@ bargeiys	pargeiys.np	Pargeiys	mutation	np. other	Pargeiys	generated-eclipsis
 paris	paris.np	Paris	self	np. place	Paris	
 pharis	paris.np	Paris	mutation	np. place	Paris	generated-lenition
 baris	paris.np	Paris	mutation	np. place	Paris	generated-eclipsis
+parliament	parliament.np	Parliament	self	np. other	Parliament	
+barliament	parliament.np	Parliament	mutation	np. other	Parliament	generated-eclipsis
 pashur	pashur.np	Pashur	self	np. other	Pashur	
 phashur	pashur.np	Pashur	mutation	np. other	Pashur	generated-lenition
 bashur	pashur.np	Pashur	mutation	np. other	Pashur	generated-eclipsis
