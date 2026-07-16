@@ -1,0 +1,41 @@
+form	lemmaId	lemma	linkType	pos	via	note
+peiagh	peiagh.n	peiagh	self	s.	peiagh	modern-variant unverified
+peiaghyn	peiagh.n	peiagh	inflected	s.	peiagh	unverified
+pheiagh	peiagh.n	peiagh	mutation	s.	peiagh	generated-lenition
+beiagh	peiagh.n	peiagh	mutation	s.	peiagh	generated-eclipsis
+pyagh	peiagh.n	peiagh	variant	s.	pyagh	unverified
+pyaghyn	peiagh.n	peiagh	inflected	s.	pyagh	unverified
+phyagh	peiagh.n	peiagh	mutation	s.	pyagh	generated-lenition
+byagh	peiagh.n	peiagh	mutation	s.	pyagh	generated-eclipsis
+bunscoill	bunscoill.n	bunscoill	self	s. f.	bunscoill	unverified
+bunscoillyn	bunscoill.n	bunscoill	inflected	s. f.	bunscoill	unverified
+vunscoill	bunscoill.n	bunscoill	mutation	s. f.	bunscoill	generated-lenition
+munscoill	bunscoill.n	bunscoill	mutation	s. f.	bunscoill	generated-eclipsis
+pobble	pobble.n	pobble	self	s. m.	pobble	unverified
+pobbleyn	pobble.n	pobble	inflected	s. m.	pobble	unverified
+phobble	pobble.n	pobble	mutation	s. m.	pobble	generated-lenition
+persoonagh	persoonagh.x	persoonagh	self	adv.	persoonagh	unverified
+phersoonagh	persoonagh.x	persoonagh	mutation	adv.	persoonagh	generated-lenition
+bersoonagh	persoonagh.x	persoonagh	mutation	adv.	persoonagh	generated-eclipsis
+aashagh	aashagh.a	aashagh	self	a.	aashagh	unverified
+haashagh	aashagh.a	aashagh	undecided	a.	aashagh	unverified
+lught thie	lught-thie.n	lught-thie	self	s. m.	lught-thie	unverified
+lughtthie	lught-thie.n	lught-thie	self	s. m.	lught-thie	collapsed unverified
+lughthie	lught-thie.n	lught-thie	undecided	s. m.	lught-thie	unverified
+lugh thie	lught-thie.n	lught-thie	undecided	s. m.	lught-thie	unverified
+cree	cree.n	cree	self	s. f.	cree	unverified
+ghree	cree.n	cree	undecided	s. f.	cree	unverified
+reill	reill.v	reill	self	v.	reill	unverified
+reihll	reill.v	reill	undecided	v.	reill	unverified
+reill	reill.n	reill	self	s. m.	reill	unverified
+reihll	reill.n	reill	undecided	s. m.	reill	unverified
+cass	cass.n	cass	self	s. f.	cass	unverified
+chassyn	cass.n	cass	undecided	s. f.	cass	unverified
+lheeannee	lheeannee.n	lheeannee	self	s. f.	lheeannee	unverified
+lheeanee	lheeannee.n	lheeannee	undecided	s. f.	lheeannee	unverified
+treigeil	treigeil.v	treigeil	self	v.	treigeil	unverified
+triegeil	treigeil.v	treigeil	undecided	v.	treigeil	unverified
+lhiondaig	lhiondaig.n	lhiondaig	self	s. f.	lhiondaig	unverified
+lhiondaag	lhiondaig.n	lhiondaig	undecided	s. f.	lhiondaig	unverified
+heb	cheb.x	heb	self		heb	unverified
+hebbyn	cheb.x	heb	inflected		heb	unverified
