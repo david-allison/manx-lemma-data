@@ -707,6 +707,8 @@ jreesteen	chreesteen.np	Chreesteen	mutation	np. other	Chreesteen	generated-eclip
 chrieest	chrieest.np	Chrieest	self	np. other	Chrieest	
 hrieest	chrieest.np	Chrieest	mutation	np. other	Chrieest	generated-lenition
 jrieest	chrieest.np	Chrieest	mutation	np. other	Chrieest	generated-eclipsis
+chris butler	chris-butler.np	Chris Butler	self	np. personal	Chris Butler	
+chrisbutler	chris-butler.np	Chris Butler	self	np. personal	Chris Butler	collapsed
 christian	christian.np	Christian	self	np. other	Christian	
 hristian	christian.np	Christian	mutation	np. other	Christian	generated-lenition
 jristian	christian.np	Christian	mutation	np. other	Christian	generated-eclipsis
@@ -2621,6 +2623,8 @@ richarddawson	richard-dawson.np	Richard Dawson	self	np. personal	Richard Dawson	
 ridgeway	ridgeway.np	Ridgeway	self	np. other	Ridgeway	
 rimmon	rimmon.np	Rimmon	self	np. other	Rimmon	
 roazhon	roazhon.np	Roazhon	self	np. other	Roazhon	
+rob howe	rob-howe.np	Rob Howe	self	np. personal	Rob Howe	
+robhowe	rob-howe.np	Rob Howe	self	np. personal	Rob Howe	collapsed
 robard	robard.np	Robard	self	np. other	Robard	
 robbyn	robbyn.np	Robbyn	self	np. personal	Robbyn	
 robert	robert.np	Robert	self	np. personal	Robert	
@@ -2669,6 +2673,8 @@ salem	salem.np	Salem	self	np. other	Salem
 halem	salem.np	Salem	mutation	np. other	Salem	generated-lenition
 salisbury	salisbury.np	Salisbury	self	np. other	Salisbury	
 halisbury	salisbury.np	Salisbury	mutation	np. other	Salisbury	generated-lenition
+sally anne spence	sally-anne-spence.np	Sally Anne Spence	self	np. personal	Sally Anne Spence	
+sallyannespence	sally-anne-spence.np	Sally Anne Spence	self	np. personal	Sally Anne Spence	collapsed
 salmon	salmon.np	Salmon	self	np. personal	Salmon	
 halmon	salmon.np	Salmon	mutation	np. personal	Salmon	generated-lenition
 salmond	salmond.np	Salmond	self	np. other	Salmond	
