@@ -799,6 +799,9 @@ gornelius	cornelius.np	Cornelius	mutation	np. personal	Cornelius	generated-eclip
 cornish	cornish.np	Cornish	self	np. language	Cornish	
 chornish	cornish.np	Cornish	mutation	np. language	Cornish	generated-lenition
 gornish	cornish.np	Cornish	mutation	np. language	Cornish	generated-eclipsis
+cornwood	cornwood.np	Cornwood	self	np. place	Cornwood	
+chornwood	cornwood.np	Cornwood	mutation	np. place	Cornwood	generated-lenition
+gornwood	cornwood.np	Cornwood	mutation	np. place	Cornwood	generated-eclipsis
 corrin	corrin.np	Corrin	self	np. other	Corrin	
 chorrin	corrin.np	Corrin	mutation	np. other	Corrin	generated-lenition
 gorrin	corrin.np	Corrin	mutation	np. other	Corrin	generated-eclipsis
@@ -962,6 +965,9 @@ nemetrius	demetrius.np	Demetrius	mutation	np. other	Demetrius	generated-eclipsis
 derbe	derbe.np	Derbe	self	np. other	Derbe	
 gherbe	derbe.np	Derbe	mutation	np. other	Derbe	generated-lenition
 nerbe	derbe.np	Derbe	mutation	np. other	Derbe	generated-eclipsis
+devon	devon.np	Devon	self	np. place	Devon	
+ghevon	devon.np	Devon	mutation	np. place	Devon	generated-lenition
+nevon	devon.np	Devon	mutation	np. place	Devon	generated-eclipsis
 derby	derby.np	Derby	self	np. other	Derby	
 gherby	derby.np	Derby	mutation	np. other	Derby	generated-lenition
 nerby	derby.np	Derby	mutation	np. other	Derby	generated-eclipsis
@@ -3109,6 +3115,7 @@ victoria	victoria.np	Victoria	self	np. other	Victoria
 viet	viet.np	Viet	self	np. other	Viet	
 viioo	viioo.np	Viioo	self	np. other	Viioo	
 vioo	vioo.np	Vioo	self	np. other	Vioo	
+vivian	vivian.np	Vivian	self	np. personal	Vivian	
 vobbyn	vobbyn.np	Vobbyn	self	np. ethnonym	Vobbyn	
 vrusheyl	vrusheyl.np	Vrusheyl	self	np. other	Vrusheyl	
 wade	wade.np	Wade	self	np. other	Wade	
