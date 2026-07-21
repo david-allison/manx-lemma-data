@@ -1,0 +1,22 @@
+# generated beside the voddey lemma adjudication (DESIGN-disambiguation.md Phase 4 pilot)
+# key/tokenIndex as lemma.sidecar.tsv; senseIds name SenseInventory rows; display tier only
+docId	key	englishHash	tokenIndex	form	senseIds	tier	humanVerified
+CONAANT-NOA-NYN-JIARN-AS-SAUALTAGH-Yeesey-Creest	c5d1032303b3c78c	cf4fba794b6c2f89	14	voddey	foddey.a#2	popup	0
+CONAANT-NOA-NYN-JIARN-AS-SAUALTAGH-Yeesey-Creest	df6c06078a558965	d176d7a8d8ad46f4	4	voddey	foddey.a#2	popup	0
+Co-Loayrtys-Eddyr-Mannanan-Beg-Mac-Y-Leirr	11ca7a2b18b7bf11	8918ea494387adde	65	voddey	foddey.a#2	popup	0
+Conversational-Manx-1954	93601d7f10dbb652	5d42b1d20e0fb516	1	voddey	foddey.a#2	popup	0
+Cooinaghtyn-my-aegid-as-Cooinaghtyn-elley	2c34122371cc4abd	863dc3836cf5b839	49	voddey	foddey.a#2	popup	0
+Coyrle-Sodjey-2nd-edition	cfa47f6fb7a57cfe	f9afce8e5cbc406e	5	voddey	foddey.a#2	popup	0
+CoyrleSodjey	11f242949df5e552	f9afce8e5cbc406e	6	voddey	foddey.a#2	popup	0
+Mannanan-as-shenn-ven-Vanninagh	94e0501386d8a7e9	f440976b806e28c1	67	voddey	foddey.a#2	popup	0
+VibleCasherickPKelly	0ff7230b5484d418	48b91ab43d7d6d39	2	voddey	foddey.a#2	popup	0
+VibleCasherickPKelly	214d91335296008a	00d2c2ec5db84ab4	7	voddey	foddey.a#2	popup	0
+VibleCasherickPKelly	4cb269dbaaa933e6	71f9f9730bf651c5	6	voddey	foddey.a#2	popup	0
+VibleCasherickPKelly	79eed5502632a772	599bd55438eb823c	10	voddey	foddey.a#2	popup	0
+VibleCasherickPKelly	90e2c89a6e8118ef	fc5ba953b9cb74e9	10	voddey	foddey.a#2	popup	0
+VibleCasherickPKelly	a8a84a049a7dfcb6	e4b74e0a9e43ce8d	41	voddey	foddey.a#2	popup	0
+VibleCasherickPKelly	aaf41f3a228d24c2	098e5dda9caafbbc	19	voddey	foddey.a#2	popup	0
+VibleCasherickPKelly	c7b8c92b9f154419	3893b5127feb715b	4	voddey	foddey.a#2	popup	0
+VibleCasherickPKelly	ff828cec442c1b2a	1749e4bdf8d2c817	25	voddey	foddey.a#2	popup	0
+Wesleyan-Methodism	43264db5e6d4fa20	b0e69282dc9cd414	88	voddey	foddey.a#2	popup	0
+YnAcocrypha	152f2ccaffaeae40	77ddf80fee99d1c0	2	voddey	foddey.a#2	popup	0
