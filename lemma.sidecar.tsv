@@ -1136,6 +1136,7 @@ CONAANT-NOA-NYN-JIARN-AS-SAUALTAGH-Yeesey-Creest	c49d7633cd80b232	f01fd1623a1936
 CONAANT-NOA-NYN-JIARN-AS-SAUALTAGH-Yeesey-Creest	c49d7633cd80b232	f01fd1623a193696	14	goan	goo.n	index	0
 CONAANT-NOA-NYN-JIARN-AS-SAUALTAGH-Yeesey-Creest	c4fd300cf47aaf47	3824e02dd0f22122	9	vaase	baase.n	index	0
 CONAANT-NOA-NYN-JIARN-AS-SAUALTAGH-Yeesey-Creest	c545fb93ffe6ded4	822b02c97dc7c0f8	11	dooin	dooin.v,dooin.x	index	0
+CONAANT-NOA-NYN-JIARN-AS-SAUALTAGH-Yeesey-Creest	c5d1032303b3c78c	cf4fba794b6c2f89	14	voddey	foddey.a	index	0
 CONAANT-NOA-NYN-JIARN-AS-SAUALTAGH-Yeesey-Creest	c60d4c1408b05d54	1f502ea01a2079fe	3	veg	beg.a,veg.x	index	0
 CONAANT-NOA-NYN-JIARN-AS-SAUALTAGH-Yeesey-Creest	c6221785375263d0	485fcd642261018d	9	ort	ort.x	index	0
 CONAANT-NOA-NYN-JIARN-AS-SAUALTAGH-Yeesey-Creest	c65ab5f508c1a6fa	5059b46513238eb7	14	goo	goo.n	index	0
@@ -1224,6 +1225,7 @@ CONAANT-NOA-NYN-JIARN-AS-SAUALTAGH-Yeesey-Creest	deac14a8cd279c3c	4000b357fe6156
 CONAANT-NOA-NYN-JIARN-AS-SAUALTAGH-Yeesey-Creest	df51121166bb60fe	09cbd3555b78c5a4	6	leih	sleih.n	index	0
 CONAANT-NOA-NYN-JIARN-AS-SAUALTAGH-Yeesey-Creest	df575ea4f81eb236	7a68d774a8989880	5	rass	rass.n,rass.v	index	0
 CONAANT-NOA-NYN-JIARN-AS-SAUALTAGH-Yeesey-Creest	df59ceb11eaf1154	fc7f2d470c067c9f	2	goan	goo.n	index	0
+CONAANT-NOA-NYN-JIARN-AS-SAUALTAGH-Yeesey-Creest	df6c06078a558965	d176d7a8d8ad46f4	4	voddey	foddey.a	index	0
 CONAANT-NOA-NYN-JIARN-AS-SAUALTAGH-Yeesey-Creest	e01f45aa3add7166	0af9e20120f44a00	12	goo	goo.n	index	0
 CONAANT-NOA-NYN-JIARN-AS-SAUALTAGH-Yeesey-Creest	e15de54d0ea32642	064f583561c48c05	2	hee	faik.v	index	0
 CONAANT-NOA-NYN-JIARN-AS-SAUALTAGH-Yeesey-Creest	e1d304d2b5df8ef7	035cb28e8de3733c	3	dooin	dooin.v,dooin.x	index	0
@@ -1454,6 +1456,7 @@ Co-Loayrtys-Eddyr-Mannanan-Beg-Mac-Y-Leirr	0394db953d5104db	a634a7e12713ffc8	1	v
 Co-Loayrtys-Eddyr-Mannanan-Beg-Mac-Y-Leirr	0394db953d5104db	a634a7e12713ffc8	7	veg	beg.a,veg.x	index	0
 Co-Loayrtys-Eddyr-Mannanan-Beg-Mac-Y-Leirr	0efd6c84e102e054	7c49c42c91bb32fe	11	eilley	eilley.n	index	0
 Co-Loayrtys-Eddyr-Mannanan-Beg-Mac-Y-Leirr	0efd6c84e102e054	7c49c42c91bb32fe	25	eiyrit	eiyrit.x	index	0
+Co-Loayrtys-Eddyr-Mannanan-Beg-Mac-Y-Leirr	11ca7a2b18b7bf11	8918ea494387adde	65	voddey	foddey.a	index	0
 Co-Loayrtys-Eddyr-Mannanan-Beg-Mac-Y-Leirr	2ad10e0c33fc3a86	5724613109f421e2	9	ort	ort.x	index	0
 Co-Loayrtys-Eddyr-Mannanan-Beg-Mac-Y-Leirr	325c700525027643	7bbea9901873ad1c	44	annym	annym.n	index	0
 Co-Loayrtys-Eddyr-Mannanan-Beg-Mac-Y-Leirr	4cd73b1afeca7dd4	4c60784c5f91a343	31	hee	shee.n	index	0
@@ -1474,6 +1477,7 @@ Conversational-Manx-1954	295172119fadffc6	1938f867702981c5	2	dooin	dooin.v,dooin
 Conversational-Manx-1954	3320da5cac60c806	bfd5c5984e44bbf7	6	vee	bee.n,bee.v	index	0
 Conversational-Manx-1954	34243479c0c2f2f1	af927771815a2d69	5	ollick	ollick.n	index	0
 Conversational-Manx-1954	4171327b78c16507	02fa563785d2fa38	6	jea	jea.n	index	0
+Conversational-Manx-1954	459b3f2cfce8aad4	16133b80a23048ca	4	voddey	moddey.n	index	0
 Conversational-Manx-1954	466c53ce3bd1ca35	facbdd9686193754	8	goan	goo.n	index	0
 Conversational-Manx-1954	4883d32a29ad8bc4	6a53db3f2989c842	5	veg	beg.a,veg.x	index	0
 Conversational-Manx-1954	540cbc4d5af52f87	2fda3da7bcb03e9f	3	hoght	hoght.n	index	0
@@ -1492,6 +1496,7 @@ Conversational-Manx-1954	820550bb278d7df3	65a03be8e62de712	6	ort	ort.x	index	0
 Conversational-Manx-1954	82f9d5560e580740	f9b0078b5df596d2	0	giare	giare.a	index	0
 Conversational-Manx-1954	8765f97cf78f66fc	8c446280145cf43c	8	veg	beg.a,veg.x	index	0
 Conversational-Manx-1954	89d01e5c172e3067	47172d8a214dc247	6	thoo	thoo.n,thoo.v	index	0
+Conversational-Manx-1954	93601d7f10dbb652	5d42b1d20e0fb516	1	voddey	foddey.a	index	0
 Conversational-Manx-1954	93601d7f10dbb652	5d42b1d20e0fb516	17	ort	ort.x	index	0
 Conversational-Manx-1954	a66e4edc9057ee29	ea83dd1ffcccb25f	4	veg	beg.a,veg.x	index	0
 Conversational-Manx-1954	aee343bf897442e3	4f363805f93ea5f5	13	ollagh	ollagh.n	index	0
@@ -1740,6 +1745,7 @@ Cooinaghtyn-my-aegid-as-Cooinaghtyn-elley	23591f0abf8d0e66	fab767f71071bf1f	18	v
 Cooinaghtyn-my-aegid-as-Cooinaghtyn-elley	293197bea895c717	0e10eff14047c01f	15	ouyr	fouyr.n	index	0
 Cooinaghtyn-my-aegid-as-Cooinaghtyn-elley	29ed7f8e4fa56119	d8b14e488441d260	9	jeu	jeu.x	index	0
 Cooinaghtyn-my-aegid-as-Cooinaghtyn-elley	2a47c5b4d77554e8	14a4348877887e63	9	veg	beg.a,veg.x	index	0
+Cooinaghtyn-my-aegid-as-Cooinaghtyn-elley	2c34122371cc4abd	863dc3836cf5b839	49	voddey	foddey.a	index	0
 Cooinaghtyn-my-aegid-as-Cooinaghtyn-elley	339772042f8c7f12	585b89890e50e453	1	astyr	fastyr.n	index	0
 Cooinaghtyn-my-aegid-as-Cooinaghtyn-elley	339772042f8c7f12	585b89890e50e453	33	veg	beg.a,veg.x	index	0
 Cooinaghtyn-my-aegid-as-Cooinaghtyn-elley	36859001e8014006	3c4baeb91a706034	9	rea	rea.a,rea.n	index	0
@@ -1747,6 +1753,7 @@ Cooinaghtyn-my-aegid-as-Cooinaghtyn-elley	36859001e8014006	3c4baeb91a706034	12	i
 Cooinaghtyn-my-aegid-as-Cooinaghtyn-elley	39056268a0f99a13	301b4956917fc741	10	voal	moal.a	index	0
 Cooinaghtyn-my-aegid-as-Cooinaghtyn-elley	39056268a0f99a13	301b4956917fc741	25	traaghyn	traa.n	index	0
 Cooinaghtyn-my-aegid-as-Cooinaghtyn-elley	39056268a0f99a13	301b4956917fc741	34	hoght	hoght.n	index	0
+Cooinaghtyn-my-aegid-as-Cooinaghtyn-elley	3adadbf0b5ad5111	609784d007ca9d86	21	voddey	moddey.n	index	0
 Cooinaghtyn-my-aegid-as-Cooinaghtyn-elley	3f0d62a917494325	3edcfedd2fdd2fec	5	dooin	dooin.v,dooin.x	index	0
 Cooinaghtyn-my-aegid-as-Cooinaghtyn-elley	3f0d62a917494325	3edcfedd2fdd2fec	33	astyr	fastyr.n	index	0
 Cooinaghtyn-my-aegid-as-Cooinaghtyn-elley	40422cbab5b9732f	deff429e1e3783f0	6	thooit	thooit.x	index	0
@@ -2259,6 +2266,7 @@ Coyrle-Sodjey-2nd-edition	cc45ef457575da48	da5aee49b494ecb6	12	haase	saase.n	ind
 Coyrle-Sodjey-2nd-edition	ccb484b67c5225a6	e9a90ff9ed9e0595	34	leih	leih.n,leih.v	index	0
 Coyrle-Sodjey-2nd-edition	cdb3c3fd5f756711	3dd64d5de4101f51	17	oardagh	n'oard.v,oardagh.n	index	0
 Coyrle-Sodjey-2nd-edition	cf3f9ce6c4cd3508	5689a843e8189b7d	28	leih	leih.n,leih.v	index	0
+Coyrle-Sodjey-2nd-edition	cfa47f6fb7a57cfe	f9afce8e5cbc406e	5	voddey	foddey.a	index	0
 Coyrle-Sodjey-2nd-edition	cfa47f6fb7a57cfe	f9afce8e5cbc406e	8	veg	beg.a,veg.x	index	0
 Coyrle-Sodjey-2nd-edition	cfa723cd7ca38346	cf771f6ef884ad91	22	irrin	firrin.x,firriney.x	index	0
 Coyrle-Sodjey-2nd-edition	d043b11cc690e758	923395dfba3d173a	10	dooin	dooin.v,dooin.x	index	0
@@ -2349,6 +2357,7 @@ CoyrleSodjey	0e5fc421dfdc2ce3	aad7ddd46931b008	6	leih	leih.n,leih.v	index	0
 CoyrleSodjey	0e5fc421dfdc2ce3	aad7ddd46931b008	10	arrys	arrys.n,arrys.v	index	0
 CoyrleSodjey	10078ad2315454a2	5f946808ab92b2e6	4	dooin	dooin.v,dooin.x	index	0
 CoyrleSodjey	113cf807dec5e2dc	b57412e4b216d8df	11	dooin	dooin.v,dooin.x	index	0
+CoyrleSodjey	11f242949df5e552	f9afce8e5cbc406e	6	voddey	foddey.a	index	0
 CoyrleSodjey	11f242949df5e552	f9afce8e5cbc406e	9	veg	beg.a,veg.x	index	0
 CoyrleSodjey	145d5d87fccd1acd	65f16e3c02ade440	25	goo	goo.n	index	0
 CoyrleSodjey	191212dde38ca56c	ffd0635f125ea604	3	dooin	dooin.v,dooin.x	index	0
@@ -4066,6 +4075,7 @@ Mannanan-as-shenn-ven-Vanninagh	0b762d8e7d25d9f3	c93b3d264035ad6b	44	annym	annym
 Mannanan-as-shenn-ven-Vanninagh	0f1ff88c12a6efe3	032892670d498ddc	52	ghell	dell.n,dell.v	index	0
 Mannanan-as-shenn-ven-Vanninagh	6e24c9ce0072fbe1	13091d2b764f98a4	81	hurr	surr.v	index	0
 Mannanan-as-shenn-ven-Vanninagh	6e24c9ce0072fbe1	13091d2b764f98a4	104	goan	goo.n	index	0
+Mannanan-as-shenn-ven-Vanninagh	94e0501386d8a7e9	f440976b806e28c1	67	voddey	foddey.a	index	0
 Mannanan-as-shenn-ven-Vanninagh	fa670aff6357c1a9	271313a8a1c32035	45	mea	bea.n	index	0
 Mannanan-as-shenn-ven-Vanninagh	fa670aff6357c1a9	271313a8a1c32035	92	cast	cast.v	index	0
 Mannin-Veg-Veen	22c7124d2bc2346b	8d4447f21a80354f	2	dooin	dooin.v,dooin.x	index	0
@@ -4152,6 +4162,7 @@ Manx-Scraps	0b56b335a7dca5f0	fc564dab0a6d33dc	3	veg	beg.a,veg.x	index	0
 Manx-Scraps	3e0db589ff6a835d	2fd583e3ed3c59cc	2	bollan	bollan.n	index	0
 Manx-Scraps	464ed3db6d9cef48	21ba9a29f7308bdd	4	eayn	eayn.n	index	0
 Manx-Scraps	49bf73145e9fe439	d685ac2f59725163	10	eayn	eayn.n	index	0
+Manx-Scraps	4f122a9ae6d8a804	35adcb0de7b9a912	5	voddey	moddey.n	index	0
 Manx-Scraps	4f122a9ae6d8a804	35adcb0de7b9a912	14	ort	ort.x	index	0
 Manx-Scraps	8e910d4244ba07b3	e7d6a9c3ccdd9d6a	2	eeym	eem.n,eeym.n	index	0
 Manx-Scraps	977d2812b9008a7f	9f3c52f2048bc693	6	follym	follym.a	index	0
@@ -5293,8 +5304,12 @@ O-scrieudeyr-vannee	e6757f6a16215f81	7399d6a90e74985a	3	ort	ort.x	index	0
 On-The-Classification-Of-Proverbs-And-Sayings-Of-The-Isle-Of-Man	0198675818bd7b00	8c308cda312ba324	5	hoill	hoil.x,toill.v	index	0
 On-The-Classification-Of-Proverbs-And-Sayings-Of-The-Isle-Of-Man	09bf55af1e7ad578	900f54ca32d634a0	3	bing	bing.a,bing.n	index	0
 On-The-Classification-Of-Proverbs-And-Sayings-Of-The-Isle-Of-Man	12220c1c25e1bc66	3e6c0b2468eb5735	1	yeean	eean.n,yeean.n	index	0
+On-The-Classification-Of-Proverbs-And-Sayings-Of-The-Isle-Of-Man	12a47f5228b9fb48	f7b4d1139caa86d8	3	voddey	moddey.n	index	0
+On-The-Classification-Of-Proverbs-And-Sayings-Of-The-Isle-Of-Man	12a47f5228b9fb48	f7b4d1139caa86d8	6	voddey	moddey.n	index	0
 On-The-Classification-Of-Proverbs-And-Sayings-Of-The-Isle-Of-Man	164717d1e6fed8b1	a3994c0a6d494f94	0	arragh	arragh.a,arragh.n	index	0
 On-The-Classification-Of-Proverbs-And-Sayings-Of-The-Isle-Of-Man	164717d1e6fed8b1	a3994c0a6d494f94	3	ouyragh	ouyragh.a	index	0
+On-The-Classification-Of-Proverbs-And-Sayings-Of-The-Isle-Of-Man	402ef8c212c77736	fb3a16a36c784c21	3	voddey	moddey.n	index	0
+On-The-Classification-Of-Proverbs-And-Sayings-Of-The-Isle-Of-Man	402ef8c212c77736	fb3a16a36c784c21	6	voddey	moddey.n	index	0
 On-The-Classification-Of-Proverbs-And-Sayings-Of-The-Isle-Of-Man	4d1793b27cc8b911	bf3cbb12002e4323	2	hoill	hoil.x,toill.v	index	0
 On-The-Classification-Of-Proverbs-And-Sayings-Of-The-Isle-Of-Man	4fb55171dbd738f8	9275e34db7a5a772	2	eeit	eeit.x	index	0
 On-The-Classification-Of-Proverbs-And-Sayings-Of-The-Isle-Of-Man	5600dbf237fea6c0	61c29298c15aad44	3	feeagh	feeagh.a,feeagh.n	index	0
@@ -5332,6 +5347,7 @@ On-The-Classification-Of-Proverbs-And-Sayings-Of-The-Isle-Of-Man	e7bb83782341b76
 On-The-Classification-Of-Proverbs-And-Sayings-Of-The-Isle-Of-Man	eb32f5d750ed10c5	2e3321b824e26cae	0	sooree	sooree.n,sooree.v	index	0
 On-The-Classification-Of-Proverbs-And-Sayings-Of-The-Isle-Of-Man	ecfa0bf1ae4f7ab4	f30fe33f5c5fac56	3	feeagh	feeagh.a,feeagh.n	index	0
 On-The-Classification-Of-Proverbs-And-Sayings-Of-The-Isle-Of-Man	f1d8255d763873a4	95fec41276ba2daf	2	veg	beg.a,veg.x	index	0
+On-The-Classification-Of-Proverbs-And-Sayings-Of-The-Isle-Of-Man	f5bf145fc69fb867	245dc78972f21626	5	voddey	moddey.n	index	0
 On-The-Classification-Of-Proverbs-And-Sayings-Of-The-Isle-Of-Man	ff10ba3441cfff2c	8361c682d5569722	1	ark	ark.n	index	0
 Paber-Scruit-Ymmyrchagh	8552041c831d3774	a86d58fd0ce305d3	4	oardagh	oardagh.n	index	0
 Paber-Scruit-Ymmyrchagh	8552041c831d3774	a86d58fd0ce305d3	16	feeagh	feeagh.a,feeagh.n	index	0
@@ -6094,6 +6110,7 @@ Psalms1765	4f87571fa1a5edc4	6d89073224e1ca53	2	goan	goo.n	index	0
 Psalms1765	5124887cf7956806	ff381de67495a53a	11	annym	annym.n	index	0
 Psalms1765	537171a5df49e0c6	05e87b2092a253b7	1	voddagh	fod.x,foddagh.v	index	0
 Psalms1765	53ceb06b8965c268	792cdd73ac8edca8	11	thooilley	thooilley.n	index	0
+Psalms1765	590c665fb5787a28	c359d6cb198d8c0a	11	voddey	moddey.n	index	0
 Psalms1765	5bba4b71fc06ef34	983b1dad8c6d8fd6	4	dooin	dooin.v,dooin.x	index	0
 Psalms1765	5bba4b71fc06ef34	983b1dad8c6d8fd6	12	dooin	dooin.v,dooin.x	index	0
 Psalms1765	5c6f5aa2e72de5a6	43b51afe9a786021	6	jeu	jeu.x	index	0
@@ -6428,21 +6445,28 @@ Skeealyn-Cheeil-Chiollee	58fbf09fc3bffbe6	6b762e83f3e003ad	7	voddagh	fod.x,fodda
 Skeealyn-Cheeil-Chiollee	58fbf09fc3bffbe6	6b762e83f3e003ad	20	ching	ching.a,ching.n	index	0
 Skeealyn-Cheeil-Chiollee	58fbf09fc3bffbe6	6b762e83f3e003ad	24	ching	ching.a,ching.n	index	0
 Skeealyn-Cheeil-Chiollee	655461b2b6df60a6	bf34b567e5c67b1a	25	mollagh	mollagh.a	index	0
+Skeealyn-Cheeil-Chiollee	78719a789cb1f97b	a07340b0a90574c6	33	voddey	moddey.n	index	0
+Skeealyn-Cheeil-Chiollee	78719a789cb1f97b	a07340b0a90574c6	114	voddey	moddey.n	index	0
 Skeealyn-Cheeil-Chiollee	82dc2b0482ccbdff	d67d4454a02ab697	7	veg	beg.a,veg.x	index	0
 Skeealyn-Cheeil-Chiollee	888b3db80d3353ca	948643ff7eff782a	5	veg	beg.a,veg.x	index	0
 Skeealyn-Cheeil-Chiollee	8df2e5b249af2687	5d0f31a165f4bc25	24	veg	beg.a,veg.x	index	0
 Skeealyn-Cheeil-Chiollee	9387e51536aaafcd	cf5b607580711152	3	sooree	sooree.n,sooree.v	index	0
 Skeealyn-Cheeil-Chiollee	9387e51536aaafcd	cf5b607580711152	14	caillin	caillin.n	index	0
 Skeealyn-Cheeil-Chiollee	969980aaa432cf85	0ff987853f2f9a5c	18	astyr	fastyr.n	index	0
+Skeealyn-Cheeil-Chiollee	98d4ba859cd86140	e11ec4a7f7ca3229	24	voddey	moddey.n	index	0
+Skeealyn-Cheeil-Chiollee	98f05222893b0a53	2507407e7e975696	57	voddey	moddey.n	index	0
 Skeealyn-Cheeil-Chiollee	9b38c063b09d0943	a6acc25b694d4528	3	daill	daill.n	index	0
 Skeealyn-Cheeil-Chiollee	9b38c063b09d0943	a6acc25b694d4528	10	veg	beg.a,veg.x	index	0
 Skeealyn-Cheeil-Chiollee	9b38c063b09d0943	a6acc25b694d4528	41	chied	chied.a	index	0
+Skeealyn-Cheeil-Chiollee	abcc5cdee7caecdf	bf34b567e5c67b1a	72	voddey	moddey.n	index	0
 Skeealyn-Cheeil-Chiollee	b0b892bf7d636f16	48302d323f7d43f1	19	oill	foill.n	index	0
 Skeealyn-Cheeil-Chiollee	b254bd0578438361	c2561436d35fae08	14	veg	beg.a,veg.x	index	0
 Skeealyn-Cheeil-Chiollee	b84eaf2e5f3b3e91	9ede8a7e822489f1	11	jeu	jeu.x	index	0
 Skeealyn-Cheeil-Chiollee	c16edfe527de1c59	2e4bb01884a9951e	1	arragh	arragh.a,arragh.n	index	0
 Skeealyn-Cheeil-Chiollee	c25a8d7e9ea40819	abb1f74b94674b85	3	thooee	thoo.v,thooee.a	index	0
 Skeealyn-Cheeil-Chiollee	cf4ba77b25e6a2ac	86226b76a8e4e2a6	25	veg	beg.a,veg.x	index	0
+Skeealyn-Cheeil-Chiollee	d7861325d46355f5	2bb616fe4451880a	6	voddey	moddey.n	index	0
+Skeealyn-Cheeil-Chiollee	de299abc0dc507cb	d67d4454a02ab697	36	voddey	moddey.n	index	0
 Skeealyn-Cheeil-Chiollee	e264464d2f7e2b5d	90073ec5abe22849	1	chied	chied.a	index	0
 Skeealyn-Cheeil-Chiollee	e264464d2f7e2b5d	90073ec5abe22849	2	vee	mee.n,mee.x	index	0
 Skeealyn-Cheeil-Chiollee	e6b05b78a4bcf57c	7f5027728410907a	30	dooin	dooin.v,dooin.x	index	0
@@ -7430,6 +7454,7 @@ VibleCasherickPKelly	0fcbd28d58efa952	44ac17ecbefc790a	5	goan	goo.n	index	0
 VibleCasherickPKelly	0fcca3d45831e402	4b23665ec1333e5a	1	dooin	dooin.v,dooin.x	index	0
 VibleCasherickPKelly	0fcca3d45831e402	4b23665ec1333e5a	24	aasagh	faasagh.n	index	0
 VibleCasherickPKelly	0fd24cc874934cef	649823b26316e080	12	fenee	fen.v	index	0
+VibleCasherickPKelly	0ff7230b5484d418	48b91ab43d7d6d39	2	voddey	foddey.a	index	0
 VibleCasherickPKelly	101317abdd61d029	2af899ac9c2feed9	18	ort	ort.x	index	0
 VibleCasherickPKelly	1015507c9a7c9d79	0b08375a5773ef44	23	aasagh	faasagh.n	index	0
 VibleCasherickPKelly	10170eb4095f7f02	19a0f9823f296a81	22	eiyrit	eiyrit.x	index	0
@@ -7975,6 +8000,7 @@ VibleCasherickPKelly	2124c0bb3a91389f	6fe47a49bd65cfb5	30	vow	fow.v	index	0
 VibleCasherickPKelly	212a5eb3f959aab9	b1f5b906379f5c36	1	ort	ort.x	index	0
 VibleCasherickPKelly	212a5eb3f959aab9	b1f5b906379f5c36	3	ort	ort.x	index	0
 VibleCasherickPKelly	212a5eb3f959aab9	b1f5b906379f5c36	13	ort	ort.x	index	0
+VibleCasherickPKelly	214d91335296008a	00d2c2ec5db84ab4	7	voddey	foddey.a	index	0
 VibleCasherickPKelly	216035980ead4d9d	7d4618bd506beee9	8	groo	croo.v	index	0
 VibleCasherickPKelly	216ad32ec1e10322	d20987b0ff7b93cd	6	ort	ort.x	index	0
 VibleCasherickPKelly	217162595bfe1f95	ee9471a5fb653c4c	12	follym	follym.a	index	0
@@ -9232,6 +9258,7 @@ VibleCasherickPKelly	4ca31c94bd3a3a49	507e501f6ee7c176	17	jeu	jeu.x	index	0
 VibleCasherickPKelly	4ca31c94bd3a3a49	507e501f6ee7c176	24	girp	girp.n	index	0
 VibleCasherickPKelly	4ca3581f9fcfdd7d	83eb396352e08389	15	haagh	saagh.n	index	0
 VibleCasherickPKelly	4ca3581f9fcfdd7d	83eb396352e08389	19	ort	ort.x	index	0
+VibleCasherickPKelly	4cb269dbaaa933e6	71f9f9730bf651c5	6	voddey	foddey.a	index	0
 VibleCasherickPKelly	4cb2dc12ad5a889f	62a266efa4196df2	0	oardee	oard.v	index	0
 VibleCasherickPKelly	4cc11aa69020ab5a	8be7db67714e0852	12	hiu	hiu.x	index	0
 VibleCasherickPKelly	4cc79dae4bea2bc6	197374f7833730c8	3	goo	goo.n	index	0
@@ -10551,6 +10578,7 @@ VibleCasherickPKelly	79c90a0b1810baac	2b2bad9b72195b80	35	goan	goo.n	index	0
 VibleCasherickPKelly	79d00073d5bfdac6	20cd36f05ab3d015	7	hooin	hooin.x	index	0
 VibleCasherickPKelly	79d534616ce8271b	bc726766cc3060de	13	annym	annym.n	index	0
 VibleCasherickPKelly	79e0110419872729	4d19044b4ce90a38	11	voddagh	fod.x,foddagh.v	index	0
+VibleCasherickPKelly	79eed5502632a772	599bd55438eb823c	10	voddey	foddey.a	index	0
 VibleCasherickPKelly	7a177dd63824886a	0ec8b8bc3be8640a	2	goo	goo.n	index	0
 VibleCasherickPKelly	7a192a8e496dced8	a959e0f993092940	20	hoght	hoght.n	index	0
 VibleCasherickPKelly	7a1e04882f6f45d0	353349e802170015	8	vaase	baase.n	index	0
@@ -10929,6 +10957,7 @@ VibleCasherickPKelly	870893aacd166894	4566fc3cc26339a3	7	vee	mee.n,mee.x	index	0
 VibleCasherickPKelly	870893aacd166894	4566fc3cc26339a3	37	vee	mee.n,mee.x	index	0
 VibleCasherickPKelly	870893aacd166894	4566fc3cc26339a3	42	vee	mee.n,mee.x	index	0
 VibleCasherickPKelly	87233a633548c5fe	6c08197ef17d52c0	19	aasagh	faasagh.n	index	0
+VibleCasherickPKelly	87250c4645fd8d68	602835cda9d037ec	11	voddey	moddey.n	index	0
 VibleCasherickPKelly	873fcebf14423502	e436b75b06cd71f3	4	goan	goo.n	index	0
 VibleCasherickPKelly	8756ac016be93cc6	c7133d94eb801179	8	hiu	hiu.x	index	0
 VibleCasherickPKelly	875a232c153d0d3d	abe84d420af674e0	34	jeu	jeu.x	index	0
@@ -11196,6 +11225,7 @@ VibleCasherickPKelly	90c2aac2362e4dfd	269567cb7808cae7	27	arragh	n'arr.v,n'arrag
 VibleCasherickPKelly	90cd8f8da07033c4	aad6dfb765b78181	3	jeu	jeu.x	index	0
 VibleCasherickPKelly	90cd8f8da07033c4	aad6dfb765b78181	17	aasagh	faasagh.n	index	0
 VibleCasherickPKelly	90deeba02b2fb6e0	9f19d6fc45cd00a7	21	dooin	dooin.v,dooin.x	index	0
+VibleCasherickPKelly	90e2c89a6e8118ef	fc5ba953b9cb74e9	10	voddey	foddey.a	index	0
 VibleCasherickPKelly	90eb746773b79cfc	48fcdcbf3abb4478	33	arrys	arrys.n,arrys.v	index	0
 VibleCasherickPKelly	90ee53817ffa8ffb	8a70ade601979432	6	goan	goo.n	index	0
 VibleCasherickPKelly	90fcd1357bce7d19	2ce8c01a0bac4a55	2	voddagh	fod.x,foddagh.v	index	0
@@ -11883,6 +11913,7 @@ VibleCasherickPKelly	a878bc893d27f218	a6ba2285d749bd41	25	ollagh	ollagh.n	index	
 VibleCasherickPKelly	a897298e113c28ee	9f061226299075ee	2	goo	goo.n	index	0
 VibleCasherickPKelly	a897298e113c28ee	9f061226299075ee	5	hym	hym.x	index	0
 VibleCasherickPKelly	a89d3bde094d42fe	05d4224cc92ec510	2	chied	chied.a	index	0
+VibleCasherickPKelly	a8a84a049a7dfcb6	e4b74e0a9e43ce8d	41	voddey	foddey.a	index	0
 VibleCasherickPKelly	a8ad46ec6603663e	ad89feaa5209f216	13	hoght	hoght.n	index	0
 VibleCasherickPKelly	a8bc5a88e42738ea	dfee3f9c53dd06ef	14	jeu	jeu.x	index	0
 VibleCasherickPKelly	a8e1b5d723b94476	3533cfb2c23fc589	6	hushtey	tushtey.n	index	0
@@ -11949,6 +11980,7 @@ VibleCasherickPKelly	aacda53d57679d69	9cf9eefa9f52b19d	7	aasagh	faasagh.n	index	
 VibleCasherickPKelly	aacda53d57679d69	9cf9eefa9f52b19d	18	chied	chied.a	index	0
 VibleCasherickPKelly	aadb6b233b2f5da0	a60d8908ed0e4ecd	5	aasagh	faasagh.n	index	0
 VibleCasherickPKelly	aae128f31262f218	c15eccb791a9e73e	25	goo	goo.n	index	0
+VibleCasherickPKelly	aaf41f3a228d24c2	098e5dda9caafbbc	19	voddey	foddey.a	index	0
 VibleCasherickPKelly	aaf5d7d5a7fd13f7	4b3231b943f85738	14	hooin	hooin.x	index	0
 VibleCasherickPKelly	ab02c49bf0e8a8c6	a7e35a1d327ef9c4	13	hoght	hoght.n	index	0
 VibleCasherickPKelly	ab1856bb4a08568f	ab0bbcc0bb2f656d	9	chasherickys	casherickys.n,chasherickys.n	index	0
@@ -12806,6 +12838,7 @@ VibleCasherickPKelly	c79be9b14d5b0dcb	608ec8afdb0bffb4	6	arragh	arragh.a,arragh.
 VibleCasherickPKelly	c7a1535c874bf2e5	9344914e1ec5bccb	10	ort	ort.x	index	0
 VibleCasherickPKelly	c7aaa8f98b8288fe	20a10dd9f35adcd1	21	dooin	dooin.v,dooin.x	index	0
 VibleCasherickPKelly	c7b16c071700f858	e807a2e813c28598	27	follym	follym.a	index	0
+VibleCasherickPKelly	c7b8c92b9f154419	3893b5127feb715b	4	voddey	foddey.a	index	0
 VibleCasherickPKelly	c7bc2a40ab844cfc	05d322ffcd97f8c6	16	creaghyn	creagh.n	index	0
 VibleCasherickPKelly	c7c9fda61ba6de7f	93519f0de12f1d32	11	goan	goo.n	index	0
 VibleCasherickPKelly	c7d1d69a137e0930	f43b156b87ffedf0	7	thollee	thollee.x	index	0
@@ -14417,6 +14450,7 @@ VibleCasherickPKelly	ff7909ae44dbb2d1	74c861409392be83	25	hooin	hooin.x	index	0
 VibleCasherickPKelly	ff7a16c173073951	d85a8f4a2bf4bdbf	30	follym	follym.a	index	0
 VibleCasherickPKelly	ff80172744bd39f5	86e13e64a8a9b3c9	8	hoght	hoght.n	index	0
 VibleCasherickPKelly	ff828cec442c1b2a	1749e4bdf8d2c817	3	goan	goo.n	index	0
+VibleCasherickPKelly	ff828cec442c1b2a	1749e4bdf8d2c817	25	voddey	foddey.a	index	0
 VibleCasherickPKelly	ff86467f0e7563e9	1c61b3ba29cf6fa6	26	goo	goo.n	index	0
 VibleCasherickPKelly	ff92b09cd6da289a	76d77fffda9d3b21	7	volley	molley.a,molley.v	index	0
 VibleCasherickPKelly	ffb6b7d3e5e05599	2ddda7d4275eb3bb	10	eiyr	eiyr.v	index	0
@@ -14435,6 +14469,7 @@ VibleCasherickPKelly	fff7c2d487430cbf	a47eea1c5b5c42fe	8	voddagh	fod.x,foddagh.v
 VibleCasherickPKelly	fffc674ce9f96e55	49743d876aa20773	12	sollys	sollys.a	index	0
 Wesleyan-Methodism	002f588c5686ad23	d43ef1947fa9827e	2	dooin	dooin.v,dooin.x	index	0
 Wesleyan-Methodism	002f588c5686ad23	d43ef1947fa9827e	13	maase	maase.n,maase.x	index	0
+Wesleyan-Methodism	43264db5e6d4fa20	b0e69282dc9cd414	88	voddey	foddey.a	index	0
 Wesleyan-Methodism	56d7af4d7dce63b5	0af5702b87ab843a	2	veg	beg.a,veg.x	index	0
 Wesleyan-Methodism	56d7af4d7dce63b5	0af5702b87ab843a	19	assee	assee.n	index	0
 Wesleyan-Methodism	74d386928efd833d	047bdb4ed2c93e0e	16	hiu	hiu.x	index	0
@@ -15011,7 +15046,10 @@ Yn-Daa-Lhiannoo-Ferish	39c7e251db6246d9	4498c63aaec41527	33	veg	beg.a,veg.x	inde
 Yn-Daa-Lhiannoo-Ferish	889a028f0f1e4972	fafd6f7a5ae8793f	11	grouw	grouw.a	index	0
 Yn-Daa-Lhiannoo-Ferish	df7ce77ab8925439	26a51dab30a57146	18	follym	follym.a	popup	0
 Yn-Dossan-Aalin	4952ac36cc5eb44b	a648c9c2e503bbfd	1	harroo	tarroo.n	index	0
+Yn-Dossan-Aalin	819be6945cd470b8	0adf0c806a047401	0	voddey	moddey.n	index	0
+Yn-Dossan-Aalin	819be6945cd470b8	0adf0c806a047401	1	voddey	moddey.n	index	0
 Yn-Drean-Dhone	040d056850ac3876	fbbc2a52c14e41df	4	er	fer.n	index	0
+Yn-Drean-Dhone	07285f1dcbc05843	e6dbd2913992091a	3	voddey	moddey.n	index	0
 Yn-Drean-Dhone	0db9d8ed2113f7ec	91dca13ee0e3eb34	0	verrym	behr.v	popup	0
 Yn-Drean-Dhone	16499c122f1b6725	1d8252d818d7e61d	16	assee	assee.n	index	0
 Yn-Drean-Dhone	16499c122f1b6725	1d8252d818d7e61d	24	wass	wass.x	index	0
@@ -15027,8 +15065,11 @@ Yn-Drean-Dhone	522fea6f1a69f336	8c38433f1f691d60	9	oast	oast.a	index	0
 Yn-Drean-Dhone	5cb75a4c4eb46d57	753b16786f634662	12	ollan	ollan.n	index	0
 Yn-Drean-Dhone	64450f465c1c421a	fbabbf33c7828c92	27	oast	oast.a	index	0
 Yn-Drean-Dhone	67d97e5c717f27fa	34c68a8ef90ea306	7	veg	beg.a,veg.x	index	0
+Yn-Drean-Dhone	68a41605fc5543e1	739af02f49a93bb9	4	voddey	moddey.n	index	0
 Yn-Drean-Dhone	6d13281ed9f33177	b29d064614e61d12	3	er	fer.n	index	0
 Yn-Drean-Dhone	706ce2a6e40d1698	46e2eb8b50c40490	13	oast	oast.a	index	0
+Yn-Drean-Dhone	7a9d0a260574c5f4	da4fee4e59199256	8	voddey	moddey.n	index	0
+Yn-Drean-Dhone	856681467931e474	62ed0fe93d98f949	7	voddey	moddey.n	index	0
 Yn-Drean-Dhone	96bbd500b68a245d	da4fee4e59199256	10	ort	ort.x	index	0
 Yn-Drean-Dhone	ab3c8f5633893e88	d9c5f89517bbfeaf	22	vee	bee.n,bee.v	index	0
 Yn-Drean-Dhone	d02098b9b2a9742f	a05c387562526516	6	chied	chied.a	index	0
@@ -15360,6 +15401,7 @@ YnAcocrypha	13e4d274420c2372	49ac9a0b1a0eb2af	1	ort	ort.x	index	0
 YnAcocrypha	1407b6fff19c3b5f	777e4c03685dbb04	7	giare	giare.a	index	0
 YnAcocrypha	144316368aac67d7	96dc916a94ef1b63	7	girp	girp.n	index	0
 YnAcocrypha	1493ef8fd9bc7d95	1ac7613c2f0b959b	1	dooin	dooin.v,dooin.x	index	0
+YnAcocrypha	152f2ccaffaeae40	77ddf80fee99d1c0	2	voddey	foddey.a	index	0
 YnAcocrypha	152f2ccaffaeae40	77ddf80fee99d1c0	16	chaglit	chaglit.x	index	0
 YnAcocrypha	15d21ce5399d4247	51e04ca347ce7f38	4	hee	shee.n	index	0
 YnAcocrypha	16172919404ca95c	c012e2b5ab1431b2	12	hee	faik.v	index	0
