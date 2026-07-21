@@ -129,9 +129,9 @@ be.v	bey.x	same	Cregeen: be = bey, cross-reference
 bea.n	fea.n	distinct	life vs quiet/rest
 bea.n	mea.a	distinct	life vs fat/luxuriant adjective
 bea.n	vea.n	same	life, lenited variant
-beagh-1	bee.v	same	feed/nourish cognate with food
+beagh-1	bee.v	unsure	Cregeen prints two beagh entries: 'would be' (bee) AND 'v. feed'/'v. live' (beaghey) - per-entry review needed, the food pun did the vouching
 beagh.v	beaghee.a	same	feed verb/adjective paradigm
-beagh.v	bee.v	same	feed/nourish cognate with food
+beagh.v	bee.v	unsure	Cregeen prints two beagh entries: 'would be' (bee) AND 'v. feed'/'v. live' (beaghey) - per-entry review needed, the food pun did the vouching
 beagh.v	magh.x	distinct	nourish vs forth/out
 beagh.v	vagh-1	distinct	nourish vs dwell(bagh)
 bee'm.v	vee'm.x	same	"I will be", lenited variant
@@ -333,8 +333,8 @@ cheer.v	cheerey.v	same	country/rural derivation
 cheer.v	keer.x	distinct	country vs cud, unrelated
 cheet.v	er-jeet.x	same	er-jeet=has come, built on cheet
 cheet.v	tar.v	same	suppletive come/coming verb pair
-cheilley.x	keilley.a	same	e cheilley=his wits, matches keilley
-cheilley.x	keilley.n	same	e cheilley=his wits, matches keilley
+cheilley.x	keilley.a	distinct	cheilley.x is 'pro. one another'; keilley.a is 'a. d. of sense or wit' - unrelated
+cheilley.x	keilley.n	distinct	cheilley.x is 'pro. one another'; keilley.n is 'e cheilley, s. of his wits' (gen. of keeayll) - unrelated
 chennid.n	shennid.n	distinct	strain/narrowness vs oldness, unrelated
 chere.n	kere.n	same	chere lenited kere, wax/comb
 chere.n	kere.v	same	verb sense of wax/comb word
@@ -353,7 +353,7 @@ chiollee.a	hiollee.v	unsure	empty glosses, ambiguous root/sense
 chionn.a	kionn.v	same	tight/austere root, shared with kionn
 chionn.v	chionney.a	same	austere/clench, same tight-root family
 chionn.v	chionney.v	same	same tight-root family
-chionn.v	kionn.v	same	forms span both, same tight-root
+chionn.v	kionn.v	distinct	chionn is 'v. tighten, fasten'; kionn/kionnee is 'v. buy, purchase' - the 'tight-root' weld was wrong
 chionneyder.n	kionneyder.n	distinct	inflater/nut vs buyer, different roots
 chionnit.x	kionn.v	same	inflated/pressurized, tight-root family
 chionnit.x	kionnit.x	distinct	inflated vs bought, different roots
@@ -671,7 +671,7 @@ cuirraghyn.n	cuirrey.n	same	invitation family, shared entry
 cuirrit.x	cuirt.x	same	Cregeen cross-lists both senses
 cum.x	cummee.a	same	hold/dwell family
 cur.v	hug.v	same	give verb + suppletive past tense
-cur.v	hug.x	same	give verb + suppletive past tense
+cur.v	hug.x	distinct	hug.x is Cregeen's preposition ("pre. to. This word is used instead of gys"), not the verb; UD attests it 13/150
 curm.n	currym.n	same	same entry: charge/duty
 curm.x	curmagh.a	same	enjoin/charge family
 daa.a	ghaa.n	same	two; ghaa is possessive mutation
