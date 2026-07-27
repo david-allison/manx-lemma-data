@@ -1,6 +1,6 @@
 form	lemmaId	lemma	linkType	pos	via	note
 aeraghyn	ayr.n	ayr	phillips	s. m.	ayraghyn	phillips-1610;questionable
-ag	agh.x	agh	phillips	conj.	agh	phillips-1610;questionable
+ag	agh.x	agh	phillips		agh	phillips-1610;questionable
 agayr	aggair.n	aggair	phillips	s. m.	aggair	phillips-1610;questionable
 aghsan	oghsan.n	oghsan	phillips	s. f.	oghsan	phillips-1610;questionable
 aghyin	aghin.n	aghin	phillips	s. f.	aghin	phillips-1610
@@ -69,7 +69,7 @@ dorghy	dorraghey.a	dorraghey	phillips	a.	dorraghey	phillips-1610;questionable
 dorghys	dorraghys.n	dorraghys	phillips	s. m.	dorraghys	phillips-1610;questionable
 drial	dreill.v	dreill	phillips	v.	dreill	phillips-1610;questionable
 dthy	dty.x	dty	phillips	pro.	dty	phillips-1610
-dw	dou.x	dou	phillips		dou	phillips-1610;questionable
+dw	dou.x	dou	phillips	p, p.	dou	phillips-1610;questionable
 dwin	dooin.x	dooin	phillips	p. p.	dooin	phillips-1610;questionable
 dwin	dooin.v	dooin	phillips	v. i.	dooin	phillips-1610;questionable
 dwisk	dooisht.v	dooisht	phillips	v.	dooisht	phillips-1610;questionable
@@ -87,13 +87,15 @@ eask	eayst.n	eayst	phillips	s. f.	eayst	phillips-1610;questionable
 egnagh	ennagh.a	ennagh	phillips	a.	ennagh	phillips-1610;questionable
 eis	eisht.x	eisht	phillips	adv.	eisht	phillips-1610;questionable
 eish	eisht.x	eisht	phillips	adv.	eisht	phillips-1610
-elle	elley.x	elley	phillips	pro. adv.	elley	phillips-1610;questionable
+elle	elley.x	elley	phillips	pro. and adv.	elley	phillips-1610;questionable
 enyd	ynnyd.n	ynnyd	phillips	s. f.	ynnyd	phillips-1610;questionable
 erbi	erbee.x	erbee	phillips		erbee	phillips-1610
 erick	eairk.n	eairk	phillips	s. m.	eairk	phillips-1610;questionable
-ern	er.x	er	phillips	pre.	er	phillips-1610
-erson	son.x	son	phillips		son	phillips-1610
-eshyin	eshyn.x	eshyn	phillips	pro.	eshyn	phillips-1610;questionable
+ern	er.x	er	phillips	in.	er	phillips-1610
+erson	son.x	son	phillips	pre.	son	phillips-1610
+eshyin	t'eh.x	t'eh	phillips	p.	eshyn	phillips-1610;questionable
+eshyin	e.x	e	phillips	in.	eshyn	phillips-1610;questionable
+eshyin	eh.x	eh	phillips		eshyn	phillips-1610;questionable
 eyl	eill.v	eill	phillips	v.	eill	phillips-1610;questionable
 fackin	fakin.v	fakin	phillips	v.	fakin	phillips-1610;questionable
 fallaghy	follaghey.v	follaghey	phillips	v.	follaghey	phillips-1610;questionable
@@ -127,12 +129,12 @@ ghasmedjyn	kesmad.n	kesmad	phillips	s.	chesmadyn	phillips-1610;questionable
 ghass	chass.n	chass	phillips	s.	chass	phillips-1610;questionable
 ghasserick	casherick.a	casherick	phillips	a.	casherick	phillips-1610
 ghassrikys	chasherickys.n	chasherickys	phillips	s.	chasherickys	phillips-1610;questionable
-ghassrikys	keck.v	keck	phillips	v.	chasherickys	phillips-1610;questionable
 ghemmirk	kemmyrk.n	kemmyrk	phillips	s.	chemmyrk	phillips-1610;questionable
 ghlyeshyn	chleaysh.n	chleaysh	phillips	s.	chleayshyn	phillips-1610;questionable
 ghonick	honnick.v	honnick	phillips	v.	honnick	phillips-1610;questionable
 ghora	choraa.n	choraa	phillips	s.	choraa	phillips-1610;questionable
 ghorri	chorree.n	chorree	phillips	s.	chorree	phillips-1610;questionable
+ghorri	chorree.a	chorree	phillips	a.	chorree	phillips-1610;questionable
 ghoud	choud.x	choud	phillips	adv.	choud	phillips-1610;questionable
 ghowd	choud.x	choud	phillips	adv.	choud	phillips-1610
 ghregg	chreg.n	chreg	phillips	s.	chreg	phillips-1610;questionable
@@ -151,7 +153,6 @@ gloroil	gloyroil.a	gloyroil	phillips	a.	gloyroil	phillips-1610;questionable
 gniart	niart.n	niart	phillips	s. m.	niart	phillips-1610
 gniart	niart.v	niart	phillips	v.	niart	phillips-1610
 gniartoil	niartal.a	niartal	phillips	a.	niartal	phillips-1610
-goyms	goym.v	goym	phillips	v.	goym	phillips-1610;questionable
 grasoil	graysoil.a	graysoil	phillips	a.	graysoil	phillips-1610;questionable
 grayi	graih.n	graih	phillips	s. f.	graih	phillips-1610;questionable
 gri	cree.n	cree	phillips	s.	gree	phillips-1610;questionable
@@ -165,10 +166,10 @@ harnyn	ayrn.n	ayrn	phillips	s. m.	ayrnyn	phillips-1610;questionable
 hatiwnyn	ashoon.n	ashoon	phillips	s. f.	ashoonyn	phillips-1610;questionable
 hawalys	saualtys.n	saualtys	phillips	s.	haualtys	phillips-1610
 hawayl	sauail.v	sauail	phillips	v.	hauail	phillips-1610;questionable
-heiaghe	soiaghey.x	soiaghey	phillips		hoiaghey	phillips-1610;questionable
-heiaghe	soiaghey.v	soiaghey	phillips	v.	hoiaghey	phillips-1610;questionable
-heiaghy	soiaghey.x	soiaghey	phillips		hoiaghey	phillips-1610;questionable
-heiaghy	soiaghey.v	soiaghey	phillips	v.	hoiaghey	phillips-1610;questionable
+heiaghe	hoiaghey.x	hoiaghey	phillips		hoiaghey	phillips-1610;questionable
+heiaghe	hoiaghey.v	hoiaghey	phillips	v.	hoiaghey	phillips-1610;questionable
+heiaghy	hoiaghey.x	hoiaghey	phillips		hoiaghey	phillips-1610;questionable
+heiaghy	hoiaghey.v	hoiaghey	phillips	v.	hoiaghey	phillips-1610;questionable
 heidjyn	side.n	side	phillips	s.	hideyn	phillips-1610;questionable
 hervaynt	sharvaant.n	sharvaant	phillips	s.	harvaant	phillips-1610
 hiampyl	chiamble.n	chiamble	phillips	s.	hiamble	phillips-1610;questionable
@@ -224,6 +225,7 @@ jih	jeh.x	jeh	phillips	pro.	jeh	phillips-1610;questionable
 jiragh	jeeragh.a	jeeragh	phillips	a.	jeeragh	phillips-1610;questionable
 jit	cheet.n	cheet	phillips	s.	jeet	phillips-1610;questionable
 jit	cheet.v	cheet	phillips	v.	jeet	phillips-1610;questionable
+jit	er-jeet.x	er-jeet	phillips	pt.	jeet	phillips-1610;questionable
 jogh	jough.n	jough	phillips	s. f.	jough	phillips-1610;questionable
 kaban	cabbane.n	cabbane	phillips	s. m.	cabbane	phillips-1610;questionable
 kabanyn	cabbane.n	cabbane	phillips	s. m.	cabbaneyn	phillips-1610;questionable
@@ -240,7 +242,7 @@ kayrys	cairys.v	cairys	phillips	v.	cairys	phillips-1610
 kedyn	cheddin.a	cheddin	phillips	a.	cheddin	phillips-1610;questionable
 keindylys	kenjallys.n	kenjallys	phillips	s. m.	kenjallys	phillips-1610;questionable
 kian	kione.n	kione	phillips	s. m.	kione	phillips-1610;questionable
-kiangoyrt	kiongoyrt.x	kiongoyrt	phillips		kiongoyrt	phillips-1610;questionable
+kiangoyrt	kiongoyrt.x	kiongoyrt	phillips	pre.	kiongoyrt	phillips-1610;questionable
 kientagh	kyndagh.x	kyndagh	phillips	conj.	kyndagh	phillips-1610;questionable
 kientagh	kyndagh.a	kyndagh	phillips	a.	kyndagh	phillips-1610;questionable
 kientagh	kyndagh.n	kyndagh	phillips	s. m.	kyndagh	phillips-1610;questionable
@@ -293,10 +295,9 @@ managh	mannagh.x	mannagh	phillips	conj.	mannagh	phillips-1610;questionable
 mar	myr.x	myr	phillips	conj.	myr	phillips-1610
 margedyn	myrgeddin.x	myrgeddin	phillips	adv.	myrgeddin	phillips-1610;questionable
 marshen	myr-shen.x	myr shen	phillips	adv.	myrshen	phillips-1610
-maryms	marym.x	marym	phillips	p. p.	marym	phillips-1610;questionable
 masky	mastey.v	mastey	phillips	v.	mastey	phillips-1610
-masky	mastey.x	mastey	phillips		mastey	phillips-1610
-meck	mec.n	mec	phillips	s. pl.	mec	phillips-1610;questionable
+masky	mastey.x	mastey	phillips	pre.	mastey	phillips-1610
+meck	mac.n	mac	phillips	s. m.	mec	phillips-1610;questionable
 meid	mayd.x	mayd	phillips	pro.	mayd	phillips-1610
 meiys	mieys.n	mieys	phillips	s. f.	mieys	phillips-1610;questionable
 meliyn	meil.n	meil	phillips	s. f.	meillyn	phillips-1610;questionable
@@ -315,13 +316,16 @@ naghtyn	smooinaght.n	smooinaght	phillips	s. m.	smooinaghtyn	phillips-1610;questi
 nan	nyn.x	nyn	phillips	pro.	nyn	phillips-1610
 nare	nearey.n	nearey	phillips	s. f.	nearey	phillips-1610;questionable
 nas	na.x	na	phillips	adv.	na	phillips-1610;questionable
-nasmw	smoo.a	smoo	phillips	a.	smoo	phillips-1610;questionable
+nasmw	fer-smoo.n	fer-smoo	phillips	s.	smoo	phillips-1610;questionable
+nasmw	mooar.a	mooar	phillips	a.	smoo	phillips-1610;questionable
+nasmw	mooar.v	mooar	phillips		smoo	phillips-1610;questionable
 neawaghyn	niau.n	niau	phillips	s. m.	niaughyn	phillips-1610;questionable
 neawghyn	niau.n	niau	phillips	s. m.	niaughyn	phillips-1610;questionable
 niist	neesht.x	neesht	phillips	adv.	neesht	phillips-1610;questionable
 noidj	noid.n	noid	phillips	s. m.	noid	phillips-1610;questionable
 noidjyn	noid.n	noid	phillips	s. m.	noidyn	phillips-1610
 noidjyns	noid.n	noid	phillips	s. m.	noidyn	phillips-1610;questionable
+noll	er-n'gholl.v	er-n'gholl	phillips	v.	n'gholl	phillips-1610;questionable
 noll	doll.v	doll	phillips	v.	n'gholl	phillips-1610;questionable
 nwaghyn	noo.n	noo	phillips	s. m.	nooghyn	phillips-1610;questionable
 nwyn	noo.n	noo	phillips	s. m.	nooghyn	phillips-1610;questionable
@@ -339,7 +343,7 @@ orym	orrym.x	orrym	phillips	p. p.	orrym	phillips-1610;questionable
 oryms	orrym.x	orrym	phillips	p. p.	orrym	phillips-1610;questionable
 owrel	oural.n	oural	phillips	s. m.	oural	phillips-1610;questionable
 payrt	paart.n	paart	phillips	s. m.	paart	phillips-1610;questionable
-peki	peccagh.n	peccagh	phillips	s. m.	peccee	phillips-1610
+peki	peccah.n	peccah	phillips	s. m.	peccah	phillips-1610
 phadjer	padjer.n	padjer	phillips	s. f.	padjer	phillips-1610
 pobyl	pobble.n	pobble	phillips	s. m.	pobble	phillips-1610
 pwer	pooar.n	pooar	phillips	s. m.	pooar	phillips-1610;questionable
@@ -361,24 +365,22 @@ rikortyn	recortys.n	recortys	phillips	s. f.	recortyssyn	phillips-1610;questionab
 rikortyns	recortys.n	recortys	phillips	s. f.	recortyssyn	phillips-1610;questionable
 ririyght	reeriaght.n	reeriaght	phillips	s. m.	reeriaght	phillips-1610;questionable
 roschyn	roshtyn.v	roshtyn	phillips	v.	roshtyn	phillips-1610;questionable
-royds	royd.x	royd	phillips	p. p.	royd	phillips-1610;questionable
 rtyn	cooyrt.n	cooyrt	phillips	s.	cooyrtyn	phillips-1610;questionable
 sawalys	saualtys.n	saualtys	phillips	s. f.	saualtys	phillips-1610;questionable
 sawchey	sauchey.a	sauçhey	phillips	a.	sauchey	phillips-1610;questionable
-sawn	son.x	son	phillips		son	phillips-1610;questionable
+sawn	son.x	son	phillips	pre.	son	phillips-1610;questionable
 schiagh	stiagh.x	stiagh	phillips	adv.	stiagh	phillips-1610;questionable
 shaghran	shaghryn.v	shaghryn	phillips	v.	shaghryn	phillips-1610;questionable
 shaght	shiaght.a	shiaght	phillips	a.	shiaght	phillips-1610;questionable
 shassw	shassoo.v	shassoo	phillips	v.	shassoo	phillips-1610
 shassw	shassoo.n	shassoo	phillips	s. m.	shassoo	phillips-1610
-shayr	share.a	share	phillips	a.	share	phillips-1610;questionable
 shayr	share.v	share	phillips	v.	share	phillips-1610;questionable
 shessaght	sheshaght.n	sheshaght	phillips	s.	sheshaght	phillips-1610;questionable
 shii	shee.n	shee	phillips	s. f.	shee	phillips-1610;questionable
 shiis	sheese.x	sheese	phillips	adv.	sheese	phillips-1610
 shilogh	sheeloghe.n	sheeloghe	phillips	s. m.	sheeloghe	phillips-1610;questionable
-shiuss	shiu.x	shiu	phillips		shiuish	phillips-1610;questionable
-shiusse	shiu.x	shiu	phillips		shiuish	phillips-1610
+shiuss	shiu.x	shiu	phillips	pro.	shiuish	phillips-1610;questionable
+shiusse	shiu.x	shiu	phillips	pro.	shiuish	phillips-1610
 sho	shoh.x	shoh	phillips	adv.	shoh	phillips-1610
 shwin	shin.x	shin	phillips	pro.	shin	phillips-1610
 shyirre	shirrey.v	shirrey	phillips	v.	shirrey	phillips-1610;questionable
@@ -394,13 +396,15 @@ slani	slaanee.a	slaanee	phillips	a. d.	slaanee	phillips-1610;questionable
 slechyn	sleityn.n	sleityn	phillips	s. pl.	sleityn	phillips-1610;questionable
 sly	sleih.n	sleih	phillips	s. m.	sleih	phillips-1610;questionable
 slyei	sleih.n	sleih	phillips	s. m.	sleih	phillips-1610;questionable
-smw	smoo.a	smoo	phillips	a.	smoo	phillips-1610
+smw	fer-smoo.n	fer-smoo	phillips	s.	smoo	phillips-1610
+smw	mooar.a	mooar	phillips	a.	smoo	phillips-1610
+smw	mooar.v	mooar	phillips		smoo	phillips-1610
 smwnaghtyn	smooinaght.n	smooinaght	phillips	s. m.	smooinaghtyn	phillips-1610;questionable
 smwni	smooinee.v	smooinee	phillips	v.	smooinee	phillips-1610;questionable
 snaggerni	snaggeragh.v	snaggeragh	phillips	v.	snaggeraght	phillips-1610;questionable
 snaghti	sniaghtee.a	sniaghtee	phillips	a. d.	sniaghtee	phillips-1610;questionable
 soilshe	soilshey.n	soilshey	phillips	s. m.	soilshey	phillips-1610
-soje	sodjey.a	sodjey	phillips	a.	sodjey	phillips-1610;questionable
+soje	foddey.x	foddey	phillips	adv.	sodjey	phillips-1610;questionable
 spyryd	spyrryd.n	spyrryd	phillips	s. m.	spyrryd	phillips-1610;questionable
 stei	sthie.x	sthie	phillips	adv.	sthie	phillips-1610;questionable
 strwi	stroie.v	stroie	phillips	v.	stroie	phillips-1610;questionable
@@ -435,7 +439,8 @@ twigel	toiggal.n	toiggal	phillips	s. f.	toiggal	phillips-1610;questionable
 twitchym	tuittym.v	tuittym	phillips	v.	tuittym	phillips-1610;questionable
 twitchym	tuittym.n	tuittym	phillips	s. m.	tuittym	phillips-1610;questionable
 twsanyn	thousane.n	thousane	phillips	s. m.	thousaneyn	phillips-1610;questionable
-us	uss.x	uss	phillips	pro.	uss	phillips-1610
+us	oo.x	oo	phillips	pro.	uss	phillips-1610
+us	bee-oo.v	bee-oo	phillips	v.	uss	phillips-1610
 vackin	fakin.v	fakin	phillips	v.	vakin	phillips-1610;questionable
 vaghe	baghey.v	baghey	phillips	v.	vaghey	phillips-1610;questionable
 vaick	faik.v	faik	phillips	v.	vaik	phillips-1610;questionable
@@ -444,7 +449,6 @@ vanaght	bannaght.n	bannaght	phillips	s.	vannaght	phillips-1610;questionable
 vayre	mayrey.a	mayrey	phillips	a. d.	vayrey	phillips-1610;questionable
 vays	vaaish.n	vaaish	phillips	s.	vaaish	phillips-1610;questionable
 vays	maaish.n	maaish	phillips	s.	vaaish	phillips-1610;questionable
-veas	vees.v	vees	phillips	v.	vees	phillips-1610
 vegg	veg.x	veg	phillips	pro.	veg	phillips-1610;questionable
 vei	meih.n	meih	phillips	s.	veih	phillips-1610;questionable
 vei	veih.x	veih	phillips	p. p.	veih	phillips-1610;questionable
@@ -455,8 +459,6 @@ verym	behr.v	behr	phillips	v.	ver	phillips-1610;questionable
 verym	cur.v	cur	phillips		ver	phillips-1610;questionable
 veyn	mean.n	mean	phillips	s.	vean	phillips-1610;questionable
 viis	vees.v	vees	phillips	v.	vees	phillips-1610
-vio	bio.a	bio	phillips	a.	bio	phillips-1610;questionable
-vio	bio.v	bio	phillips	v.	bio	phillips-1610;questionable
 vioghy	bioghey.v	bioghey	phillips	v.	vioghey	phillips-1610;questionable
 vodagh	fod.x	fod	phillips		voddagh	phillips-1610;questionable
 vodagh	foddagh.v	foddagh	phillips	v.	voddagh	phillips-1610;questionable
@@ -466,7 +468,6 @@ voghre	moghrey.n	moghrey	phillips	s.	voghrey	phillips-1610;questionable
 voiniyn	voin.x	voin	phillips	p. p.	voin	phillips-1610;questionable
 voley	moylley.v	moylley	phillips	v.	voylley	phillips-1610;questionable
 volly	moylley.v	moylley	phillips	v.	voylley	phillips-1610;questionable
-voyms	voym.x	voym	phillips	p. p.	voym	phillips-1610;questionable
 vrwinyssyn	vriwnyssyn.n	vriwnyssyn	phillips	s.	vriwnyssyn	phillips-1610;questionable
 wil	ooill.n	ooill	phillips	s. f.	ooill	phillips-1610;questionable
 wil	ooill.v	ooill	phillips	v.	ooill	phillips-1610;questionable
@@ -487,4 +488,4 @@ ymmyrtsagh	ymmyrchagh.a	ymmyrçhagh	phillips	a.	ymmyrchagh	phillips-1610;questio
 ymmyrtsagh	ymmyrchagh.n	ymmyrçhagh	phillips	s. m.	ymmyrchagh	phillips-1610;questionable
 ynsi	ynsee.a	ynsee	phillips	a. d.	ynsee	phillips-1610;questionable
 ynyd	ynnyd.n	ynnyd	phillips	s. f.	ynnyd	phillips-1610
-yrje	syrjey.a	syrjey	phillips	a.	syrjey	phillips-1610;questionable
+yrje	ard.n	ard	phillips	s. m.	syrjey	phillips-1610;questionable

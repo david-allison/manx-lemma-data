@@ -780,7 +780,6 @@ chonradh	conradh.np	Conradh	mutation	np. other	Conradh	generated-lenition
 gonradh	conradh.np	Conradh	mutation	np. other	Conradh	generated-eclipsis
 cooil	cooil.np	Cooil	self	np. other	Cooil	
 chooil	cooil.np	Cooil	mutation	np. other	Cooil	generated-lenition
-gooil	cooil.np	Cooil	mutation	np. other	Cooil	generated-eclipsis
 corinth	corinth.np	Corinth	self	np. place	Corinth	
 chorinth	corinth.np	Corinth	mutation	np. place	Corinth	generated-lenition
 gorinth	corinth.np	Corinth	mutation	np. place	Corinth	generated-eclipsis
@@ -1987,7 +1986,6 @@ korah	korah.np	Korah	self	np. personal	Korah
 chorah	korah.np	Korah	mutation	np. personal	Korah	generated-lenition
 gorah	korah.np	Korah	mutation	np. personal	Korah	generated-eclipsis
 kring	kring.np	Kring	self	np. other	Kring	
-chring	kring.np	Kring	mutation	np. other	Kring	generated-lenition
 gring	kring.np	Kring	mutation	np. other	Kring	generated-eclipsis
 kruger	kruger.np	Kruger	self	np. other	Kruger	
 chruger	kruger.np	Kruger	mutation	np. other	Kruger	generated-lenition
