@@ -1,0 +1,6 @@
+work/
+
+# IDE and interpreter droppings
+.idea/
+__pycache__/
+.DS_Store
