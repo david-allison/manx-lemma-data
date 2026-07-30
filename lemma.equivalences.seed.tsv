@@ -6,7 +6,7 @@
 idA	idB	verdict	note
 aa-vaair.n	aa-vioghee.x	distinct	second crop vs revive/quicken, unrelated
 aare.x	faare.x	same	near/adjacent; Cregeen derives aare from faare
-aarkey.n	faarkey.v	same	sea/wave, same word per Cregeen
+aarkey.n	faarkey.v	distinct	aarkey.n is 'yn aarkey' the sea (family F-8, radical faarkey s.m. 'the sea, billow'), but faarkey.v is the separate verb family F-7 'to bathe' (dy aarkey); Cregeen prints sea-noun and bathe-verb as distinct lexemes. [cross-POS audit 2026-07-30]
 aarkey.n	n'aarkey.v	same	mutation variant of aarkey "sea"
 aarl.x	aarlagh.v	same	cook/dress-meat verb paradigm
 aarl.x	aarlee.a	same	cook verb paradigm
@@ -31,7 +31,7 @@ agglagh.a	n'aggl.v	same	fear/frighten, mutation variant
 agglaghey.v	n'agglaghey.v	same	frighten verb, mutation variant
 aggle.n	n'aggl.v	same	fear noun/verb, mutation variant
 agh.x	py'agh.n	distinct	"but" conjunction vs "person"
-aill.n	faill.v	same	wages; Cregeen: aill from faill
+aill.n	faill.v	distinct	aill.n's bare-headword entry (A-54) is aill 'wish/pleasure' (family saillym 'I please', baill 'would wish', cha naill 'not wish'); faill.v spans faill 'fail' (F-22, daill 'did fail') and faill 'hire, engage for wages' (F-23), and only the subsidiary 'e aill: his hire, wages' entry belongs with faill. [cross-POS audit 2026-07-30]
 aill.v	faill.v	same	hire verb, lenited variant
 aill.v	n'aill.v	same	wish verb, mutation variant
 ainjyssagh.n	s'ainjyssee.a	same	acquainted, comparative form
@@ -99,7 +99,7 @@ baaish.n	maaish.a	distinct	temple/forehead vs thigh
 baaish.n	maaish.n	distinct	temple/forehead vs thigh
 baaish.n	vaaish.n	distinct	temple/forehead vs "of death"
 baar.v	baarail.v	same	"spend" verb paradigm
-baart.n	paart.x	same	part/portion, eclipsis variant
+baart.n	paart.x	distinct	baart.n is "nyn baart" (your part), eclipsis of the NOUN paart "some, part" (P-6, proper target paart.n), while paart.x is the "cha baart" verb entry "would not part" belonging to the verb paartail/phaart "part, depart" (P-5). [cross-POS audit 2026-07-30]
 baase.n	maase.n	distinct	death vs cattle
 baase.n	maase.x	distinct	death vs cattle
 baatey.n	vaatey.n	same	boat, lenited variant
@@ -125,7 +125,7 @@ bayr.n	bayrn.n	distinct	lane vs cap
 bayr.n	beyr.n	same	Cregeen: beyr is spelling variant of bayr
 bayr.n	beyr.x	same	Cregeen: beyr is spelling variant of bayr
 bayrn.n	mayrn.x	distinct	cap vs "in existence" (er-mayrn)
-be.v	bey.x	same	Cregeen: be = bey, cross-reference
+be.v	bey.x	distinct	be.v is the copula family B-65 (dy ve 'to be', er ve 'hath been', bee 'will be'); bey.x is the separate B-64 be/bey printed with dy-be 'for cause, because' and erbey 'because, lit. on cause' - the 'cause' element, not the verb 'to be'. [cross-POS audit 2026-07-30]
 bea.n	fea.n	distinct	life vs quiet/rest
 bea.n	mea.a	distinct	life vs fat/luxuriant adjective
 bea.n	vea.n	same	life, lenited variant
@@ -157,7 +157,7 @@ beinn.n	meinn.n	distinct	mountain peak vs meal/flour
 beisht.n	beishtyn.n	same	beishtyn is plural of beisht
 ben-treoghe.n	mraane-treoghe.n	same	mraane is irregular plural of ben
 berr.v	verr.v	same	verr is lenited berr, overtake
-berr.x	verr.v	same	verr is lenited berr, overtake
+berr.x	verr.v	distinct	berr is 'overtake' (B-86), but the verr.v id is the printed verr 'will give, put, send, bring' (C-397, future of cur; its forms verr/verrym/verryms match that entry), while the 'did overtake' verr entry feeds berr.v. [cross-POS audit 2026-07-30]
 berraght.v	berraghtyn.x	same	same overtake/catch verb family
 bhow.n	vhow.n	same	vhow is lenited bhow, bow
 billey.n	milley.n	distinct	billey tree/bush vs milley spoil
@@ -180,7 +180,7 @@ bishaghey.v	bishee.x	same	prosper/develop, same root
 bishaghey.v	vishagh.v	same	vishagh is lenited bishagh(ey)
 blake.v	vlaak.v	same	vlaak is lenited/variant blake, gape
 blass.n	blayst-2	same	flavour/taste variant spellings
-blass.n	blayst.v	same	flavour/taste variant spellings
+blass.n	blayst.v	distinct	blass.n is the noun entry "taste, savour, flavour" (s.m.), while blayst.v is the verb family (self form vlayst "did taste", preterite of the separate blass v. entry, id blass-2); noun entry conflated with the verb entry. [cross-POS audit 2026-07-30]
 blass.n	blayst.x	same	flavour/taste variant spellings
 blennick-cholgey.x	chiolgey.a	unsure	both empty gloss, unclear relation
 blest.v	blestit.x	same	blestit past participle of blest
@@ -203,7 +203,7 @@ bolg.v	bolgagh.a	same	bolgagh adjective from bolg belly
 bolg.v	bolgum.n	distinct	belly vs mouthful/dram, distinct lexeme
 bolg.v	molg.n	distinct	belly vs milt, different roots
 bolg.v	molgagh.a	distinct	belly vs milt-derived adjective
-bolg.v	volg.n	same	volg is lenited bolg belly
+bolg.v	volg.n	distinct	bolg.v is the verb 'roast, or raise blisters by fire' (B-166), but volg.n is a noun: 'yn volg' the belly (B-166, radical bolg.n) or the milt (M-121); roast-verb and belly/milt-noun are different lexemes. [cross-POS audit 2026-07-30]
 bolgagh.a	molgagh.a	distinct	bellied(belly) vs milt-derived
 bollag.n	mollag.n	distinct	cranium vs buoy/float
 bollan.n	pollan.n	distinct	wrasse/wort vs saddle cloth
@@ -214,7 +214,7 @@ booie.a	mooie.x	distinct	honour/victory vs abroad/offshore
 booie.x	mooie.x	distinct	honour/victory vs abroad/offshore
 bossan.n	possan.n	distinct	reed mace vs bunch/clique
 boult.n	voult.n	same	voult is lenited boult bolt
-boult.v	voult.n	same	voult is lenited boult bolt
+boult.v	voult.n	distinct	boult.v is the bolt verb (B-189, voult 'did bolt'); voult.n keys the M-section entry 'yn voult: the mutton' (M-115, lenited mohlt 'a mutton') - the B-section 'yn voult: the bolt' already belongs to boult.n - so bolt vs mutton. [cross-POS audit 2026-07-30]
 bra.n	braa.x	same	bra variant spelling of braa eternal
 braarey.a	vraarey.a	same	vraarey lenited braarey, of brother
 brah.v	brahee.a	same	brahee future tense of brah
@@ -223,13 +223,13 @@ brasn.v	brasnee.a	same	same brasn/incense verb family
 brasn.v	brasnee.x	same	same brasn/incense verb family
 brasn.v	brasney.v	same	same brasn/incense verb family
 brasn.v	brasnit.x	same	brasnit past participle of brasn
-breg.n	breig.v	same	entice/lie, same deceit root
+breg.n	breig.v	distinct	breg s.f. 'a lie' (B-218, = breag) and breig v. 'coax, endeavour to persuade' (B-229) are separate families with different meanings; a noun 'lie' and a verb 'coax' are distinct lexemes despite the shared root. [cross-POS audit 2026-07-30]
 breinn.v	breinnaghey.v	same	breinnaghey derives from breinn smelly
 brish.v	brishee.a	same	brishee future tense of brish
 briwnys.v	briwnysit.x	same	briwnysit past participle of briwnys
 broogh.n	brooinyn.n	same	brooinyn plural of broogh bank
 buinn.v	buinnagh.n	distinct	cut/harvest vs diarrhoea, unrelated
-buitch.v	wuitch.n	same	wuitch lenited buitch witch
+buitch.v	wuitch.n	distinct	buitch.v is buitçh v. "bewitch(ing)" (B-272), while wuitch.n is wuitçh s. "witch", the mutated form of the NOUN buitçh s. f. "a witch" (proper target buitch.n). [cross-POS audit 2026-07-30]
 bwoaill.v	bwoaillee.n	distinct	smite vs enclosure/ring, diff roots
 by.x	she.v	same	by/she both copula tense forms
 caarjys.n	chaarjys.n	same	c/ch mutation, blood relationship
@@ -262,7 +262,7 @@ caisht.n	chaisht.n	same	c/ch mutation, Easter
 caitnys.n	chaitnys.n	same	c/ch mutation, wilderness
 callin.n	challin.n	same	c/ch mutation, body/torso
 calmane.n	chalmane.n	same	c/ch mutation, dove/pigeon
-camm.a	chamm.v	same	c/ch mutation, crooked
+camm.a	chamm.v	distinct	camm.a is the adjective 'crooked' (C-37), but chamm.v is 'did bend', past of the verb camm 'bend' (C-38) whose own id camm.v exists; adjective and bend-verb are separate printed entries. [cross-POS audit 2026-07-30]
 cammag.n	chammag.n	same	c/ch mutation, cammag/hockey
 cammagh.v	chamm.v	same	both empty, likely camm(bend) family
 cammagh.v	chammagh.v	distinct	chammagh means as well/both
@@ -278,7 +278,7 @@ carnane.x	charnane.n	same	c/ch mutation, cairn/rocky hill
 carr.v	carragh.a	distinct	melody vs carious/rocky
 carr.v	carree.a	distinct	melody vs scud/lattice work
 carr.v	carree.n	distinct	melody vs scud/lattice work
-carr.v	charr.n	same	c/ch mutation, melody
+carr.v	charr.n	distinct	carr.v is the printed carr v. 'twist, twine, warp' (C-48), but charr.n is 'yn charr' = 'the tune' (C-55), the lenited form of the noun carr 'a tune'; twist-verb and tune-noun are different lexemes, so charr belongs with carr.n. [cross-POS audit 2026-07-30]
 carr.v	karr.v	same	c/k spelling variant, melody
 carragh.x	harrin.v	distinct	rocky vs would-come verb form
 carragh.x	harrin.x	distinct	rocky vs would-come verb form
@@ -303,13 +303,13 @@ cass.n	chass.n	same	Rigel likely named foot(cass)
 cass.n	gass.n	distinct	foot vs bunch/sprig/stalk
 cassagh.a	chassagh.a	same	c/ch mutation, footed/pedal
 cassan.n	chassan.n	same	c/ch mutation, path
-cast.x	chast.v	same	canonical c/ch mutation, cast
+cast.x	chast.v	distinct	cast.x is the pos-less printed cast, a variant of carit "twisted" (from cas "twist", C-48), while chast.v is "did quell or conquer", the mutated past of the different verb cast v. "quell, defeat" (C-74, proper target cast.v). [cross-POS audit 2026-07-30]
 castey.v	chastey.v	same	chastey is lenited castey, appease/beat back
 castey.v	gastey.a	distinct	castey=appease vs gastey=active/agile, unrelated
 cay.n	chay.n	same	chay lenited cay, mist/fog word family
 cay.n	kay.n	same	c/k spelling variant, both mean mist/fog
 cayrn.n	chayrn.n	same	chayrn lenited cayrn, horn/bugle
-cayrn.n	chayrn.v	same	verbal use of horn/bugle noun
+cayrn.n	chayrn.v	distinct	cayrn.n is 'a trumpet, a horn to blow, a bugle' s.m. (C-81), but chayrn.v is 'did blow the trumpet', past of the verb cayrn 'blow or sound the trumpet' whose own id cayrn.v exists. [cross-POS audit 2026-07-30]
 ceab.n	cheab.n	same	cheab lenited ceab, clod/lump
 ceau.v	cheau.v	same	same verb ceau, throw/cast/spend senses
 chainle.n	kainle.n	same	chainle lenited kainle, candle
@@ -343,19 +343,19 @@ cheu.n	geu.n	distinct	side vs gib-staff/pole, unrelated
 cheu.n	jeu.x	distinct	side vs of-them, unrelated
 chiartaghey.v	kiart.v	same	chiartaghey=correct, from kiart
 chiaull.n	kiaull.n	same	lenited pair, music
-chiaull.n	kiaull.v	same	music verb sense
+chiaull.n	kiaull.v	distinct	chiaull.n is "yn chiaull" s. "the clamour, noise; music", the mutated NOUN kiaull "clamour, noise, din" (proper target kiaull.n), while kiaull.v is the verb entry "make clamour or noise" (both K-82 but different entries). [cross-POS audit 2026-07-30]
 chied.a	kied.n	distinct	chied=first(adj) vs kied=permission(n)
 ching.a	king.n	distinct	chinng(ill) vs king(Headlands), unrelated
 ching.n	jing.v	distinct	ill vs crush/wedge, unrelated
 ching.n	king.n	distinct	ill vs Headlands, unrelated
 chingys.n	jing.v	distinct	disease vs crush/wedge, unrelated
 chiollee.a	hiollee.v	unsure	empty glosses, ambiguous root/sense
-chionn.a	kionn.v	same	tight/austere root, shared with kionn
+chionn.a	kionn.v	distinct	chionn.a is çhionn a. 'tight, fast, strait, speedy' (C-117), but kionn.v is 'buy, purchase' (K-93, whose past is chionn 'did buy'); tight-adjective and buy-verb are unrelated lexemes sharing only the mutated form. [cross-POS audit 2026-07-30]
 chionn.v	chionney.a	same	austere/clench, same tight-root family
 chionn.v	chionney.v	same	same tight-root family
 chionn.v	kionn.v	distinct	chionn is 'v. tighten, fasten'; kionn/kionnee is 'v. buy, purchase' - the 'tight-root' weld was wrong
 chionneyder.n	kionneyder.n	distinct	inflater/nut vs buyer, different roots
-chionnit.x	kionn.v	same	inflated/pressurized, tight-root family
+chionnit.x	kionn.v	distinct	chionnit.x keys the printed çhionnit pt. (C-117, s'çhionnit 'how tightened or straitened', from çhionn 'tight'); kionn v. (K-93) is 'buy, purchase' - tightened vs buy, the surface collision with kionnit 'bought' misled the note. [cross-POS audit 2026-07-30]
 chionnit.x	kionnit.x	distinct	inflated vs bought, different roots
 chirm.v	chirmit.x	same	chirmit=dried, from dry-root chirm
 chiu.v	hiu.x	distinct	heavy/foggy vs to-you, unrelated
@@ -378,15 +378,15 @@ chleeau.n	cleeau.n	same	lenited pair, breast/bosom
 chleiee.v	cleiee.x	same	lenited pair, harrow
 chleigh.n	cleigh.n	same	lenited pair, hedge
 chlein.a	clein.n	same	lenited pair, clan/harrows
-chlein.x	clein.n	same	lenited pair, clan/harrows
-chleiy.n	cleiy.x	same	dug/dig, same verb
+chlein.x	clein.n	distinct	The printed chlein entry is a cross-reference 'See chleayn' = 'did allure, incline, or entice' (C-147 entice family); clein.n is 'the clan, the surname' (C-154) - entice vs clan (the note's 'harrows' is yet another clein, C-145). [cross-POS audit 2026-07-30]
+chleiy.n	cleiy.x	unsure	chleiy.n is yn chleiy "the hedge" (lenited cleigh s.m., C-153), not "dug/dig" as the note claims; the printed bare cleiy is a variant headword under BOTH cleigh "a hedge" (s.m.) and cleigh "dig, delve, quarry" (v.), and cleiy.x is absent from cregeen.tsv, so the print cannot settle which cleiy entry the id names (hedge reading = same, dig reading = different lexeme). [cross-POS audit 2026-07-30]
 chleiy.v	cleiy.x	same	dug/dig, same verb
 chleragh.n	cleragh.n	same	lenited pair, cleric
 chleuin.n	cleuin.n	same	lenited pair, son-in-law
 chleuinys.n	cleuinys.n	same	lenited pair, relationship by marriage
 chliaght.v	chliaghtey.n	same	custom/accustom verb and noun form
 chliaght.v	cliaghtey.v	same	custom/accustom family
-chliaghtey.n	cliaghtey.v	same	custom/accustom family
+chliaghtey.n	cliaghtey.v	distinct	chliaghtey.n is "yn chliaghtey" s. "the custom, habit, or practice", the mutated NOUN cliaghtey s. m. "practice, habit, custom, fashion" (proper target cliaghtey.n), while cliaghtey.v is the separate verb entry (C-161). [cross-POS audit 2026-07-30]
 chlienney.a	clienney.a	same	lenited pair, of children
 chlin.v	clin.v	same	heard, cluinn(hear) preterite family
 chlioagagh.n	clioagagh.n	same	lenited pair, bulrushes
@@ -405,12 +405,12 @@ choair.x	coair.x	same	lenited pair, near/towards
 choamr.v	coamree.x	same	choamree=cover/clothe verb form
 choamrey.n	coamrey.n	same	lenited pair, clothes
 choan.n	coan.n	same	lenited pair, Hollow place name
-choar.n	coar.a	same	yn choar attested, twister/agreeable root
+choar.n	coar.a	distinct	choar.n is 'yn choar' the twister (C-188, radical coar s.f. 'a twister'), but coar.a is the adjective 'agreeable, sociable, civil, indulgent' (C-187); two distinct printed coar lexemes. [cross-POS audit 2026-07-30]
 choard.v	coard.v	same	lenited pair, agreed/covenanted
 choardail.n	coardail.v	same	lenited pair, agreement
 choau.n	coau.n	same	lenited pair, chaff/stubble
 choayl.n	coayl.n	same	lenited pair, lose
-choayr.n	coayr.a	same	yn choayr=the bittern, matches coayr
+choayr.n	coayr.a	distinct	choayr.n is yn choayr "the bittern" (bird noun, family C-194), but coayr.a is the adjective coayr "odd" (Num. iii. 48, family C-193); two unrelated lexemes. [cross-POS audit 2026-07-30]
 choigee.n	coigee.n	same	lenited pair, loom
 choirrey.n	coirrey.n	same	lenited pair, boiler/cauldron
 cholbagh.n	colbagh.n	same	lenited pair, heifer
@@ -425,7 +425,7 @@ choo.n	coo.n	same	yn choo=the greyhound, matches coo
 chooag.n	cooag.n	same	lenited pair, cuckoo
 chood.v	choodagh.n	same	cover-verb and cover-noun, same root
 chood.v	choodee.a	same	cover family, same root
-chood.v	coodagh.n	same	cover family, lenited
+chood.v	coodagh.n	distinct	chood.v is chood v. "did cover", past of the verb cood "cover" (C-232), while coodagh.n is the NOUN coodagh s. m. "a covering"; verb and derived noun are different entries/lexemes. [cross-POS audit 2026-07-30]
 chood.v	coodee.x	same	cover family, lenited
 choodagh.n	coodagh.n	same	lenited pair, cover/covering
 choodee.a	coodee.x	same	lenited pair, covered/covering
@@ -434,7 +434,7 @@ chooidsave.v	cooidsave.a	same	lenited pair, vouchsafe
 chooilleen.v	chooilleeney.n	same	fulfil verb and verbal-noun form
 chooilleen.v	cooilleen.n	same	fulfil/accomplish family, lenited
 chooilleen.v	cooilleeney.v	same	fulfil/achieve family, lenited
-chooilleeney.n	cooilleeney.v	same	fulfil/achieve verbal-noun, lenited
+chooilleeney.n	cooilleeney.v	distinct	chooilleeney.n is "e chooilleeney" s. "his fulfilment, his revenge", the mutated NOUN cooilleeney s. m. "fulfilment, revenge" (proper target cooilleeney.n), while cooilleeney.v is the verb entry "fulfilling, performing, recompensing" (C-238). [cross-POS audit 2026-07-30]
 chooilley.x	dy-chooilley.a	same	chooilley(all) embedded in dy-chooilley(every)
 chooin.v	cooin.n	same	lenited pair, help
 chooinaght.v	cooinaght.v	same	lenited pair, memorial/commemoration
@@ -442,8 +442,8 @@ chooinaghtyn.v	cooinaghtyn.v	same	lenited pair, remember/memory
 chooinsheanse.n	cooinsheanse.n	same	lenited pair, conscience
 chooish.n	cooish.n	same	lenited pair, affair/business
 choolley.n	coolley.n	same	yn choolley=door leaf/valve, matches
-choon.v	coon.a	same	lenited pair, confined/narrow
-chooney.n	cooney.a	same	chooney=lenited cooney(help), high-freq
+choon.v	coon.a	distinct	choon.v is choon "did help, aid, assist" (preterite of coon v. 'help', family C-246), but coon.a is coon "narrow, not wide" (a., family C-245); help verb conflated with the narrow adjective. [cross-POS audit 2026-07-30]
+chooney.n	cooney.a	distinct	chooney.n is 'yn chooney' = 'the help, aid, assistance' (C-246, lenition of cooney s.m. 'help'), but cooney.a is the printed cooney a. pl. 'narrow, strait' (C-245, plural of coon); help-noun and narrow-adjective are unrelated lexemes. [cross-POS audit 2026-07-30]
 chooneyder.n	cooneyder.n	same	lenited pair, helper/assistant
 choonlagh.n	coonlagh.n	same	lenited pair, straw/bedding
 choonlee.a	coonlee.a	same	lenited pair, of straw
@@ -475,7 +475,7 @@ chour.x	cour.x	same	for him vs for, compatible
 chouyr.n	couyr.n	same	help/cure, exact stem match
 chowr.v	chowree.n	unsure	both empty gloss, unclear relation
 chowr.v	cowree.a	distinct	chowr stem doesn't match cowree
-chowree.n	cowree.a	same	flummery, exact stem match
+chowree.n	cowree.a	distinct	chowree.n is "yn chowree" "the sowins" (cowree s. f. "sowins, flummery", C-281, proper target cowree.n), while cowree.a is cowree a. d. "of a mark or marks, or signifying", the genitive of cowrey "mark" (C-280). [cross-POS audit 2026-07-30]
 chowrey.n	cowrey.n	same	mark/token, exact stem match
 chowryn.n	cowryn.n	same	chattels, exact stem match
 choyrl.v	choyrlee.a	same	advise root plus suffix
@@ -489,12 +489,12 @@ chrackan.n	crackan.n	same	skin/hide, gloss matches
 chraghey.v	craghey.v	same	prey/depredate, compatible
 chragheyder.n	cragheyder.n	same	looter agent noun
 chraid.n	craid.n	same	mock/derision, compatible
-chraid.v	craid.n	same	mock/derision, compatible
+chraid.v	craid.n	distinct	chraid.v is chraid "did mock, deride" (preterite of the separate craid v. "mock, scoff" entry, id craid.v), but craid.n is the noun craid "mockery, scoffery, irony" (s.f.); verb form attached to the noun entry. [cross-POS audit 2026-07-30]
 chraidey.v	craidey.v	same	jeering, matches mock theme
 chraie.a	craie.a	same	earthen adj, exact stem match
 chraitnag.n	craitnag.n	same	bat, exact stem match
 chrammag.n	crammag.n	same	place-name Little Hill
-chramp.n	cramp.a	same	complex/plague, exact stem match
+chramp.n	cramp.a	distinct	chramp.n is 'yn chramp' = 'the plague' (C-295, lenition of cramp s.m. 'plague'), but cramp.a is the printed cramp a. 'intricate, complicated' (C-294); plague-noun and intricate-adjective are different lexemes. [cross-POS audit 2026-07-30]
 chratch.n	cratch.n	same	manger/rack, exact stem match
 chraue.n	craue.n	same	bone, exact stem match
 chraueeaght.n	craueeaght.n	same	devoutness, exact stem match
@@ -505,7 +505,7 @@ chreck.v	creck.v	same	sold/sale, compatible
 chreckeyder.n	creckeyder.n	same	seller agent noun
 chred.v	cred.v	same	believed/creed, compatible
 chred.v	creid.x	same	believe root, spelling variant
-chred.v	kred.n	same	k/c interchange, believe/creed
+chred.v	kred.n	distinct	chred.v is 'did believe or believed' (C-313, past of cred 'believe, give credit'), but kred.n is 'a grunt, a hem, the act of discharging the breath with force' s.m. (K-105), whose mutated form is 'yn chred'; 'creed' is a hallucination. [cross-POS audit 2026-07-30]
 chredjal.v	credjal.v	same	believe, gloss matches exactly
 chredjuagh.n	credjuagh.n	same	believer, exact stem match
 chredjue.n	credjue.n	same	belief, exact stem match
@@ -514,7 +514,7 @@ chreeagh.a	creeagh.a	same	boundary, exact stem match
 chreear.n	creear.n	same	sieve, exact stem match
 chreear.v	creear.n	same	sieve, exact stem match
 chreearey.v	creearey.v	same	sieve/pan, compatible
-chreen.v	creen.a	same	withered, exact stem match
+chreen.v	creen.a	distinct	chreen.v is chreen "did ripen, &c." (preterite of the separate creen v. "wither, ripen" entry, id creen.v), but creen.a is the adjective creen "ripe, withered"; verb form attached to the adjective entry. [cross-POS audit 2026-07-30]
 chreenaght.n	creenaght.n	same	wisdom, exact stem match
 chreestee.n	creestee.n	same	Christian, exact stem match
 chreesteeaght.n	creesteeaght.n	same	Eucharist/Communion, compatible
@@ -538,7 +538,7 @@ chronn.v	cron.x	distinct	double-n chronn not cron's match
 chronn.v	cronn.v	same	exact double-n stem match
 chronnaghey.v	cronnaghey.v	same	determine/detect, exact stem
 chronney.n	cronney.n	same	fate/portion, exact stem match
-chront.v	cront.n	same	predicament, exact stem match
+chront.v	cront.n	distinct	chront.v is 'did knot' (C-350), past of the verb cront 'knot' whose own id cront.v exists; cront.n is the noun 'a knot'; 'predicament' appears nowhere in either entry. [cross-POS audit 2026-07-30]
 chroo.n	croo.n	same	create/form, compatible
 chroo.v	croo.n	same	create/form, compatible
 chrosh.n	crosh.n	same	cross/crucifix, compatible
@@ -546,12 +546,12 @@ chrottag.n	crottag.n	same	curlew, exact stem match
 chrou.n	chrow.n	same	u/w spelling variant of band
 chrou.n	chrow.v	same	u/w spelling variant of band
 chrou.n	crouw.n	unsure	competing bush/band readings
-chrou.n	crow.v	same	band, u/w spelling variant
+chrou.n	crow.v	distinct	chrou.n is yn chrou "the horse-shoe; the iron circle of a wheel" (noun, C-357), but crow.v is the verb crow "hover" (C-360, inflections crowagh/crowee match the id); horseshoe noun conflated with the hover verb. [cross-POS audit 2026-07-30]
 chrout.n	crout.n	same	craftiness/fraud, exact stem
 chroutid.n	croutys.n	same	deceit, suffix spelling variant
-chrow.n	crow.v	same	band, exact stem match
+chrow.n	crow.v	distinct	chrow.n is 'yn chrow' = 'the bunch or bush of shrub growing on one stem' (C-359, lenition of crouw s.f.; a second yn chrow is variant of yn chrou 'the horse-shoe' C-357), but crow.v is the printed crow v. 'hover' (C-360); bush/horseshoe nouns and hover-verb are different lexemes. [cross-POS audit 2026-07-30]
 chrow.v	crow.v	same	band, exact stem match
-chroym.x	croym.a	same	bowed/bent, compatible
+chroym.x	croym.a	distinct	chroym.x is the printed variant of chroymm v. "did stoop or bow", past of the verb croymm "bow, bend, stoop" (proper target croymm.v), while croym.a is the ADJECTIVE croym "stooped/bent" (cf. s'croym "how stooped or bent forward"), both C-361 but different entries. [cross-POS audit 2026-07-30]
 chroymmey.v	croymmey.v	same	bow/crouch, exact stem match
 chruinn.v	cruinn.v	same	circular/round, exact stem match
 chruinnaghey.v	cruinnaghey.v	same	assemble, exact stem match
@@ -560,7 +560,7 @@ chruinney.n	cruinney.n	same	earth/globe, round theme
 chruinnid.n	cruinnid.n	same	roundness, exact stem match
 chruisht.n	cruishtin.x	same	pitcher, diminutive suffix variant
 chryss.n	cryss.n	same	belt/girdle, exact stem match
-chryss.v	cryss.n	same	belt/girdle, exact stem match
+chryss.v	cryss.n	distinct	chryss.v is chryss "did gird or bind with belt, tape, or girdle" (preterite of the separate cryss v. "gird" entry, id cryss.v), but cryss.n is the noun cryss "belt, tape, inkle, girdle" (s.f.); verb form attached to the noun entry. [cross-POS audit 2026-07-30]
 chryssey.v	cryssey.v	same	belt/gird, exact stem match
 chuir.x	chuirr.v	distinct	invited vs sowed net, r-doubling
 chuir.x	cuir.x	same	invite, gloss matches directly
@@ -572,7 +572,7 @@ chullee.n	cullee.n	same	equipment, exact stem match
 chullee.x	cullee.n	same	equipment, exact stem match
 chullyr.n	cullyr.n	same	colour, exact stem match
 chum.x	cumm.v	distinct	towards/for vs hold, different words
-chummal.n	cummal.v	same	dwell, compatible
+chummal.n	cummal.v	distinct	chummal.n is "yn chummal" s. "the holding or dwelling", the mutated NOUN cummal s. m. "a dwelling, a holding" (proper target cummal.n), while cummal.v is the verb entry "holding, dwelling, inhabiting" (C-390). [cross-POS audit 2026-07-30]
 chummaltagh.n	cummaltagh.n	same	inhabitant, exact stem match
 chummey.n	cummey.n	same	form/appearance, compatible
 chumr.v	cumr.v	same	exact stem match, no counter-evidence
@@ -597,8 +597,8 @@ chyrm.v	chyrmee.a	same	dry root plus future suffix
 chyrmee.x	hyrmagh.v	same	dry-related, thematic link
 clagh.v	claghagh.a	same	stone/stony adj
 clagh.v	claghey.v	same	stone/stone-throwing
-cleaiee.v	cleiee.a	same	harrow/copulate, vowel variant
-cleaiee.v	cleiee.n	same	harrow/copulate, vowel variant
+cleaiee.v	cleiee.a	distinct	cleaiee.v is the verb "harrow" (C-145), while cleiee.a is cleiee a. d. "of hedge or hedges", the genitive of cleigh "hedge" (C-153); the note's gloss-glue is a spurious spelling collision. [cross-POS audit 2026-07-30]
+cleaiee.v	cleiee.n	distinct	cleaiee.v is the verb 'harrow' (C-145, variant cleiee), but cleiee.n is the printed cleiee s. pl. 'hedges' (C-153); harrow-verb and hedges-noun are different lexemes. [cross-POS audit 2026-07-30]
 cleayn.n	cleaynee.a	same	entice, root plus suffix
 cleayn.v	cleaynee.a	same	entice, root plus suffix
 cleayn.v	cleaynit.x	same	enticed/coaxed, participle
@@ -611,7 +611,7 @@ coad.v	coadee.a	same	coad=protect/defend, coadee same family
 coad.v	coadit.x	same	coadit=protected, same protect family
 coadeyder.n	fer-choadee.n	same	Cregeen lists both as one entry: protector
 coadeyder.n	fer-choadee.x	same	Cregeen lists both as one entry: protector
-coair.x	coayr.a	same	Cregeen cross-lists coair/coayr, share near
+coair.x	coayr.a	distinct	coair.x is coair adv. "near, nigh" (C-184), while coayr.a is coayr a. "odd" (C-193, Num. iii. 48), whose printed variant spelling coair belongs to "odd", not "near". [cross-POS audit 2026-07-30]
 coair.x	goayr.n	distinct	goair is genitive of goayr, goat
 coard.v	coardail.n	same	agree/accord, same root
 coard.v	coardail.v	same	agree/accord, same root
@@ -621,16 +621,16 @@ condaig.n	condaigagh.a	same	contrary/stubborn, same root
 connaasagh.a	connysson.x	same	same Cregeen entry: taunting, scoffing
 connaasagh.n	connysson.x	same	same Cregeen entry: taunting, scoffing
 coo.n	goo.n	distinct	dog vs word; goo separate headword
-coodagh.n	coodee.x	same	cover family, same root
+coodagh.n	coodee.x	distinct	coodagh.n is the noun coodagh "a covering" (s.m., C-232), but coodee.x is the printed cha goodee entry, variant of cha good "not cover" (negative of the verb cood "cover", C-232); a verb form of 'cover' attached to the noun 'a covering'. [cross-POS audit 2026-07-30]
 coodee.x	coodit.x	same	cover family, verb+participle
 cooin.v	cooinit.x	same	remember/recollect family per Cregeen linkage
 cooinaght.n	cooinaghtyn.v	same	memory/remember, same Cregeen entry
 cooinaght.x	cooinaghtyn.v	same	memory/remember, same Cregeen entry
 cooinaghyn.n	cooiney.n	same	coin family, same Cregeen entry
-cooish.n	gooish.x	same	gooish is nyn-mutation of cooish
+cooish.n	gooish.x	distinct	cooish s.f. 'a cause, case, affair' (C-242), but gooish.x is "ny 'gooish" p.p. 'without him or it' (F-83, an elided form of fegooish 'without'), not a nyn-eclipsis of cooish; noun 'affair' and prepositional pronoun 'without him' are different lexemes. [cross-POS audit 2026-07-30]
 coon.v	coonee.a	distinct	coon=narrow vs coonee=helpful, homograph split
 coon.v	goon.n	distinct	narrow vs frock/gown, unrelated
-coonlagh.n	goonlagh.v	same	goonlagh is nyn-mutation of coonlagh, straw
+coonlagh.n	goonlagh.v	distinct	coonlagh.n is s. f. "straw" (C-247, whose real eclipsed form "nyn goonlagh" already feeds it), while goonlagh.v is the separate entry goonlagh v. "abluting washing" (family O-68, the g-prefixed form of oonlaghey "wash"). [cross-POS audit 2026-07-30]
 coonr.v	coonrey.n	same	barter/exchange, same root
 coonr.v	coonrey.x	same	barter/exchange, same root
 coont.v	coontee.a	same	count/reckon, same root
@@ -669,7 +669,7 @@ crouw.n	grouw.a	distinct	bunch vs grouw=gloomy/sulky
 croym.x	croymm.v	same	same Cregeen entry: bow, bend, stoop
 cuirraghyn.n	cuirrey.n	same	invitation family, shared entry
 cuirrit.x	cuirt.x	same	Cregeen cross-lists both senses
-cum.x	cummee.a	same	hold/dwell family
+cum.x	cummee.a	distinct	cum.x is cum/cumm v. 'hold, keep, retain, sustain' (C-390), but cummee.a spans two printed a.d. entries, 'of holding' (C-390) and 'of form or shape' (C-393, from cummey 'shape'), so the blanket merge conflates the shape lexeme with the hold verb. [cross-POS audit 2026-07-30]
 cur.v	hug.v	same	give verb + suppletive past tense
 cur.v	hug.x	distinct	hug.x is Cregeen's preposition ("pre. to. This word is used instead of gys"), not the verb; UD attests it 13/150
 curm.n	currym.n	same	same entry: charge/duty
@@ -697,12 +697,12 @@ doghanagh.n	s'doghanee.a	same	same entry: disordered/ill, comparative
 doll.v	foll.v	distinct	game net/go vs scythe, unrelated senses
 doll.v	gholl.v	same	both carry the 'go' sense
 doll.v	goll.v	same	both carry the 'go' sense
-doo.a	ghoo.n	same	ghoo bundles black sense matching doo
+doo.a	ghoo.n	distinct	doo.a is 'black, dark' (D-62), but ghoo.n is 'e ghoo' his word, his fame (G-121, lenited goo 'word'); the black lexeme's lenited entry is ghoo v. 'did blacken', not this noun. [cross-POS audit 2026-07-30]
 doo.a	goo.n	distinct	goo.n is purely word/voice, no black
 doo.v	dooin.v	distinct	black/place-name vs dooin=pronoun 'to us'
 doo.v	dooin.x	distinct	black/place-name vs dooin=pronoun 'to us'
-doo.v	dooys.x	same	both place-name compounds of doo, black
-doo.v	ghoo.n	same	ghoo bundles black sense matching doo
+doo.v	dooys.x	distinct	dooys (D-1) is 'give me, or give to me. The em. of dou' - the emphatic prepositional pronoun 'to me' - while doo.v is the verb 'blacken, darken' (D-62) whose future dooys merely collides; the note's 'place-name compounds' is fiction. [cross-POS audit 2026-07-30]
+doo.v	ghoo.n	distinct	doo.v is the verb doo "blacken, darken" (D-62, preterite ghoo "did blacken"), but ghoo.n is e ghoo "his word, his fame" (lenited goo 'word', family G-121); blacken verb conflated with the word noun. [cross-POS audit 2026-07-30]
 doo.v	goo.n	distinct	goo.n is purely word/voice, no black
 doobl.v	dooble.a	same	double, same root
 dooisht.v	dooishtagh.a	same	awake/vigilant, same entry
@@ -718,7 +718,7 @@ drein.n	grein.x	distinct	wren (bird) vs grein=encourage
 driagh.n	driaght.v	same	same Cregeen entry: chain
 driaght.n	ghriaght.n	same	ghriaght includes 'his chain' sense
 driaght.n	griaght.n	distinct	chain vs griaght=drove/herd
-driaght.x	ghriaght.n	same	ghriaght includes 'his chain' sense
+driaght.x	ghriaght.n	distinct	driaght is 'chain' (D-95: driaght v. 'chain', driagh/driaght s., with e ghriaght 'his chain' feeding driaght.n); ghriaght.n keys the G-section e ghriaght 'his group, or drove' (G-156, lenited griaght 'drove') - chain vs drove. [cross-POS audit 2026-07-30]
 driaght.x	griaght.n	distinct	chain vs griaght=drove/herd
 drine.n	ghrine.n	same	ghrine includes 'his thorn tree'
 drine.n	grine.n	distinct	thorn vs grine=grain/cereal
@@ -728,7 +728,7 @@ druight.n	gruight.n	same	Cregeen: gruight='or druight'
 druight.x	gruight.n	same	Cregeen: gruight='or druight'
 drunt.n	ghrunt.n	same	ghrunt includes 'his gum' sense
 drunt.n	grunt.n	distinct	gum vs grunt=ground/bottom
-dt'-egooish.x	n'egooish.x	same	egooish paradigm: without thee/him
+fegooish.x	n'egooish.x	same	egooish paradigm: without thee/him (rekeyed from dt'-egooish.x, particle-field regeneration)
 duillag.n	ghuillag.n	same	ghuillag includes 'his leaf' sense
 duillag.n	guillag.n	distinct	leaf/page vs guillag=leech
 e.x	eh.x	distinct	possessive vs personal pronoun, separate headwords
@@ -772,18 +772,18 @@ eign.v	eignagh.n	same	eignagh noun form of eign compel
 eign.v	n'eign.v	same	n'eign negates eign compel
 eignagh.a	n'eign.v	same	same compel/compelling family
 eignagh.n	n'eign.v	same	same compel family
-eill.v	feill.n	same	eill/feill both flesh, standard mutation
+eill.v	feill.n	distinct	The printed eill v. entry (E-55) is 'arm, fit with armour or arms' (the eilley 'armour' verb); feill (F-86) is 'flesh, butcher's meat' - the lenited flesh forms (dty eill) already map into feill.n, but the eill.v entry is the armour verb, not flesh. [cross-POS audit 2026-07-30]
 eilley.n	feilley.n	distinct	eilley armour vs feilley variant of feailley festival
 eiyr.v	feiyr.n	distinct	eiyr follow vs feiyr noise/din, different roots
 eiyr.v	n'eiyr.v	same	n'eiyr negates eiyr follow, forms match paradigm
 eiyrit.x	feiyrit.x	distinct	driven/followed vs noised/sounded
 ellan.a	shellan.n	distinct	island vs bee; hellan is lenited shellan
 ellan.n	shellan.n	distinct	island vs bee; hellan is lenited shellan
-endeilagh.n	fendeilagh.a	same	endeilagh is lenited fendeilagh defender
-enm.v	enmys.n	same	enmys/enm same "name" verb
+endeilagh.n	fendeilagh.a	distinct	endeilagh.n is dty endeilagh "thy defender" (noun, F-94), which belongs with the separate fendeilagh s.m. "a defender" entry (id fendeilagh.n), not with fendeilagh.a, the distinct bare adjective entry in the family. [cross-POS audit 2026-07-30]
+enm.v	enmys.n	distinct	enm v. 'name' (E-74), but enmys.n names the printed enmys s.m. 'as much as that it could be named, a little more than nothing', a lexicalized quantity noun; the matching verb entry is enmys v. 'name' (id enmys.v, a separate seed row), so this pair links the wrong enmys entry. [cross-POS audit 2026-07-30]
 enm.v	enmys.v	same	enmys/enm same "name" verb
 enmyn.n	ennym.n	same	enmyn is plural of ennym name
-enn.v	enney.n	same	dict headword "enn or enney" to know
+enn.v	enney.n	distinct	enn.v is Cregeen's enn v. "feel" (E-69, whose paradigm ennym/ennys feeds the id), while enney.n is enney s. m. "knowledge, as respects knowing one person from another" (E-73); the E-73 variant "enn, v. s. to know" already folds into enney.n, so the entries gloss different lexemes. [cross-POS audit 2026-07-30]
 ennee.a	enney.n	same	ennee "identical" listed as child of enney
 ennee.a	n'enn.v	distinct	n'enn negates enn "feel", unrelated to ennee/know
 enney.n	ennym.n	distinct	knowledge vs name, different words
@@ -928,9 +928,9 @@ gamman.n	ghamman.n	same	game, standard g/gh lenition
 gannidagh.n	ghannidagh.n	same	derisive, standard g/gh lenition
 gannidagh.n	s'ghannidagh.a	same	derisive, comparative mutated form
 gannidys.n	ghannidys.n	same	derision, standard g/gh lenition
-gannidys.n	ghannidys.v	same	derision, standard g/gh lenition
+gannidys.n	ghannidys.v	distinct	gannidys.n is the noun "mockery, scorn, derision", while ghannidys.v is the "e ghannidys" v. entry "his despising, scorning", the possessed form of the separate printed gannidys v. entry (proper target gannidys.v, which exists as its own id). [cross-POS audit 2026-07-30]
 gard.n	ghard.n	same	guard, standard g/gh lenition
-gard.n	ghard.v	same	guard, standard g/gh lenition
+gard.n	ghard.v	distinct	gard.n is the noun 'guard' s.m. (G-20), but ghard.v is 'cha ghard' did or didst not guard, negative past of the verb gard 'guard' whose own id gard.v exists. [cross-POS audit 2026-07-30]
 garmad.n	gharmad.n	same	garment, standard g/gh lenition
 garran.n	gharran.n	same	garron, standard g/gh lenition
 garrey.n	gharrey.n	same	bout/stint, standard g/gh lenition
@@ -943,11 +943,11 @@ geidey.n	gheidey.n	same	g/gh lenition pattern, empty glosses
 geill.n	gheill.v	same	Gell surname, mutated form
 geinnagh.n	geinnee.a	same	sand/sandy, same root
 geir.n	gheir.n	same	pain, standard g/gh lenition
-geir.n	gheir.v	same	pain, standard g/gh lenition
+geir.n	gheir.v	distinct	geir s. belongs to family G-187 (geyre 'sharp/sour': dy gheir 'of smart or pain', bainney geir 'sour milk'), but gheir.v is the printed gheir v. 'did crow' (G-52, lenited past of geirr 'crow'); sour/pain noun and crow-verb are unrelated lexemes. [cross-POS audit 2026-07-30]
 gennallys.n	ghennallys.n	same	cheerfulness, standard g/gh lenition
 genney.n	ghenney.n	same	dearth/famine, standard g/gh lenition
 genney.n	s'ghenney.a	same	scarce, comparative mutated form
-gerjagh.n	gerjee.x	same	comfort/comforting, same root
+gerjagh.n	gerjee.x	distinct	gerjagh.n is the NOUN gerjagh s. m. "comfort, consolation, happiness", while gerjee.x is the VERB gerj/gerjee "comfort, console" (G-53); the verb's conditional inflection gerjagh merely collides with the noun's spelling. [cross-POS audit 2026-07-30]
 gerjagh.n	gherjagh.n	same	comfort, standard g/gh lenition
 gerjaghey.v	gherjaghey.v	same	console, standard g/gh lenition
 gerjee.x	gherjee.v	same	comforting, standard g/gh lenition
@@ -963,9 +963,9 @@ ghiall.v	giall.v	same	promise/grant, standard g/gh lenition
 ghiallagh.v	giallaghey.v	same	bleach, standard g/gh lenition
 ghialleyder.n	gialleyder.n	same	bleacher, standard g/gh lenition
 ghiar.x	giar.v	same	cut, standard g/gh lenition
-ghiar.x	giare.a	same	cut and short, same root
+ghiar.x	giare.a	distinct	ghiar is printed as 'did cut. See yiare' (G-62, lenited past of the cut verb), but giare.a is giare a. 'short, momentary, brief' (G-63); the cut verb and the short adjective are different families and different lexemes. [cross-POS audit 2026-07-30]
 ghiarey.v	giarey.v	same	cut/clip, standard g/gh lenition
-ghiarrey.a	giarrey.v	same	cut/abridge, standard g/gh lenition
+ghiarrey.a	giarrey.v	distinct	ghiarrey.a is a. pl. "short", the mutated plural of giare "short" (G-63, proper target giarrey.a "short" a. pl.), while giarrey.v is the verb "cutting, hewing" (G-62). [cross-POS audit 2026-07-30]
 ghiastyllys.n	giastyllys.n	same	charity, standard g/gh lenition
 ghiat.n	giat.n	same	place name, standard g/gh lenition
 ghib.a	gib.n	same	beak/nib, standard g/gh lenition
@@ -975,14 +975,14 @@ ghimmagh.n	gimmagh.n	same	lobster, standard g/gh lenition
 ghioot.v	gioot.n	same	gift, standard g/gh lenition
 ghiootal.v	giootal.v	same	grant, standard g/gh lenition
 ghlare.n	glare.n	same	language, standard g/gh lenition
-ghlass.v	glass.a	same	glass/grey, mutated same headword
-ghlassey.v	glassey.a	same	lock/green, standard g/gh lenition
+ghlass.v	glass.a	distinct	ghlass.v is ghlass "did lock, or make sure" (preterite of glass v. "lock or make sure", family G-85), but glass.a is the adjective glass "pale, gray, pale blue; green, verdant" (G-84); lock verb conflated with the colour adjective. [cross-POS audit 2026-07-30]
+ghlassey.v	glassey.a	distinct	ghlassey.v is 'dy ghlassey' = 'to embrace, to lock' (G-85, from glass 'a lock'), but glassey.a is glassey a. pl. 'pale, gray, green' (G-84, plural of glass the colour); lock-verb and colour-adjective are different lexemes. [cross-POS audit 2026-07-30]
 ghleash.v	gleash.v	same	move/stir, standard g/gh lenition
 ghleck.v	gleck.v	same	wrestle, standard g/gh lenition
-ghlenney.v	glenney.a	same	clean/clarify, standard g/gh lenition
+ghlenney.v	glenney.a	distinct	ghlenney.v is "er ghlenney" "hath cleansed", the perfect of the verb glenney "cleansing" (proper target glenney.v, which exists), while glenney.a is a. pl. "clean, clear, pure, perfect", the plural of the adjective glen (both G-90 but different entries). [cross-POS audit 2026-07-30]
 ghlenneyder.n	glenneyder.n	same	cleaner, standard g/gh lenition
 ghlioon.n	glioon.n	same	knee, standard g/gh lenition
-ghlioon.v	glioon.n	same	knee, standard g/gh lenition
+ghlioon.v	glioon.n	distinct	ghlioon.v is 'did kneel' (G-97), past of the verb glioon 'kneel' whose own id glioon.v exists; glioon.n is the noun 'a knee, a crooked timber'. [cross-POS audit 2026-07-30]
 ghliooney.v	gliooney.v	same	kneel, standard g/gh lenition
 ghloo.n	gloo.n	same	close-set, standard g/gh lenition
 ghloyr.n	gloyr.n	same	glory, standard g/gh lenition
@@ -1008,7 +1008,7 @@ ghowys.v	gowys.x	same	take-family conditional, mutated form
 ghra.v	gra.v	same	say, standard g/gh lenition
 ghraih.n	graih.n	same	love/dear, standard g/gh lenition
 ghraihder.n	graihder.n	same	lover, standard g/gh lenition
-ghrain.x	grain.n	same	g/gh lenition pattern, empty glosses
+ghrain.x	grain.n	distinct	The printed ghrain entry is a variant of ghrainn 'did grave or carve' (G-138, radical grainn 'grave, carve'), but grain.n is 'oat-grist' s.m. (G-137); carving-verb and grist-noun are different lexemes. [cross-POS audit 2026-07-30]
 ghrainn.v	ghrainnee.v	same	engrave verb inflected forms
 ghrainn.v	grainnee.x	same	engrave/graving, same verb family
 ghrainnee.v	grainnee.x	same	engrave/graving, standard g/gh lenition
@@ -1020,7 +1020,7 @@ ghrees.v	greesagh.n	distinct	incite-verb vs cinder/ash noun
 ghrees.v	greesee.x	same	incite/aggravating, same verb family
 ghreesagh.n	greesagh.n	same	cinder/ash, standard g/gh lenition
 ghreesaghey.v	greesaghey.v	same	incite/agitate, standard g/gh lenition
-ghreim.v	ghreme.x	same	grip, spelling variant same word
+ghreim.v	ghreme.x	distinct	ghreim.v is ghreim v. "did hold, grasp, stitch" (the mutated verb), while ghreme.x is "e ghreme/e ghreim" s. "his hold, grasp, stitch, or bite", the possessed NOUN greim "a bite, hold" (proper target greim.n), both G-153 but different entries. [cross-POS audit 2026-07-30]
 ghreim.v	greim.n	same	grip/bite, standard g/gh lenition
 ghreinn.v	greinnee.x	same	urge/stir, same verb family
 ghreinnaghey.v	greinnaghey.v	same	encourage/abet, standard g/gh lenition
@@ -1045,8 +1045,8 @@ giall.v	giallee.a	distinct	promise vs bleaching, unrelated domains
 giare.a	kiare.n	distinct	short vs four, unrelated meanings
 giare.a	kiare.v	distinct	short vs four, unrelated meanings
 gientyn.v	yientyn.x	same	beget, soft-g mutated form
-gimman.n	imman.v	same	both mean drive
-gione.x	kione.n	same	head, voiced mutation of kione
+gimman.n	imman.v	distinct	gimman s. (G-73) is the radical of ghimman 'an admirer, a suiter or lover' (Ezk. xvi. 33); imman.v is 'drive' (I-12), and the participial gimman 'driving' entry in I-12 already feeds imman.v - lover vs drive. [cross-POS audit 2026-07-30]
+gione.x	kione.n	distinct	gione.x is my ny gione "about them, about whom" (p. p., family M-171, the mychione 'about' preposition-pronoun), but kione.n is the noun kione 'head' (s.m., with yn chione/nyn gione); a preposition entry conflated with the head noun, the hug-type failure. [cross-POS audit 2026-07-30]
 girp.n	gorp.n	unsure	both entries have empty gloss
 glack.n	glick.a	distinct	hollow/valley vs clever, unrelated
 glenn.v	glennee.a	same	cleaning verb family
@@ -1065,14 +1065,14 @@ guin.n	guinnagh.a	same	pain -> painful, regular derivation
 gusht.v	ushtaghey.x	distinct	whip vs irrigate/steep, unrelated
 haaue.n	saaue.n	distinct	idle vs saw (tool), unrelated
 haaue.n	taaue.n	same	idle/idle, h/t mutation pair
-haaue.n	taaue.x	same	idle/idle, h/t mutation pair
+haaue.n	taaue.x	unsure	There is no printed haaue headword: printed h-aaue forms divide across three radicals, e haaue 'his saw' (S-3, saaue), my haaue 'my safety' (S-19, saue), and ny haaue 'idle' (T-5, taau); taaue.x is the T-5 'idle' variant entry, so the equivalence holds only if haaue.n names the ny haaue/taau reading, which the print does not settle. [cross-POS audit 2026-07-30]
 haink.v	tar.v	same	came = suppletive past of come
 hannaght.x	tannaght.v	same	continue/abide, h/t mutation
 harree.x	sharree.a	distinct	over her vs foals/kine
 harree.x	tarree.a	distinct	over her vs girth adjective
 harroo.x	tarroo.n	distinct	over them vs bull/Taurus
 hast.v	tast.v	same	heeded/heed, h/t mutation
-hast.x	tast.v	same	heeded/heed, h/t mutation
+hast.x	tast.v	distinct	hast.x names the pos-less printed hast entry 'see hiast' (S-100, shast/shiast 'dry, sterile, barren, not giving milk'), but tast.v is 'heed, attend, notice, observe' (T-31), whose past hast 'did heed' has its own id hast.v. [cross-POS audit 2026-07-30]
 heill.v	sheillagh.n	distinct	supposed/imagined vs willow tree
 heose.x	seose.x	same	up/aloft, h/s mutation pair
 hey.n	tey.n	distinct	six/Yah vs tea, unrelated
@@ -1111,15 +1111,15 @@ iu.v	n'iu.v	same	drink, negated verb form
 jaagh.v	jaaghagh.a	same	smoke -> smoky
 jarrood.v	jarroodagh.x	same	forget -> forgetful
 jean.v	nee.v	same	do/make suppletive future tense
-jean.v	nee.x	same	do/make suppletive future tense
+jean.v	nee.x	distinct	jean.v is the irregular verb "do/make" (whose real future nee, J-19 "will or wilt do", already feeds jean.v as a closed-class form), while nee.x is the B-65 COPULA entry (the pos-less nee stub alongside "cha nee" "is not" and "dy nee" "that is, that were, that was") - the cur/hug failure mode. [cross-POS audit 2026-07-30]
 jean.v	ren.v	same	do/make suppletive past tense
 jeantagh.n	s'jeantee.a	same	doer, superlative/agent form
 jeean.a	yeean.n	distinct	earnest/diligent vs chicken
-jeeg.x	jeeig.v	same	ditch, spelling variants
+jeeg.x	jeeig.v	distinct	jeeg.x is the pos-less jeeg entry, Cregeen's printed variant of the noun jeeig s.f. 'a ditch, a moat, or drain' (whose id jeeig.n exists), but jeeig.v is the separate verb entry 'drain, ditch' (both J-30). [cross-POS audit 2026-07-30]
 jeeig.v	jeeigagh.a	same	ditch -> ditched
 jeh.x	sheh.n	distinct	preposition of vs hide/pelt
-jeih.a	yeih.x	same	ten, j/y mutation
-jeih.n	yeih.x	same	ten, j/y mutation
+jeih.a	yeih.x	distinct	The printed yeih entry (J-44) is a cross-reference 'See ny yeih' = ny-yeih adv. 'nevertheless, notwithstanding, howbeit' in the jeï 'after/behind' family; jeih.a is the numeral 'ten' (J-47) - nevertheless vs ten. [cross-POS audit 2026-07-30]
+jeih.n	yeih.x	distinct	yeih.x is the bare yeih entry (J-44), a see-reference to ny-yeih "nevertheless, notwithstanding, howbeit" in the yeï 'after' family, but jeih.n is the numeral jeih "ten" (J-47, e yeih "his ten"); 'nevertheless' conflated with 'ten'. [cross-POS audit 2026-07-30]
 jeï.x	yeï.x	same	after/behind, j/y mutation
 jiass.x	yiass.x	same	south, j/y mutation
 jioold.v	jiooldagh.a	same	discard -> nauseating/rejecting
@@ -1148,7 +1148,7 @@ leih.v	sleih.n	distinct	forgive vs people
 lhea.v	s'lhea.a	same	broader/broadest, comp of lhean
 lhee.v	sliee.v	distinct	doctor vs lap/lick
 lhiannoo.n	lhiennoo.a	same	child, genitive/plural form
-lhiannoo.n	lhiennoo.v	same	child, genitive/plural form
+lhiannoo.n	lhiennoo.v	distinct	lhiannoo.n is 'a child' (L-72, plural lhiennoo feeds it), but lhiennoo.v is the printed '<dy> lhiennoo' v. 'did surname, surnamed' (S-246, Mark iii. 16-17); child-noun and surname-verb are different lexemes. [cross-POS audit 2026-07-30]
 lhias.v	lhiasagh.n	same	amend -> amends/atonement
 lhias.v	lhiasee.a	same	amend -> amending
 lhiass.v	lhiassagh.v	distinct	need/profit vs allege lies sense
@@ -1190,9 +1190,9 @@ mo'ee.x	vo'ee.x	distinct	about her vs from her
 molg.n	volg.n	same	belly/milt, mutation pair
 moll.v	mollagh.a	distinct	deceive vs rough/rugged
 moll.v	mollee.n	distinct	deceive vs eyebrow noun
-mooar.v	smoo.a	same	big/biggest, comparative form
+mooar.a	smoo.a	same	big/biggest, comparative form (rekeyed from mooar.v: that id is the printed grudge/envy verb)
 mooaralagh.n	s'mooaralee.a	same	haughty person, superlative form
-mooin.n	vooin.x	same	urine/back, m/v mutation, overlap
+mooin.n	vooin.x	distinct	mooin.n is mooin s. "back" (M-136, "er e vooin" on his back), while vooin.x is fed by wooin p. p. "from us" (V-3), a prepositional pronoun; neither is the other's mutation (the urine verb is separately mooin.v). [cross-POS audit 2026-07-30]
 moyll.v	moyllee.a	same	praise -> commendatory
 moyrnagh.n	s'moyrnee.a	same	proud person, superlative form
 mwarree.n	warree.a	distinct	grandmother vs witty/crafty
@@ -1252,7 +1252,7 @@ oie.n	soie.v	distinct	night noun vs sit/set verb
 oie.n	soie.x	distinct	night noun vs sit/set verb
 olkyssagh.n	s'olkyssee.a	same	wicked family, comparative form
 ollagh.n	ollys.x	distinct	cattle noun vs hide-verb form
-ollay.n	ollee.a	same	cregeen: ollee is plural of ollay
+ollay.n	ollee.a	distinct	ollay.n is 'a swan' (O-46; its plural ollee is only an inflected form inside that entry), but the printed ollee a.d. entry that ollee.a names is 'of cattle' (O-43, genitive of ollagh 'cattle'). [cross-POS audit 2026-07-30]
 ollym.n	ollys.x	distinct	alum noun vs hide-verb form
 oltooan.v	oltooanagh.a	same	reproach verb and its adjective
 oltooan.v	oltooanagh.n	same	reproach verb and agent noun
@@ -1290,7 +1290,7 @@ saagh.n	taagh.v	distinct	vessel noun vs frequent/visit verb
 saaue.n	taaue.n	distinct	saw tool vs idle adjective
 saaue.n	taaue.x	distinct	saw tool vs idle adjective
 sack.n	tack.n	distinct	bag noun vs tax noun here
-sahll.n	saill.v	same	identical fat/blubber definition text
+sahll.n	saill.v	distinct	sahll.n is sahll "saim... the blubber of fish... grease" (s.m., S-7, with saill as its printed variant), but saill.v is the separate verb entry saill "salt" (v., S-10, inflections saillagh/saillym); the note's "identical fat/blubber definition" only holds for the S-7 variant, not the salt verb the id names. [cross-POS audit 2026-07-30]
 saill.v	saillee.x	distinct	salt/fat word vs 'she wants' auxiliary
 saill.v	saillin.x	distinct	salt/fat word vs 'we want' auxiliary
 saill.v	saillym.x	distinct	salt/fat word vs 'I want' auxiliary
@@ -1304,7 +1304,7 @@ saue.v	sauin.n	distinct	save verb vs Hollantide festival noun
 saveen.v	saveenagh.a	same	slumber verb, drowsy adjective
 saveen.v	saveenagh.n	same	slumber verb, one-who-slumbers noun
 saveen.v	saveenys.n	same	slumber verb, drowsiness noun
-sayntoilagh.n	sayntoilee.a	same	both glossed covetous
+sayntoilagh.n	sayntoilee.a	distinct	sayntoilagh.n is the s. m. entry "a covetous person" (person-noun), while sayntoilee.a is the printed sayntoilee a. entry, the idem/comparative of the ADJECTIVE sayntoilagh "covetous" (proper target sayntoilagh.a), both S-23 but different entries. [cross-POS audit 2026-07-30]
 scaan.n	≈.n	same	≈ is a ditto marker for scaan plural
 scap.v	scape.x	same	cregeen bundles escape/shield, variant link
 scar.v	scarree.a	same	separate verb, severance adjective
@@ -1328,7 +1328,7 @@ sharragh.n	tarragh.n	distinct	foal noun vs girth noun
 sharree.a	tarree.a	distinct	foal-plural vs girth adjective
 sheean.v	sheeanagh.a	same	noise verb, buzzing/clamorous adjective
 sheid.v	sheidee.a	same	blast/puff verb, blowing adjective
-sheillee.a	shellagh.x	same	cregeen cross-refs willow/sallow
+sheillee.a	shellagh.x	distinct	sheillee.a is sheillee "of salix or willow" (a. d., S-126, see sheillagh "salix, black willow or sally"), but shellagh.x is the printed shellagh entry of S-128, a variant of shell "imagine, suppose, conjecture" (v.); willow adjective conflated with the imagine verb. [cross-POS audit 2026-07-30]
 shickyr.a	shickyree.x	same	cregeen: comp./sup. of shickyr
 shickyr.v	shickyragh.v	same	make-sure verb, affirmative derived
 shickyr.v	shickyree.x	same	certain verb, comparative form
@@ -1396,12 +1396,12 @@ tann.v	thannee.x	distinct	tann abide vs thannee thin/shoal, unrelated
 tannys.n	thannee.x	distinct	tannys tenant vs thannee shoal, unrelated
 tasht.v	tashtee.a	same	tashtee is form of tasht treasure/store
 tast.v	tastagh.a	same	tastagh is adjectival form of tast heed
-tastey.n	tastid.x	same	both attention nouns from tast root
+tastey.n	tastid.x	unsure	tastey "notice, heed, observation" and tastid "sagacity, attention" are separate printed headwords (distinct -ey/-id derivatives, both s.m., T-31), yet the family apparatus marks e hastid as a variant of e hastey "his intellect, sagacity, heed, notice"; the print does not settle whether they are one lexeme or two. [cross-POS audit 2026-07-30]
 thollee.x	toallee.a	same	Cregeen lists toallee/thollee as one entry
 thoo.v	thooee.a	same	thooee is form of thoo thatch verb
 tilg.v	tilgee.a	same	tilgee is inflected form of tilg cast
 toig.x	toigg.v	same	toig/toigg spelling variant, understand
-toiggalagh.n	toiggaltagh.x	same	one Cregeen entry, spelling variant
+toiggalagh.n	toiggaltagh.x	unsure	toiggaltagh is printed only as a bare pos-less variant of toiggalagh between the s. m. entry "a person that understands" (= toiggalagh.n) and the comparative s'toiggaltagh a. "how knowing"; the print never says whether the variant names the person-noun or the adjective (the id's comp/sup forms s'toiggaltagh/s'toiggaltee suggest the adjective toiggalagh.a). [cross-POS audit 2026-07-30]
 torch.v	torchagh.n	same	torçh/torçhagh torment verb and noun
 torch.v	torchagh.v	same	torçh/torçhagh torment verb and verbal noun
 tost.a	tostagh.x	same	Cregeen single entry tost/tostagh, silent
