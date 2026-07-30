@@ -1,0 +1,259 @@
+headword	reason	detail
+e haal	ambiguous-ids	pos [Noun] ids [haal.n, taal.n]: her fork
+e haase	ambiguous-ids	pos [Noun] ids [aase.n, saase.n]: her growth
+e harroo	ambiguous-ids	pos [Noun] ids [arroo.n, tarroo.n]: her corn
+e hayrey	ambiguous-ids	pos [Adjective] ids [ayrey.a, shayrey.a]: of her father or fathers
+e vaaish	ambiguous-ids	pos [Noun] ids [vaaish.n, maaish.n]: his visage or face
+nyn maase	ambiguous-ids	pos [Noun] ids [maase.n, baase.n]: your, &c. visage
+e vaase	ambiguous-ids	pos [Noun] ids [baase.n, maase.n]: his death
+nyn maase	ambiguous-ids	pos [Noun] ids [maase.n, baase.n]: your, &c. death
+e vaaish	ambiguous-ids	pos [Noun] ids [vaaish.n, maaish.n]: of his death
+yn veinn	ambiguous-ids	pos [Noun] ids [beinn.n, meinn.n]: the pinnacle
+verr	ambiguous-ids	pos [Verb] ids [berr.v, verr.v]: did overtake or overtook;
+e vhow	ambiguous-ids	pos [Noun] ids [mhow.n, bhow.n]: his bow to shoot with
+e vhow	ambiguous-ids	pos [Noun] ids [mhow.n, bhow.n]: his prow
+yn vinnid	ambiguous-ids	pos [Noun] ids [binnid.n, minnid.n]: the rennet
+yn volg	ambiguous-ids	pos [Noun] ids [bolg.n, molg.n]: the belly
+ro vollagh	ambiguous-ids	pos [Adjective] ids [bollagh.a, mollagh.a]: too bare or too barely brought or gathered., This and preceding word, [ro vollagh, a. too rough] though spelled alike, are nearly in direct opposition
+yn voult	ambiguous-ids	pos [Noun] ids [boult.n, voult.n]: the bolt
+breeockle	ambiguous-ids	pos [Noun] ids [breeockle.n, bree-ockle.n]: a vowel
+nyn garr	ambiguous-ids	pos [Noun] ids [carr.n, garr.n]: your, &c. twist or turn
+nyn garr	ambiguous-ids	pos [Noun] ids [carr.n, garr.n]: your, &c. tune
+e hennid	ambiguous-ids	pos [Noun] ids [chennid.n, shennid.n]: his straitness, tightness, distress.
+corockle	ambiguous-ids	pos [Noun] ids [corockle.n, cor-ockle.n]: a consonant;
+deam	ambiguous-ids	pos [Verb] ids [deam.v, eam.v]: project or jut;
+ro ghoan	ambiguous-ids	pos [Adjective] ids [dhoan.a, ghoan.a]: too brown
+doll	ambiguous-ids	pos [Verb] ids [doll.v, foll.v]: blot, deface, erase;
+e ghriaght	ambiguous-ids	pos [Noun] ids [driaght.n, ghriaght.n]: his chain;
+e ghrine	ambiguous-ids	pos [Noun] ids [drine.n, ghrine.n]: his thorn tree;
+ro ghrineagh	ambiguous-ids	pos [Noun] ids [drineagh.n, ghrineagh.n]: too thorny
+deam	ambiguous-ids	pos [Verb] ids [deam.v, eam.v]: did cry out.
+e hellan	ambiguous-ids	pos [Noun] ids [ellan.n, shellan.n]: her island
+er varkiaghey	ambiguous-ids	pos [Verb] ids [farkiaghey.v, markiaghey.v]: hath, &c. waited
+folaue	ambiguous-ids	pos [Noun] ids [folaue.n, fo-laue.n]: a note of hand, a promissory note, a certificate or receipt under a person's hand, or from his hand;
+doll	ambiguous-ids	pos [Verb] ids [doll.v, foll.v]: did hide, hid or concealed
+ro ghoan	ambiguous-ids	pos [Adjective] ids [dhoan.a, ghoan.a]: too scarce
+e ghriaght	ambiguous-ids	pos [Noun] ids [driaght.n, ghriaght.n]: his group, or drove;
+e ghrine	ambiguous-ids	pos [Noun] ids [drine.n, ghrine.n]: his grain;
+ro ghrineagh	ambiguous-ids	pos [Noun] ids [drineagh.n, ghrineagh.n]: too grainy
+MacImshee	ambiguous-ids	pos [Noun] ids [macimshee.n, mac-imshee.n]: the son of discord or false peace
+eaghcheoy	ambiguous-ids	pos [Noun] ids [eagh-cheoy.n, eaghcheoy.n]: sciatic, rheumatism [lit. ‘mad horse’]
+cherr	ambiguous-ids	pos [Verb] ids [cherr.v, kerr.v]: did punish;
+mackewyl	ambiguous-ids	pos [Noun] ids [mackewyl.n, mac-kewyl.n]: a kelson or keelson.
+chionn	ambiguous-ids	pos [Verb] ids [chionn.v, chionn.a, kionn.v]: did buy, bought
+coloayrt	ambiguous-ids	pos [Verb] ids [co-loayrt.v, coloayrt.v]: conversing;
+coloayrtagh	ambiguous-ids	pos [Noun] ids [co-loayrtagh.n, coloayrtagh.n]: converser;
+coloayrtys	ambiguous-ids	pos [Noun] ids [co-loayrtys.n, coloayrtys.n]: conversation;
+e vaase	ambiguous-ids	pos [Noun] ids [baase.n, maase.n]: his cattle or kine
+e vaaish	ambiguous-ids	pos [Noun] ids [vaaish.n, maaish.n]: of his cattle., See Exod. xiii. 12, where the word is in its radical state:
+er varkiaghey	ambiguous-ids	pos [Verb] ids [farkiaghey.v, markiaghey.v]: [hath, &c.] rode or ridden
+yn veinn	ambiguous-ids	pos [Noun] ids [beinn.n, meinn.n]: the meal
+yn vinnid	ambiguous-ids	pos [Noun] ids [binnid.n, minnid.n]: the minute
+yn voult	ambiguous-ids	pos [Noun] ids [boult.n, voult.n]: the mutton
+yn volg	ambiguous-ids	pos [Noun] ids [bolg.n, molg.n]: the milt
+ro vollagh	ambiguous-ids	pos [Adjective] ids [bollagh.a, mollagh.a]: too rough
+mooireerey	ambiguous-ids	pos [Noun] ids [mooir-eerey.n, mooireerey.n, mooireerey.x]: a billow; billows, the rising of the sea by wind, the motion made on standing corn by wind
+mooirjeenagh	ambiguous-ids	pos [Adjective] ids [mooir-jeenagh.a, mooirjeenagh.a]: murky, dark, gloomy, of a sea colour, cloudy, looking for rain, watery
+myrragh	ambiguous-ids	pos [Adverb] ids [myr-ragh.x, myrragh.x]: as like, as would, as were
+e hobbyr	ambiguous-ids	pos [Noun] ids [obbyr.n, tobbyr.n]: her work
+e hoor	ambiguous-ids	pos [Noun] ids [oor.n, toor.n]: her hour
+e haase	ambiguous-ids	pos [Noun] ids [aase.n, saase.n]: his mean or method
+e hack	ambiguous-ids	pos [Noun] ids [sack.n, tack.n]: his sack
+e harmane	ambiguous-ids	pos [Noun] ids [sharmane.n, tharmane.n]: his sermon
+e harragh	ambiguous-ids	pos [Noun] ids [sharragh.n, tarragh.n]: his foal
+e hellan	ambiguous-ids	pos [Noun] ids [ellan.n, shellan.n]: his bee
+e hennid	ambiguous-ids	pos [Noun] ids [chennid.n, shennid.n]: his seniority or old age
+e hayrey	ambiguous-ids	pos [Adjective] ids [ayrey.a, shayrey.a]: of his sister;
+slaadaah	ambiguous-ids	pos [Verb] ids [slaa-daah.v, slaadaah.v]: painting
+asslaanid	ambiguous-ids	pos [Noun] ids [ass-laanid.n, asslaanid.n]: pravity, not in a perfect state
+asslaynt	ambiguous-ids	pos [Noun] ids [ass-laynt.n, asslaynt.n]: out of health, sickness, disease, illness, disorder;
+sursmooinaght	ambiguous-ids	pos [Noun] ids [sursmooinaght.n, sur-smooinaght.n]: consideration
+hoar	ambiguous-ids	pos [Verb] ids [soar.v, toar.v]: smelled, did smell;
+hoo	ambiguous-ids	pos [Verb] ids [soo.v, thoo.v]: did soak or suck up;
+e hooder	ambiguous-ids	pos [Noun] ids [sooder.n, thooder.n]: his soaker
+e hack	ambiguous-ids	pos [Noun] ids [sack.n, tack.n]: his tax
+e harragh	ambiguous-ids	pos [Noun] ids [sharragh.n, tarragh.n]: his girth
+e harroo	ambiguous-ids	pos [Noun] ids [arroo.n, tarroo.n]: his bull
+e haal	ambiguous-ids	pos [Noun] ids [haal.n, taal.n]: his adze
+e harmane	ambiguous-ids	pos [Noun] ids [sharmane.n, tharmane.n]: his alarm
+hoo	ambiguous-ids	pos [Verb] ids [soo.v, thoo.v]: did thatch or thatched;
+e hooder	ambiguous-ids	pos [Noun] ids [sooder.n, thooder.n]: his thatcher
+hoar	ambiguous-ids	pos [Verb] ids [soar.v, toar.v]: did dung, or dunged
+e hobbyr	ambiguous-ids	pos [Noun] ids [obbyr.n, tobbyr.n]: his font
+e hoor	ambiguous-ids	pos [Noun] ids [oor.n, toor.n]: his tower;
+beaghey	apparatus-gloss	beaghey.n: food, victuals, sustenance | [‘living’]
+bolgum	apparatus-gloss	bolgum.n: a mouth full of liquid; a corruption of beeal-gum; <pl. 71>[change -agh to -ee; but that does not belong here] | the mouthful
+brackan	apparatus-gloss	brackan.n: a brindle; | a small piece ploughed in a field;, [cf. injeig]
+e waag	apparatus-gloss	baag.n: his bowling stone<s> | his hut or cottage
+crooinney	apparatus-gloss	crooinney.n: creation, the earth. This orthography is used | your, &c. creation of earth, <a> globe, sphere, orb
+dall	apparatus-gloss	dall.v: [and cf. doll, dolley ‘blind’] | did dazzle or dazzled;
+drigagh	apparatus-gloss	drigagh.a: under enchantment [cf. druaight] | watery, dropping water
+dy	apparatus-gloss	dy.x: The word dy is a particle used in composition before adjectives, to make them adverbs, as nearly every adjective can be made an adverb by placing dy before it., For sake of abridging the work I have only inserted a few, yet the reader may understand how they are made, by the following | that or there., I think this word, as used in composition, to be adverbial; as in er aggle dy bee (lest that); er aggle dy beagh (for fear that be); or (for fear there be); dy row (that was); (there was); (that be); (be as that); | to;, when placed before verbs is always to; as, dy aagail (to leave); dy aarlaghey (to cook); dy arraghey (to shift); &c.; pronounced dhe | if;, dy beagh eh (if he were); dy raghin, or, as it is spoken, dy rhoin (if I went); dy n'aasagh oo mooar (if thou wouldst grow big) | of, when placed before substantives, as, lane dy arroo (full of corn); laad dy ooir (a load of earth); kuse dy hollan (a quantity of salt), &c.; there may be exceptions nevertheless; as, veih boayll dy boayl, [1]
+eaisht	apparatus-gloss	eaisht.v: hark, listen, hearken; <pl. -aghyn;> | did listen, harkened, listened
+feeagh	apparatus-gloss	feeagh.n: a raven; | not worth, good for nothing. See also cha neeu., This word is written nieeagh ([=] would wash) in Jer. xiii. 10
+festal	apparatus-gloss	festal.v: sticking, <adhesive> [adhering] | hath, &c., stuck
+vowyms	apparatus-gloss	gowyms.x: will I get[?];, em | See goyms.
+now	apparatus-gloss	now.x: will they, you &c. get[?] | wilt thou get[?]., [< now oo]; A contraction of now uss, wilt thou get[?]; em
+gioalteyr	apparatus-gloss	gioalteyr.n: the mortgagee, one who takes a pledge, &c. mortgage lender, pawnbroker | his taker of pawn, pledge, or mortgage<e>
+jeu	apparatus-gloss	jeu.x: wilt thou go or come[?], (a contraction of jig oo (sic: sc. jed oo)), | of them, of those, these;
+jeebinagh	apparatus-gloss	jeebinagh.a: of network | too much [in] deepings, too much in mesh or net work
+jiulean	apparatus-gloss	jiulean.n: a sojourner, a person that stays but a day or two, as the word would indicate, a cotler, or tenant; | his sojourner; pl. -ee [pl. of jiuleanagh]
+keilleig	apparatus-gloss	keilleig.n: an enclosure belonging to a church or chapel | a fish called kellack or kellag, [neither is in OED or EDD; probably Manx English, from Manx];
+keirn	apparatus-gloss	keirn.n: the round [sc. rowan] tree, the mountain ash, a berry of its fruit | a kind of bird
+mian	apparatus-gloss	mian.n: appetite, eager wish for some thing, a fond or hankering desire | Matthew, Matthias., The both names are so called according to the old phrase: “Laa'l Mian carragh skaa yn arroo sy n'ouyr, as marroo ny eayin sy n'arragh.” [St. Matthew's Day scurvy sheds the corn in the autumn, and kills the lambs in the spring.] The feast of St. Matthias is held on the 25th of February, and that of St. Matthew on the 21st of September
+moost	apparatus-gloss	moost.v: rouse, hastily or suddenly start<ing> out of a quiet posture; | did rouse, sally or rush;
+my	apparatus-gloss	my.x: if, suppose that, allow that | before; | my, mine, me., It is always sounded mhe or mey | [cf. mysh]
+pyle	apparatus-gloss	pyle.n: a sharp pointed iron or ferrule on an arrow | an emeroid [i.e. haemorrhoid, pile];
+saaue	apparatus-gloss	saaue.n: a saw | my safety;, [Despite Cregeen's link with saue, the quotation properly belongs under taaue ‘idleness, rest’.]
+sharmane	apparatus-gloss	sharmane.n: a sermon | [?]
+sheel	apparatus-gloss	sheel.v: filter, strain, sile, &c.; | filtered, did filter, did sneak away, | [sobered, did] sober;
+sheillee	apparatus-gloss	sheillee.a: of salix or willow; <Isaiah xliv. 4.>; See sheillee. | of sallow or sallix
+ny haaue	apparatus-gloss	taaue.n: idle. | a squeam [not in OED in this sense ? = nausea] or qualm; a reach in vomiting
+tast	apparatus-gloss	tast.v: heed, attend, notice, observe; | not heed, or not <led to> be mindful, or pay attention to;
+aare.v	apparatus-pos-id	table pos is the raw apparatus "<v. to come> [pre.]"; the correction names the class
+anvennick.a	apparatus-pos-id	table pos is the raw apparatus "a[dv]."; the correction names the class
+aw.v	apparatus-pos-id	table pos is the raw apparatus "<v.>[a.]"; the correction names the class
+barrey-laue.n	apparatus-pos-id	table pos is the raw apparatus "s. <f.>"; the correction names the class
+barrey-queeylagh.n	apparatus-pos-id	table pos is the raw apparatus "s. <f.>"; the correction names the class
+beggan.v	apparatus-pos-id	table pos is the raw apparatus "<v>[a.]"; the correction names the class
+bentyn.v	apparatus-pos-id	table pos is the raw apparatus "<ad>v."; the correction names the class
+braaragh.a	apparatus-pos-id	table pos is the raw apparatus "a<dv>."; the correction names the class
+by-lioar.v	apparatus-pos-id	table pos is the raw apparatus "<ad>v."; the correction names the class
+by-loys.v	apparatus-pos-id	table pos is the raw apparatus "<ad>v."; the correction names the class
+c'red.x	apparatus-pos-id	table pos is the raw apparatus "<adv.>[pro.]"; the correction names the class
+c'woad.a	apparatus-pos-id	table pos is the raw apparatus "<adv.>[a., pro.]"; the correction names the class
+chappee.a	apparatus-pos-id	table pos is the raw apparatus "<a. d.>"; the correction names the class
+chied.a	apparatus-pos-id	table pos is the raw apparatus "<adv.>[a.]"; the correction names the class
+chryss.v	apparatus-pos-id	table pos is the raw apparatus "<v.>[s.]"; the correction names the class
+commee.n	apparatus-pos-id	table pos is the raw apparatus "[s.]<a>."; the correction names the class
+cre-erbee.x	apparatus-pos-id	table pos is the raw apparatus "<adv.>[pro.]"; the correction names the class
+cre-saillym.x	apparatus-pos-id	table pos is the raw apparatus "<adv.>[pro.]"; the correction names the class
+cre-sailt.x	apparatus-pos-id	table pos is the raw apparatus "<adv.>[pro.]"; the correction names the class
+cre-silliu.x	apparatus-pos-id	table pos is the raw apparatus "<adv.>[pro.]"; the correction names the class
+cre-theihll.x	apparatus-pos-id	table pos is the raw apparatus "<adv.>[pro.]"; the correction names the class
+cre-vel.x	apparatus-pos-id	table pos is the raw apparatus "<adv.>"; the correction names the class
+cre-wheesh.a	apparatus-pos-id	table pos is the raw apparatus "<adv.>[a.]"; the correction names the class
+cre-whelleen.a	apparatus-pos-id	table pos is the raw apparatus "<adv.>[a.]"; the correction names the class
+cre-woad-share.a	apparatus-pos-id	table pos is the raw apparatus "<adv.>[a., pro.]"; the correction names the class
+cre-woad-sloo.a	apparatus-pos-id	table pos is the raw apparatus "<adv.>[a., pro.]"; the correction names the class
+cre-woad-smoo.a	apparatus-pos-id	table pos is the raw apparatus "<adv.>[a., pro.]"; the correction names the class
+cre-woad.a	apparatus-pos-id	table pos is the raw apparatus "<adv.>[a., pro.]"; the correction names the class
+creedlagh.v	apparatus-pos-id	table pos is the raw apparatus "<s. m.>[v.]"; the correction names the class
+cur-haart.v	apparatus-pos-id	table pos is the raw apparatus "<s. f.>[v.]"; the correction names the class
+cur-mood.x	apparatus-pos-id	table pos is the raw apparatus "<p.> [i.]"; the correction names the class
+cur-volley-da.a	apparatus-pos-id	table pos is the raw apparatus "<d. a.>"; the correction names the class
+dalk.v	apparatus-pos-id	table pos is the raw apparatus "[ad?], v."; the correction names the class
+darragh.a	apparatus-pos-id	table pos is the raw apparatus "<a. d.>"; the correction names the class
+erinys.v	apparatus-pos-id	table pos is the raw apparatus "<s>v."; the correction names the class
+faasaag.v	apparatus-pos-id	table pos is the raw apparatus "<v>[s]."; the correction names the class
+fir-vraeuey.a	apparatus-pos-id	table pos is the raw apparatus "<a. d.>[a. pl.]"; the correction names the class
+fo-raad.a	apparatus-pos-id	table pos is the raw apparatus "a[dv]."; the correction names the class
+foddey-farraghtyn.a	apparatus-pos-id	table pos is the raw apparatus "a<dv>."; the correction names the class
+foddey.v	apparatus-pos-id	table pos is the raw apparatus "<v>[a]."; the correction names the class
+jerlyn.a	apparatus-pos-id	table pos is the raw apparatus "<a.>"; the correction names the class
+keeadoo.a	apparatus-pos-id	table pos is the raw apparatus "a<dv>."; the correction names the class
+lhiattee-ry-lhiattee.n	apparatus-pos-id	table pos is the raw apparatus "<s.>[adv.]"; the correction names the class
+liass.v	apparatus-pos-id	table pos is the raw apparatus "<ad>v."; the correction names the class
+martar.v	apparatus-pos-id	table pos is the raw apparatus "<v>[s]."; the correction names the class
+mastee.a	apparatus-pos-id	table pos is the raw apparatus "<pt.>[a. d.]"; the correction names the class
+mow.v	apparatus-pos-id	table pos is the raw apparatus "<v.>[a.]"; the correction names the class
+neeal.v	apparatus-pos-id	table pos is the raw apparatus "<v.>[adv.]"; the correction names the class
+neeilley.v	apparatus-pos-id	table pos is the raw apparatus "<v>[s]."; the correction names the class
+nurrys.x	apparatus-pos-id	table pos is the raw apparatus "<adv.>"; the correction names the class
+nyrrys.v	apparatus-pos-id	table pos is the raw apparatus "<v.>"; the correction names the class
+obbee.n	apparatus-pos-id	table pos is the raw apparatus "[s.]<a. d. of>"; the correction names the class
+preissal.v	apparatus-pos-id	table pos is the raw apparatus "<v.>[a.]"; the correction names the class
+rieau.n	apparatus-pos-id	table pos is the raw apparatus "<s. m.>[adv.]"; the correction names the class
+saaseagh.a	apparatus-pos-id	table pos is the raw apparatus "a[dv]."; the correction names the class
+shlaiss.v	apparatus-pos-id	table pos is the raw apparatus "<ad>v."; the correction names the class
+smeireeagh.a	apparatus-pos-id	table pos is the raw apparatus "a. [?]"; the correction names the class
+spooyt.n	apparatus-pos-id	table pos is the raw apparatus "<a>[s]."; the correction names the class
+tappagh.a	apparatus-pos-id	table pos is the raw apparatus "a. [?]"; the correction names the class
+wardoonagh.n	apparatus-pos-id	table pos is the raw apparatus "s. <a.>"; the correction names the class
+an	no-single-pos	pos [] ids [an.n, an.x]: when used as a prefix in composition, signifies un-, (English)
+nee	no-single-pos	pos [] ids [nee.x, nee.v]: 
+breen	no-single-pos	pos [] ids [breen.n, breen.x]: a
+coonrey	no-single-pos	pos [] ids [coonrey.x, coonrey.n]: v,
+coontey	no-single-pos	pos [] ids [coontey.x, coontey.n]: v,
+yn chullee	no-single-pos	pos [] ids [chullee.n, chullee.x]: the tackle, furniture, or apparatus to work any thing
+cummey	no-single-pos	pos [] ids [cummey.n, cummey.v, cummey.x]: 
+curm	no-single-pos	pos [] ids [curm.n, curm.x]: enjoin<ed>, v. id;
+dooin	no-single-pos	pos [] ids [dooin.x, dooin.v]: to us, for us, The words hooin, rooin, and dooin are all to us, but used differently; as, cur dooin nyn arran (give us our bread), or rather, give to us our bread. Cur hooin eh (give it to us). Jannoo rooin (doing to us), &c
+diu	no-single-pos	pos [] ids [diu.x, diu.v]: for you, to you
+gerrey	no-single-pos	pos [] ids [gerrey.x, gerrey.n]: See jerrey.
+harree	no-single-pos	pos [] ids [harree.x, sharree.a]: over her;
+harrin	no-single-pos	pos [] ids [harrin.v, harrin.x]: over us;
+hiu	no-single-pos	pos [] ids [chiu.v, hiu.x]: to you or ye;
+jeear	no-single-pos	pos [] ids [jeear.x, jeear.n]: 
+jin	no-single-pos	pos [] ids [jin.v, jin.x]: of us; -yn or jeeyn, id. em.;
+j'iu	no-single-pos	pos [] ids [j'iu.v, j'iu.x]: of ye or you;, perhaps a contraction of jeh-shiu;
+juail	no-single-pos	pos [] ids [juail.x, juail.v]: deprivation, total loss
+kied	no-single-pos	pos [] ids [kied.n, kied.x]: a
+losht	no-single-pos	pos [] ids [losht.n, losht.v, losht.x]: burnt, burned
+yn villey	no-single-pos	pos [] ids [billey.n, milley.x]: See yn vhille.
+mooin	no-single-pos	pos [] ids [mooin.n, mooin.v, mooin.x]: about us, or mounted on us
+naisht	no-single-pos	pos [] ids [naisht.v, naisht.x]: espoused, promised in marriage, bargained to marry
+ny	no-single-pos	pos [] ids [ny.x, ny-adv]: a prefix or particle used in composition, and when prefixed to adjectives makes the comparative <case>[degree]; as, ny share (better); ny saa (younger), &c.; and when prefixed to other words signified, literally, a, in English; as in ny vud (among); ny chour (for him), but more literally it would be (a for him); ny hrooid literally (a through him)
+ny	no-single-pos	pos [] ids [ny.x, ny-adv]: the,, the article used before plural nouns; it is also used before feminine singular nouns in the genitive or ownership case.
+boallagh	no-single-pos	pos [] ids [boallagh.v, boallagh.x]: See bollagh.
+roo	no-single-pos	pos [] ids [roo.x, roo.n]: to them, with them, unto them;
+scelt	no-single-pos	pos [] ids [scelt.v, scelt.x]: cloven, split, bursted
+hast	no-single-pos	pos [] ids [hast.x, hast.v]: See hiast.
+shuit	no-single-pos	pos [] ids [shuit.x, shuit.n]: sued, prosecuted
+scaa	no-single-pos	pos [] ids [scaa.n, scaa.x]: shed
+kiap snapperal	no-single-pos	pos [] ids [kiap-snapperal.n, kiap-snapperal.x]: (a stumbling block)
+veih	no-single-pos	pos [] ids [meih.n, veih.x]: from, from him;
+blass	pos-unmatched	pos [Verb] ids [blass.n, blass-2]: 
+breim	pos-unmatched	pos [Noun] ids [breim-1, breim.v]: posterior flatulency
+connaasagh	pos-unmatched	pos [Verb] ids [connaasagh.a, connaasagh.n]: taunting, scoffing, disdainfully sneering, or teasing
+corm	pos-unmatched	pos [Adjective] ids [corm.x, corm.v, corm.n]: equal, equivalent, even, up to, (a contraction of corrym)
+dooyt	pos-unmatched	pos [Noun] ids [dooyt-1, dooyt.v]: a doubt;
+eam	pos-unmatched	pos [Noun] ids [eam-1, eam.v]: call, cry, shout;
+farvish	pos-unmatched	pos [Noun] ids [farvish-1, farvish.v]: a forfeit., Far from false, and vish from bish;
+feayr	pos-unmatched	pos [Verb] ids [feayr.a, feayr-v-1]: cool, make cold;
+foddyr	pos-unmatched	pos [Noun] ids [foddyr-1, foddyr.v]: fodder
+greim	pos-unmatched	pos [Verb] ids [greim.n, greim.x]: bite, hold;
+guin	pos-unmatched	pos [Verb] ids [guin.n, guin.x]: to pain or give pain;
+jaagh	pos-unmatched	pos [Noun] ids [jaagh-1, jaagh.v]: smoke;
+neeal	pos-unmatched	pos [Adverb] ids [neeal.v, neeal.n]: in a swoon or faint
+stholl	pos-unmatched	pos [Noun] ids [stholl-1, stholl.v]: a stall, a station
+stoyr	pos-unmatched	pos [Noun] ids [stoyr-1, stoyr.v]: store, treasure;
+agh	single-id-attach	pos [] onto agh.x: -ing, -ly, -ous, &c., when used as a postfix in composition means
+baarit	single-id-attach	pos [] onto baarit.x: spent
+baarit	single-id-attach	pos [] onto baarit.x: made bare
+vare	single-id-attach	pos [] onto bare.x: See vaare.
+ny bare	single-id-attach	pos [] onto bare.x: better
+ro veg	single-id-attach	pos [] onto veg.x: too little
+ceabbagh	single-id-attach	pos [Noun] onto ceabbagh.a: land is so called the second year after being ploughed,, from lea; perhaps in consequence of its rising in clods
+creaghit	single-id-attach	pos [] onto creaghit.x: furrowed
+creaghit	single-id-attach	pos [] onto creaghit.x: stacked
+cuirrit	single-id-attach	pos [] onto cuirrit.x: bidden, invited
+cuirrit	single-id-attach	pos [] onto cuirrit.x: sown
+cummit	single-id-attach	pos [] onto cummit.x: held, stopt
+cummit	single-id-attach	pos [] onto cummit.x: formed, modelled, hewn;
+custhee	single-id-attach	pos [Verb] onto custhee.a: whip, beat with a rod;
+enn	single-id-attach	pos [Verb, Noun] onto enn.v: to know or have knowledge of
+skyn	single-id-attach	pos [] onto skyn.x: ‘top’
+yial	single-id-attach	pos [Adjective] onto gial.v: did bleach, whiten, or make bright;
+giallit	single-id-attach	pos [] onto giallit.x: bleached, whitened, fulled
+giallit	single-id-attach	pos [] onto giallit.x: promised, granted
+ro ghiallit	single-id-attach	pos [] onto ghiallit.x: too bleached
+ro ghiallit	single-id-attach	pos [] onto ghiallit.x: too promised or granted
+goan	single-id-attach	pos [Noun] onto goan.a: words., There are scarcely any two words in the Manks that mean exactly the same thing. Focklyn is nearly syn. with this, but focklyn only means a few words; goan means a series of words, a continuation of words, speech;
+yeh	single-id-attach	pos [] onto jeh.x: of;
+kartit	single-id-attach	pos [] onto kartit.x: carted
+kartit	single-id-attach	pos [] onto kartit.x: muck raked
+lhieu	single-id-attach	pos [] onto lhieu.x: with them, theirs;
+lhieu	single-id-attach	pos [] onto lhieu.x: with you or ye, yours;
+lhiasit	single-id-attach	pos [] onto lhiasit.x: atoned, amended, recompensed; manured
+lhiasit	single-id-attach	pos [] onto lhiasit.x: alleged, invented, contrived falsely, laid against in untruth;
+seihlltee	single-id-attach	pos [Adjective] onto seihlltee.n: the comp. and sup. of seihlltagh.
+soghit	single-id-attach	pos [] onto soghit.x: sobbed
+soghit	single-id-attach	pos [] onto soghit.x: surged
+surranssee	single-id-attach	pos [Noun] onto surranssee.a: sufferers
+thunnit	single-id-attach	pos [] onto thunnit.x: inured
+thunnit	single-id-attach	pos [] onto thunnit.x: tunned
+ny hrooid	single-id-attach	pos [] onto trooid.x: through him, throughout;; through him;
+ymmylt	single-id-attach	pos [Verb] onto ymmylt.x: See ymmilt.; tumble or roll, as a horse does after work;; See ymmilt.
+ymmylt	single-id-attach	pos [Noun] onto ymmylt.x: ‘wallowing’;
+ynsit	single-id-attach	pos [] onto ynsit.x: learned, taught
