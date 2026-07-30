@@ -1,6 +1,6 @@
 form	lemmaId	lemma	linkType	pos	via	note
 aeraghyn	ayr.n	ayr	phillips	s. m.	ayraghyn	phillips-1610;questionable
-ag	agh.x	agh	phillips		agh	phillips-1610;questionable
+ag	agh.x	agh	phillips	conj.	agh	phillips-1610;questionable
 agayr	aggair.n	aggair	phillips	s. m.	aggair	phillips-1610;questionable
 aghsan	oghsan.n	oghsan	phillips	s. f.	oghsan	phillips-1610;questionable
 aghyin	aghin.n	aghin	phillips	s. f.	aghin	phillips-1610
@@ -93,9 +93,7 @@ erbi	erbee.x	erbee	phillips		erbee	phillips-1610
 erick	eairk.n	eairk	phillips	s. m.	eairk	phillips-1610;questionable
 ern	er.x	er	phillips	in.	er	phillips-1610
 erson	son.x	son	phillips	pre.	son	phillips-1610
-eshyin	t'eh.x	t'eh	phillips	p.	eshyn	phillips-1610;questionable
-eshyin	e.x	e	phillips	in.	eshyn	phillips-1610;questionable
-eshyin	eh.x	eh	phillips		eshyn	phillips-1610;questionable
+eshyin	eshyn.x	eshyn	phillips	pro.	eshyn	phillips-1610;questionable
 eyl	eill.v	eill	phillips	v.	eill	phillips-1610;questionable
 fackin	fakin.v	fakin	phillips	v.	fakin	phillips-1610;questionable
 fallaghy	follaghey.v	follaghey	phillips	v.	follaghey	phillips-1610;questionable
@@ -316,9 +314,7 @@ naghtyn	smooinaght.n	smooinaght	phillips	s. m.	smooinaghtyn	phillips-1610;questi
 nan	nyn.x	nyn	phillips	pro.	nyn	phillips-1610
 nare	nearey.n	nearey	phillips	s. f.	nearey	phillips-1610;questionable
 nas	na.x	na	phillips	adv.	na	phillips-1610;questionable
-nasmw	fer-smoo.n	fer-smoo	phillips	s.	smoo	phillips-1610;questionable
 nasmw	mooar.a	mooar	phillips	a.	smoo	phillips-1610;questionable
-nasmw	mooar.v	mooar	phillips		smoo	phillips-1610;questionable
 neawaghyn	niau.n	niau	phillips	s. m.	niaughyn	phillips-1610;questionable
 neawghyn	niau.n	niau	phillips	s. m.	niaughyn	phillips-1610;questionable
 niist	neesht.x	neesht	phillips	adv.	neesht	phillips-1610;questionable
@@ -396,9 +392,7 @@ slani	slaanee.a	slaanee	phillips	a. d.	slaanee	phillips-1610;questionable
 slechyn	sleityn.n	sleityn	phillips	s. pl.	sleityn	phillips-1610;questionable
 sly	sleih.n	sleih	phillips	s. m.	sleih	phillips-1610;questionable
 slyei	sleih.n	sleih	phillips	s. m.	sleih	phillips-1610;questionable
-smw	fer-smoo.n	fer-smoo	phillips	s.	smoo	phillips-1610
 smw	mooar.a	mooar	phillips	a.	smoo	phillips-1610
-smw	mooar.v	mooar	phillips		smoo	phillips-1610
 smwnaghtyn	smooinaght.n	smooinaght	phillips	s. m.	smooinaghtyn	phillips-1610;questionable
 smwni	smooinee.v	smooinee	phillips	v.	smooinee	phillips-1610;questionable
 snaggerni	snaggeragh.v	snaggeragh	phillips	v.	snaggeraght	phillips-1610;questionable
@@ -439,8 +433,7 @@ twigel	toiggal.n	toiggal	phillips	s. f.	toiggal	phillips-1610;questionable
 twitchym	tuittym.v	tuittym	phillips	v.	tuittym	phillips-1610;questionable
 twitchym	tuittym.n	tuittym	phillips	s. m.	tuittym	phillips-1610;questionable
 twsanyn	thousane.n	thousane	phillips	s. m.	thousaneyn	phillips-1610;questionable
-us	oo.x	oo	phillips	pro.	uss	phillips-1610
-us	bee-oo.v	bee-oo	phillips	v.	uss	phillips-1610
+us	uss.x	uss	phillips	pro.	uss	phillips-1610
 vackin	fakin.v	fakin	phillips	v.	vakin	phillips-1610;questionable
 vaghe	baghey.v	baghey	phillips	v.	vaghey	phillips-1610;questionable
 vaick	faik.v	faik	phillips	v.	vaik	phillips-1610;questionable
@@ -455,8 +448,8 @@ vei	veih.x	veih	phillips	p. p.	veih	phillips-1610;questionable
 veiys	mieys.n	mieys	phillips	s.	vieys	phillips-1610;questionable
 veliyn	meil.n	meil	phillips	s.	veillyn	phillips-1610;questionable
 vell	vel.v	vel	phillips	v.	vel	phillips-1610
-verym	behr.v	behr	phillips	v.	ver	phillips-1610;questionable
-verym	cur.v	cur	phillips		ver	phillips-1610;questionable
+verym	berr.v	berr	phillips	v.	ver	phillips-1610;questionable
+verym	cur.v	cur	phillips	v.	ver	phillips-1610;questionable
 veyn	mean.n	mean	phillips	s.	vean	phillips-1610;questionable
 viis	vees.v	vees	phillips	v.	vees	phillips-1610
 vioghy	bioghey.v	bioghey	phillips	v.	vioghey	phillips-1610;questionable

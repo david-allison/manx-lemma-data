@@ -141,6 +141,7 @@ arabish	arabish.np	Arabish	self	np. language	Arabish
 arad	arad.np	Arad	self	np. other	Arad	
 aram	aram.np	Aram	self	np. other	Aram	
 araunah	araunah.np	Araunah	self	np. other	Araunah	
+archelaus	archelaus.np	Archelaus	self	np. personal	Archelaus	
 archie	archie.np	Archie	self	np. other	Archie	
 archite	archite.np	Archite	self	np. other	Archite	
 ard chiarrail	ard-chiarrail.np	Ard-Chiarrail	self	np. other	Ard-Chiarrail	
@@ -858,6 +859,9 @@ grennell	crennell.np	Crennell	mutation	np. personal	Crennell	generated-eclipsis
 crete	crete.np	Crete	self	np. other	Crete	
 chrete	crete.np	Crete	mutation	np. other	Crete	generated-lenition
 grete	crete.np	Crete	mutation	np. other	Crete	generated-eclipsis
+crispus	crispus.np	Crispus	self	np. personal	Crispus	
+chrispus	crispus.np	Crispus	mutation	np. personal	Crispus	generated-lenition
+grispus	crispus.np	Crispus	mutation	np. personal	Crispus	generated-eclipsis
 cristeen	cristeen.np	Cristeen	self	np. other	Cristeen	
 christeen	cristeen.np	Cristeen	mutation	np. other	Cristeen	generated-lenition
 gristeen	cristeen.np	Cristeen	mutation	np. other	Cristeen	generated-eclipsis
@@ -2267,7 +2271,8 @@ mylchreest	mylchreest.np	Mylchreest	self	np. other	Mylchreest
 vylchreest	mylchreest.np	Mylchreest	mutation	np. other	Mylchreest	generated-lenition
 naamah	naamah.np	Naamah	self	np. other	Naamah	
 naaman	naaman.np	Naaman	self	np. personal	Naaman	
-naasson	naasson.np	Naasson	self	np. other	Naasson	
+naasson	naasson.np	Naasson	self	np. personal	Naasson	
+naassoon	naasson.np	Naasson	variant	np. personal	Naassoon	
 nabal	nabal.np	Nabal	self	np. personal	Nabal	
 naboth	naboth.np	Naboth	self	np. personal	Naboth	
 nabuchodonosor	nebuchadnezzar.np	Nebuchadnezzar	variant	np. personal	Nabuchodonosor	
@@ -3096,6 +3101,9 @@ dynvaal	tynvaal.np	Tynvaal	mutation	np. other	Tynvaal	generated-eclipsis
 tynwald	tinvaal.np	Tinvaal	variant	np. place	Tynwald	
 hynwald	tinvaal.np	Tinvaal	mutation	np. place	Tynwald	generated-lenition
 dynwald	tinvaal.np	Tinvaal	mutation	np. place	Tynwald	generated-eclipsis
+tyrannus	tyrannus.np	Tyrannus	self	np. personal	Tyrannus	
+hyrannus	tyrannus.np	Tyrannus	mutation	np. personal	Tyrannus	generated-lenition
+dyrannus	tyrannus.np	Tyrannus	mutation	np. personal	Tyrannus	generated-eclipsis
 tyre	tyre.np	Tyre	self	np. place	Tyre	
 hyre	tyre.np	Tyre	mutation	np. place	Tyre	generated-lenition
 tyrus	tyre.np	Tyre	variant	np. place	Tyrus	
