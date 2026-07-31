@@ -1,89 +1,226 @@
 # unanimous LLM resolutions (>= 10 occurrences, one id-set) - human-skim, then adopt into lemma.overrides.tsv
+# 2026-07-31: merged with the tri-vote campaign's promotions; campaign rows supersede July's on conflict
 form	lemmaIds	evidence
+'eill	feill.n	10/10 LLM-unanimous
+'leih	sleih.n	13/32 LLM-vote sampled
 -agh	agh.x	20/20 LLM-unanimous
 -jeh	jeh.x	10/10 LLM-unanimous
+-lhig	lhig.v	13/13 LLM-unanimous
+-ny	ny-adv,ny.x	11/17 LLM-vote sampled
 aasagh	faasagh.n	323/323 LLM-unanimous
 aase	aase.n,aase.v,n'aas.v	49/49 LLM-unanimous
+aash	aash.n	13/140 LLM-vote sampled
+ainyn	t'ain.v	17/278 LLM-vote sampled
 am	am.a	10/10 LLM-unanimous
 anney	anney.n	138/138 LLM-unanimous
 annym	annym.n	732/732 LLM-unanimous
+arg	arg.n	16/218 LLM-vote sampled
+arragh	arragh.a,arragh.n	14/377 LLM-vote sampled
+arrane	arrane.n	12/283 LLM-vote sampled
 arree	arree.a,arree.v	13/13 LLM-unanimous
+arrym	arrym.n	14/150 LLM-vote sampled
 arrys	arrys.n,arrys.v	547/547 LLM-unanimous
 assee	assee.n	134/134 LLM-unanimous
 astyr	fastyr.n	179/179 LLM-unanimous
+ayds	ayd.x	13/188 LLM-vote sampled
+ayms	aym.x	13/178 LLM-vote sampled
 bing	bing.a,bing.n	35/35 LLM-unanimous
+boirit	boirit.x	11/21 LLM-vote sampled
 bollan	bollan.n	16/16 LLM-unanimous
+breag	breag.n	11/16 LLM-vote sampled
+breg	breg.n	11/45 LLM-vote sampled
 cast	cast.v	12/12 LLM-unanimous
+chadjin	cadjin.a	11/19 LLM-vote sampled
 chaglit	chaglit.x	12/12 LLM-unanimous
+chaill	caill.v	12/29 LLM-vote sampled
+chairal	cairal.a	11/29 LLM-vote sampled
+chammah	chammah.x	26/630 LLM-vote sampled
+charrey	carrey.n	14/190 LLM-vote sampled
 chart	kart.n	14/14 LLM-unanimous
 chasherickys	casherickys.n,chasherickys.n	58/58 LLM-unanimous
+chashtal	cashtal.n	11/62 LLM-vote sampled
+cheer	cheer.n,cheer.v	31/1711 LLM-vote sampled
+cheilley	cheilley.x	15/371 LLM-vote sampled
+cheiltyn	keiltyn.v	11/64 LLM-vote sampled
+chiart	kiart.a,kiart.v	13/46 LLM-vote sampled
+chied	chied.a	19/698 LLM-vote sampled
+chionn	chionn.a,chionn.v	10/15 LLM-vote sampled
+chionnagh	kionn.v	10/31 LLM-vote sampled
+chionnee	kionnee.a	12/49 LLM-vote sampled
+chirree	kirree.n	10/38 LLM-vote sampled
+chlagh	clagh.n,clagh.v	11/110 LLM-vote sampled
+choodee	chood.v,choodee.a	11/56 LLM-vote sampled
+chooie	cooie.a,cooie.x	10/29 LLM-vote sampled
+chooney	cooney.a,cooney.n	12/265 LLM-vote sampled
+chramp	cramp.a,cramp.n	10/49 LLM-vote sampled
+chreeney	creeney.a	10/42 LLM-vote sampled
+chreoi	creoi.a	10/29 LLM-vote sampled
 chron	chron.x,cron.x	17/17 LLM-unanimous
+chroym	chroym.x	11/92 LLM-vote sampled
+chruinnaght	cruinagh.n	11/16 LLM-vote sampled
+chummal	cummal.n,cummal.v	10/353 LLM-vote sampled
+chustey	custey.a	11/20 LLM-vote sampled
+coodagh	coodagh.n	12/101 LLM-vote sampled
+coodit	coodit.x	14/76 LLM-vote sampled
 coonee	coonee.a	11/11 LLM-unanimous
+creoi	creoi.a	11/111 LLM-vote sampled
+cronk	cronk.n	14/234 LLM-vote sampled
+croymmey	croymmey.v	12/82 LLM-vote sampled
+cuirr	cuirr.v	12/85 LLM-vote sampled
+dasyn	dasyn.x	18/433 LLM-vote sampled
 doll	doll.v	35/35 LLM-unanimous
 dooin	dooin.v,dooin.x	2490/2490 LLM-unanimous
+dâsyn	dasyn.x	10/13 LLM-vote sampled
 eayn	eayn.n	179/179 LLM-unanimous
+echeysyn	echey.x	19/506 LLM-vote sampled
 eeit	eeit.x	38/38 LLM-unanimous
+eie	eie.n,eie.v	10/69 LLM-vote sampled
+eill	feill.n	12/346 LLM-vote sampled
 eilley	eilley.n	16/16 LLM-unanimous
 eiyr	eiyr.v	52/52 LLM-unanimous
 eiyrit	eiyrit.x	48/48 LLM-unanimous
+enn	enney.n	11/68 LLM-vote sampled
+euish	eu.x	18/271 LLM-vote sampled
+eïe	eie.n,eie.v	12/27 LLM-vote sampled
 feeagh	feeagh.a,feeagh.n	40/40 LLM-unanimous
 follym	follym.a	71/71 LLM-unanimous
+garrey	carrey.n	12/50 LLM-vote sampled
 garroo	garroo.a	35/35 LLM-unanimous
 gearey	gearey.v	21/21 LLM-unanimous
+geayney	geayney.a	10/19 LLM-vote sampled
+gerjagh	gerjagh.n	21/266 LLM-vote sampled
+ghaa	daa.a,daa.x,ghaa.n	16/274 LLM-vote sampled
+gharey	garey.n	14/75 LLM-vote sampled
+gheiney	deiney.n	13/480 LLM-vote sampled
+gheinnagh	geinnagh.n	10/20 LLM-vote sampled
+ghenney	genney.n,ghenney.n	10/15 LLM-vote sampled
+ghennish	gennish.a	10/10 LLM-unanimous
+gherjoil	gherjoil.a	10/11 LLM-vote sampled
 ghew	dew.n	23/23 LLM-unanimous
+ghlass	glass.a,glass.n,glass.v	10/14 LLM-vote sampled
+ghlen	glen.a	12/66 LLM-vote sampled
+ghlenney	glenney.a,glenney.v	11/162 LLM-vote sampled
+ghloyroil	gloyroil.a	11/20 LLM-vote sampled
+ghoo	ghoo.n,goo.n	17/447 LLM-vote sampled
+ghooie	dooie.a	12/61 LLM-vote sampled
+ghooin	dooin.v,dooin.x	10/11 LLM-vote sampled
+ghooney	dooney.v	10/13 LLM-vote sampled
+ghraihagh	graihagh.a,graihagh.x	10/100 LLM-vote sampled
+ghraysoil	graysoil.a	15/33 LLM-vote sampled
+ghree	cree.n	10/16 LLM-vote sampled
+gimman	imman.v	10/24 LLM-vote sampled
+girp	girp.n	11/36 LLM-vote sampled
 goair	goayr.n	74/74 LLM-unanimous
+goan	goo.n	23/940 LLM-vote sampled
 goo	goo.n	998/998 LLM-unanimous
+gooish	cooish.n	10/12 LLM-vote sampled
+gooyl	gooyl.n	10/35 LLM-vote sampled
+gosh	cosh.x	10/12 LLM-vote sampled
 gred	cred.v,creid.x	12/12 LLM-unanimous
 haagh	saagh.n	14/14 LLM-unanimous
 haase	saase.n	18/18 LLM-unanimous
-haaue	haaue.n,taaue.n,taaue.x	11/11 LLM-unanimous
+haaue	taau.a,taaue.n	10/12 LLM-vote sampled
 hack	sack.n	11/11 LLM-unanimous
+harey	sarey.n,sarey.v	12/310 LLM-vote sampled
 harrin	harrin.v,harrin.x	51/51 LLM-unanimous
 harrym	harrym.x	42/42 LLM-unanimous
+heu	cheu.n	11/99 LLM-vote sampled
 hey	tey.n	19/19 LLM-unanimous
 hoar	soar.n,soar.v	14/14 LLM-unanimous
+hoght	hoght.n	19/326 LLM-vote sampled
 hooin	hooin.x	113/113 LLM-unanimous
 hoor	toor.n	10/10 LLM-unanimous
 horch	sorch.n,sorch.x	62/62 LLM-unanimous
 hurr	surr.v	15/15 LLM-unanimous
+hushtey	tushtey.n	16/92 LLM-vote sampled
 hym	hym.x	195/195 LLM-unanimous
 hyms	hyms.x	32/32 LLM-unanimous
 ingan	ingan.n	29/29 LLM-unanimous
+irrin	firrin.n,firriney.x	11/22 LLM-vote sampled
+irriney	firriney.a,firriney.x	12/211 LLM-vote sampled
+jea	jea.n	12/54 LLM-vote sampled
+jeeig	jeeg.x	10/14 LLM-vote sampled
 jeer	cheer.n	19/19 LLM-unanimous
+jeeragh	jeeragh.a	17/302 LLM-vote sampled
+jeu	jeu.x	34/1246 LLM-vote sampled
 jirree	irree.v	18/18 LLM-unanimous
+lhig	lhig.v	58/2246 LLM-vote sampled
 lout	lout.n,lout.v	24/24 LLM-unanimous
 mayrn	mayrn.x	48/48 LLM-unanimous
+mea	bea.n	14/236 LLM-vote sampled
 milley	milley.n	19/19 LLM-unanimous
+moal	moal.a	10/127 LLM-vote sampled
+n'gholl	er-n'gholl.v	14/356 LLM-vote sampled
 oast	oast.a	53/53 LLM-unanimous
+ocsyn	oc.x	40/626 LLM-vote sampled
 oill	foill.n	37/37 LLM-unanimous
+ollagh	ollagh.n	14/103 LLM-vote sampled
 ollan	ollan.n	34/34 LLM-unanimous
 ollee	ollay.n,ollee.a	24/24 LLM-unanimous
 ollick	ollick.n	88/88 LLM-unanimous
+orrinyn	orrin.x	10/23 LLM-vote sampled
+orroosyn	orroo.x	16/225 LLM-vote sampled
+orryms	orrym.x	10/120 LLM-vote sampled
 ort	ort.x	1210/1210 LLM-unanimous
+orts	ort.x	10/74 LLM-vote sampled
 ouyr	fouyr.n	71/71 LLM-unanimous
+oyr	oyr.n	34/893 LLM-vote sampled
 rass	rass.n,rass.v	159/159 LLM-unanimous
 raue	raue.a,raue.n	43/43 LLM-unanimous
 rea	rea.a,rea.n	199/199 LLM-unanimous
+reill	reill.n,reill.v	27/853 LLM-vote sampled
 saillym	saillym.x	31/31 LLM-unanimous
+sniemmit	sniemmit.x	10/26 LLM-vote sampled
 sollys	sollys.a	189/189 LLM-unanimous
 sooree	sooree.n,sooree.v	25/25 LLM-unanimous
 surr	surr.v	11/11 LLM-unanimous
 tannys	tannys.n	13/13 LLM-unanimous
+theihll	seihll.n	18/772 LLM-vote sampled
 thollee	thollee.x	18/18 LLM-unanimous
 thooilley	thooilley.n	94/94 LLM-unanimous
 thooit	thooit.x	19/19 LLM-unanimous
 thurn	thurn.n	12/12 LLM-unanimous
+toiggalagh	toiggalagh.a	11/26 LLM-vote sampled
+tooill	sooill.n	11/12 LLM-vote sampled
 traaghyn	traa.n	82/82 LLM-unanimous
 uillin	uillin.n	11/11 LLM-unanimous
 v'ee	v'ee.x	643/643 LLM-unanimous
+vaag	faag.v	10/20 LLM-vote sampled
+vaarle	baarle.n	13/82 LLM-vote sampled
 vaghey	baghey.v	189/189 LLM-unanimous
+vaill	faill.n,faill.v	12/15 LLM-vote sampled
+valjyn	valjyn.n	10/10 LLM-unanimous
+vart	mart.n,mart.x	14/40 LLM-vote sampled
+vea	bea.n,vea.n	37/901 LLM-vote sampled
+veaghey	beaghey.n,beaghey.v	18/213 LLM-vote sampled
 veg	beg.a,veg.x	1613/1613 LLM-unanimous
+vei	veih.x	11/174 LLM-vote sampled
+veisht	beisht.n	12/38 LLM-vote sampled
+veiyn	beiyn.n	12/12 LLM-unanimous
+ver	cur.v	42/1515 LLM-vote sampled
+verym	cur.v	12/42 LLM-vote sampled
+vhow	bhow.n	10/39 LLM-vote sampled
+viallys	biallys.n	13/30 LLM-vote sampled
+vian	mian.n	11/22 LLM-vote sampled
+viljyn	viljyn.n	11/18 LLM-vote sampled
 vingys	bingys.n	13/13 LLM-unanimous
+vishagh	bish.v,vishagh.v	11/15 LLM-vote sampled
+vishaghey	bishaghey.v,vishagh.v	10/151 LLM-vote sampled
+vlaa	blaa.n	11/23 LLM-vote sampled
+voalley	boalley.n,boalley.x	13/174 LLM-vote sampled
 voddagh	fod.x,foddagh.v	711/711 LLM-unanimous
+voir	moir.n	18/407 LLM-vote sampled
+voirey	boirey.n,boirey.x	12/47 LLM-vote sampled
 volley	molley.a,molley.v	117/117 LLM-unanimous
+vooar	mooar.a,mooar.v,mooar.x	27/645 LLM-vote sampled
 vow	fow.v	220/220 LLM-unanimous
+vrasnaghey	brasnaghey.v	12/147 LLM-vote sampled
+vroojit	broojit.a	10/10 LLM-unanimous
+váys	vaaish.n	10/11 LLM-vote sampled
 warree	mwarree.n	25/25 LLM-unanimous
 wass	wass.x	76/76 LLM-unanimous
 y'	yn.x	16/16 LLM-unanimous
+yeh	jeh.x	15/291 LLM-vote sampled
+yeih	yeih.x	11/193 LLM-vote sampled
 çheer	cheer.n,cheer.v	46/46 LLM-unanimous
 çhing	ching.a,ching.n	16/16 LLM-unanimous

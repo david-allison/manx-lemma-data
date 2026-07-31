@@ -3,8 +3,10 @@
 # narrowings freely; a row dropping a lexeme group only on unanimous evidence at 10+
 # observations - the refused stay in the seed for per-line adjudication
 form	lemmaIds	evidence
+'eill	feill.n	10/10 LLM-unanimous
 -agh	agh.x	20/20 LLM-unanimous
 -jeh	jeh.x	10/10 LLM-unanimous
+-lhig	lhig.v	13/13 LLM-unanimous
 aasagh	faasagh.n	323/323 LLM-unanimous
 aase	aase.n,aase.v,n'aas.v	49/49 LLM-unanimous
 adsyn	ad.x	12/12 UD
@@ -26,7 +28,6 @@ cast	cast.v	12/12 LLM-unanimous
 chabbyl	cabbyl.n	7/7 UD
 chaglit	chaglit.x	12/12 LLM-unanimous
 chart	kart.n	14/14 LLM-unanimous
-chasherickys	casherickys.n,chasherickys.n	58/58 LLM-unanimous
 chass	cass.n	3/3 UD
 cheau	ceau.v	22/22 UD
 cheet	cheet.v	34/34 UD
@@ -40,7 +41,6 @@ choyrt	coyrt.v	7/7 UD
 chreck	creck.v	3/3 UD
 chree	cree.n	7/7 UD
 chretoor	cretoor.n	3/3 UD
-chron	chron.x,cron.x	17/17 LLM-unanimous
 chur	cur.v	17/17 UD
 coonee	coonee.a	11/11 LLM-unanimous
 currit	currit.x	15/15 UD
@@ -65,6 +65,7 @@ follym	follym.a	71/71 LLM-unanimous
 garroo	garroo.a	35/35 LLM-unanimous
 gearey	gearey.v	21/21 LLM-unanimous
 gheddyn	geddyn.v	8/8 UD
+ghennish	gennish.a	10/10 LLM-unanimous
 ghew	dew.n	23/23 LLM-unanimous
 ghoaill	goaill.v	11/11 UD
 gholl	goll.v	11/11 UD
@@ -84,14 +85,12 @@ hayrn	tayrn.n,tayrn.v	14/14 UD
 hey	tey.n	19/19 LLM-unanimous
 hig	tar.v	4/4 UD
 hoar	soar.n,soar.v	14/14 LLM-unanimous
-hoie	soie.x,soie.v	12/12 UD
 hooar	fow.v	47/47 UD
 hooin	hooin.x	113/113 LLM-unanimous
 hoor	toor.n	10/10 LLM-unanimous
 horch	sorch.n,sorch.x	62/62 LLM-unanimous
 hurr	surr.v	15/15 LLM-unanimous
 hym	hym.x	195/195 LLM-unanimous
-hyms	hym.x	32/32 LLM-unanimous
 ingan	ingan.n	29/29 LLM-unanimous
 jannoo	jannoo.v	45/45 UD
 jeant	jeant.x	14/14 UD
@@ -119,7 +118,6 @@ ren	jean.v	168/168 UD
 row	bee.v	44/44 UD
 saillym	saillym.x	31/31 LLM-unanimous
 share	mie.v	20/20 UD
-smoo	mooar.a	10/10 UD
 smooinee	smooinee.v	3/3 UD
 soie	soie.v	3/3 UD
 sollys	sollys.a	189/189 LLM-unanimous
@@ -139,13 +137,16 @@ uss	oo.x	16/16 UD
 v'ee	v'ee.x	643/643 LLM-unanimous
 va	bee.v	105/105 UD
 vaghey	baghey.v	189/189 LLM-unanimous
+valjyn	valjyn.n	10/10 LLM-unanimous
 veg	beg.a,veg.x	1613/1613 LLM-unanimous
 veih	veih.x	24/24 UD
+veiyn	beiyn.n	12/12 LLM-unanimous
 vel	bee.v	100/100 UD
 vingys	bingys.n	13/13 LLM-unanimous
 voddagh	fod.x,foddagh.v	711/711 LLM-unanimous
 volley	molley.a,molley.v	117/117 LLM-unanimous
 vow	fow.v	220/220 LLM-unanimous
+vroojit	broojit.a	10/10 LLM-unanimous
 warree	mwarree.n	25/25 LLM-unanimous
 wass	wass.x	76/76 LLM-unanimous
 y'	yn.x	16/16 LLM-unanimous
