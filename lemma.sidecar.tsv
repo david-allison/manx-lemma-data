@@ -1556,7 +1556,7 @@ Cooinaghtyn-Manninagh	848e5db7f4bf8ab2	872ce3343904c710	10	jeu	jeu.x	index	0
 Cooinaghtyn-Manninagh	851acc3b4708c458	30b645f90be25fb2	1	wee	mee.x	index	0
 Cooinaghtyn-Manninagh	8659603f3367743a	080448381c36d62f	9	bollan	bollan.n	index	0
 Cooinaghtyn-Manninagh	8728c57f6a3202e5	42b236e81912fee8	11	hoght	hoght.n	index	0
-Cooinaghtyn-Manninagh	880ad6f8f7cc4f0b	278b3a0e0f738930	11	chron	chron.x,cron.x	index	0
+Cooinaghtyn-Manninagh	880ad6f8f7cc4f0b	278b3a0e0f738930	11	chron	chron.x,cron.n	index	0
 Cooinaghtyn-Manninagh	8810e67b47537e5c	713cb544b3207fa5	3	eeit	eeit.x	index	0
 Cooinaghtyn-Manninagh	8810e67b47537e5c	713cb544b3207fa5	7	eeym	eem.n,eeym.n	index	0
 Cooinaghtyn-Manninagh	88aca515392dec83	4a3b0826c42d35cf	4	dooin	dooin.v,dooin.x	index	0
@@ -3390,7 +3390,7 @@ Hymnyn-ny-arraneyn-Moyllee-son-Paitchyn	c3e949e3252686a5	b985864599767356	6	giar
 Hymnyn-ny-arraneyn-Moyllee-son-Paitchyn	c3f9ba850edbd237	214d8395a255b242	3	vow	fow.v	index	0
 Hymnyn-ny-arraneyn-Moyllee-son-Paitchyn	cb44ad8aad6243e3	ad65f34929f93c50	1	voddagh	fod.x,foddagh.v	index	0
 Hymnyn-ny-arraneyn-Moyllee-son-Paitchyn	d897762fea231763	8b5df1e6c3e73d59	4	hym	hym.x	index	0
-Hymnyn-ny-arraneyn-Moyllee-son-Paitchyn	de1ff3f2688874e9	8bc6a9b24292743c	5	chron	chron.x,cron.x	popup	0
+Hymnyn-ny-arraneyn-Moyllee-son-Paitchyn	de1ff3f2688874e9	8bc6a9b24292743c	5	chron	chron.x,cron.n	popup	0
 Hymnyn-ny-arraneyn-Moyllee-son-Paitchyn	dff8a9cfcd693d7c	1d9e051db8af1fc2	1	goo	goo.n	index	0
 Hymnyn-ny-arraneyn-Moyllee-son-Paitchyn	e241170a2facf73b	5fc5dbf69324f2fd	3	goo	goo.n	index	0
 Hymnyn-ny-arraneyn-Moyllee-son-Paitchyn	e2e22d0df359f695	2cd750d6d6ca7198	3	eiyrit	eiyrit.x	popup	0
@@ -5199,7 +5199,7 @@ PargeiysCaillit	27dd5af218d3f928	2e528d27661ef960	4	goan	goo.n	index	0
 PargeiysCaillit	284635c394566012	676858f95e2c5f63	5	vow	fow.v	index	0
 PargeiysCaillit	28cac9041f0565b1	0d78bbefa654be8c	3	dooin	dooin.v,dooin.x	index	0
 PargeiysCaillit	28cac9041f0565b1	0d78bbefa654be8c	7	dooin	dooin.v,dooin.x	index	0
-PargeiysCaillit	28cc06fcd6deeb08	15b6df881b13cf58	2	chron	chron.x,cron.x	index	0
+PargeiysCaillit	28cc06fcd6deeb08	15b6df881b13cf58	2	chron	chron.x,cron.n	index	0
 PargeiysCaillit	2ab0e264883771a4	8ab016ebe1db377c	5	dooin	dooin.v,dooin.x	index	0
 PargeiysCaillit	2af70403aaa0eab8	b4985ee631c97ee3	3	sollys	sollys.a	index	0
 PargeiysCaillit	2dc3d4b224368bb4	5c1f8c9f87cc5f83	0	hee	faik.v	index	0
@@ -5233,7 +5233,7 @@ PargeiysCaillit	3f8e2af05fcb64ab	c40731cfe7624c60	3	mollee	moll.v	index	0
 PargeiysCaillit	3f999caf261e692e	1e16a4e13d3d2817	2	lhiassagh	lhiass.v	popup	0
 PargeiysCaillit	3fdff55a50073c7b	a89218ce2141108f	4	ving	bing.a,bing.n	index	0
 PargeiysCaillit	40a0644b1f86c2f8	9e386572dcddbaca	6	arragh	arragh.a,arragh.n	index	0
-PargeiysCaillit	4201bce13482ff3b	ec215898f3869fcf	9	chron	chron.x,cron.x	index	0
+PargeiysCaillit	4201bce13482ff3b	ec215898f3869fcf	9	chron	chron.x,cron.n	index	0
 PargeiysCaillit	4216558e3085869f	78dc518c7dd00528	1	ort	ort.x	index	0
 PargeiysCaillit	4216558e3085869f	78dc518c7dd00528	2	hooin	hooin.x	index	0
 PargeiysCaillit	42c314ff9b245d5b	8f868be8ce790dd1	4	rass	rass.n,rass.v	index	0
@@ -5366,7 +5366,7 @@ PargeiysCaillit	85f8bcb48405ad78	ebb5b3b67c0f723e	1	dooin	dooin.v,dooin.x	index	
 PargeiysCaillit	85f8bcb48405ad78	ebb5b3b67c0f723e	2	ny	ny-adv,ny.x	index	0
 PargeiysCaillit	8614101300a75042	c651ffa8363937f5	3	gearey	gearey.v	index	0
 PargeiysCaillit	867245e639da33a3	9593e5836dc8b3b3	3	rass	rass.n,rass.v	index	0
-PargeiysCaillit	8924794ff47a5686	c47b4d1790a45dd5	2	chron	chron.x,cron.x	popup	0
+PargeiysCaillit	8924794ff47a5686	c47b4d1790a45dd5	2	chron	chron.x,cron.n	popup	0
 PargeiysCaillit	892c97d7e5e50d18	f71f0a7558e13fd2	3	rass	rass.n,rass.v	index	0
 PargeiysCaillit	8b1ac6dd545282bd	6ec21fb8fd84cf4e	2	reill	reill.n,reill.v	index	0
 PargeiysCaillit	8bbdcdab941a9398	399f736baf2f963c	0	maase	maase.n	index	0
@@ -5391,7 +5391,7 @@ PargeiysCaillit	97353978de241f75	d1d97aa454410a41	3	goan	goo.n	index	0
 PargeiysCaillit	973f0706b08beb0c	2125a821ee176b3f	3	goo	goo.n	index	0
 PargeiysCaillit	974f51d98ec58731	9930fce5a065425a	3	sollys	sollys.a	index	0
 PargeiysCaillit	988f9029e6b389a8	dacaa228cf12d0ae	5	veg	beg.a,veg.x	index	0
-PargeiysCaillit	98963ddd842fc952	3589d6789c9efd49	4	chron	chron.x,cron.x	index	0
+PargeiysCaillit	98963ddd842fc952	3589d6789c9efd49	4	chron	chron.x,cron.n	index	0
 PargeiysCaillit	993e4410db87f986	bd15b1fb9cadf4b3	3	eilley	eilley.n	index	0
 PargeiysCaillit	99bb890c56293dc4	619cf7de5ae52a87	1	goan	goo.n	index	0
 PargeiysCaillit	9a123a9473ce2acc	0164c7ee1dd5c6c5	2	sollys	sollys.a	index	0
@@ -5410,7 +5410,7 @@ PargeiysCaillit	a18ac30cdab0cb5b	3c9a3b576423e9fe	2	garroo	garroo.a	index	0
 PargeiysCaillit	a2e9f438845bd843	c872fa9d65dbfd8d	3	mea	bea.n	index	0
 PargeiysCaillit	a396f14a34246e15	ca67e8611b1be6f3	5	eayn	eayn.n	index	0
 PargeiysCaillit	a5347ab50de36323	a62345e57e5ebc74	2	sollys	sollys.a	index	0
-PargeiysCaillit	a5bc8c4b76268d4f	c9f49dc6a9c35151	9	chron	chron.x,cron.x	index	0
+PargeiysCaillit	a5bc8c4b76268d4f	c9f49dc6a9c35151	9	chron	chron.x,cron.n	index	0
 PargeiysCaillit	a623b28a5978d080	0cf635eed1f0216c	1	arrys	arrys.n,arrys.v	index	0
 PargeiysCaillit	a6311438594b9eb0	63838aff0785ffb9	4	sollys	sollys.a	index	0
 PargeiysCaillit	a734ce7718a40a97	ae268e4cb6896dcf	2	ennym	ennym.n	index	0
@@ -5588,7 +5588,7 @@ Pingyn-yn-Ommidan	c012d521704a1504	3b899a980de4f0ec	1	garrey	garrey.n	index	0
 Pingyn-yn-Ommidan	c5bf35fe4aa4133b	03fd85b0cfb30868	4	annym	annym.n	index	0
 Pingyn-yn-Ommidan	c9eb715ddd1e491f	411a06d0abea4523	1	voddagh	fod.x,foddagh.v	index	0
 Pingyn-yn-Ommidan	d7aed3d50811c387	f3ff1cc3d9f3d983	117	veg	beg.a,veg.x	index	0
-Pishagyn-1869	03ef961db7b8f836	fa59f2c177569dbe	27	chron	chron.x,cron.x	index	0
+Pishagyn-1869	03ef961db7b8f836	fa59f2c177569dbe	27	chron	chron.x,cron.n	index	0
 Pishagyn-1869	1c7bcd8865787d29	93f2b8e9fe108af9	2	jeu	jeu.x	index	0
 Pishagyn-1869	58e874b2228139bf	d3b2e70a3c0c117d	15	jeu	jeu.x	index	0
 Pishagyn-1869	58e874b2228139bf	d3b2e70a3c0c117d	19	jeu	jeu.x	index	0
@@ -7203,7 +7203,7 @@ VibleCasherickPKelly	11957fdca362c109	29c68eeafaea1881	23	rea	rea.a,rea.n	index	
 VibleCasherickPKelly	119c3638a9a95c7c	f4dce4b21e3c3fc2	7	goo	goo.n	index	0
 VibleCasherickPKelly	11a4840cd2e50caa	5c892c12c74a13e3	47	astyr	fastyr.n	index	0
 VibleCasherickPKelly	11b26cf8b9d9610b	37c6ba8af9468f84	9	aasagh	faasagh.n	index	0
-VibleCasherickPKelly	11b9737e2245ff7c	3bb212695b6f7ae0	13	chron	chron.x,cron.x	index	0
+VibleCasherickPKelly	11b9737e2245ff7c	3bb212695b6f7ae0	13	chron	chron.x,cron.n	index	0
 VibleCasherickPKelly	11b9737e2245ff7c	3bb212695b6f7ae0	14	sollys	sollys.a	index	0
 VibleCasherickPKelly	11bbb10b519f456f	7994c2352663bf16	9	goo	goo.n	index	0
 VibleCasherickPKelly	11c0d9ae2011db73	76697447bae7e8d1	4	maase	maase.n	index	0
@@ -7773,7 +7773,7 @@ VibleCasherickPKelly	249cf11e3ca1658d	9ed6d29ebbe339ca	9	ort	ort.x	index	0
 VibleCasherickPKelly	249f63fbd521a6d9	b7d4ba13199f5aa8	11	annym	annym.n	index	0
 VibleCasherickPKelly	24b0009f355de589	93cc37679ddd7944	7	aasagh	faasagh.n	index	0
 VibleCasherickPKelly	24b1157e03588f0f	33c36ec6fec29b35	5	leih	sleih.n	index	0
-VibleCasherickPKelly	24b3011d933b438c	69fcc01e709563f0	8	chron	chron.x,cron.x	index	0
+VibleCasherickPKelly	24b3011d933b438c	69fcc01e709563f0	8	chron	chron.x,cron.n	index	0
 VibleCasherickPKelly	24b871ea82181655	aed6ba248ba902b6	3	veg	beg.a,veg.x	index	0
 VibleCasherickPKelly	24bdd9c8210d1e79	1b6876c4d37ddd49	8	aasagh	faasagh.n	index	0
 VibleCasherickPKelly	24c6406f1cf2f20d	730b27183f0dbebc	20	jeu	jeu.x	index	0
@@ -9269,7 +9269,7 @@ VibleCasherickPKelly	5a8db97314dfd6c5	77d129f30a5c3c74	6	chied	chied.a	index	0
 VibleCasherickPKelly	5a91fd19869d1105	c516d3658e1f3f8c	13	harrin	harrin.v,harrin.x	index	0
 VibleCasherickPKelly	5aa2a495a5934e94	2a067a942e18ef3c	27	arragh	arragh.a,arragh.n	index	0
 VibleCasherickPKelly	5aa8d2c8f4cbb84e	4f7e7dc313538548	12	jeu	jeu.x	index	0
-VibleCasherickPKelly	5ab77239ea41be7b	be63dd0c24b93d78	25	chron	chron.x,cron.x	index	0
+VibleCasherickPKelly	5ab77239ea41be7b	be63dd0c24b93d78	25	chron	chron.x,cron.n	index	0
 VibleCasherickPKelly	5acb4de988a0d546	3f127eeed794c990	18	ort	ort.x	index	0
 VibleCasherickPKelly	5acb4de988a0d546	3f127eeed794c990	34	goan	goo.n	index	0
 VibleCasherickPKelly	5ae10703423c615a	01adb7347fcd4b9a	4	jeu	jeu.x	index	0
@@ -9627,8 +9627,8 @@ VibleCasherickPKelly	665c9cf2253d14de	fdb83888f78cf725	26	ort	ort.x	index	0
 VibleCasherickPKelly	665de611944340d7	f40296a38c3dd30a	16	eiyr	eiyr.v	index	0
 VibleCasherickPKelly	6661239446cddb71	7fb70064e53151b9	11	annym	annym.n	index	0
 VibleCasherickPKelly	666b3d2bad95b06e	66d180ccc0b8f250	20	arragh	n'arr.v,n'arraghey.x	index	0
-VibleCasherickPKelly	667560318a4e3ffd	07ea930e44faa58f	35	chron	chron.x,cron.x	index	0
-VibleCasherickPKelly	667560318a4e3ffd	07ea930e44faa58f	40	chron	chron.x,cron.x	index	0
+VibleCasherickPKelly	667560318a4e3ffd	07ea930e44faa58f	35	chron	chron.x,cron.n	index	0
+VibleCasherickPKelly	667560318a4e3ffd	07ea930e44faa58f	40	chron	chron.x,cron.n	index	0
 VibleCasherickPKelly	66757be6a74d3384	cc684020f3e9678e	21	ouyr	fouyr.n	index	0
 VibleCasherickPKelly	6676073c84b67fbe	75d120c836707d03	18	leih	leih.n,leih.v	index	0
 VibleCasherickPKelly	6680b65b3a902fd5	aed615f3e297bb3c	3	dooin	dooin.v,dooin.x	index	0
@@ -11008,7 +11008,7 @@ VibleCasherickPKelly	98dda140b4f41ffd	5110cb789b93d2e8	17	astyr	fastyr.n	index	0
 VibleCasherickPKelly	98dda140b4f41ffd	5110cb789b93d2e8	23	veg	beg.a,veg.x	index	0
 VibleCasherickPKelly	98dda140b4f41ffd	5110cb789b93d2e8	43	astyr	fastyr.n	index	0
 VibleCasherickPKelly	98f17dcdb71aec66	a160667146c22935	10	hiu	hiu.x	index	0
-VibleCasherickPKelly	98f437287ec444ee	6f9cd55f68b9b6c2	15	chron	chron.x,cron.x	index	0
+VibleCasherickPKelly	98f437287ec444ee	6f9cd55f68b9b6c2	15	chron	chron.x,cron.n	index	0
 VibleCasherickPKelly	98f437287ec444ee	6f9cd55f68b9b6c2	16	sollys	sollys.a	index	0
 VibleCasherickPKelly	98f437287ec444ee	6f9cd55f68b9b6c2	21	veg	beg.a,veg.x	index	0
 VibleCasherickPKelly	98fafac467758a54	c5b3e75b2b598040	11	dooin	dooin.v,dooin.x	index	0
@@ -13792,7 +13792,7 @@ VibleCasherickPKelly	fa96dbe48313b7d8	67b3aade15acd244	16	eayn	eayn.n	index	0
 VibleCasherickPKelly	fa9e6c9e57a30ee8	af2c909d52a1742a	7	v'ee	v'ee.x	index	0
 VibleCasherickPKelly	faa60654c6147478	a21226f0ea0b7d2e	5	cron	croan.n	index	0
 VibleCasherickPKelly	faa60654c6147478	a21226f0ea0b7d2e	9	cron	croan.n	index	0
-VibleCasherickPKelly	faa60654c6147478	a21226f0ea0b7d2e	31	chron	chron.x,cron.x	index	0
+VibleCasherickPKelly	faa60654c6147478	a21226f0ea0b7d2e	31	chron	chron.x,cron.n	index	0
 VibleCasherickPKelly	faa6922dd89cae8d	fff76cd129688cbe	2	v'ee	v'ee.x	index	0
 VibleCasherickPKelly	faa8f23fdf033f9a	6522f382d99b1ce7	22	leih	leih.n,leih.v	index	0
 VibleCasherickPKelly	fab06377035bc11d	afc2648773de0dc8	44	aasagh	faasagh.n	index	0
@@ -14421,7 +14421,7 @@ WilsonSermonsI	f5510fd81ba13de3	90b75706647a5af5	24	veg	beg.a,veg.x	index	0
 WilsonSermonsI	f6f68fddde7c7c09	5a999d38bfa089de	19	veg	beg.a,veg.x	index	0
 WilsonSermonsI	f6f68fddde7c7c09	5a999d38bfa089de	76	arrys	arrys.n,arrys.v	index	0
 WilsonSermonsI	f7b0064700896137	e906a348c4a5f5e4	18	arrys	arrys.n,arrys.v	index	0
-WilsonSermonsI	f9260985644ebcc0	410cc98c25b0c833	15	hoie	soi.v,soie.v,soie.x	index	0
+WilsonSermonsI	f9260985644ebcc0	410cc98c25b0c833	15	hoie	soi.v,soie.v	index	0
 WilsonSermonsI	f952694e26c02eef	dbfd07489e509b0a	19	oardagh	n'oard.v,oardagh.n	index	0
 WilsonSermonsI	f952694e26c02eef	dbfd07489e509b0a	31	veg	beg.a,veg.x	index	0
 WilsonSermonsI	f97cdcb111666fc3	d847001ad3243984	3	dooin	dooin.v,dooin.x	index	0
@@ -15057,7 +15057,7 @@ YnAcocrypha	92be658e21d6e8e3	7d984ae06003ced2	20	dooin	dooin.v,dooin.x	index	0
 YnAcocrypha	932e1dd87a6d655d	5e5d41603f091be7	14	hushtey	tushtey.n	index	0
 YnAcocrypha	94937b335bbafd66	91d0f86b29082668	20	vow	fow.v	index	0
 YnAcocrypha	95752d4bac39a6ec	7e50d80131b1d4d0	4	volley	molley.a,molley.v	index	0
-YnAcocrypha	95ea1d8451aaedf2	1a17c5d789fc5a2e	24	chron	chron.x,cron.x	index	0
+YnAcocrypha	95ea1d8451aaedf2	1a17c5d789fc5a2e	24	chron	chron.x,cron.n	index	0
 YnAcocrypha	962b7eb60b76cf64	6594cfcb923d41f4	7	vow	fow.v	index	0
 YnAcocrypha	9a33b678fb00ae3a	f3c27675abe63259	21	goan	goo.n	index	0
 YnAcocrypha	9ad8845819b2e4cd	9d363342f7a45116	5	chied	chied.a	index	0
@@ -15313,7 +15313,7 @@ yn-dooinney-mie	7be46c4e1dd1f725	fc719d5b5b80a648	7	cron	cron.n	index	0
 yn-dooinney-mie	7e2e396e85a5801a	f0799006d595379f	8	annym	annym.n	index	0
 yn-dooinney-mie	d0ebba07311e8a74	65500d4ca497253a	5	follym	follym.a	index	0
 yn-dooinney-mie	d87fb2c876c5ee18	63ea0242da220239	7	hee	shee.n	index	0
-yn-dooinney-mie	da850f3afbfeb346	6a564e175fe37301	7	chron	chron.x,cron.x	index	0
+yn-dooinney-mie	da850f3afbfeb346	6a564e175fe37301	7	chron	chron.x,cron.n	index	0
 yn-dooinney-mie	dd791ef37aeae3b8	2d038de377ef300d	6	wass	wass.x	index	0
 yn-dooinney-mie	f1363713bcd1180b	2766f86ba2176bba	1	cron	cron.n	index	0
 yn-emshyr	025fe9abcbdd61c1	c40835abe788adb9	26	dooin	dooin.v,dooin.x	index	0
