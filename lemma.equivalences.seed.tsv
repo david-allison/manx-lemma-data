@@ -3,6 +3,18 @@
 # The Cregeen equivalence layer seed - human-skim, then adopt (destination: cregeen-nvh,
 # beside lemma-overrides.nvh/lemma-paradigms.nvh). Consumed by AdjudicationExporter
 # via LEMMA_EQUIVALENCES_TSV: 'same' pairs collapse into one adjudication group.
+bee.v	vees.v	same	one to-be: vees is the future the paradigm lists [tri-vote campaign 2026-07-31]
+cheddin.a	keddin.x	same	one same-word: cheddin is lenited keddin [tri-vote campaign 2026-07-31]
+cheead.n	keead.n	same	one hundred: cheead is lenited keead [tri-vote campaign 2026-07-31]
+chliwe.n	cliwe.n	same	one sword: chliwe is the lenited entry [tri-vote campaign 2026-07-31]
+cur.v	dug.v	same	one give-verb: dug is the past the paradigm lists [tri-vote campaign 2026-07-31]
+da.x	dauesyn.x	same	one to-them: dauesyn is the emphatic [tri-vote campaign 2026-07-31]
+dooys.x	dou.x	same	one to-me: dooys is the emphatic [tri-vote campaign 2026-07-31]
+ee.x	ish.x	same	one she-pronoun: ish is the emphatic [tri-vote campaign 2026-07-31]
+eieit.x	eit.x	same	one called-participle printed twice (eieit / eit) under eie [tri-vote campaign 2026-07-31]
+faik.v	honnick.v	same	one see-verb: honnick is the suppletive past [tri-vote campaign 2026-07-31]
+fow.v	yiow.x	same	one get-verb: yiow is the future the paradigm lists [tri-vote campaign 2026-07-31]
+goit.x	gow.v	same	one take-verb: goit is the participle the paradigm lists [tri-vote campaign 2026-07-31]
 idA	idB	verdict	note
 aa-vaair.n	aa-vioghee.x	distinct	second crop vs revive/quicken, unrelated
 aare.x	faare.x	same	near/adjacent; Cregeen derives aare from faare
@@ -1113,6 +1125,7 @@ jarrood.v	jarroodagh.x	same	forget -> forgetful
 jean.v	nee.v	same	do/make suppletive future tense
 jean.v	nee.x	distinct	jean.v is the irregular verb "do/make" (whose real future nee, J-19 "will or wilt do", already feeds jean.v as a closed-class form), while nee.x is the B-65 COPULA entry (the pos-less nee stub alongside "cha nee" "is not" and "dy nee" "that is, that were, that was") - the cur/hug failure mode. [cross-POS audit 2026-07-30]
 jean.v	ren.v	same	do/make suppletive past tense
+jean.v	yinnagh.v	same	one do-verb: yinnagh is the conditional the paradigm lists [tri-vote campaign 2026-07-31]
 jeantagh.n	s'jeantee.a	same	doer, superlative/agent form
 jeean.a	yeean.n	distinct	earnest/diligent vs chicken
 jeeg.x	jeeig.v	distinct	jeeg.x is the pos-less jeeg entry, Cregeen's printed variant of the noun jeeig s.f. 'a ditch, a moat, or drain' (whose id jeeig.n exists), but jeeig.v is the separate verb entry 'drain, ditch' (both J-30). [cross-POS audit 2026-07-30]
@@ -1165,6 +1178,7 @@ maaish.a	vaaish.n	distinct	thigh/beast vs of death
 maaish.n	vaaish.n	distinct	thigh/beast vs of death
 maarderagh.n	vaarderagh.n	same	fornicator, m/v mutation
 maarlee.n	maarliagh.n	same	thief/thieves, agent noun forms
+mac.n	mec.n	same	one son-word: mec is the plural, filed under the singular [tri-vote campaign 2026-07-31]
 magh.x	vagh-1	distinct	out/forth vs would dwell/live
 mark.v	markiagh.n	same	horse/ride -> rider
 marr.v	marragh.n	same	kill -> slew, past form
@@ -1250,6 +1264,7 @@ ogher.n	togher.v	distinct	key noun vs wind-thread verb
 oie.n	soi.v	distinct	night noun vs set/sit verb
 oie.n	soie.v	distinct	night noun vs sit/set verb
 oie.n	soie.v	distinct	night noun vs sit/set verb [id rekeyed to the regenerated table 2026-07-31]
+olk.v	smessey.a	same	one bad-adjective: smessey is the suppletive comparative [tri-vote campaign 2026-07-31]
 olkyssagh.n	s'olkyssee.a	same	wicked family, comparative form
 ollagh.n	ollys.x	distinct	cattle noun vs hide-verb form
 ollay.n	ollee.a	distinct	ollay.n is 'a swan' (O-46; its plural ollee is only an inflected form inside that entry), but the printed ollee a.d. entry that ollee.a names is 'of cattle' (O-43, genitive of ollagh 'cattle'). [cross-POS audit 2026-07-30]
@@ -1317,6 +1332,7 @@ scuitch.v	scuitchit.x	same	scourge verb, lashed participle
 seaghin.n	seaghyn.n	same	one 'sorrow, trouble' word printed twice (seaghin / seaghyn); the tier-one heaghyn splits were this pair [2026-07-31]
 seigh.n	seiy.v	same	both mean mix/stir/litter
 seigh.n	teigh.n	distinct	mix/stir noun vs hatchet noun
+seihll.n	theihll.n	same	one world: theihll is the mutated spelling [tri-vote campaign 2026-07-31]
 seiy.n	teiy.v	distinct	churn/agitate vs ballot/choose
 seiy.n	teiy.x	distinct	churn/agitate vs ballot/choice
 seiy.v	teigh.n	distinct	churn/agitate vs hatchet noun
@@ -1390,6 +1406,7 @@ stiure.x	stiuree.a	same	stiuree is adjectival form of stiure
 strug.n	struge.v	same	Cregeen notes strug as variant of struge [id rekeyed to the regenerated table 2026-07-31]
 sur.x	surr.v	distinct	sur- super- prefix vs surr suffer verb
 surn.n	thurn.n	distinct	surn fireplace vs thurn job/turn
+t'eh.x	t'eshyn.x	same	one he-is: the emphatic contraction [tri-vote campaign 2026-07-31]
 taa.x	taah.n	same	both mean solder/weld, shared gloss
 taare.v	tayr.v	same	one 'catch' lexeme: the taare family lists tayr/taar as variants; Cregeen's tayr entry glosses catch [Phase 3 pilot: 10 haare lines unanswerable while split]
 taau.a	taaue.n	same	taau/taaue idle adjective, spelling variant

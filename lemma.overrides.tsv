@@ -30,7 +30,9 @@ chaglit	chaglit.x	12/12 LLM-unanimous
 chart	kart.n	14/14 LLM-unanimous
 chass	cass.n	3/3 UD
 cheau	ceau.v	22/22 UD
+cheddin	cheddin.a	3/3 UD
 cheet	cheet.v	34/34 UD
+chliwe	cliwe.n	5/5 UD
 chloan	cloan.n	4/4 UD
 chloie	cloie.n	3/3 UD
 choayl	coayl.n	4/4 UD
@@ -41,13 +43,16 @@ choyrt	coyrt.v	7/7 UD
 chreck	creck.v	3/3 UD
 chree	cree.n	7/7 UD
 chretoor	cretoor.n	3/3 UD
+chron	chron.x,cron.n	17/17 LLM-unanimous
 chur	cur.v	17/17 UD
+churrym	currym.n	3/3 UD
 coonee	coonee.a	11/11 LLM-unanimous
 currit	currit.x	15/15 UD
 currym	currym.n	3/3 UD
 doll	doll.v	35/35 LLM-unanimous
 dooin	dooin.v,dooin.x	2490/2490 LLM-unanimous
 dooyrt	abbyr.v	41/41 UD
+dug	cur.v	8/8 UD
 eayn	eayn.n	179/179 LLM-unanimous
 ee	ee.x,ee.v	123/123 UD
 eeit	eeit.x	38/38 LLM-unanimous
@@ -73,6 +78,7 @@ ghow	gow.v	26/26 UD
 ghra	gra.v	8/8 UD
 ghraih	graih.n	4/4 UD
 goair	goayr.n	74/74 LLM-unanimous
+goit	goit.x	4/4 UD
 goo	goo.n	998/998 LLM-unanimous
 gred	cred.v,creid.x	12/12 LLM-unanimous
 haagh	saagh.n	14/14 LLM-unanimous
@@ -85,6 +91,8 @@ hayrn	tayrn.n,tayrn.v	14/14 UD
 hey	tey.n	19/19 LLM-unanimous
 hig	tar.v	4/4 UD
 hoar	soar.n,soar.v	14/14 LLM-unanimous
+hoie	soie.v,soie.v	12/12 UD
+honnick	faik.v	9/9 UD
 hooar	fow.v	47/47 UD
 hooin	hooin.x	113/113 LLM-unanimous
 hoor	toor.n	10/10 LLM-unanimous
@@ -92,6 +100,7 @@ horch	sorch.n,sorch.x	62/62 LLM-unanimous
 hurr	surr.v	15/15 LLM-unanimous
 hym	hym.x	195/195 LLM-unanimous
 ingan	ingan.n	29/29 LLM-unanimous
+ish	ee.x	9/9 UD
 jannoo	jannoo.v	45/45 UD
 jeant	jeant.x	14/14 UD
 jeer	cheer.n	19/19 LLM-unanimous
@@ -118,6 +127,7 @@ ren	jean.v	168/168 UD
 row	bee.v	44/44 UD
 saillym	saillym.x	31/31 LLM-unanimous
 share	mie.v	20/20 UD
+smessey	olk.v	8/8 UD
 smooinee	smooinee.v	3/3 UD
 soie	soie.v	3/3 UD
 sollys	sollys.a	189/189 LLM-unanimous
@@ -125,6 +135,7 @@ sooree	sooree.n,sooree.v	25/25 LLM-unanimous
 surr	surr.v	11/11 LLM-unanimous
 ta	bee.v	437/437 UD
 tannys	tannys.n	13/13 LLM-unanimous
+theihll	seihll.n	18/772 LLM-vote sampled
 thie	thie.n	37/37 UD
 thollee	thollee.x	18/18 LLM-unanimous
 thooilley	thooilley.n	94/94 LLM-unanimous
@@ -138,6 +149,7 @@ v'ee	v'ee.x	643/643 LLM-unanimous
 va	bee.v	105/105 UD
 vaghey	baghey.v	189/189 LLM-unanimous
 valjyn	valjyn.n	10/10 LLM-unanimous
+vees	bee.v	4/4 UD
 veg	beg.a,veg.x	1613/1613 LLM-unanimous
 veih	veih.x	24/24 UD
 veiyn	beiyn.n	12/12 LLM-unanimous
@@ -150,5 +162,6 @@ vroojit	broojit.a	10/10 LLM-unanimous
 warree	mwarree.n	25/25 LLM-unanimous
 wass	wass.x	76/76 LLM-unanimous
 y'	yn.x	16/16 LLM-unanimous
+yinnagh	jean.v	5/5 UD
 çheer	cheer.n,cheer.v	46/46 LLM-unanimous
 çhing	ching.a,ching.n	16/16 LLM-unanimous
