@@ -438,7 +438,7 @@ acoyrtsyn	acoyrts.n	acoyrts	inflected	s. m.	acoyrts
 acoyrtssagh	acoyrtssagh.n	acoyrtssagh	self	s. m.	acoyrtssagh	
 acoyrtssee	acoyrtssagh.n	acoyrtssagh	inflected	s. m.	acoyrtssagh	
 ad	ad.x	ad	self	pro.	ad	
-adsyn	ad.x	ad	inflected	pro.	ad	
+adsyn	ad.x	ad	emphatic	pro.	ad	
 ad hene	ad-hene.x	ad-hene	self	pro.	ad-hene	
 adhene	ad-hene.x	ad-hene	self	pro.	ad-hene	collapsed
 adhene	ad-hene.x	adhene	univerbated	pro.	ad-hene	
@@ -739,7 +739,7 @@ aill	aill.n	aill	self	s.	aill
 aill	faill.v	faill	demutated	v.	aill	
 aill	faill.n	faill	demutated	s. m.	aill	
 saillym	saillym.x	saillym	self	p.	saillym	
-saillyms	saillym.x	saillym	inflected	p.	saillym	
+saillyms	saillym.x	saillym	emphatic	p.	saillym	
 cha naill	saill.v	saill	self	v.	cha naill	
 chanaill	saill.v	saill	self	v.	cha naill	collapsed
 chanaill	saill.v	saill	univerbated	v.	cha naill	
@@ -774,10 +774,10 @@ my saillish	saillish.x	saillish	self	p.	my saillish
 mysaillish	saillish.x	saillish	self	p.	my saillish	collapsed
 mysaillish	saillish.x	saillish	univerbated	p.	my saillish	
 saillish	saillish.x	saillish	particle	p.	my saillish	
-my saillishin	saillish.x	saillish	inflected	p.	my saillish	
-mysaillishin	saillish.x	saillish	inflected	p.	my saillish	collapsed
+my saillishin	saillish.x	saillish	emphatic	p.	my saillish	
+mysaillishin	saillish.x	saillish	emphatic	p.	my saillish	collapsed
 mysaillishin	saillish.x	saillish	univerbated	p.	my saillish	
-saillishin	saillish.x	saillish	inflected	p.	my saillish	
+saillishin	saillish.x	saillish	emphatic	p.	my saillish	
 my sallish	saillish.x	saillish	variant	p.	my sallish	
 mysallish	saillish.x	saillish	variant	p.	my sallish	collapsed
 mysallish	saillish.x	saillish	univerbated	p.	my sallish	
@@ -786,18 +786,18 @@ my saillee	saillee.x	saillee	self	p.	my saillee
 mysaillee	saillee.x	saillee	self	p.	my saillee	collapsed
 mysaillee	saillee.x	saillee	univerbated	p.	my saillee	
 saillee	saillee.x	saillee	particle	p.	my saillee	
-my sailleeish	saillee.x	saillee	inflected	p.	my saillee	
-mysailleeish	saillee.x	saillee	inflected	p.	my saillee	collapsed
+my sailleeish	saillee.x	saillee	emphatic	p.	my saillee	
+mysailleeish	saillee.x	saillee	emphatic	p.	my saillee	collapsed
 mysailleeish	saillee.x	saillee	univerbated	p.	my saillee	
-sailleeish	saillee.x	saillee	inflected	p.	my saillee	
+sailleeish	saillee.x	saillee	emphatic	p.	my saillee	
 my saillin	saillin.x	saillin	self	p.	my saillin	
 mysaillin	saillin.x	saillin	self	p.	my saillin	collapsed
 mysaillin	saillin.x	saillin	univerbated	p.	my saillin	
 saillin	saillin.x	saillin	particle	p.	my saillin	
-my saillinyn	saillin.x	saillin	inflected	p.	my saillin	
-mysaillinyn	saillin.x	saillin	inflected	p.	my saillin	collapsed
+my saillinyn	saillin.x	saillin	emphatic	p.	my saillin	
+mysaillinyn	saillin.x	saillin	emphatic	p.	my saillin	collapsed
 mysaillinyn	saillin.x	saillin	univerbated	p.	my saillin	
-saillinyn	saillin.x	saillin	inflected	p.	my saillin	
+saillinyn	saillin.x	saillin	emphatic	p.	my saillin	
 my sailt	sailt.x	sailt	self	p.	my sailt	
 mysailt	sailt.x	sailt	self	p.	my sailt	collapsed
 mysailt	sailt.x	sailt	univerbated	p.	my sailt	
@@ -806,18 +806,18 @@ my silliu	silliu.x	silliu	self	p. p.	my silliu	synthetic
 mysilliu	silliu.x	silliu	self	p. p.	my silliu	collapsed
 mysilliu	silliu.x	silliu	univerbated	p. p.	my silliu	
 silliu	silliu.x	silliu	particle	p. p.	my silliu	synthetic
-my silliuish	silliu.x	silliu	inflected	p. p.	my silliu	
-mysilliuish	silliu.x	silliu	inflected	p. p.	my silliu	collapsed
+my silliuish	silliu.x	silliu	emphatic	p. p.	my silliu	
+mysilliuish	silliu.x	silliu	emphatic	p. p.	my silliu	collapsed
 mysilliuish	silliu.x	silliu	univerbated	p. p.	my silliu	
-silliuish	silliu.x	silliu	inflected	p. p.	my silliu	
+silliuish	silliu.x	silliu	emphatic	p. p.	my silliu	
 cha naillish	naillish.x	naillish	self	p.	cha naillish	
 chanaillish	naillish.x	naillish	self	p.	cha naillish	collapsed
 chanaillish	naillish.x	naillish	univerbated	p.	cha naillish	
 naillish	naillish.x	naillish	particle	p.	cha naillish	
-cha naillishin	naillish.x	naillish	inflected	p.	cha naillish	
-chanaillishin	naillish.x	naillish	inflected	p.	cha naillish	collapsed
+cha naillishin	naillish.x	naillish	emphatic	p.	cha naillish	
+chanaillishin	naillish.x	naillish	emphatic	p.	cha naillish	collapsed
 chanaillishin	naillish.x	naillish	univerbated	p.	cha naillish	
-naillishin	naillish.x	naillish	inflected	p.	cha naillish	
+naillishin	naillish.x	naillish	emphatic	p.	cha naillish	
 cha naill lhien	naill-lhien.x	naill-lhien	self	p.	cha naill-lhien	demutation-unvalidated
 chanailllhien	naill-lhien.x	naill-lhien	self	p.	cha naill-lhien	collapsed
 chanailllhien	naill-lhien.x	nailllhien	univerbated	p.	cha naill-lhien	
@@ -825,32 +825,32 @@ naill lhien	naill-lhien.x	naill-lhien	particle	p.	cha naill-lhien	demutation-unv
 nailllhien	naill-lhien.x	naill-lhien	particle	p.	cha naill-lhien	collapsed
 nailllhien	naill-lhien.x	nailllhien	univerbated	p.	cha naill-lhien	
 nailt	sailt.x	sailt	self	p.	nailt	
-nailts	sailt.x	sailt	inflected	p.	nailt	
+nailts	sailt.x	sailt	emphatic	p.	nailt	
 nilliu	silliu.x	silliu	self	p.	nilliu	
-nilliuish	silliu.x	silliu	inflected	p.	nilliu	
+nilliuish	silliu.x	silliu	emphatic	p.	nilliu	
 cha nailliu	nailliu.x	nailliu	self		cha nailliu	demutation-unvalidated
 chanailliu	nailliu.x	nailliu	self		cha nailliu	collapsed
 chanailliu	nailliu.x	nailliu	univerbated		cha nailliu	
 nailliu	nailliu.x	nailliu	particle		cha nailliu	demutation-unvalidated
 baillish	baillish.x	baillish	self		baillish	
-baillishin	baillish.x	baillish	inflected		baillish	
+baillishin	baillish.x	baillish	emphatic		baillish	
 baillishin	baillishin.x	baillishin	self		baillishin	
 baillee	baillee.x	baillee	self		baillee	
-bailleeish	baillee.x	baillee	inflected		baillee	
+bailleeish	baillee.x	baillee	emphatic		baillee	
 bailleeish	bailleeish.x	bailleeish	self		bailleeish	
 bailleu	bailleu.x	bailleu	self		bailleu	
-bailleuish	bailleu.x	bailleu	inflected		bailleu	
+bailleuish	bailleu.x	bailleu	emphatic		bailleu	
 bailleuish	bailleuish.x	bailleuish	self		bailleuish	
 baillym	baillym.x	baillym	self		baillym	
-baillyms	baillym.x	baillym	inflected		baillym	
+baillyms	baillym.x	baillym	emphatic		baillym	
 baillyms	baillyms.x	baillyms	self		baillyms	
 baillhien	baillhien.x	baillhien	self		baillhien	
-baillhienyn	baillhien.x	baillhien	inflected		baillhien	
+baillhienyn	baillhien.x	baillhien	emphatic		baillhien	
 baillhienyn	baillhienyn.x	baillhienyn	self		baillhienyn	
 bailt	bailt.v	bailt	self	v.	bailt	
-bailts	bailt.v	bailt	inflected	v.	bailt	
+bailts	bailt.v	bailt	emphatic	v.	bailt	
 bailliu	bailliu.x	bailliu	self		bailliu	
-bailliuish	bailliu.x	bailliu	inflected		bailliu	
+bailliuish	bailliu.x	bailliu	emphatic		bailliu	
 bailloo	bailloo.x	bailloo	self		bailloo	
 bailliuish	bailliuish.x	bailliuish	self		bailliuish	
 my billiu	billiu.v	billiu	self	v.	my billiu	
@@ -870,7 +870,7 @@ ainjyssagh	ainjyssagh.n	ainjyssagh	self	s. m.	ainjyssagh
 ainjyssee	ainjyssagh.n	ainjyssagh	inflected	s. m.	ainjyssagh	
 ainjyssagh	ainjyssagh.a	ainjyssagh	self	a.	ainjyssagh	
 s'ainjyssagh	ainjyssagh.a	ainjyssagh	inflected	a.	s'ainjyssagh	
-s'ainjyssee	ainjyssagh.a	ainjyssagh	inflected	a.	s'ainjyssagh	
+s'ainjyssee	ainjyssagh.a	ainjyssagh	emphatic	a.	s'ainjyssagh	
 s'ainjyssee	ainjyssagh.a	ainjyssagh	compSup	a.	s'ainjyssee	
 neu ainjyssagh	neu-ainjyssagh.a	neu-ainjyssagh	self	a.	neu-ainjyssagh	
 neuainjyssagh	neu-ainjyssagh.a	neu-ainjyssagh	self	a.	neu-ainjyssagh	collapsed
@@ -1819,8 +1819,8 @@ asshene	ass-hene.x	asshene	univerbated	adv. p.	ass-hene
 ass jee	ass-jee.x	ass-jee	self	adv. p.	ass-jee	
 assjee	ass-jee.x	ass-jee	self	adv. p.	ass-jee	collapsed
 assjee	ass-jee.x	assjee	univerbated	adv. p.	ass-jee	
-ass jeeish	ass-jee.x	ass-jee	inflected	adv. p.	ass-jee	
-assjeeish	ass-jee.x	ass-jee	inflected	adv. p.	ass-jee	collapsed
+ass jeeish	ass-jee.x	ass-jee	emphatic	adv. p.	ass-jee	
+assjeeish	ass-jee.x	ass-jee	emphatic	adv. p.	ass-jee	collapsed
 assjeeish	ass-jee.x	assjee	univerbated	adv. p.	ass-jee	
 ass jee hene	ass-jee-hene.x	ass-jee-hene	self	adv. p.	ass-jee-hene	
 assjeehene	ass-jee-hene.x	ass-jee-hene	self	adv. p.	ass-jee-hene	collapsed
@@ -1838,7 +1838,7 @@ ass doo syn	ass-doo-syn.x	ass-doo-syn	self	adv. p.	ass-doo-syn
 assdoosyn	ass-doo-syn.x	ass-doo-syn	self	adv. p.	ass-doo-syn	collapsed
 assdoosyn	ass-doo-syn.x	assdoosyn	univerbated	adv. p.	ass-doo-syn	
 assym	assym.x	assym	self	adv. p.	assym	
-assyms	assym.x	assym	inflected	adv. p.	assym	
+assyms	assym.x	assym	emphatic	adv. p.	assym	
 assym pene	assym-pene.x	assym-pene	self	adv. p.	assym-pene	
 assympene	assym-pene.x	assym-pene	self	adv. p.	assym-pene	collapsed
 assympene	assym-pene.x	assympene	univerbated	adv. p.	assym-pene	
@@ -1854,8 +1854,8 @@ assdhyt	ass-dhyt.x	assdhyt	univerbated		ass-dhyt
 ass yd	ass-yd.x	ass-yd	self	adv. p.	ass-yd	
 assyd	ass-yd.x	ass-yd	self	adv. p.	ass-yd	collapsed
 assyd	ass-yd.x	assyd	univerbated	adv. p.	ass-yd	
-ass yds	ass-yd.x	ass-yd	inflected	adv. p.	ass-yd	
-assyds	ass-yd.x	ass-yd	inflected	adv. p.	ass-yd	collapsed
+ass yds	ass-yd.x	ass-yd	emphatic	adv. p.	ass-yd	
+assyds	ass-yd.x	ass-yd	emphatic	adv. p.	ass-yd	collapsed
 assyds	ass-yd.x	assyd	univerbated	adv. p.	ass-yd	
 assyd hene	assyd-hene.x	assyd-hene	self	adv. p.	assyd-hene	
 assydhene	assyd-hene.x	assyd-hene	self	adv. p.	assyd-hene	collapsed
@@ -1863,8 +1863,8 @@ assydhene	assyd-hene.x	assydhene	univerbated	adv. p.	assyd-hene
 ass diu	ass-diu.x	ass-diu	self	p. p.	ass-diu	synthetic
 assdiu	ass-diu.x	ass-diu	self	p. p.	ass-diu	collapsed
 assdiu	ass-diu.x	assdiu	univerbated	p. p.	ass-diu	
-ass diuish	ass-diu.x	ass-diu	inflected	p. p.	ass-diu	
-assdiuish	ass-diu.x	ass-diu	inflected	p. p.	ass-diu	collapsed
+ass diuish	ass-diu.x	ass-diu	emphatic	p. p.	ass-diu	
+assdiuish	ass-diu.x	ass-diu	emphatic	p. p.	ass-diu	collapsed
 assdiuish	ass-diu.x	assdiu	univerbated	p. p.	ass-diu	
 ass diu hene	ass-diu-hene.x	ass-diu-hene	self	adv. p.	ass-diu-hene	
 assdiuhene	ass-diu-hene.x	ass-diu-hene	self	adv. p.	ass-diu-hene	collapsed
@@ -2085,8 +2085,8 @@ aynsyn	aynsyn.x	aynsyn	self	p. p.	aynsyn	synthetic
 ayn jee	ayn-jee.x	ayn-jee	self	p. p.	ayn-jee	synthetic
 aynjee	ayn-jee.x	ayn-jee	self	p. p.	ayn-jee	collapsed
 aynjee	ayn-jee.x	aynjee	univerbated	p. p.	ayn-jee	
-ayn jeeish	ayn-jee.x	ayn-jee	inflected	p. p.	ayn-jee	
-aynjeeish	ayn-jee.x	ayn-jee	inflected	p. p.	ayn-jee	collapsed
+ayn jeeish	ayn-jee.x	ayn-jee	emphatic	p. p.	ayn-jee	
+aynjeeish	ayn-jee.x	ayn-jee	emphatic	p. p.	ayn-jee	collapsed
 aynjeeish	ayn-jee.x	aynjee	univerbated	p. p.	ayn-jee	
 ayn jee hene	ayn-jee-hene.x	ayn-jee-hene	self	p. p.	ayn-jee-hene	synthetic
 aynjeehene	ayn-jee-hene.x	ayn-jee-hene	self	p. p.	ayn-jee-hene	collapsed
@@ -2094,16 +2094,16 @@ aynjeehene	ayn-jee-hene.x	aynjeehene	univerbated	p. p.	ayn-jee-hene
 ayn doo	ayn-doo.x	ayn-doo	self	p. p.	ayn-doo	synthetic
 ayndoo	ayn-doo.x	ayn-doo	self	p. p.	ayn-doo	collapsed
 ayndoo	ayn-doo.x	ayndoo	univerbated	p. p.	ayn-doo	
-ayn doosyn	ayn-doo.x	ayn-doo	inflected	p. p.	ayn-doo	
-ayndoosyn	ayn-doo.x	ayn-doo	inflected	p. p.	ayn-doo	collapsed
+ayn doosyn	ayn-doo.x	ayn-doo	emphatic	p. p.	ayn-doo	
+ayndoosyn	ayn-doo.x	ayn-doo	emphatic	p. p.	ayn-doo	collapsed
 ayndoosyn	ayn-doo.x	ayndoo	univerbated	p. p.	ayn-doo	
 ayndaue	ayndaue.x	ayndaue	self	p. p.	ayndaue	synthetic
-ayndauesyn	ayndaue.x	ayndaue	inflected	p. p.	ayndaue	
+ayndauesyn	ayndaue.x	ayndaue	emphatic	p. p.	ayndaue	
 ayn ym	ayn-ym.x	ayn-ym	self	p. p.	ayn-ym	synthetic
 aynym	ayn-ym.x	ayn-ym	self	p. p.	ayn-ym	collapsed
 aynym	ayn-ym.x	aynym	univerbated	p. p.	ayn-ym	
-ayn yms	ayn-ym.x	ayn-ym	inflected	p. p.	ayn-ym	
-aynyms	ayn-ym.x	ayn-ym	inflected	p. p.	ayn-ym	collapsed
+ayn yms	ayn-ym.x	ayn-ym	emphatic	p. p.	ayn-ym	
+aynyms	ayn-ym.x	ayn-ym	emphatic	p. p.	ayn-ym	collapsed
 aynyms	ayn-ym.x	aynym	univerbated	p. p.	ayn-ym	
 ayn ym pene	ayn-ym-pene.x	ayn-ym-pene	self	p. p.	ayn-ym-pene	synthetic
 aynympene	ayn-ym-pene.x	ayn-ym-pene	self	p. p.	ayn-ym-pene	collapsed
@@ -2111,8 +2111,8 @@ aynympene	ayn-ym-pene.x	aynympene	univerbated	p. p.	ayn-ym-pene
 ayn in	ayn-in.x	ayn-in	self	p. p.	ayn-in	synthetic
 aynin	ayn-in.x	ayn-in	self	p. p.	ayn-in	collapsed
 aynin	ayn-in.x	aynin	univerbated	p. p.	ayn-in	
-ayn inyn	ayn-in.x	ayn-in	inflected	p. p.	ayn-in	
-ayninyn	ayn-in.x	ayn-in	inflected	p. p.	ayn-in	collapsed
+ayn inyn	ayn-in.x	ayn-in	emphatic	p. p.	ayn-in	
+ayninyn	ayn-in.x	ayn-in	emphatic	p. p.	ayn-in	collapsed
 ayninyn	ayn-in.x	aynin	univerbated	p. p.	ayn-in	
 ayn in hene	ayn-in-hene.x	ayn-in-hene	self	p. p.	ayn-in-hene	synthetic
 ayninhene	ayn-in-hene.x	ayn-in-hene	self	p. p.	ayn-in-hene	collapsed
@@ -2120,8 +2120,8 @@ ayninhene	ayn-in-hene.x	ayninhene	univerbated	p. p.	ayn-in-hene
 ayn dooin	ayn-dooin.x	ayn-dooin	self	p. p.	ayn-dooin	synthetic
 ayndooin	ayn-dooin.x	ayn-dooin	self	p. p.	ayn-dooin	collapsed
 ayndooin	ayn-dooin.x	ayndooin	univerbated	p. p.	ayn-dooin	
-ayn dooinin	ayn-dooin.x	ayn-dooin	inflected	p. p.	ayn-dooin	
-ayndooinin	ayn-dooin.x	ayn-dooin	inflected	p. p.	ayn-dooin	collapsed
+ayn dooinin	ayn-dooin.x	ayn-dooin	emphatic	p. p.	ayn-dooin	
+ayndooinin	ayn-dooin.x	ayn-dooin	emphatic	p. p.	ayn-dooin	collapsed
 ayndooinin	ayn-dooin.x	ayndooin	univerbated	p. p.	ayn-dooin	
 ayn dooin hene	ayn-dooin-hene.x	ayn-dooin-hene	self	p. p.	ayn-dooin-hene	synthetic
 ayndooinhene	ayn-dooin-hene.x	ayn-dooin-hene	self	p. p.	ayn-dooin-hene	collapsed
@@ -2129,14 +2129,14 @@ ayndooinhene	ayn-dooin-hene.x	ayndooinhene	univerbated	p. p.	ayn-dooin-hene
 ayn yd	ayn-yd.x	ayn-yd	self	p. p.	ayn-yd	synthetic
 aynyd	ayn-yd.x	ayn-yd	self	p. p.	ayn-yd	collapsed
 aynyd	ayn-yd.x	aynyd	univerbated	p. p.	ayn-yd	
-ayn yds	ayn-yd.x	ayn-yd	inflected	p. p.	ayn-yd	
-aynyds	ayn-yd.x	ayn-yd	inflected	p. p.	ayn-yd	collapsed
+ayn yds	ayn-yd.x	ayn-yd	emphatic	p. p.	ayn-yd	
+aynyds	ayn-yd.x	ayn-yd	emphatic	p. p.	ayn-yd	collapsed
 aynyds	ayn-yd.x	aynyd	univerbated	p. p.	ayn-yd	
 ayn yd hene	ayn-yd-hene.x	ayn-yd-hene	self	p. p.	ayn-yd-hene	synthetic
 aynydhene	ayn-yd-hene.x	ayn-yd-hene	self	p. p.	ayn-yd-hene	collapsed
 aynydhene	ayn-yd-hene.x	aynydhene	univerbated	p. p.	ayn-yd-hene	
 ayndiu	ayndiu.x	ayndiu	self	p. p.	ayndiu	synthetic
-ayndiuish	ayndiu.x	ayndiu	inflected	p. p.	ayndiu	
+ayndiuish	ayndiu.x	ayndiu	emphatic	p. p.	ayndiu	
 ayn diu hene	ayn-diu-hene.x	ayn-diu-hene	self	p. p.	ayn-diu-hene	synthetic
 ayndiuhene	ayn-diu-hene.x	ayn-diu-hene	self	p. p.	ayn-diu-hene	collapsed
 ayndiuhene	ayn-diu-hene.x	ayndiuhene	univerbated	p. p.	ayn-diu-hene	
@@ -3330,14 +3330,14 @@ bee ee	bee-ee.v	bee-ee	self	v.	bee-ee
 beeee	bee-ee.v	bee-ee	self	v.	bee-ee	collapsed
 beeee	bee-ee.v	beeee	univerbated	v.	bee-ee	
 bhidee	bhidee.x	bhidee	self		bhidee	
-bhideeish	bhidee.x	bhidee	inflected		bhidee	
+bhideeish	bhidee.x	bhidee	emphatic		bhidee	
 bee'm	bee'm.v	bee'm	self	v.	bee'm	
-bee'ms	bee'm.v	bee'm	inflected	v.	bee'm	
+bee'ms	bee'm.v	bee'm	emphatic	v.	bee'm	
 bee oo	bee-oo.v	bee-oo	self	v.	bee-oo	
 beeoo	bee-oo.v	bee-oo	self	v.	bee-oo	collapsed
 beeoo	bee-oo.v	beeoo	univerbated	v.	bee-oo	
 boo	bee-oo.v	bee-oo	contraction	v.	boo	
-boouss	bee-oo.v	bee-oo	inflected	v.	boo	
+boouss	bee-oo.v	bee-oo	emphatic	v.	boo	
 bee dty host	bee-dty-host.x	bee-dty-host	self	in.	bee-dty-host	
 beedtyhost	bee-dty-host.x	bee-dty-host	self	in.	bee-dty-host	collapsed
 beedtyhost	bee-dty-host.x	beedtyhost	univerbated	in.	bee-dty-host	
@@ -3350,13 +3350,13 @@ myvee'm	vee'm.x	vee'm	self	p.	my vee'm	collapsed
 myvee'm	vee'm.x	vee'm	univerbated	p.	my vee'm	
 vee'm	vee'm.x	vee'm	particle	p.	my vee'm	
 vee'm	bee'm.v	bee'm	demutated	v.	my vee'm	
-my vee'ms	vee'm.x	vee'm	inflected	p.	my vee'm	
-myvee'ms	vee'm.x	vee'm	inflected	p.	my vee'm	collapsed
+my vee'ms	vee'm.x	vee'm	emphatic	p.	my vee'm	
+myvee'ms	vee'm.x	vee'm	emphatic	p.	my vee'm	collapsed
 myvee'ms	vee'm.x	vee'm	univerbated	p.	my vee'm	
-vee'ms	vee'm.x	vee'm	inflected	p.	my vee'm	
+vee'ms	vee'm.x	vee'm	emphatic	p.	my vee'm	
 veign	beign.v	beign	self	v.	veign	
 veign	beign.v	beign	demutated	v.	veign	
-veignish	beign.v	beign	inflected	v.	veign	
+veignish	beign.v	beign	emphatic	v.	veign	
 dy beign	beign.v	beign	self	v.	dy beign	
 dybeign	beign.v	beign	self	v.	dy beign	collapsed
 dybeign	beign.v	beign	univerbated	v.	dy beign	
@@ -3385,49 +3385,49 @@ nel	nel.v	nel	particle	v.	cha nel
 re	re.v	re	self	v.	re	
 row	row.v	row	self	v.	row	
 row	row.x	row	self	p.	row	
-rows	row.x	row	inflected	p.	row	
+rows	row.x	row	emphatic	p.	row	
 r'ou	r'ou.x	r'ou	self	p.	r'ou	
-r'ous	r'ou.x	r'ou	inflected	p.	r'ou	
-ous	r'ou.x	r'ou	inflected	p.	r'ou	
+r'ous	r'ou.x	r'ou	emphatic	p.	r'ou	
+ous	r'ou.x	r'ou	emphatic	p.	r'ou	
 she	she.x	she	self	adv.	she	
 ta	ta.v	ta	self	v.	ta	
 cre t'ayn	t'ayn.x	t'ayn	self		cre t'ayn	
 cret'ayn	t'ayn.x	t'ayn	self		cre t'ayn	collapsed
 cret'ayn	t'ayn.x	t'ayn	univerbated		cre t'ayn	
 t'ayn	t'ayn.x	t'ayn	particle		cre t'ayn	
-cre t'aynsyn	t'ayn.x	t'ayn	inflected		cre t'ayn	
-cret'aynsyn	t'ayn.x	t'ayn	inflected		cre t'ayn	collapsed
+cre t'aynsyn	t'ayn.x	t'ayn	emphatic		cre t'ayn	
+cret'aynsyn	t'ayn.x	t'ayn	emphatic		cre t'ayn	collapsed
 cret'aynsyn	t'ayn.x	t'ayn	univerbated		cre t'ayn	
-cre t'ayns	t'ayn.x	t'ayn	inflected		cre t'ayn	
-cret'ayns	t'ayn.x	t'ayn	inflected		cre t'ayn	collapsed
+cre t'ayns	t'ayn.x	t'ayn	emphatic		cre t'ayn	
+cret'ayns	t'ayn.x	t'ayn	emphatic		cre t'ayn	collapsed
 cret'ayns	t'ayn.x	t'ayn	univerbated		cre t'ayn	
 cre t'echey	t'echey.x	t'echey	self	p.	cre t'echey	
 cret'echey	t'echey.x	t'echey	self	p.	cre t'echey	collapsed
 cret'echey	t'echey.x	t'echey	univerbated	p.	cre t'echey	
 t'echey	t'echey.x	t'echey	particle	p.	cre t'echey	
-cre t'echeysyn	t'echey.x	t'echey	inflected	p.	cre t'echey	
-cret'echeysyn	t'echey.x	t'echey	inflected	p.	cre t'echey	collapsed
+cre t'echeysyn	t'echey.x	t'echey	emphatic	p.	cre t'echey	
+cret'echeysyn	t'echey.x	t'echey	emphatic	p.	cre t'echey	collapsed
 cret'echeysyn	t'echey.x	t'echey	univerbated	p.	cre t'echey	
 cre t'oc	t'oc.x	t'oc	self	p. p.	cre t'oc	synthetic
 cret'oc	t'oc.x	t'oc	self	p. p.	cre t'oc	collapsed
 cret'oc	t'oc.x	t'oc	univerbated	p. p.	cre t'oc	
 t'oc	t'oc.x	t'oc	particle	p. p.	cre t'oc	synthetic
-cre t'ocsyn	t'oc.x	t'oc	inflected	p. p.	cre t'oc	
-cret'ocsyn	t'oc.x	t'oc	inflected	p. p.	cre t'oc	collapsed
+cre t'ocsyn	t'oc.x	t'oc	emphatic	p. p.	cre t'oc	
+cret'ocsyn	t'oc.x	t'oc	emphatic	p. p.	cre t'oc	collapsed
 cret'ocsyn	t'oc.x	t'oc	univerbated	p. p.	cre t'oc	
 cre t'aym	t'aym.x	t'aym	self		cre t'aym	
 cret'aym	t'aym.x	t'aym	self		cre t'aym	collapsed
 cret'aym	t'aym.x	t'aym	univerbated		cre t'aym	
 t'aym	t'aym.x	t'aym	particle		cre t'aym	
-cre t'ayms	t'aym.x	t'aym	inflected		cre t'aym	
-cret'ayms	t'aym.x	t'aym	inflected		cre t'aym	collapsed
+cre t'ayms	t'aym.x	t'aym	emphatic		cre t'aym	
+cret'ayms	t'aym.x	t'aym	emphatic		cre t'aym	collapsed
 cret'ayms	t'aym.x	t'aym	univerbated		cre t'aym	
 cre t'ayd	t'ayd.x	t'ayd	self		cre t'ayd	
 cret'ayd	t'ayd.x	t'ayd	self		cre t'ayd	collapsed
 cret'ayd	t'ayd.x	t'ayd	univerbated		cre t'ayd	
 t'ayd	t'ayd.x	t'ayd	particle		cre t'ayd	
-cre t'ayds	t'ayd.x	t'ayd	inflected		cre t'ayd	
-cret'ayds	t'ayd.x	t'ayd	inflected		cre t'ayd	collapsed
+cre t'ayds	t'ayd.x	t'ayd	emphatic		cre t'ayd	
+cret'ayds	t'ayd.x	t'ayd	emphatic		cre t'ayd	collapsed
 cret'ayds	t'ayd.x	t'ayd	univerbated		cre t'ayd	
 eh ta dy my choyrt	eh-ta-dy-my-choyrt.x	eh ta dy my choyrt	self		eh ta dy my choyrt	
 ehtadymychoyrt	eh-ta-dy-my-choyrt.x	eh ta dy my choyrt	self		eh ta dy my choyrt	collapsed
@@ -3437,36 +3437,36 @@ tashendyghra	ta-shen-dy-ghra.x	ta shen dy ghra	self	adv.	ta shen dy ghra	collaps
 tashendyghra	ta-shen-dy-ghra.x	tashendyghra	univerbated	adv.	ta shen dy ghra	
 te	te.x	te	self	p.	te	
 t'eh	t'eh.x	t'eh	self	p.	t'eh	
-t'eshyn	t'eh.x	t'eh	inflected	p.	t'eh	
+t'eshyn	t'eh.x	t'eh	emphatic	p.	t'eh	
 t'eshyn	t'eshyn.x	t'eshyn	self	p.	t'eshyn	
 t'ehsyn	t'ehsyn.x	t'ehsyn	self		t'ehsyn	
 ehsyn	t'ehsyn.x	t'ehsyn	mutation		t'ehsyn	
 t'ee	t'ee.x	t'ee	self	p.	t'ee	
-t'eeish	t'ee.x	t'ee	inflected	p.	t'ee	
-eeish	t'ee.x	t'ee	inflected	p.	t'ee	
+t'eeish	t'ee.x	t'ee	emphatic	p.	t'ee	
+eeish	t'ee.x	t'ee	emphatic	p.	t'ee	
 ta'd	ta'd.v	ta'd	self	pro. v.	ta'd	
-ta'dsyn	ta'd.v	ta'd	inflected	pro. v.	ta'd	
-dsyn	ta'd.v	ta'd	inflected	pro. v.	ta'd	
+ta'dsyn	ta'd.v	ta'd	emphatic	pro. v.	ta'd	
+dsyn	ta'd.v	ta'd	emphatic	pro. v.	ta'd	
 tar ad	tar-ad.x	tar ad	self	p.	tar ad	
 tarad	tar-ad.x	tar ad	self	p.	tar ad	collapsed
 tarad	tar-ad.x	tarad	univerbated	p.	tar ad	
 t'ou	t'ou.x	t'ou	self	p.	t'ou	
 t'ec	t'ec.x	t'ec	self	p.	t'ec	
-t'ecish	t'ec.x	t'ec	inflected	p.	t'ec	
-ecish	t'ec.x	t'ec	inflected	p.	t'ec	
+t'ecish	t'ec.x	t'ec	emphatic	p.	t'ec	
+ecish	t'ec.x	t'ec	emphatic	p.	t'ec	
 t'ain	t'ain.v	t'ain	self	pro. v.	t'ain	
-t'ainyn	t'ain.v	t'ain	inflected	pro. v.	t'ain	
-ainyn	t'ain.v	t'ain	inflected	pro. v.	t'ain	
+t'ainyn	t'ain.v	t'ain	emphatic	pro. v.	t'ain	
+ainyn	t'ain.v	t'ain	emphatic	pro. v.	t'ain	
 t'eu	t'eu.x	t'eu	self	p.	t'eu	
-t'euish	t'eu.x	t'eu	inflected	p.	t'eu	
+t'euish	t'eu.x	t'eu	emphatic	p.	t'eu	
 t'orroo	t'orroo.x	t'orroo	self	p. p.	t'orroo	synthetic
-t'orroosyn	t'orroo.x	t'orroo	inflected	p. p.	t'orroo	
+t'orroosyn	t'orroo.x	t'orroo	emphatic	p. p.	t'orroo	
 t'orrym	t'orrym.x	t'orrym	self	p. p.	t'orrym	synthetic
-t'orryms	t'orrym.x	t'orrym	inflected	p. p.	t'orrym	
+t'orryms	t'orrym.x	t'orrym	emphatic	p. p.	t'orrym	
 t'orrin	t'orrin.x	t'orrin	self	p. p.	t'orrin	synthetic
-t'orrinyn	t'orrin.x	t'orrin	inflected	p. p.	t'orrin	
+t'orrinyn	t'orrin.x	t'orrin	emphatic	p. p.	t'orrin	
 t'ort	t'ort.x	t'ort	self	p. p.	t'ort	synthetic
-t'orts	t'ort.x	t'ort	inflected	p. p.	t'ort	
+t'orts	t'ort.x	t'ort	emphatic	p. p.	t'ort	
 va	va.v	va	self	v.	va	
 va'n	va'n.x	va'n	self		va'n	
 ve	ve.v	ve	self	v.	ve	
@@ -3474,24 +3474,24 @@ v'eh	v'eh.x	v'eh	self	p.	v'eh
 v'eshyn	v'eshyn.x	v'eshyn	self	p.	v'eshyn	
 v'ee	v'ee.x	v'ee	self	p.	v'ee	
 v'ee	m'ee.x	m'ee	demutated	p. p.	v'ee	
-v'eeish	v'ee.x	v'ee	inflected	p.	v'ee	
-eeish	v'ee.x	v'ee	inflected	p.	v'ee	
+v'eeish	v'ee.x	v'ee	emphatic	p.	v'ee	
+eeish	v'ee.x	v'ee	emphatic	p.	v'ee	
 v'ad	v'ad.x	v'ad	self	p.	v'ad	
-v'adsyn	v'ad.x	v'ad	inflected	p.	v'ad	
+v'adsyn	v'ad.x	v'ad	emphatic	p.	v'ad	
 v'ou	v'ou.x	v'ou	self	p.	v'ou	
-v'ouys	v'ou.x	v'ou	inflected	p.	v'ou	
-ouys	v'ou.x	v'ou	inflected	p.	v'ou	
+v'ouys	v'ou.x	v'ou	emphatic	p.	v'ou	
+ouys	v'ou.x	v'ou	emphatic	p.	v'ou	
 v'oo	v'oo.x	v'oo	self	p.	v'oo	
 v'oc	v'oc.x	v'oc	self	p.	v'oc	
-v'ocsyn	v'oc.x	v'oc	inflected	p.	v'oc	
+v'ocsyn	v'oc.x	v'oc	emphatic	p.	v'oc	
 v'aym	v'aym.x	v'aym	self	p.	v'aym	
-v'ayms	v'aym.x	v'aym	inflected	p.	v'aym	
+v'ayms	v'aym.x	v'aym	emphatic	p.	v'aym	
 v'eu	v'eu.x	v'eu	self	p.	v'eu	
-v'euish	v'eu.x	v'eu	inflected	p.	v'eu	
+v'euish	v'eu.x	v'eu	emphatic	p.	v'eu	
 v'ort	v'ort.x	v'ort	self	p. p.	v'ort	synthetic
-v'orts	v'ort.x	v'ort	inflected	p. p.	v'ort	
+v'orts	v'ort.x	v'ort	emphatic	p. p.	v'ort	
 v'ayndoo	v'ayndoo.x	v'ayndoo	self	p.	v'ayndoo	
-v'ayndoosyn	v'ayndoo.x	v'ayndoo	inflected	p.	v'ayndoo	
+v'ayndoosyn	v'ayndoo.x	v'ayndoo	emphatic	p.	v'ayndoo	
 vel	vel.v	vel	self	v.	vel	demutation-unvalidated
 bea	bea.n	bea	self	s. f.	bea	
 yn vea	vea.n	vea	self	s.	yn vea	
@@ -10770,7 +10770,7 @@ higg	hig.x	hig	variant		higg	demutation-unvalidated
 higgym	hig.x	hig	inflected		higg	demutation-unvalidated
 higgyms	hig.x	hig	inflected		higg	demutation-unvalidated
 jigym	jigym.x	jigym	self	p.	jigym	
-jigyms	jigym.x	jigym	inflected	p.	jigym	
+jigyms	jigym.x	jigym	emphatic	p.	jigym	
 jig oo	jig-oo.x	jig oo	self	p.	jig oo	
 jigoo	jig-oo.x	jig oo	self	p.	jig oo	collapsed
 jigoo	jig-oo.x	jigoo	univerbated	p.	jig oo	
@@ -10778,7 +10778,7 @@ haink	haink.v	haink	self	v.	haink	demutation-unvalidated
 daink	tar.v	tar	override	v.	daink	
 tar	tar.v	tar	self	v.	tar	
 darrin	darrin.x	darrin	self	p.	darrin	demutation-unvalidated
-darrins	darrin.x	darrin	inflected	p.	darrin	demutation-unvalidated
+darrins	darrin.x	darrin	emphatic	p.	darrin	demutation-unvalidated
 darragh oo	darragh-oo.v	darragh oo	self	v.	darragh oo	demutation-unvalidated
 darraghoo	darragh-oo.v	darragh oo	self	v.	darragh oo	collapsed
 darraghoo	darragh-oo.v	darraghoo	univerbated	v.	darragh oo	
@@ -11273,7 +11273,7 @@ chammah	chammah.x	chammah	self	adv.	chammah
 chammah	cammah.x	cammah	demutated	adv.	chammah	
 chor	chor.n	chor	self	s.	chor	
 choud	choud.x	choud	self	adv.	choud	
-chouds	choud.x	choud	inflected	adv.	choud	
+chouds	choud.x	choud	emphatic	adv.	choud	
 co choud	co-choud.x	co-choud	self	adv.	co-choud	
 cochoud	co-choud.x	co-choud	self	adv.	co-choud	collapsed
 cochoud	co-choud.x	cochoud	univerbated	adv.	co-choud	
@@ -14993,10 +14993,10 @@ dty chour	chour.x	chour	self	pre.	dty chour
 dtychour	chour.x	chour	self	pre.	dty chour	collapsed
 dtychour	chour.x	chour	univerbated	pre.	dty chour	
 chour	chour.x	chour	particle	pre.	dty chour	
-dty chours	chour.x	chour	inflected	pre.	dty chour	
-dtychours	chour.x	chour	inflected	pre.	dty chour	collapsed
+dty chours	chour.x	chour	emphatic	pre.	dty chour	
+dtychours	chour.x	chour	emphatic	pre.	dty chour	collapsed
 dtychours	chour.x	chour	univerbated	pre.	dty chour	
-chours	chour.x	chour	inflected	pre.	dty chour	
+chours	chour.x	chour	emphatic	pre.	dty chour	
 nyn gour	gour.x	gour	self	adv.	nyn gour	
 nyngour	gour.x	gour	self	adv.	nyn gour	collapsed
 nyngour	gour.x	gour	univerbated	adv.	nyn gour	
@@ -15923,14 +15923,14 @@ noyr	cre'n-oyr.x	cre'noyr	univerbated	adv.	cre'n-oyr
 cre saillym	cre-saillym.x	cre-saillym	self	pro.	cre-saillym	
 cresaillym	cre-saillym.x	cre-saillym	self	pro.	cre-saillym	collapsed
 cresaillym	cre-saillym.x	cresaillym	univerbated	pro.	cre-saillym	
-cre saillyms	cre-saillym.x	cre-saillym	inflected	pro.	cre-saillym	
-cresaillyms	cre-saillym.x	cre-saillym	inflected	pro.	cre-saillym	collapsed
+cre saillyms	cre-saillym.x	cre-saillym	emphatic	pro.	cre-saillym	
+cresaillyms	cre-saillym.x	cre-saillym	emphatic	pro.	cre-saillym	collapsed
 cresaillyms	cre-saillym.x	cresaillym	univerbated	pro.	cre-saillym	
 cre sailt	cre-sailt.x	cre-sailt	self	pro.	cre-sailt	
 cresailt	cre-sailt.x	cre-sailt	self	pro.	cre-sailt	collapsed
 cresailt	cre-sailt.x	cresailt	univerbated	pro.	cre-sailt	
-cre sailts	cre-sailt.x	cre-sailt	inflected	pro.	cre-sailt	
-cresailts	cre-sailt.x	cre-sailt	inflected	pro.	cre-sailt	collapsed
+cre sailts	cre-sailt.x	cre-sailt	emphatic	pro.	cre-sailt	
+cresailts	cre-sailt.x	cre-sailt	emphatic	pro.	cre-sailt	collapsed
 cresailts	cre-sailt.x	cresailt	univerbated	pro.	cre-sailt	
 cre silliu	cre-silliu.x	cre-silliu	self	pro.	cre-silliu	
 cresilliu	cre-silliu.x	cre-silliu	self	pro.	cre-silliu	collapsed
@@ -18418,8 +18418,8 @@ currish	cur-rish.v	currish	univerbated	v.	cur-rish
 cur roo	cur-roo.x	cur-roo	self	p.	cur-roo	
 curroo	cur-roo.x	cur-roo	self	p.	cur-roo	collapsed
 curroo	cur-roo.x	curroo	univerbated	p.	cur-roo	
-cur roosyn	cur-roo.x	cur-roo	inflected	p.	cur-roo	
-curroosyn	cur-roo.x	cur-roo	inflected	p.	cur-roo	collapsed
+cur roosyn	cur-roo.x	cur-roo	emphatic	p.	cur-roo	
+curroosyn	cur-roo.x	cur-roo	emphatic	p.	cur-roo	collapsed
 curroosyn	cur-roo.x	curroo	univerbated	p.	cur-roo	
 dy chur roo	chur-roo.v	chur-roo	self	v.	dy chur-roo	
 dychurroo	chur-roo.v	chur-roo	self	v.	dy chur-roo	collapsed
@@ -18430,14 +18430,14 @@ churroo	chur-roo.v	churroo	univerbated	v.	dy chur-roo
 cur rhym	cur-rhym.v	cur-rhym	self	v.	cur-rhym	
 currhym	cur-rhym.v	cur-rhym	self	v.	cur-rhym	collapsed
 currhym	cur-rhym.v	currhym	univerbated	v.	cur-rhym	
-cur rhyms	cur-rhym.v	cur-rhym	inflected	v.	cur-rhym	
-currhyms	cur-rhym.v	cur-rhym	inflected	v.	cur-rhym	collapsed
+cur rhyms	cur-rhym.v	cur-rhym	emphatic	v.	cur-rhym	
+currhyms	cur-rhym.v	cur-rhym	emphatic	v.	cur-rhym	collapsed
 currhyms	cur-rhym.v	currhym	univerbated	v.	cur-rhym	
 cur rhyt	cur-rhyt.x	cur-rhyt	self	p.	cur-rhyt	
 currhyt	cur-rhyt.x	cur-rhyt	self	p.	cur-rhyt	collapsed
 currhyt	cur-rhyt.x	currhyt	univerbated	p.	cur-rhyt	
-cur rhyts	cur-rhyt.x	cur-rhyt	inflected	p.	cur-rhyt	
-currhyts	cur-rhyt.x	cur-rhyt	inflected	p.	cur-rhyt	collapsed
+cur rhyts	cur-rhyt.x	cur-rhyt	emphatic	p.	cur-rhyt	
+currhyts	cur-rhyt.x	cur-rhyt	emphatic	p.	cur-rhyt	collapsed
 currhyts	cur-rhyt.x	currhyt	univerbated	p.	cur-rhyt	
 dy chur shaghey	chur-shaghey.v	chur-shaghey	self	v.	dy chur-shaghey	
 dychurshaghey	chur-shaghey.v	chur-shaghey	self	v.	dy chur-shaghey	collapsed
@@ -18719,26 +18719,26 @@ chutid	cutid.n	cutid	demutated	s.	e chutid
 cweshtan	cweshtan.n	cweshtan	self	s. m.	cweshtan	
 cweshtanyn	cweshtan.n	cweshtan	inflected	s. m.	cweshtan	
 da	da.x	da	self	p. p.	da	synthetic
-dasyn	da.x	da	inflected	p. p.	da	
+dasyn	da.x	da	emphatic	p. p.	da	
 dasyn	dasyn.x	dasyn	self	p.	dasyn	
 j'ee	j'ee.x	j'ee	self	p. p.	j'ee	synthetic
-j'eeish	j'ee.x	j'ee	inflected	p. p.	j'ee	
-eeish	j'ee.x	j'ee	inflected	p. p.	j'ee	
+j'eeish	j'ee.x	j'ee	emphatic	p. p.	j'ee	
+eeish	j'ee.x	j'ee	emphatic	p. p.	j'ee	
 daue	da.x	da	plural	p. p.	daue	synthetic
-dauesyn	da.x	da	inflected	p. p.	daue	
+dauesyn	da.x	da	emphatic	p. p.	daue	
 dauesyn	dauesyn.x	dauesyn	self	p. p.	dauesyn	synthetic
 dou	dou.x	dou	self	p, p.	dou	
-dooys	dou.x	dou	inflected	p, p.	dou	
+dooys	dou.x	dou	emphatic	p, p.	dou	
 dou hene	dou-hene.x	dou-hene	self	p. p.	dou-hene	synthetic
 douhene	dou-hene.x	dou-hene	self	p. p.	dou-hene	collapsed
 douhene	dou-hene.x	douhene	univerbated	p. p.	dou-hene	
 dooys	dooys.x	dooys	self	p. p.	dooys	synthetic
 dooin	dooin.x	dooin	self	p. p.	dooin	synthetic
-dooinyn	dooin.x	dooin	inflected	p. p.	dooin	
+dooinyn	dooin.x	dooin	emphatic	p. p.	dooin	
 dhyt	dhyt.x	dhyt	self	p. p.	dhyt	synthetic
-dhyts	dhyt.x	dhyt	inflected	p. p.	dhyt	
+dhyts	dhyt.x	dhyt	emphatic	p. p.	dhyt	
 diu	diu.x	diu	self	p. p.	diu	synthetic
-diuish	diu.x	diu	inflected	p. p.	diu	
+diuish	diu.x	diu	emphatic	p. p.	diu	
 diu hene	diu-hene.x	diu-hene	self	p. p.	diu-hene	synthetic
 diuhene	diu-hene.x	diu-hene	self	p. p.	diu-hene	collapsed
 diuhene	diu-hene.x	diuhene	univerbated	p. p.	diu-hene	
@@ -20575,7 +20575,7 @@ erdyn	er-dyn.x	erdyn	univerbated	adv.	er-dyn
 e	e.x	e	self	in.	e	
 eh	e.x	e	variant	in.	eh	
 eh	feh.n	feh	demutated	s. m.	eh	
-eshyn	e.x	e	inflected	in.	eh	
+eshyn	e.x	e	emphatic	in.	eh	
 eab	eab.n	eab	self	s. m.	eab	
 eabaghyn	eab.n	eab	inflected	s. m.	eab	
 eab	eab.v	eab	self	v.	eab	
@@ -20960,13 +20960,13 @@ foyneayst	fo-yn-eayst.a	fo-yn-eayst	self	a.	fo-yn-eayst	collapsed
 foyneayst	fo-yn-eayst.a	foyneayst	univerbated	a.	fo-yn-eayst	
 ec	ec.x	ec	self	pre. at.	ec	
 echey	echey.x	echey	self	p.	echey	
-echeysyn	echey.x	echey	inflected	p.	echey	
+echeysyn	echey.x	echey	emphatic	p.	echey	
 eck	eck.x	eck	self	pro.	eck	
-ecksh	eck.x	eck	inflected	pro.	eck	
+ecksh	eck.x	eck	emphatic	pro.	eck	
 oc	oc.x	oc	self	pro.	oc	
-ocsyn	oc.x	oc	inflected	pro.	oc	
+ocsyn	oc.x	oc	emphatic	pro.	oc	
 aym	aym.x	aym	self	pro.	aym	
-ayms	aym.x	aym	inflected	pro.	aym	
+ayms	aym.x	aym	emphatic	pro.	aym	
 aym pene	aym-pene.x	aym-pene	self	pro.	aym-pene	
 aympene	aym-pene.x	aym-pene	self	pro.	aym-pene	collapsed
 aympene	aym-pene.x	aympene	univerbated	pro.	aym-pene	
@@ -20975,9 +20975,9 @@ ain hene	ain-hene.x	ain-hene	self	pro.	ain-hene
 ainhene	ain-hene.x	ain-hene	self	pro.	ain-hene	collapsed
 ainhene	ain-hene.x	ainhene	univerbated	pro.	ain-hene	
 ayd	ayd.x	ayd	self	pro.	ayd	
-ayds	ayd.x	ayd	inflected	pro.	ayd	
+ayds	ayd.x	ayd	emphatic	pro.	ayd	
 eu	eu.x	eu	self	pro.	eu	
-euish	eu.x	eu	inflected	pro.	eu	
+euish	eu.x	eu	emphatic	pro.	eu	
 edd	edd.n	edd	self	s. m.	edd	
 idd	edd.n	edd	inflected	s. m.	edd	
 idd	idd.a	idd	self	a. d.	idd	
@@ -21072,7 +21072,7 @@ edyr	edyr.x	edyr	self	conj.	edyr
 ee	ee.x	ee	self	pro.	ee	
 ee	fee.v	fee	demutated	v.	ee	
 ee	fee.n	fee	demutated	s. pl.	ee	
-ish	ee.x	ee	inflected	pro.	ee	
+ish	ee.x	ee	emphatic	pro.	ee	
 ee hene	ee-hene.x	ee-hene	self	pro.	ee-hene	
 eehene	ee-hene.x	ee-hene	self	pro.	ee-hene	collapsed
 eehene	ee-hene.x	eehene	univerbated	pro.	ee-hene	
@@ -21709,8 +21709,8 @@ eiyrt	eiyrt.v	eiyrt	particle	v.	dy eiyrt
 er eiyrt	er-eiyrt.v	er-eiyrt	self	v.	er-eiyrt	
 ereiyrt	er-eiyrt.v	er-eiyrt	self	v.	er-eiyrt	collapsed
 ereiyrt	er-eiyrt.v	ereiyrt	univerbated	v.	er-eiyrt	
-er eiyrts	er-eiyrt.v	er-eiyrt	inflected	v.	er-eiyrt	
-ereiyrts	er-eiyrt.v	er-eiyrt	inflected	v.	er-eiyrt	collapsed
+er eiyrts	er-eiyrt.v	er-eiyrt	emphatic	v.	er-eiyrt	
+ereiyrts	er-eiyrt.v	er-eiyrt	emphatic	v.	er-eiyrt	collapsed
 ereiyrts	er-eiyrt.v	ereiyrt	univerbated	v.	er-eiyrt	
 er nyn eiyrt	eiyrt.x	eiyrt	self	adv. p.	er nyn eiyrt	
 ernyneiyrt	eiyrt.x	eiyrt	self	adv. p.	er nyn eiyrt	collapsed
@@ -22024,18 +22024,18 @@ eoylleyder	eoylleyder.n	eoylleyder	self	s. m.	eoylleyder
 eoylleyderyn	eoylleyder.n	eoylleyder	inflected	s. m.	eoylleyder	
 er	fer.n	fer	contraction	s. m.	er	
 er	fer.n	fer	demutated	s. m.	er	
-ersyn	fer.n	fer	inflected	s. m.	er	
+ersyn	fer.n	fer	emphatic	s. m.	er	
 er	er.x	er	self	in.	er	
 er hene	er-hene.a	er-hene	self	a.	er-hene	
 erhene	er-hene.a	er-hene	self	a.	er-hene	collapsed
 erhene	er-hene.a	erhene	univerbated	a.	er-hene	
 urree	urree.x	urree	self	p. p.	urree	synthetic
-urreeish	urree.x	urree	inflected	p. p.	urree	
+urreeish	urree.x	urree	emphatic	p. p.	urree	
 urree hene	urree-hene.x	urree-hene	self	p. p.	urree-hene	synthetic
 urreehene	urree-hene.x	urree-hene	self	p. p.	urree-hene	collapsed
 urreehene	urree-hene.x	urreehene	univerbated	p. p.	urree-hene	
 orroo	orroo.x	orroo	self	p. p.	orroo	synthetic
-orroosyn	orroo.x	orroo	inflected	p. p.	orroo	
+orroosyn	orroo.x	orroo	emphatic	p. p.	orroo	
 orroo shid	orroo-shid.x	orroo-shid	self	p. p.	orroo-shid	synthetic
 orrooshid	orroo-shid.x	orroo-shid	self	p. p.	orroo-shid	collapsed
 orrooshid	orroo-shid.x	orrooshid	univerbated	p. p.	orroo-shid	
@@ -22043,17 +22043,17 @@ orroo shoh	orroo-shoh.x	orroo-shoh	self	p. p.	orroo-shoh	synthetic
 orrooshoh	orroo-shoh.x	orroo-shoh	self	p. p.	orroo-shoh	collapsed
 orrooshoh	orroo-shoh.x	orrooshoh	univerbated	p. p.	orroo-shoh	
 orrym	orrym.x	orrym	self	p. p.	orrym	synthetic
-orryms	orrym.x	orrym	inflected	p. p.	orrym	
+orryms	orrym.x	orrym	emphatic	p. p.	orrym	
 orrym pene	orrym-pene.x	orrym-pene	self	p.	orrym-pene	
 orrympene	orrym-pene.x	orrym-pene	self	p.	orrym-pene	collapsed
 orrympene	orrym-pene.x	orrympene	univerbated	p.	orrym-pene	
 orrin	orrin.x	orrin	self	p. p.	orrin	synthetic
-orrinyn	orrin.x	orrin	inflected	p. p.	orrin	
+orrinyn	orrin.x	orrin	emphatic	p. p.	orrin	
 ort	ort.x	ort	self	p.	ort	
 ort	fort.n	fort	demutated	s. m.	ort	
-orts	ort.x	ort	inflected	p.	ort	
+orts	ort.x	ort	emphatic	p.	ort	
 erriu	erriu.x	erriu	self	adv. p.	erriu	
-erriuish	erriu.x	erriu	inflected	adv. p.	erriu	
+erriuish	erriu.x	erriu	emphatic	adv. p.	erriu	
 er bastal	bastal.x	bastal	variant	adv.	er-bastal	
 erbastal	bastal.x	bastal	variant	adv.	er-bastal	collapsed
 er chee dy yannoo	er-chee-dy-yannoo.x	er-çhee dy yannoo	self		er-çhee dy yannoo	
@@ -22112,21 +22112,21 @@ erjerrey	er-jerrey.x	erjerrey	univerbated	adv.	er-jerrey
 er lesh	er-lesh.x	er-lesh	self	p.	er-lesh	
 erlesh	er-lesh.x	er-lesh	self	p.	er-lesh	collapsed
 erlesh	er-lesh.x	erlesh	univerbated	p.	er-lesh	
-er leshyn	er-lesh.x	er-lesh	inflected	p.	er-lesh	
-erleshyn	er-lesh.x	er-lesh	inflected	p.	er-lesh	collapsed
+er leshyn	er-lesh.x	er-lesh	emphatic	p.	er-lesh	
+erleshyn	er-lesh.x	er-lesh	emphatic	p.	er-lesh	collapsed
 erleshyn	er-lesh.x	erlesh	univerbated	p.	er-lesh	
 er lhiee	er-lhiee.x	er-lhiee	self	p.	er-lhiee	
 erlhiee	er-lhiee.x	er-lhiee	self	p.	er-lhiee	collapsed
 erlhiee	er-lhiee.x	erlhiee	univerbated	p.	er-lhiee	
 lhiee	er-lhiee.x	er-lhiee	particle	p.	er-lhiee	
-er lhieeish	er-lhiee.x	er-lhiee	inflected	p.	er-lhiee	
-erlhieeish	er-lhiee.x	er-lhiee	inflected	p.	er-lhiee	collapsed
+er lhieeish	er-lhiee.x	er-lhiee	emphatic	p.	er-lhiee	
+erlhieeish	er-lhiee.x	er-lhiee	emphatic	p.	er-lhiee	collapsed
 erlhieeish	er-lhiee.x	erlhiee	univerbated	p.	er-lhiee	
 er lhieu	er-lhieu.x	er-lhieu	self	p.	er-lhieu	
 erlhieu	er-lhieu.x	er-lhieu	self	p.	er-lhieu	collapsed
 erlhieu	er-lhieu.x	erlhieu	univerbated	p.	er-lhieu	
-er lhieusyn	er-lhieu.x	er-lhieu	inflected	p.	er-lhieu	
-erlhieusyn	er-lhieu.x	er-lhieu	inflected	p.	er-lhieu	collapsed
+er lhieusyn	er-lhieu.x	er-lhieu	emphatic	p.	er-lhieu	
+erlhieusyn	er-lhieu.x	er-lhieu	emphatic	p.	er-lhieu	collapsed
 erlhieusyn	er-lhieu.x	erlhieu	univerbated	p.	er-lhieu	
 er lhiam	er-lhiam.x	er-lhiam	self	p.	er-lhiam	
 erlhiam	er-lhiam.x	er-lhiam	self	p.	er-lhiam	collapsed
@@ -22134,17 +22134,17 @@ erlhiam	er-lhiam.x	erlhiam	univerbated	p.	er-lhiam
 er lhien	er-lhien.x	er-lhien	self	p.	er-lhien	
 erlhien	er-lhien.x	er-lhien	self	p.	er-lhien	collapsed
 erlhien	er-lhien.x	erlhien	univerbated	p.	er-lhien	
-er lhienyn	er-lhien.x	er-lhien	inflected	p.	er-lhien	
-erlhienyn	er-lhien.x	er-lhien	inflected	p.	er-lhien	collapsed
+er lhienyn	er-lhien.x	er-lhien	emphatic	p.	er-lhien	
+erlhienyn	er-lhien.x	er-lhien	emphatic	p.	er-lhien	collapsed
 erlhienyn	er-lhien.x	erlhien	univerbated	p.	er-lhien	
 er lhiat	er-lhiat.x	er-lhiat	self	p.	er-lhiat	
 erlhiat	er-lhiat.x	er-lhiat	self	p.	er-lhiat	collapsed
 erlhiat	er-lhiat.x	erlhiat	univerbated	p.	er-lhiat	
-er lhiats	er-lhiat.x	er-lhiat	inflected	p.	er-lhiat	
-erlhiats	er-lhiat.x	er-lhiat	inflected	p.	er-lhiat	collapsed
+er lhiats	er-lhiat.x	er-lhiat	emphatic	p.	er-lhiat	
+erlhiats	er-lhiat.x	er-lhiat	emphatic	p.	er-lhiat	collapsed
 erlhiats	er-lhiat.x	erlhiat	univerbated	p.	er-lhiat	
-er lhieuish	er-lhieu.x	er-lhieu	inflected	p.	er-lhieu	
-erlhieuish	er-lhieu.x	er-lhieu	inflected	p.	er-lhieu	collapsed
+er lhieuish	er-lhieu.x	er-lhieu	emphatic	p.	er-lhieu	
+erlhieuish	er-lhieu.x	er-lhieu	emphatic	p.	er-lhieu	collapsed
 erlhieuish	er-lhieu.x	erlhieu	univerbated	p.	er-lhieu	
 er lheh	er-lheh.x	er-lheh	self	adv.	er-lheh	
 erlheh	er-lheh.x	er-lheh	self	adv.	er-lheh	collapsed
@@ -22223,14 +22223,14 @@ skyntowse	er-skyn-towse.a	erskyntowse	univerbated	a.	er-skyn-towse
 er e skyn	er-e-skyn.x	er-e-skyn	self	adv. p.	er-e-skyn	
 ereskyn	er-e-skyn.x	er-e-skyn	self	adv. p.	er-e-skyn	collapsed
 ereskyn	er-e-skyn.x	ereskyn	univerbated	adv. p.	er-e-skyn	
-er e skyns	er-e-skyn.x	er-e-skyn	inflected	adv. p.	er-e-skyn	
-ereskyns	er-e-skyn.x	er-e-skyn	inflected	adv. p.	er-e-skyn	collapsed
+er e skyns	er-e-skyn.x	er-e-skyn	emphatic	adv. p.	er-e-skyn	
+ereskyns	er-e-skyn.x	er-e-skyn	emphatic	adv. p.	er-e-skyn	collapsed
 ereskyns	er-e-skyn.x	ereskyn	univerbated	adv. p.	er-e-skyn	
 er my skyn	er-my-skyn.x	er-my-skyn	self	p. p.	er-my-skyn	synthetic
 ermyskyn	er-my-skyn.x	er-my-skyn	self	p. p.	er-my-skyn	collapsed
 ermyskyn	er-my-skyn.x	ermyskyn	univerbated	p. p.	er-my-skyn	
-er my skyns	er-my-skyn.x	er-my-skyn	inflected	p. p.	er-my-skyn	
-ermyskyns	er-my-skyn.x	er-my-skyn	inflected	p. p.	er-my-skyn	collapsed
+er my skyns	er-my-skyn.x	er-my-skyn	emphatic	p. p.	er-my-skyn	
+ermyskyns	er-my-skyn.x	er-my-skyn	emphatic	p. p.	er-my-skyn	collapsed
 ermyskyns	er-my-skyn.x	ermyskyn	univerbated	p. p.	er-my-skyn	
 er nyn skyn	skyn.x	skyn	self	adv. p.	er nyn skyn	
 ernynskyn	skyn.x	skyn	self	adv. p.	er nyn skyn	collapsed
@@ -22239,8 +22239,8 @@ skyn	skyn.x	skyn	particle	adv. p.	er nyn skyn
 er dty skyn	er-dty-skyn.x	er-dty-skyn	self	adv. p.	er-dty-skyn	
 erdtyskyn	er-dty-skyn.x	er-dty-skyn	self	adv. p.	er-dty-skyn	collapsed
 erdtyskyn	er-dty-skyn.x	erdtyskyn	univerbated	adv. p.	er-dty-skyn	
-er dty skyns	er-dty-skyn.x	er-dty-skyn	inflected	adv. p.	er-dty-skyn	
-erdtyskyns	er-dty-skyn.x	er-dty-skyn	inflected	adv. p.	er-dty-skyn	collapsed
+er dty skyns	er-dty-skyn.x	er-dty-skyn	emphatic	adv. p.	er-dty-skyn	
+erdtyskyns	er-dty-skyn.x	er-dty-skyn	emphatic	adv. p.	er-dty-skyn	collapsed
 erdtyskyns	er-dty-skyn.x	erdtyskyn	univerbated	adv. p.	er-dty-skyn	
 er sooyl	er-sooyl.x	er-sooyl	self	in.	er-sooyl	
 ersooyl	er-sooyl.x	er-sooyl	self	in.	er-sooyl	collapsed
@@ -25236,7 +25236,7 @@ floutyraght	floutyraght.v	floutyraght	self	v.	floutyraght
 flurt	flurt.n	flurt	self	s. m.	flurt	
 flustyrnee	flustyrnee.v	flustyrnee	self	v.	flustyrnee	
 fo	fo.x	fo	self	pre.	fo	
-fosyn	fo.x	fo	inflected	p. p.	fo	
+fosyn	fo.x	fo	emphatic	p. p.	fo	
 fosyn	fosyn.x	fosyn	self		fosyn	
 fo hene	fo-hene.x	fo-hene	self	p. p.	fo-hene	synthetic
 fohene	fo-hene.x	fo-hene	self	p. p.	fo-hene	collapsed
@@ -25244,25 +25244,25 @@ fohene	fo-hene.x	fohene	univerbated	p. p.	fo-hene
 fo ee	fo-ee.x	fo-ee	self	p. p.	fo-ee	synthetic
 foee	fo-ee.x	fo-ee	self	p. p.	fo-ee	collapsed
 foee	fo-ee.x	foee	univerbated	p. p.	fo-ee	
-fo eeish	fo-ee.x	fo-ee	inflected	p. p.	fo-ee	
-foeeish	fo-ee.x	fo-ee	inflected	p. p.	fo-ee	collapsed
+fo eeish	fo-ee.x	fo-ee	emphatic	p. p.	fo-ee	
+foeeish	fo-ee.x	fo-ee	emphatic	p. p.	fo-ee	collapsed
 foeeish	fo-ee.x	foee	univerbated	p. p.	fo-ee	
 fo ee hene	fo-ee-hene.x	fo-ee-hene	self	p. p.	fo-ee-hene	synthetic
 foeehene	fo-ee-hene.x	fo-ee-hene	self	p. p.	fo-ee-hene	collapsed
 foeehene	fo-ee-hene.x	foeehene	univerbated	p. p.	fo-ee-hene	
 foue	foue.x	foue	self	p. p.	foue	synthetic
-fouesyn	foue.x	foue	inflected	p. p.	foue	
+fouesyn	foue.x	foue	emphatic	p. p.	foue	
 foue hene	foue-hene.x	foue-hene	self	p. p.	foue-hene	synthetic
 fouehene	foue-hene.x	foue-hene	self	p. p.	foue-hene	collapsed
 fouehene	foue-hene.x	fouehene	univerbated	p. p.	foue-hene	
 foym	foym.x	foym	self	p. p.	foym	synthetic
-foyms	foym.x	foym	inflected	p. p.	foym	
+foyms	foym.x	foym	emphatic	p. p.	foym	
 foin	foin.x	foin	self	p. p.	foin	synthetic
-foinyn	foin.x	foin	inflected	p. p.	foin	
+foinyn	foin.x	foin	emphatic	p. p.	foin	
 foyd	foyd.x	foyd	self	p. p.	foyd	synthetic
-foyds	foyd.x	foyd	inflected	p. p.	foyd	
+foyds	foyd.x	foyd	emphatic	p. p.	foyd	
 feue	feue.x	feue	self	adv.	feue	
-feueish	feue.x	feue	inflected	adv.	feue	
+feueish	feue.x	feue	emphatic	adv.	feue	
 feue hene	feue-hene.x	feue-hene	self	pre.	feue-hene	
 feuehene	feue-hene.x	feue-hene	self	pre.	feue-hene	collapsed
 feuehene	feue-hene.x	feuehene	univerbated	pre.	feue-hene	
@@ -25484,7 +25484,7 @@ dtyoalserey	oalserey.n	oalserey	univerbated	s.	dty oalserey
 oalserey	oalserey.n	oalserey	particle	s.	dty oalserey	
 oalserey	foalserey.n	foalserey	demutated	s.	dty oalserey	
 foast	foast.x	foast	self	adv.	foast	
-foastagh	foast.x	foast	inflected	adv.	foast	
+foastagh	foast.x	foast	emphatic	adv.	foast	
 foawr	fowar.x	fowar	variant		foawr	
 foawir	fowar.x	fowar	inflected		foawr	
 fowar	fowar.x	fowar	self		fowar	
@@ -25727,18 +25727,18 @@ dy voddym	voddym.x	voddym	self	p.	dy voddym	demutation-unvalidated
 dyvoddym	voddym.x	voddym	self	p.	dy voddym	collapsed
 dyvoddym	voddym.x	voddym	univerbated	p.	dy voddym	
 voddym	voddym.x	voddym	particle	p.	dy voddym	demutation-unvalidated
-dy voddyms	voddym.x	voddym	inflected	p.	dy voddym	demutation-unvalidated
-dyvoddyms	voddym.x	voddym	inflected	p.	dy voddym	collapsed
+dy voddyms	voddym.x	voddym	emphatic	p.	dy voddym	demutation-unvalidated
+dyvoddyms	voddym.x	voddym	emphatic	p.	dy voddym	collapsed
 dyvoddyms	voddym.x	voddym	univerbated	p.	dy voddym	
-voddyms	voddym.x	voddym	inflected	p.	dy voddym	demutation-unvalidated
+voddyms	voddym.x	voddym	emphatic	p.	dy voddym	demutation-unvalidated
 cha voddin	voddin.x	voddin	self	p.	cha voddin	demutation-unvalidated
 chavoddin	voddin.x	voddin	self	p.	cha voddin	collapsed
 chavoddin	voddin.x	voddin	univerbated	p.	cha voddin	
 voddin	voddin.x	voddin	particle	p.	cha voddin	demutation-unvalidated
-cha voddins	voddin.x	voddin	inflected	p.	cha voddin	demutation-unvalidated
-chavoddins	voddin.x	voddin	inflected	p.	cha voddin	collapsed
+cha voddins	voddin.x	voddin	emphatic	p.	cha voddin	demutation-unvalidated
+chavoddins	voddin.x	voddin	emphatic	p.	cha voddin	collapsed
 chavoddins	voddin.x	voddin	univerbated	p.	cha voddin	
-voddins	voddin.x	voddin	inflected	p.	cha voddin	demutation-unvalidated
+voddins	voddin.x	voddin	emphatic	p.	cha voddin	demutation-unvalidated
 dy voddagh	foddagh.v	foddagh	self	v.	dy voddagh	
 dyvoddagh	foddagh.v	foddagh	self	v.	dy voddagh	collapsed
 dyvoddagh	foddagh.v	foddagh	univerbated	v.	dy voddagh	
@@ -25800,10 +25800,10 @@ my doddin	doddin.x	doddin	self	p.	my doddin	demutation-unvalidated
 mydoddin	doddin.x	doddin	self	p.	my doddin	collapsed
 mydoddin	doddin.x	doddin	univerbated	p.	my doddin	
 doddin	doddin.x	doddin	particle	p.	my doddin	demutation-unvalidated
-my doddins	doddin.x	doddin	inflected	p.	my doddin	demutation-unvalidated
-mydoddins	doddin.x	doddin	inflected	p.	my doddin	collapsed
+my doddins	doddin.x	doddin	emphatic	p.	my doddin	demutation-unvalidated
+mydoddins	doddin.x	doddin	emphatic	p.	my doddin	collapsed
 mydoddins	doddin.x	doddin	univerbated	p.	my doddin	
-doddins	doddin.x	doddin	inflected	p.	my doddin	demutation-unvalidated
+doddins	doddin.x	doddin	emphatic	p.	my doddin	demutation-unvalidated
 foddee	foddee.x	foddee	self	adv.	foddee	
 foddey	foddey.x	foddey	self	adv.	foddey	
 foddey dy hraa	foddey-dy-hraa.x	foddey dy hraa	self	adv.	foddey dy hraa	
@@ -27179,94 +27179,94 @@ cha s'echey	s'echey.x	s'echey	self	p.	cha s'echey
 chas'echey	s'echey.x	s'echey	self	p.	cha s'echey	collapsed
 chas'echey	s'echey.x	s'echey	univerbated	p.	cha s'echey	
 s'echey	s'echey.x	s'echey	particle	p.	cha s'echey	
-cha s'echeysyn	s'echey.x	s'echey	inflected	p.	cha s'echey	
-chas'echeysyn	s'echey.x	s'echey	inflected	p.	cha s'echey	collapsed
+cha s'echeysyn	s'echey.x	s'echey	emphatic	p.	cha s'echey	
+chas'echeysyn	s'echey.x	s'echey	emphatic	p.	cha s'echey	collapsed
 chas'echeysyn	s'echey.x	s'echey	univerbated	p.	cha s'echey	
-s'echeysyn	s'echey.x	s'echey	inflected	p.	cha s'echey	
+s'echeysyn	s'echey.x	s'echey	emphatic	p.	cha s'echey	
 cha s'ec	s'ec.x	s'ec	self	p.	cha s'ec	
 chas'ec	s'ec.x	s'ec	self	p.	cha s'ec	collapsed
 chas'ec	s'ec.x	s'ec	univerbated	p.	cha s'ec	
 s'ec	s'ec.x	s'ec	particle	p.	cha s'ec	
-cha s'ecish	s'ec.x	s'ec	inflected	p.	cha s'ec	
-chas'ecish	s'ec.x	s'ec	inflected	p.	cha s'ec	collapsed
+cha s'ecish	s'ec.x	s'ec	emphatic	p.	cha s'ec	
+chas'ecish	s'ec.x	s'ec	emphatic	p.	cha s'ec	collapsed
 chas'ecish	s'ec.x	s'ec	univerbated	p.	cha s'ec	
-s'ecish	s'ec.x	s'ec	inflected	p.	cha s'ec	
-ecish	s'ec.x	s'ec	inflected	p.	cha s'ec	
+s'ecish	s'ec.x	s'ec	emphatic	p.	cha s'ec	
+ecish	s'ec.x	s'ec	emphatic	p.	cha s'ec	
 cha saec	saec.x	saec	self	p. p.	cha saec	synthetic
 chasaec	saec.x	saec	self	p. p.	cha saec	collapsed
 chasaec	saec.x	saec	univerbated	p. p.	cha saec	
 saec	saec.x	saec	particle	p. p.	cha saec	synthetic
-cha saecish	saec.x	saec	inflected	p. p.	cha saec	
-chasaecish	saec.x	saec	inflected	p. p.	cha saec	collapsed
+cha saecish	saec.x	saec	emphatic	p. p.	cha saec	
+chasaecish	saec.x	saec	emphatic	p. p.	cha saec	collapsed
 chasaecish	saec.x	saec	univerbated	p. p.	cha saec	
-saecish	saec.x	saec	inflected	p. p.	cha saec	
+saecish	saec.x	saec	emphatic	p. p.	cha saec	
 cha s'oc	s'oc.x	s'oc	self	p.	cha s'oc	
 chas'oc	s'oc.x	s'oc	self	p.	cha s'oc	collapsed
 chas'oc	s'oc.x	s'oc	univerbated	p.	cha s'oc	
 s'oc	s'oc.x	s'oc	particle	p.	cha s'oc	
-cha s'ocsyn	s'oc.x	s'oc	inflected	p.	cha s'oc	
-chas'ocsyn	s'oc.x	s'oc	inflected	p.	cha s'oc	collapsed
+cha s'ocsyn	s'oc.x	s'oc	emphatic	p.	cha s'oc	
+chas'ocsyn	s'oc.x	s'oc	emphatic	p.	cha s'oc	collapsed
 chas'ocsyn	s'oc.x	s'oc	univerbated	p.	cha s'oc	
-s'ocsyn	s'oc.x	s'oc	inflected	p.	cha s'oc	
+s'ocsyn	s'oc.x	s'oc	emphatic	p.	cha s'oc	
 cha s'aym	s'aym.x	s'aym	self	p.	cha s'aym	
 chas'aym	s'aym.x	s'aym	self	p.	cha s'aym	collapsed
 chas'aym	s'aym.x	s'aym	univerbated	p.	cha s'aym	
 s'aym	s'aym.x	s'aym	particle	p.	cha s'aym	
-cha s'ayms	s'aym.x	s'aym	inflected	p.	cha s'aym	
-chas'ayms	s'aym.x	s'aym	inflected	p.	cha s'aym	collapsed
+cha s'ayms	s'aym.x	s'aym	emphatic	p.	cha s'aym	
+chas'ayms	s'aym.x	s'aym	emphatic	p.	cha s'aym	collapsed
 chas'ayms	s'aym.x	s'aym	univerbated	p.	cha s'aym	
-s'ayms	s'aym.x	s'aym	inflected	p.	cha s'aym	
+s'ayms	s'aym.x	s'aym	emphatic	p.	cha s'aym	
 cha s'ain	s'ain.x	s'ain	self	p.	cha s'ain	
 chas'ain	s'ain.x	s'ain	self	p.	cha s'ain	collapsed
 chas'ain	s'ain.x	s'ain	univerbated	p.	cha s'ain	
 s'ain	s'ain.x	s'ain	particle	p.	cha s'ain	
-cha s'ainyn	s'ain.x	s'ain	inflected	p.	cha s'ain	
-chas'ainyn	s'ain.x	s'ain	inflected	p.	cha s'ain	collapsed
+cha s'ainyn	s'ain.x	s'ain	emphatic	p.	cha s'ain	
+chas'ainyn	s'ain.x	s'ain	emphatic	p.	cha s'ain	collapsed
 chas'ainyn	s'ain.x	s'ain	univerbated	p.	cha s'ain	
-s'ainyn	s'ain.x	s'ain	inflected	p.	cha s'ain	
-ainyn	s'ain.x	s'ain	inflected	p.	cha s'ain	
+s'ainyn	s'ain.x	s'ain	emphatic	p.	cha s'ain	
+ainyn	s'ain.x	s'ain	emphatic	p.	cha s'ain	
 cha s'ayd	s'ayd.x	s'ayd	self	p.	cha s'ayd	
 chas'ayd	s'ayd.x	s'ayd	self	p.	cha s'ayd	collapsed
 chas'ayd	s'ayd.x	s'ayd	univerbated	p.	cha s'ayd	
 s'ayd	s'ayd.x	s'ayd	particle	p.	cha s'ayd	
-cha s'ayds	s'ayd.x	s'ayd	inflected	p.	cha s'ayd	
-chas'ayds	s'ayd.x	s'ayd	inflected	p.	cha s'ayd	collapsed
+cha s'ayds	s'ayd.x	s'ayd	emphatic	p.	cha s'ayd	
+chas'ayds	s'ayd.x	s'ayd	emphatic	p.	cha s'ayd	collapsed
 chas'ayds	s'ayd.x	s'ayd	univerbated	p.	cha s'ayd	
-s'ayds	s'ayd.x	s'ayd	inflected	p.	cha s'ayd	
+s'ayds	s'ayd.x	s'ayd	emphatic	p.	cha s'ayd	
 cha s'eu	s'eu.x	s'eu	self	p.	cha s'eu	
 chas'eu	s'eu.x	s'eu	self	p.	cha s'eu	collapsed
 chas'eu	s'eu.x	s'eu	univerbated	p.	cha s'eu	
 s'eu	s'eu.x	s'eu	particle	p.	cha s'eu	
-cha s'euish	s'eu.x	s'eu	inflected	p.	cha s'eu	
-chas'euish	s'eu.x	s'eu	inflected	p.	cha s'eu	collapsed
+cha s'euish	s'eu.x	s'eu	emphatic	p.	cha s'eu	
+chas'euish	s'eu.x	s'eu	emphatic	p.	cha s'eu	collapsed
 chas'euish	s'eu.x	s'eu	univerbated	p.	cha s'eu	
-s'euish	s'eu.x	s'eu	inflected	p.	cha s'eu	
+s'euish	s'eu.x	s'eu	emphatic	p.	cha s'eu	
 cha saeu	saeu.x	saeu	self	p. p.	cha saeu	synthetic
 chasaeu	saeu.x	saeu	self	p. p.	cha saeu	collapsed
 chasaeu	saeu.x	saeu	univerbated	p. p.	cha saeu	
 saeu	saeu.x	saeu	particle	p. p.	cha saeu	synthetic
-cha saeuish	saeu.x	saeu	inflected	p. p.	cha saeu	
-chasaeuish	saeu.x	saeu	inflected	p. p.	cha saeu	collapsed
+cha saeuish	saeu.x	saeu	emphatic	p. p.	cha saeu	
+chasaeuish	saeu.x	saeu	emphatic	p. p.	cha saeu	collapsed
 chasaeuish	saeu.x	saeu	univerbated	p. p.	cha saeu	
-saeuish	saeu.x	saeu	inflected	p. p.	cha saeu	
+saeuish	saeu.x	saeu	emphatic	p. p.	cha saeu	
 kevys	kevys.x	kevys	self	adv.	kevys	
 kevys da	kevys-da.x	kevys da	self	adv.	kevys da	
 kevysda	kevys-da.x	kevys da	self	adv.	kevys da	collapsed
 kevysda	kevys-da.x	kevysda	univerbated	adv.	kevys da	
-kevys dasyn	kevys-da.x	kevys da	inflected	adv.	kevys da	
-kevysdasyn	kevys-da.x	kevys da	inflected	adv.	kevys da	collapsed
+kevys dasyn	kevys-da.x	kevys da	emphatic	adv.	kevys da	
+kevysdasyn	kevys-da.x	kevys da	emphatic	adv.	kevys da	collapsed
 kevysdasyn	kevys-da.x	kevysda	univerbated	adv.	kevys da	
 kevys jee	kevys-jee.x	kevys jee	self	adv.	kevys jee	
 kevysjee	kevys-jee.x	kevys jee	self	adv.	kevys jee	collapsed
 kevysjee	kevys-jee.x	kevysjee	univerbated	adv.	kevys jee	
-kevys jeeish	kevys-jee.x	kevys jee	inflected	adv.	kevys jee	
-kevysjeeish	kevys-jee.x	kevys jee	inflected	adv.	kevys jee	collapsed
+kevys jeeish	kevys-jee.x	kevys jee	emphatic	adv.	kevys jee	
+kevysjeeish	kevys-jee.x	kevys jee	emphatic	adv.	kevys jee	collapsed
 kevysjeeish	kevys-jee.x	kevysjee	univerbated	adv.	kevys jee	
 kevys daue	kevys-daue.x	kevys daue	self	adv.	kevys daue	
 kevysdaue	kevys-daue.x	kevys daue	self	adv.	kevys daue	collapsed
 kevysdaue	kevys-daue.x	kevysdaue	univerbated	adv.	kevys daue	
-kevys dauesyn	kevys-daue.x	kevys daue	inflected	adv.	kevys daue	
-kevysdauesyn	kevys-daue.x	kevys daue	inflected	adv.	kevys daue	collapsed
+kevys dauesyn	kevys-daue.x	kevys daue	emphatic	adv.	kevys daue	
+kevysdauesyn	kevys-daue.x	kevys daue	emphatic	adv.	kevys daue	collapsed
 kevysdauesyn	kevys-daue.x	kevysdaue	univerbated	adv.	kevys daue	
 kevys dou	kevys-dou.x	kevys dou	self	adv.	kevys dou	
 kevysdou	kevys-dou.x	kevys dou	self	adv.	kevys dou	collapsed
@@ -27277,8 +27277,8 @@ kevysdooys	kevys-dooys.x	kevysdooys	univerbated	adv.	kevys dooys
 kevys dhyt	kevys-dhyt.x	kevys dhyt	self	adv.	kevys dhyt	
 kevysdhyt	kevys-dhyt.x	kevys dhyt	self	adv.	kevys dhyt	collapsed
 kevysdhyt	kevys-dhyt.x	kevysdhyt	univerbated	adv.	kevys dhyt	
-kevys dhyts	kevys-dhyt.x	kevys dhyt	inflected	adv.	kevys dhyt	
-kevysdhyts	kevys-dhyt.x	kevys dhyt	inflected	adv.	kevys dhyt	collapsed
+kevys dhyts	kevys-dhyt.x	kevys dhyt	emphatic	adv.	kevys dhyt	
+kevysdhyts	kevys-dhyt.x	kevys dhyt	emphatic	adv.	kevys dhyt	collapsed
 kevysdhyts	kevys-dhyt.x	kevysdhyt	univerbated	adv.	kevys dhyt	
 fyssyree	fyssyree.n	fyssyree	self	s. f.	fyssyree	
 yn ysseree	ysseree.n	ysseree	self	s.	yn ysseree	demutation-unvalidated
@@ -27689,18 +27689,18 @@ fow	fow.v	fow	self	v.	fow
 yiow ad	yiow-ad.x	yiow ad	self	p.	yiow ad	
 yiowad	yiow-ad.x	yiow ad	self	p.	yiow ad	collapsed
 yiowad	yiow-ad.x	yiowad	univerbated	p.	yiow ad	
-yiow adsyn	yiow-ad.x	yiow ad	inflected	p.	yiow ad	
-yiowadsyn	yiow-ad.x	yiow ad	inflected	p.	yiow ad	collapsed
+yiow adsyn	yiow-ad.x	yiow ad	emphatic	p.	yiow ad	
+yiowadsyn	yiow-ad.x	yiow ad	emphatic	p.	yiow ad	collapsed
 yiowadsyn	yiow-ad.x	yiowad	univerbated	p.	yiow ad	
 yioym	yioym.x	yioym	self	p.	yioym	
-yioyms	yioym.x	yioym	inflected	p.	yioym	
+yioyms	yioym.x	yioym	emphatic	p.	yioym	
 yoym	yioym.x	yioym	variant	p.	yoym	
 yiow	yiow.x	yiow	self	p.	yiow	
 yiow	chiow.v	chiow	demutated	v.	yiow	
-yiows	yiow.x	yiow	inflected	p.	yiow	
+yiows	yiow.x	yiow	emphatic	p.	yiow	
 yo'in	yo'in.x	yo'in	self		yo'in	
-yo'ins	yo'in.x	yo'in	inflected		yo'in	
-ins	yo'in.x	yo'in	inflected		yo'in	
+yo'ins	yo'in.x	yo'in	emphatic		yo'in	
+ins	yo'in.x	yo'in	emphatic		yo'in	
 yiom	yoin.x	yoin	override	p.	yiom	
 yoin	yoin.x	yoin	self	p.	yoin	
 cha vow	fow.v	fow	override	v.	cha vow	
@@ -27711,8 +27711,8 @@ vow	mow.a	mow	demutated	a.	cha vow
 vow ad	vow-ad.x	vow ad	self		vow ad	demutation-unvalidated
 vowad	vow-ad.x	vow ad	self		vow ad	collapsed
 vowad	vow-ad.x	vowad	univerbated		vow ad	
-vow adsyn	vow-ad.x	vow ad	inflected		vow ad	demutation-unvalidated
-vowadsyn	vow-ad.x	vow ad	inflected		vow ad	collapsed
+vow adsyn	vow-ad.x	vow ad	emphatic		vow ad	demutation-unvalidated
+vowadsyn	vow-ad.x	vow ad	emphatic		vow ad	collapsed
 vowadsyn	vow-ad.x	vowad	univerbated		vow ad	
 vowym	gowym.x	gowym	self	p.	vowym	
 vo'ym	gowym.x	gowym	variant	p.	vo'ym	
@@ -27732,11 +27732,11 @@ vowyms	gowyms.x	gowyms	self	p.	vowyms
 vo'yms	gowyms.x	gowyms	variant	p.	vo'yms	
 yms	gowyms.x	gowyms	mutation	p.	vo'yms	
 vow	fow.v	fow	override	v.	vow	
-vows	fow.v	fow	inflected	v.	vow	
+vows	fow.v	fow	emphatic	v.	vow	
 now	now.x	now	self	p.	now	demutation-unvalidated
 no'ym	no'ym.x	no'ym	self	p.	no'ym	
-no'yms	no'ym.x	no'ym	inflected	p.	no'ym	
-yms	no'ym.x	no'ym	inflected	p.	no'ym	
+no'yms	no'ym.x	no'ym	emphatic	p.	no'ym	
+yms	no'ym.x	no'ym	emphatic	p.	no'ym	
 nowys	now.x	now	variant	p.	nowys	demutation-unvalidated
 voghe	voghe.v	voghe	self	v.	voghe	
 cha voghe	voghe.v	voghe	self	v.	cha voghe	
@@ -27744,17 +27744,17 @@ chavoghe	voghe.v	voghe	self	v.	cha voghe	collapsed
 chavoghe	voghe.v	voghe	univerbated	v.	cha voghe	
 voghe	voghe.v	voghe	particle	v.	cha voghe	
 vo'in	vo'in.x	vo'in	self	p.	vo'in	
-vo'ins	vo'in.x	vo'in	inflected	p.	vo'in	
-ins	vo'in.x	vo'in	inflected	p.	vo'in	
+vo'ins	vo'in.x	vo'in	emphatic	p.	vo'in	
+ins	vo'in.x	vo'in	emphatic	p.	vo'in	
 cha noghe	noghe.v	noghe	self	v.	cha noghe	demutation-unvalidated
 chanoghe	noghe.v	noghe	self	v.	cha noghe	collapsed
 chanoghe	noghe.v	noghe	univerbated	v.	cha noghe	
 noghe	noghe.v	noghe	particle	v.	cha noghe	demutation-unvalidated
 no'in	no'in.x	no'in	self	p.	no'in	
-no'ins	no'in.x	no'in	inflected	p.	no'in	
-ins	no'in.x	no'in	inflected	p.	no'in	
+no'ins	no'in.x	no'in	emphatic	p.	no'in	
+ins	no'in.x	no'in	emphatic	p.	no'in	
 nowin	nowin.x	nowin	self		nowin	
-nowins	nowin.x	nowin	inflected		nowin	
+nowins	nowin.x	nowin	emphatic		nowin	
 hooar	hooar.v	hooar	self	v.	hooar	demutation-unvalidated
 dooar ad	dooar-ad.v	dooar ad	self	v.	dooar ad	demutation-unvalidated
 dooarad	dooar-ad.v	dooar ad	self	v.	dooar ad	collapsed
@@ -29195,7 +29195,7 @@ golleyder	golleyder.n	golleyder	self	s. m.	golleyder
 golleyderyn	golleyder.n	golleyder	inflected	s. m.	golleyder	
 hed	hed.v	hed	self	v.	hed	
 hem	hem.x	hem	self	p. p.	hem	synthetic
-hems	hem.x	hem	inflected	p. p.	hem	demutation-unvalidated
+hems	hem.x	hem	emphatic	p. p.	hem	demutation-unvalidated
 hem mayd	hem-mayd.x	hem-mayd	self	p. p.	hem-mayd	synthetic
 hemmayd	hem-mayd.x	hem-mayd	self	p. p.	hem-mayd	collapsed
 hemmayd	hem-mayd.x	hemmayd	univerbated	p. p.	hem-mayd	
@@ -29204,10 +29204,10 @@ hedoo	hed-oo.v	hed oo	self	v.	hed oo	collapsed
 hedoo	hed-oo.v	hedoo	univerbated	v.	hed oo	
 heu	geu.x	geu	self	p. p.	heu	synthetic
 jem	jem.v	jem	self	v.	jem	
-jems	jem.v	jem	inflected	v.	jem	
+jems	jem.v	jem	emphatic	v.	jem	
 jedym	jem.v	jem	variant	v.	jedym	
 jim	jim.x	jim	self	p.	jim	
-jims	jim.x	jim	inflected	p.	jim	
+jims	jim.x	jim	emphatic	p.	jim	
 jem mayd	jem-mayd.x	jem-mayd	self	p.	jem-mayd	
 jemmayd	jem-mayd.x	jem-mayd	self	p.	jem-mayd	collapsed
 jemmayd	jem-mayd.x	jemmayd	univerbated	p.	jem-mayd	
@@ -29224,45 +29224,45 @@ hieish	hieish.x	hieish	self	p.	hieish
 jagh	jagh.v	jagh	self	v.	jagh	
 ragh	ragh.v	ragh	self	v.	ragh	
 roin	roin.x	roïn	self	p.	roïn	
-roins	roin.x	roïn	inflected	p.	roïn	
+roins	roin.x	roïn	emphatic	p.	roïn	
 raghin	raghin.x	raghin	self	p.	raghin	
-raghins	raghin.x	raghin	inflected	p.	raghin	
+raghins	raghin.x	raghin	emphatic	p.	raghin	
 raghins	raghins.x	raghins	self	p.	raghins	
 goll rish	goll-rish.x	goll-rish	self	adv. p.	goll-rish	
 gollrish	goll-rish.x	goll-rish	self	adv. p.	goll-rish	collapsed
 gollrish	goll-rish.x	gollrish	univerbated	adv. p.	goll-rish	
-goll rishyn	goll-rish.x	goll-rish	inflected	adv. p.	goll-rish	
-gollrishyn	goll-rish.x	goll-rish	inflected	adv. p.	goll-rish	collapsed
+goll rishyn	goll-rish.x	goll-rish	emphatic	adv. p.	goll-rish	
+gollrishyn	goll-rish.x	goll-rish	emphatic	adv. p.	goll-rish	collapsed
 gollrishyn	goll-rish.x	gollrish	univerbated	adv. p.	goll-rish	
 goll ree	goll-ree.x	goll-ree	self	adv. p.	goll-ree	
 gollree	goll-ree.x	goll-ree	self	adv. p.	goll-ree	collapsed
 gollree	goll-ree.x	gollree	univerbated	adv. p.	goll-ree	
-goll reeish	goll-ree.x	goll-ree	inflected	adv. p.	goll-ree	
-gollreeish	goll-ree.x	goll-ree	inflected	adv. p.	goll-ree	collapsed
+goll reeish	goll-ree.x	goll-ree	emphatic	adv. p.	goll-ree	
+gollreeish	goll-ree.x	goll-ree	emphatic	adv. p.	goll-ree	collapsed
 gollreeish	goll-ree.x	gollree	univerbated	adv. p.	goll-ree	
 goll roo	goll-roo.x	goll-roo	self	adv. p.	goll-roo	
 gollroo	goll-roo.x	goll-roo	self	adv. p.	goll-roo	collapsed
 gollroo	goll-roo.x	gollroo	univerbated	adv. p.	goll-roo	
-goll roosyn	goll-roo.x	goll-roo	inflected	adv. p.	goll-roo	
-gollroosyn	goll-roo.x	goll-roo	inflected	adv. p.	goll-roo	collapsed
+goll roosyn	goll-roo.x	goll-roo	emphatic	adv. p.	goll-roo	
+gollroosyn	goll-roo.x	goll-roo	emphatic	adv. p.	goll-roo	collapsed
 gollroosyn	goll-roo.x	gollroo	univerbated	adv. p.	goll-roo	
 goll rhym	goll-rhym.x	goll-rhym	self	adv. p.	goll-rhym	
 gollrhym	goll-rhym.x	goll-rhym	self	adv. p.	goll-rhym	collapsed
 gollrhym	goll-rhym.x	gollrhym	univerbated	adv. p.	goll-rhym	
-goll rhyms	goll-rhym.x	goll-rhym	inflected	adv. p.	goll-rhym	
-gollrhyms	goll-rhym.x	goll-rhym	inflected	adv. p.	goll-rhym	collapsed
+goll rhyms	goll-rhym.x	goll-rhym	emphatic	adv. p.	goll-rhym	
+gollrhyms	goll-rhym.x	goll-rhym	emphatic	adv. p.	goll-rhym	collapsed
 gollrhyms	goll-rhym.x	gollrhym	univerbated	adv. p.	goll-rhym	
 goll rooin	goll-rooin.x	goll-rooin	self	adv. p.	goll-rooin	
 gollrooin	goll-rooin.x	goll-rooin	self	adv. p.	goll-rooin	collapsed
 gollrooin	goll-rooin.x	gollrooin	univerbated	adv. p.	goll-rooin	
-goll rooinyn	goll-rooin.x	goll-rooin	inflected	adv. p.	goll-rooin	
-gollrooinyn	goll-rooin.x	goll-rooin	inflected	adv. p.	goll-rooin	collapsed
+goll rooinyn	goll-rooin.x	goll-rooin	emphatic	adv. p.	goll-rooin	
+gollrooinyn	goll-rooin.x	goll-rooin	emphatic	adv. p.	goll-rooin	collapsed
 gollrooinyn	goll-rooin.x	gollrooin	univerbated	adv. p.	goll-rooin	
 goll rhyt	goll-rhyt.x	goll-rhyt	self	adv. p.	goll-rhyt	
 gollrhyt	goll-rhyt.x	goll-rhyt	self	adv. p.	goll-rhyt	collapsed
 gollrhyt	goll-rhyt.x	gollrhyt	univerbated	adv. p.	goll-rhyt	
-goll rhyts	goll-rhyt.x	goll-rhyt	inflected	adv. p.	goll-rhyt	
-gollrhyts	goll-rhyt.x	goll-rhyt	inflected	adv. p.	goll-rhyt	collapsed
+goll rhyts	goll-rhyt.x	goll-rhyt	emphatic	adv. p.	goll-rhyt	
+gollrhyts	goll-rhyt.x	goll-rhyt	emphatic	adv. p.	goll-rhyt	collapsed
 gollrhyts	goll-rhyt.x	gollrhyt	univerbated	adv. p.	goll-rhyt	
 goo	goo.n	goo	self	s. m.	goo	
 e ghoo	ghoo.n	ghoo	self	s.	e ghoo	
@@ -29442,7 +29442,7 @@ gowlesh	gow-lesh.x	gow-lesh	self	adv.	gow-lesh	collapsed
 gowlesh	gow-lesh.x	gowlesh	univerbated	adv.	gow-lesh	
 gowee	gowee.v	gowee	self	v.	gowee	
 goym	goym.v	goym	self	v.	goym	
-goyms	goym.v	goym	inflected	v.	goym	
+goyms	goym.v	goym	emphatic	v.	goym	
 gowym	gowym.v	gowym	self	v.	gowym	
 gowyms	gowyms.x	gowyms	self		gowyms	
 goys	goys.v	goys	self	v.	goys	
@@ -29453,10 +29453,10 @@ myghowym	ghowym.x	ghowym	self	p.	my ghowym	collapsed
 myghowym	ghowym.x	ghowym	univerbated	p.	my ghowym	
 ghowym	ghowym.x	ghowym	particle	p.	my ghowym	
 ghowym	gowym.v	gowym	demutated	v.	my ghowym	
-my ghowyms	ghowym.x	ghowym	inflected	p.	my ghowym	
-myghowyms	ghowym.x	ghowym	inflected	p.	my ghowym	collapsed
+my ghowyms	ghowym.x	ghowym	emphatic	p.	my ghowym	
+myghowyms	ghowym.x	ghowym	emphatic	p.	my ghowym	collapsed
 myghowyms	ghowym.x	ghowym	univerbated	p.	my ghowym	
-ghowyms	ghowym.x	ghowym	inflected	p.	my ghowym	
+ghowyms	ghowym.x	ghowym	emphatic	p.	my ghowym	
 my ghowyms	ghowyms.x	ghowyms	self	p.	my ghowyms	
 myghowyms	ghowyms.x	ghowyms	self	p.	my ghowyms	collapsed
 myghowyms	ghowyms.x	ghowyms	univerbated	p.	my ghowyms	
@@ -29472,7 +29472,7 @@ gowagh	gowagh.v	gowagh	self	v.	gowagh
 ghoghe	ghoghe.v	ghoghe	self	v.	ghoghe	
 ghoghe	goghe.v	goghe	demutated	v.	ghoghe	
 goin	goin.v	goin	self	v.	goin	
-goins	goin.v	goin	inflected	v.	goin	
+goins	goin.v	goin	emphatic	v.	goin	
 gowin	gowin.x	gowin	self		gowin	
 gowins	gowins.x	gowins	self		gowins	
 ghoin	ghoin.x	ghoin	self	p.	ghoin	
@@ -30438,20 +30438,20 @@ nyhalley	halley.a	halley	univerbated	a. d.	ny halley
 halley	halley.a	halley	particle	a. d.	ny halley	
 hannah	hannah.x	hannah	self	adv.	hannah	
 harrish	harrish.x	harrish	self	p. p.	harrish	synthetic
-harrishin	harrish.x	harrish	inflected	p. p.	harrish	
+harrishin	harrish.x	harrish	emphatic	p. p.	harrish	
 harrysin	harrysin.x	harrysin	self	p. p.	harrysin	synthetic
 harree	harree.x	harree	self	p. p.	harree	synthetic
 harree	tarree.a	tarree	demutated	a. d.	harree	
-harreeish	harree.x	harree	inflected	p. p.	harree	
+harreeish	harree.x	harree	emphatic	p. p.	harree	
 harroo	harroo.x	harroo	self	p. p.	harroo	synthetic
-harroosyn	harroo.x	harroo	inflected	p. p.	harroo	
+harroosyn	harroo.x	harroo	emphatic	p. p.	harroo	
 harrystoo	harrystoo.x	harrystoo	self	p. p.	harrystoo	synthetic
 harrym	harrym.x	harrym	self	p. p.	harrym	synthetic
-harryms	harrym.x	harrym	inflected	p. p.	harrym	
+harryms	harrym.x	harrym	emphatic	p. p.	harrym	
 harrin	harrin.x	harrin	self	p. p.	harrin	synthetic
-harrinyn	harrin.x	harrin	inflected	p. p.	harrin	
+harrinyn	harrin.x	harrin	emphatic	p. p.	harrin	
 harrid	harrid.x	harrid	self	p. p.	harrid	synthetic
-harrids	harrid.x	harrid	inflected	p. p.	harrid	
+harrids	harrid.x	harrid	emphatic	p. p.	harrid	
 harrishdiu	harrishdiu.x	harrishdiu	self	p. p.	harrishdiu	synthetic
 harriu	harrishdiu.x	harrishdiu	variant	p. p.	harriu	synthetic
 harrish y chione	harrish-y-chione.x	harrish y chione	self		harrish y chione	
@@ -30560,29 +30560,29 @@ holtit	holtit.x	holtit	self	pt.	holtit
 horlth	horlth.v	horlth	self	v.	horlth	
 hug	hug.x	hug	self	pre.	hug	
 huggey	huggey.x	huggey	self	p. p.	huggey	synthetic
-huggeysyn	huggey.x	huggey	inflected	p. p.	huggey	
+huggeysyn	huggey.x	huggey	emphatic	p. p.	huggey	
 huic	huic.x	huic	self	p. p.	huic	synthetic
-huicish	huic.x	huic	inflected	p. p.	huic	
+huicish	huic.x	huic	emphatic	p. p.	huic	
 hic	huic.x	huic	override	p. p.	hic	synthetic
-hicish	huic.x	huic	inflected	p. p.	hic	
+hicish	huic.x	huic	emphatic	p. p.	hic	
 huic	huic.x	huic	variant	p. p.	huic	
 huc	huc.x	huc	self	p. p.	huc	synthetic
-hucsyn	huc.x	huc	inflected	p. p.	huc	
+hucsyn	huc.x	huc	emphatic	p. p.	huc	
 hym	hym.x	hym	self	p. p.	hym	synthetic
 hym	sym.n	sym	demutated	s. m.	hym	
-hyms	hym.x	hym	inflected	p. p.	hym	
+hyms	hym.x	hym	emphatic	p. p.	hym	
 hym pene	hym-pene.x	hym-pene	self	p. p.	hym-pene	synthetic
 hympene	hym-pene.x	hym-pene	self	p. p.	hym-pene	collapsed
 hympene	hym-pene.x	hympene	univerbated	p. p.	hym-pene	
 hooin	hooin.x	hooin	self	p. p.	hooin	synthetic
-hooinin	hooin.x	hooin	inflected	p. p.	hooin	
+hooinin	hooin.x	hooin	emphatic	p. p.	hooin	
 hood	hood.x	hood	self	p. p.	hood	synthetic
-hoods	hood.x	hood	inflected	p. p.	hood	
+hoods	hood.x	hood	emphatic	p. p.	hood	
 hood hene	hood-hene.x	hood-hene	self	p. p.	hood-hene	synthetic
 hoodhene	hood-hene.x	hood-hene	self	p. p.	hood-hene	collapsed
 hoodhene	hood-hene.x	hoodhene	univerbated	p. p.	hood-hene	
 hiu	hiu.x	hiu	self	p. p.	hiu	synthetic
-hiuish	hiu.x	hiu	inflected	p. p.	hiu	
+hiuish	hiu.x	hiu	emphatic	p. p.	hiu	
 huggey as veih	huggey-as-veih.x	huggey as veih	self	adv.	huggey as veih	
 huggeyasveih	huggey-as-veih.x	huggey as veih	self	adv.	huggey as veih	collapsed
 huggeyasveih	huggey-as-veih.x	huggeyasveih	univerbated	adv.	huggey as veih	
@@ -31519,21 +31519,21 @@ jinym	jin.v	jin	inflected	v.	jin
 jinyms	jin.v	jin	inflected	v.	jin	
 nee	nee.v	nee	self	v.	nee	
 nee'm	nee'm.x	nee'm	self	p.	nee'm	
-nee'ms	nee'm.x	nee'm	inflected	p.	nee'm	
+nee'ms	nee'm.x	nee'm	emphatic	p.	nee'm	
 nym	nym.x	nym	self		nym	
 ne'oo	ne'oo.x	ne'oo	self	p.	ne'oo	
-ne'oos	ne'oo.x	ne'oo	inflected	p.	ne'oo	
-oos	ne'oo.x	ne'oo	inflected	p.	ne'oo	
+ne'oos	ne'oo.x	ne'oo	emphatic	p.	ne'oo	
+oos	ne'oo.x	ne'oo	emphatic	p.	ne'oo	
 ren	ren.v	ren	self	v.	ren	
 jeannagh	jeannagh.v	jeannagh	self	v.	jeannagh	
 my yinnin	yinnin.v	yinnin	self	v.	my yinnin	demutation-unvalidated
 myyinnin	yinnin.v	yinnin	self	v.	my yinnin	collapsed
 myyinnin	yinnin.v	yinnin	univerbated	v.	my yinnin	
 yinnin	yinnin.v	yinnin	particle	v.	my yinnin	demutation-unvalidated
-my yinnins	yinnin.v	yinnin	inflected	v.	my yinnin	demutation-unvalidated
-myyinnins	yinnin.v	yinnin	inflected	v.	my yinnin	collapsed
+my yinnins	yinnin.v	yinnin	emphatic	v.	my yinnin	demutation-unvalidated
+myyinnins	yinnin.v	yinnin	emphatic	v.	my yinnin	collapsed
 myyinnins	yinnin.v	yinnin	univerbated	v.	my yinnin	
-yinnins	yinnin.v	yinnin	inflected	v.	my yinnin	demutation-unvalidated
+yinnins	yinnin.v	yinnin	emphatic	v.	my yinnin	demutation-unvalidated
 my yinnagh	yinnagh.v	yinnagh	self	v.	my yinnagh	demutation-unvalidated
 myyinnagh	yinnagh.v	yinnagh	self	v.	my yinnagh	collapsed
 myyinnagh	yinnagh.v	yinnagh	univerbated	v.	my yinnagh	
@@ -31996,7 +31996,7 @@ ny neesht	ny-neesht.a	ny-neesht	self	a.	ny-neesht
 nyneesht	ny-neesht.a	ny-neesht	self	a.	ny-neesht	collapsed
 nyneesht	ny-neesht.a	nyneesht	univerbated	a.	ny-neesht	
 neesht	neesht.x	neesht	self	adv.	neesht	
-neeshtagh	neesht.x	neesht	inflected	adv.	neesht	
+neeshtagh	neesht.x	neesht	emphatic	adv.	neesht	
 jeestyr	jeestyr.v	jeestyr	self	v.	jeestyr	
 yeestyr	jeestyr.v	jeestyr	self	v.	yeestyr	
 yeestyr	jeestyr.v	jeestyr	demutated	v.	yeestyr	
@@ -32016,27 +32016,27 @@ jeh	jeh.x	jeh	self	pro.	jeh
 yeh	jeh.x	jeh	self		yeh	
 yeh	jeh.x	jeh	demutated	pro.	yeh	
 yeh	sheh.n	sheh	demutated	s.	yeh	
-jehsyn	jeh.x	jeh	inflected	p. p.	jeh	
+jehsyn	jeh.x	jeh	emphatic	p. p.	jeh	
 jeh hene	jeh-hene.x	jeh-hene	self	p. p.	jeh-hene	synthetic
 jehhene	jeh-hene.x	jeh-hene	self	p. p.	jeh-hene	collapsed
 jehhene	jeh-hene.x	jehhene	univerbated	p. p.	jeh-hene	
 jeu	jeu.x	jeu	self	p. p.	jeu	synthetic
-jeusyn	jeu.x	jeu	inflected	p. p.	jeu	
+jeusyn	jeu.x	jeu	emphatic	p. p.	jeu	
 jeem	jeem.x	jeem	self	p. p.	jeem	synthetic
-jeems	jeem.x	jeem	inflected	p. p.	jeem	
+jeems	jeem.x	jeem	emphatic	p. p.	jeem	
 jeem pene	jeem-pene.x	jeem-pene	self	p. p.	jeem-pene	synthetic
 jeempene	jeem-pene.x	jeem-pene	self	p. p.	jeem-pene	collapsed
 jeempene	jeem-pene.x	jeempene	univerbated	p. p.	jeem-pene	
 jin	jin.x	jin	self	p. p.	jin	synthetic
-jinyn	jin.x	jin	inflected	p. p.	jin	
+jinyn	jin.x	jin	emphatic	p. p.	jin	
 jeed	jeed.x	jeed	self	p. p.	jeed	synthetic
-jeeds	jeed.x	jeed	inflected	p. p.	jeed	
+jeeds	jeed.x	jeed	emphatic	p. p.	jeed	
 jeed hene	jeed-hene.x	jeed-hene	self	p. p.	jeed-hene	synthetic
 jeedhene	jeed-hene.x	jeed-hene	self	p. p.	jeed-hene	collapsed
 jeedhene	jeed-hene.x	jeedhene	univerbated	p. p.	jeed-hene	
 j'iu	j'iu.x	j'iu	self	p. p.	j'iu	synthetic
-j'iuish	j'iu.x	j'iu	inflected	p. p.	j'iu	
-iuish	j'iu.x	j'iu	inflected	p. p.	j'iu	
+j'iuish	j'iu.x	j'iu	emphatic	p. p.	j'iu	
+iuish	j'iu.x	j'iu	emphatic	p. p.	j'iu	
 jeh raie	jeh-raie.a	jeh-raie	self	a.	jeh-raie	
 jehraie	jeh-raie.a	jeh-raie	self	a.	jeh-raie	collapsed
 jehraie	jeh-raie.a	jehraie	univerbated	a.	jeh-raie	
@@ -35530,14 +35530,14 @@ kys	kys.x	kys	self	adv.	kys
 kys te	kys-te.x	kys te	self	adv. p.	kys te	
 kyste	kys-te.x	kys te	self	adv. p.	kys te	collapsed
 kyste	kys-te.x	kyste	univerbated	adv. p.	kys te	
-kys teshyn	kys-te.x	kys te	inflected	adv. p.	kys te	
-kysteshyn	kys-te.x	kys te	inflected	adv. p.	kys te	collapsed
+kys teshyn	kys-te.x	kys te	emphatic	adv. p.	kys te	
+kysteshyn	kys-te.x	kys te	emphatic	adv. p.	kys te	collapsed
 kysteshyn	kys-te.x	kyste	univerbated	adv. p.	kys te	
 kys t'ee	kys-t'ee.x	kys t'ee	self	adv. p.	kys t'ee	
 kyst'ee	kys-t'ee.x	kys t'ee	self	adv. p.	kys t'ee	collapsed
 kyst'ee	kys-t'ee.x	kyst'ee	univerbated	adv. p.	kys t'ee	
-kys t'eeish	kys-t'ee.x	kys t'ee	inflected	adv. p.	kys t'ee	
-kyst'eeish	kys-t'ee.x	kys t'ee	inflected	adv. p.	kys t'ee	collapsed
+kys t'eeish	kys-t'ee.x	kys t'ee	emphatic	adv. p.	kys t'ee	
+kyst'eeish	kys-t'ee.x	kys t'ee	emphatic	adv. p.	kys t'ee	collapsed
 kyst'eeish	kys-t'ee.x	kyst'ee	univerbated	adv. p.	kys t'ee	
 kys t'eh	kys-t'eh.x	kys t'eh	self	adv. p.	kys t'eh	
 kyst'eh	kys-t'eh.x	kys t'eh	self	adv. p.	kys t'eh	collapsed
@@ -35548,14 +35548,14 @@ kysteshyn	kys-teshyn.x	kysteshyn	univerbated	adv. p.	kys teshyn
 kys t'ad	kys-t'ad.x	kys t'ad	self	adv. p.	kys t'ad	
 kyst'ad	kys-t'ad.x	kys t'ad	self	adv. p.	kys t'ad	collapsed
 kyst'ad	kys-t'ad.x	kyst'ad	univerbated	adv. p.	kys t'ad	
-kys t'adsyn	kys-t'ad.x	kys t'ad	inflected	adv. p.	kys t'ad	
-kyst'adsyn	kys-t'ad.x	kys t'ad	inflected	adv. p.	kys t'ad	collapsed
+kys t'adsyn	kys-t'ad.x	kys t'ad	emphatic	adv. p.	kys t'ad	
+kyst'adsyn	kys-t'ad.x	kys t'ad	emphatic	adv. p.	kys t'ad	collapsed
 kyst'adsyn	kys-t'ad.x	kyst'ad	univerbated	adv. p.	kys t'ad	
 kys ta mee	kys-ta-mee.x	kys ta mee	self	adv. p.	kys ta mee	
 kystamee	kys-ta-mee.x	kys ta mee	self	adv. p.	kys ta mee	collapsed
 kystamee	kys-ta-mee.x	kystamee	univerbated	adv. p.	kys ta mee	
-kys ta mish	kys-ta-mee.x	kys ta mee	inflected	adv. p.	kys ta mee	
-kystamish	kys-ta-mee.x	kys ta mee	inflected	adv. p.	kys ta mee	collapsed
+kys ta mish	kys-ta-mee.x	kys ta mee	emphatic	adv. p.	kys ta mee	
+kystamish	kys-ta-mee.x	kys ta mee	emphatic	adv. p.	kys ta mee	collapsed
 kystamish	kys-ta-mee.x	kystamee	univerbated	adv. p.	kys ta mee	
 kys ta mish	kys-ta-mish.x	kys ta mish	self		kys ta mish	
 kystamish	kys-ta-mish.x	kys ta mish	self		kys ta mish	collapsed
@@ -35563,26 +35563,26 @@ kystamish	kys-ta-mish.x	kystamish	univerbated		kys ta mish
 kys t'ou	kys-t'ou.x	kys t'ou	self	adv. p.	kys t'ou	
 kyst'ou	kys-t'ou.x	kys t'ou	self	adv. p.	kys t'ou	collapsed
 kyst'ou	kys-t'ou.x	kyst'ou	univerbated	adv. p.	kys t'ou	
-kys t'ouuss	kys-t'ou.x	kys t'ou	inflected	adv. p.	kys t'ou	
-kyst'ouuss	kys-t'ou.x	kys t'ou	inflected	adv. p.	kys t'ou	collapsed
+kys t'ouuss	kys-t'ou.x	kys t'ou	emphatic	adv. p.	kys t'ou	
+kyst'ouuss	kys-t'ou.x	kys t'ou	emphatic	adv. p.	kys t'ou	collapsed
 kyst'ouuss	kys-t'ou.x	kyst'ou	univerbated	adv. p.	kys t'ou	
 kys ta shiu	kys-ta-shiu.x	kys ta shiu	self	adv. p.	kys ta shiu	
 kystashiu	kys-ta-shiu.x	kys ta shiu	self	adv. p.	kys ta shiu	collapsed
 kystashiu	kys-ta-shiu.x	kystashiu	univerbated	adv. p.	kys ta shiu	
-kys ta shiuish	kys-ta-shiu.x	kys ta shiu	inflected	adv. p.	kys ta shiu	
-kystashiuish	kys-ta-shiu.x	kys ta shiu	inflected	adv. p.	kys ta shiu	collapsed
+kys ta shiuish	kys-ta-shiu.x	kys ta shiu	emphatic	adv. p.	kys ta shiu	
+kystashiuish	kys-ta-shiu.x	kys ta shiu	emphatic	adv. p.	kys ta shiu	collapsed
 kystashiuish	kys-ta-shiu.x	kystashiu	univerbated	adv. p.	kys ta shiu	
 kys v'ad	kys-v'ad.x	kys v'ad	self	adv. p.	kys v'ad	
 kysv'ad	kys-v'ad.x	kys v'ad	self	adv. p.	kys v'ad	collapsed
 kysv'ad	kys-v'ad.x	kysv'ad	univerbated	adv. p.	kys v'ad	
-kys v'adsyn	kys-v'ad.x	kys v'ad	inflected	adv. p.	kys v'ad	
-kysv'adsyn	kys-v'ad.x	kys v'ad	inflected	adv. p.	kys v'ad	collapsed
+kys v'adsyn	kys-v'ad.x	kys v'ad	emphatic	adv. p.	kys v'ad	
+kysv'adsyn	kys-v'ad.x	kys v'ad	emphatic	adv. p.	kys v'ad	collapsed
 kysv'adsyn	kys-v'ad.x	kysv'ad	univerbated	adv. p.	kys v'ad	
 kys v'oo	kys-v'oo.x	kys v'oo	self	adv. p.	kys v'oo	
 kysv'oo	kys-v'oo.x	kys v'oo	self	adv. p.	kys v'oo	collapsed
 kysv'oo	kys-v'oo.x	kysv'oo	univerbated	adv. p.	kys v'oo	
-kys v'oouss	kys-v'oo.x	kys v'oo	inflected	adv. p.	kys v'oo	
-kysv'oouss	kys-v'oo.x	kys v'oo	inflected	adv. p.	kys v'oo	collapsed
+kys v'oouss	kys-v'oo.x	kys v'oo	emphatic	adv. p.	kys v'oo	
+kysv'oouss	kys-v'oo.x	kys v'oo	emphatic	adv. p.	kys v'oo	collapsed
 kysv'oouss	kys-v'oo.x	kysv'oo	univerbated	adv. p.	kys v'oo	
 laa	laa.n	laa	self	s. m.	laa	
 laghyn	laa.n	laa	plural	s. m.	laghyn	
@@ -35964,29 +35964,29 @@ s'leodit	leodit.x	leodit	inflected		s'leodit
 leoie	leoie.n	leoie	self	s. f.	leoie	
 leoh	leoh.a	leoh	self	a. d.	leoh	
 lesh	lesh.x	lesh	self	pre.	lesh	
-leshyn	lesh.x	lesh	inflected	pre.	lesh	
+leshyn	lesh.x	lesh	emphatic	pre.	lesh	
 liesh	liesh.x	liesh	self	p.	liesh	
 leshyn	leshyn.x	leshyn	self		leshyn	
 lesh hene	lesh-hene.x	lesh-hene	self	p. p.	lesh-hene	synthetic
 leshhene	lesh-hene.x	lesh-hene	self	p. p.	lesh-hene	collapsed
 leshhene	lesh-hene.x	leshhene	univerbated	p. p.	lesh-hene	
 lh'ee	lh'ee.x	lh'ee	self	p.	lh'ee	
-lh'eeish	lh'ee.x	lh'ee	inflected	p.	lh'ee	
-eeish	lh'ee.x	lh'ee	inflected	p.	lh'ee	
+lh'eeish	lh'ee.x	lh'ee	emphatic	p.	lh'ee	
+eeish	lh'ee.x	lh'ee	emphatic	p.	lh'ee	
 lhieu	lhieu.x	lhieu	self	p. p.	lhieu	synthetic
-lhieusyn	lhieu.x	lhieu	inflected	p. p.	lhieu	
+lhieusyn	lhieu.x	lhieu	emphatic	p. p.	lhieu	
 lhiam	lhiam.x	lhiam	self	p.	lhiam	
-lhiams	lhiam.x	lhiam	inflected	p.	lhiam	
+lhiams	lhiam.x	lhiam	emphatic	p.	lhiam	
 lhiam lhiat	lhiam-lhiat.n	lhiam-lhiat	self	s.	lhiam-lhiat	
 lhiamlhiat	lhiam-lhiat.n	lhiam-lhiat	self	s.	lhiam-lhiat	collapsed
 lhiamlhiat	lhiam-lhiat.n	lhiamlhiat	univerbated	s.	lhiam-lhiat	
 lhien	lhien.x	lhien	self	p. p.	lhien	synthetic
-lhienyn	lhien.x	lhien	inflected	p. p.	lhien	
+lhienyn	lhien.x	lhien	emphatic	p. p.	lhien	
 lhian	lhian.x	lhian	self	pro.	lhian	
-lhianyn	lhian.x	lhian	inflected	pro.	lhian	
+lhianyn	lhian.x	lhian	emphatic	pro.	lhian	
 lhiat	lhiat.x	lhiat	self	pro.	lhiat	
-lhiats	lhiat.x	lhiat	inflected	pro.	lhiat	
-lhieuish	lhieu.x	lhieu	inflected	p. p.	lhieu	
+lhiats	lhiat.x	lhiat	emphatic	pro.	lhiat	
+lhieuish	lhieu.x	lhieu	emphatic	p. p.	lhieu	
 lesh traa	lesh-traa.x	lesh-traa	self	adv.	lesh-traa	
 leshtraa	lesh-traa.x	lesh-traa	self	adv.	lesh-traa	collapsed
 leshtraa	lesh-traa.x	leshtraa	univerbated	adv.	lesh-traa	
@@ -35998,8 +35998,8 @@ byliesh	by-liesh.x	byliesh	univerbated	adv.	by-liesh
 by lesh	by-lesh.x	by-lesh	self		by-lesh	
 bylesh	by-lesh.x	by-lesh	self		by-lesh	collapsed
 bylesh	by-lesh.x	bylesh	univerbated		by-lesh	
-by leshyn	by-lesh.x	by-lesh	inflected		by-lesh	
-byleshyn	by-lesh.x	by-lesh	inflected		by-lesh	collapsed
+by leshyn	by-lesh.x	by-lesh	emphatic		by-lesh	
+byleshyn	by-lesh.x	by-lesh	emphatic		by-lesh	collapsed
 byleshyn	by-lesh.x	bylesh	univerbated		by-lesh	
 b'leshin	b'leshin.v	b'leshin	self	v.	b'leshin	
 leshin	b'leshin.v	b'leshin	mutation	v.	b'leshin	
@@ -36733,34 +36733,34 @@ byliooar	by-lioar.v	by-lioar	inflected	v.	by-lioar	collapsed
 byliooar	by-lioar.v	bylioar	univerbated	v.	by-lioar	
 b'lioar	b'lioar.v	b'lioar	self	v.	b'lioar	
 liorish	liorish.x	liorish	self	pre. and adv.	liorish	
-liorishin	liorish.x	liorish	inflected	p. p.	liorish	
+liorishin	liorish.x	liorish	emphatic	p. p.	liorish	
 liorish hene	liorish-hene.x	liorish-hene	self	p. p.	liorish-hene	synthetic
 liorishhene	liorish-hene.x	liorish-hene	self	p. p.	liorish-hene	collapsed
 liorishhene	liorish-hene.x	liorishhene	univerbated	p. p.	liorish-hene	
 lioree	lioree.x	lioree	self	p. p.	lioree	synthetic
-lioreeish	lioree.x	lioree	inflected	p. p.	lioree	
+lioreeish	lioree.x	lioree	emphatic	p. p.	lioree	
 lioree hene	lioree-hene.x	lioree-hene	self	p. p.	lioree-hene	synthetic
 lioreehene	lioree-hene.x	lioree-hene	self	p. p.	lioree-hene	collapsed
 lioreehene	lioree-hene.x	lioreehene	univerbated	p. p.	lioree-hene	
 lioroo	lioroo.x	lioroo	self	p. p.	lioroo	synthetic
-lioroosyn	lioroo.x	lioroo	inflected	p. p.	lioroo	
+lioroosyn	lioroo.x	lioroo	emphatic	p. p.	lioroo	
 lioroo hene	lioroo-hene.x	lioroo-hene	self	p. p.	lioroo-hene	synthetic
 lioroohene	lioroo-hene.x	lioroo-hene	self	p. p.	lioroo-hene	collapsed
 lioroohene	lioroo-hene.x	lioroohene	univerbated	p. p.	lioroo-hene	
 liorym	liorym.x	liorym	self	p. p.	liorym	synthetic
-lioryms	liorym.x	liorym	inflected	p. p.	liorym	
+lioryms	liorym.x	liorym	emphatic	p. p.	liorym	
 liorym pene	liorym-pene.x	liorym-pene	self	p. p.	liorym-pene	synthetic
 liorympene	liorym-pene.x	liorym-pene	self	p. p.	liorym-pene	collapsed
 liorympene	liorym-pene.x	liorympene	univerbated	p. p.	liorym-pene	
 liorin	liorin.x	liorin	self	p. p.	liorin	synthetic
-liorinyn	liorin.x	liorin	inflected	p. p.	liorin	
+liorinyn	liorin.x	liorin	emphatic	p. p.	liorin	
 liort	liort.x	liort	self	p. p.	liort	synthetic
-liorts	liort.x	liort	inflected	p. p.	liort	
+liorts	liort.x	liort	emphatic	p. p.	liort	
 liort hene	liort-hene.x	liort-hene	self	p. p.	liort-hene	synthetic
 liorthene	liort-hene.x	liort-hene	self	p. p.	liort-hene	collapsed
 liorthene	liort-hene.x	liorthene	univerbated	p. p.	liort-hene	
 lieriu	lieriu.x	lieriu	self	p. p.	lieriu	synthetic
-lieriuish	lieriu.x	lieriu	inflected	p. p.	lieriu	
+lieriuish	lieriu.x	lieriu	emphatic	p. p.	lieriu	
 list	list.n	list	self	s. f.	list	
 list	list.v	list	self	v.	list	
 listagh	list.v	list	inflected	v.	list	
@@ -37169,7 +37169,7 @@ lunagh	lunagh.n	lunagh	self	s. m.	lunagh
 lunee	lunagh.n	lunagh	inflected	s. m.	lunagh	
 lunnin	lunnin.n	Lunnin	self	s. m.	Lunnin	
 lurg	lurg.x	lurg	self	pre.	lurg	
-lurgsyn	lurg.x	lurg	inflected	pre.	lurg	
+lurgsyn	lurg.x	lurg	emphatic	pre.	lurg	
 lurg ooilley	lurg-ooilley.x	lurg-ooilley	self	adv.	lurg-ooilley	
 lurgooilley	lurg-ooilley.x	lurg-ooilley	self	adv.	lurg-ooilley	collapsed
 lurgooilley	lurg-ooilley.x	lurgooilley	univerbated	adv.	lurg-ooilley	
@@ -37180,10 +37180,10 @@ my lurg	lurg.x	lurg	self	p. p.	my lurg	synthetic
 mylurg	lurg.x	lurg	self	p. p.	my lurg	collapsed
 mylurg	lurg.x	lurg	univerbated	p. p.	my lurg	
 lurg	lurg.x	lurg	particle	p. p.	my lurg	synthetic
-my lurgs	lurg.x	lurg	inflected	p. p.	my lurg	
-mylurgs	lurg.x	lurg	inflected	p. p.	my lurg	collapsed
+my lurgs	lurg.x	lurg	emphatic	p. p.	my lurg	
+mylurgs	lurg.x	lurg	emphatic	p. p.	my lurg	collapsed
 mylurgs	lurg.x	lurg	univerbated	p. p.	my lurg	
-lurgs	lurg.x	lurg	inflected	p. p.	my lurg	
+lurgs	lurg.x	lurg	emphatic	p. p.	my lurg	
 lurgey	lurgey.n	lurgey	self	s. f.	lurgey	
 lurgaghyn	lurgey.n	lurgey	inflected	s. f.	lurgey	
 lurgagh	lurgagh.a	lurgagh	self	a. d.	lurgagh	
@@ -37267,10 +37267,10 @@ dtyvac	mac.n	mac	self	s.	dty vac	collapsed
 dtyvac	mac.n	mac	univerbated	s.	dty vac	
 vac	mac.n	mac	particle	s.	dty vac	
 vac	mac.n	mac	demutated	s. m.	dty vac	
-dty vacs	mac.n	mac	inflected	s.	dty vac	
-dtyvacs	mac.n	mac	inflected	s.	dty vac	collapsed
+dty vacs	mac.n	mac	emphatic	s.	dty vac	
+dtyvacs	mac.n	mac	emphatic	s.	dty vac	collapsed
 dtyvacs	mac.n	mac	univerbated	s.	dty vac	
-vacs	mac.n	mac	inflected	s.	dty vac	
+vacs	mac.n	mac	emphatic	s.	dty vac	
 e vec	mec.n	mec	self	s.	e vec	
 evec	mec.n	mec	self	s.	e vec	collapsed
 evec	mec.n	mec	univerbated	s.	e vec	
@@ -37525,19 +37525,19 @@ thiemergee	thie-mergee.n	thie mergee	self	s. f.	thie mergee	collapsed
 thiemergee	thie-mergee.n	thiemergee	univerbated	s. f.	thie mergee	
 mergey	mergey.a	mergey	self	a. d.	mergey	
 marish	marish.x	marish	self	p. p.	marish	synthetic
-marishyn	marish.x	marish	inflected	p. p.	marish	
+marishyn	marish.x	marish	emphatic	p. p.	marish	
 maree	maree.x	maree	self	p. p.	maree	synthetic
-mareeish	maree.x	maree	inflected	p. p.	maree	
+mareeish	maree.x	maree	emphatic	p. p.	maree	
 maroo	maroo.x	maroo	self	p. p.	maroo	synthetic
-maroosyn	maroo.x	maroo	inflected	p. p.	maroo	
+maroosyn	maroo.x	maroo	emphatic	p. p.	maroo	
 marym	marym.x	marym	self	p. p.	marym	synthetic
-maryms	marym.x	marym	inflected	p. p.	marym	
+maryms	marym.x	marym	emphatic	p. p.	marym	
 marin	marin.x	marin	self	p. p.	marin	synthetic
-marinyn	marin.x	marin	inflected	p. p.	marin	
+marinyn	marin.x	marin	emphatic	p. p.	marin	
 mayrt	mayrt.x	mayrt	self	p. p.	mayrt	synthetic
-mayrts	mayrt.x	mayrt	inflected	p. p.	mayrt	
+mayrts	mayrt.x	mayrt	emphatic	p. p.	mayrt	
 meriu	meriu.x	meriu	self	p. p.	meriu	synthetic
-meriuish	meriu.x	meriu	inflected	p. p.	meriu	
+meriuish	meriu.x	meriu	emphatic	p. p.	meriu	
 mark	mark.n	mark	self	s.	mark	
 yn vark	mark.n	mark	self	s.	yn vark	
 ynvark	mark.n	mark	self	s.	yn vark	collapsed
@@ -37769,7 +37769,7 @@ mastey	mastey.x	mastey	self	pre.	mastey
 mast	mast.x	mast'	self	pre.	mast'	
 mayd	mayd.x	mayd	self	pro.	mayd	
 main	main.x	main	self	pro.	main	
-mainyn	main.x	main	inflected	pro.	main	
+mainyn	main.x	main	emphatic	pro.	main	
 mayl	mayl.n	mayl	self	s. m.	mayl	
 meyl	meyl.x	meyl	self		meyl	
 maail	maail.n	maail	self	s. m.	maail	
@@ -39591,11 +39591,11 @@ chamooarlesh	mooar-lesh.v	mooarlesh	univerbated	v.	cha mooar lesh
 mooar lesh	mooar-lesh.v	mooar lesh	particle	v.	cha mooar lesh	
 mooarlesh	mooar-lesh.v	mooar lesh	particle	v.	cha mooar lesh	collapsed
 mooarlesh	mooar-lesh.v	mooarlesh	univerbated	v.	cha mooar lesh	
-cha mooar leshyn	mooar-lesh.v	mooar lesh	inflected	v.	cha mooar lesh	
-chamooarleshyn	mooar-lesh.v	mooar lesh	inflected	v.	cha mooar lesh	collapsed
+cha mooar leshyn	mooar-lesh.v	mooar lesh	emphatic	v.	cha mooar lesh	
+chamooarleshyn	mooar-lesh.v	mooar lesh	emphatic	v.	cha mooar lesh	collapsed
 chamooarleshyn	mooar-lesh.v	mooarlesh	univerbated	v.	cha mooar lesh	
-mooar leshyn	mooar-lesh.v	mooar lesh	inflected	v.	cha mooar lesh	
-mooarleshyn	mooar-lesh.v	mooar lesh	inflected	v.	cha mooar lesh	collapsed
+mooar leshyn	mooar-lesh.v	mooar lesh	emphatic	v.	cha mooar lesh	
+mooarleshyn	mooar-lesh.v	mooar lesh	emphatic	v.	cha mooar lesh	collapsed
 mooarleshyn	mooar-lesh.v	mooarlesh	univerbated	v.	cha mooar lesh	
 cha mooar lh'ee	mooar-lh'ee.x	mooar lh'ee	self	adv.	cha mooar lh'ee	
 chamooarlh'ee	mooar-lh'ee.x	mooar lh'ee	self	adv.	cha mooar lh'ee	collapsed
@@ -39603,11 +39603,11 @@ chamooarlh'ee	mooar-lh'ee.x	mooarlh'ee	univerbated	adv.	cha mooar lh'ee
 mooar lh'ee	mooar-lh'ee.x	mooar lh'ee	particle	adv.	cha mooar lh'ee	
 mooarlh'ee	mooar-lh'ee.x	mooar lh'ee	particle	adv.	cha mooar lh'ee	collapsed
 mooarlh'ee	mooar-lh'ee.x	mooarlh'ee	univerbated	adv.	cha mooar lh'ee	
-cha mooar lh'eeish	mooar-lh'ee.x	mooar lh'ee	inflected	adv.	cha mooar lh'ee	
-chamooarlh'eeish	mooar-lh'ee.x	mooar lh'ee	inflected	adv.	cha mooar lh'ee	collapsed
+cha mooar lh'eeish	mooar-lh'ee.x	mooar lh'ee	emphatic	adv.	cha mooar lh'ee	
+chamooarlh'eeish	mooar-lh'ee.x	mooar lh'ee	emphatic	adv.	cha mooar lh'ee	collapsed
 chamooarlh'eeish	mooar-lh'ee.x	mooarlh'ee	univerbated	adv.	cha mooar lh'ee	
-mooar lh'eeish	mooar-lh'ee.x	mooar lh'ee	inflected	adv.	cha mooar lh'ee	
-mooarlh'eeish	mooar-lh'ee.x	mooar lh'ee	inflected	adv.	cha mooar lh'ee	collapsed
+mooar lh'eeish	mooar-lh'ee.x	mooar lh'ee	emphatic	adv.	cha mooar lh'ee	
+mooarlh'eeish	mooar-lh'ee.x	mooar lh'ee	emphatic	adv.	cha mooar lh'ee	collapsed
 mooarlh'eeish	mooar-lh'ee.x	mooarlh'ee	univerbated	adv.	cha mooar lh'ee	
 cha mooar lhiam	mooar-lhiam.x	mooar lhiam	self	adv.	cha mooar lhiam	
 chamooarlhiam	mooar-lhiam.x	mooar lhiam	self	adv.	cha mooar lhiam	collapsed
@@ -39615,11 +39615,11 @@ chamooarlhiam	mooar-lhiam.x	mooarlhiam	univerbated	adv.	cha mooar lhiam
 mooar lhiam	mooar-lhiam.x	mooar lhiam	particle	adv.	cha mooar lhiam	
 mooarlhiam	mooar-lhiam.x	mooar lhiam	particle	adv.	cha mooar lhiam	collapsed
 mooarlhiam	mooar-lhiam.x	mooarlhiam	univerbated	adv.	cha mooar lhiam	
-cha mooar lhiams	mooar-lhiam.x	mooar lhiam	inflected	adv.	cha mooar lhiam	
-chamooarlhiams	mooar-lhiam.x	mooar lhiam	inflected	adv.	cha mooar lhiam	collapsed
+cha mooar lhiams	mooar-lhiam.x	mooar lhiam	emphatic	adv.	cha mooar lhiam	
+chamooarlhiams	mooar-lhiam.x	mooar lhiam	emphatic	adv.	cha mooar lhiam	collapsed
 chamooarlhiams	mooar-lhiam.x	mooarlhiam	univerbated	adv.	cha mooar lhiam	
-mooar lhiams	mooar-lhiam.x	mooar lhiam	inflected	adv.	cha mooar lhiam	
-mooarlhiams	mooar-lhiam.x	mooar lhiam	inflected	adv.	cha mooar lhiam	collapsed
+mooar lhiams	mooar-lhiam.x	mooar lhiam	emphatic	adv.	cha mooar lhiam	
+mooarlhiams	mooar-lhiam.x	mooar lhiam	emphatic	adv.	cha mooar lhiam	collapsed
 mooarlhiams	mooar-lhiam.x	mooarlhiam	univerbated	adv.	cha mooar lhiam	
 cha by vooar lesh	by-vooar-lesh.x	by-vooar lesh	self	adv.	cha by-vooar lesh	
 chabyvooarlesh	by-vooar-lesh.x	by-vooar lesh	self	adv.	cha by-vooar lesh	collapsed
@@ -40340,8 +40340,8 @@ my chione	my-chione.x	my-chione	self	p. p.	my-chione	synthetic
 mychione	my-chione.x	my-chione	self	p. p.	my-chione	collapsed
 mychione	my-chione.x	mychione	univerbated	p. p.	my-chione	
 chione	my-chione.x	my-chione	particle	p. p.	my-chione	
-my chioneeshyn	my-chione.x	my-chione	inflected	p. p.	my-chione	
-mychioneeshyn	my-chione.x	my-chione	inflected	p. p.	my-chione	collapsed
+my chioneeshyn	my-chione.x	my-chione	emphatic	p. p.	my-chione	
+mychioneeshyn	my-chione.x	my-chione	emphatic	p. p.	my-chione	collapsed
 mychioneeshyn	my-chione.x	mychione	univerbated	p. p.	my-chione	
 my e chione	my-e-chione.x	my-e-chione	self	p. p.	my-e-chione	synthetic
 myechione	my-e-chione.x	my-e-chione	self	p. p.	my-e-chione	collapsed
@@ -40363,23 +40363,23 @@ mychioneeck	my-chione-eck.x	mychioneeck	univerbated	p. p.	my-chione eck
 chione eck	my-chione-eck.x	my-chione eck	particle	p. p.	my-chione eck	
 chioneeck	my-chione-eck.x	my-chione eck	particle	p. p.	my-chione eck	collapsed
 chioneeck	my-chione-eck.x	mychioneeck	univerbated	p. p.	my-chione eck	
-my chione eckish	my-chione-eck.x	my-chione eck	inflected	p. p.	my-chione eck	
-mychioneeckish	my-chione-eck.x	my-chione eck	inflected	p. p.	my-chione eck	collapsed
+my chione eckish	my-chione-eck.x	my-chione eck	emphatic	p. p.	my-chione eck	
+mychioneeckish	my-chione-eck.x	my-chione eck	emphatic	p. p.	my-chione eck	collapsed
 mychioneeckish	my-chione-eck.x	mychioneeck	univerbated	p. p.	my-chione eck	
 my ny gione	gione.x	gione	self	p. p.	my ny gione	synthetic
 mynygione	gione.x	gione	self	p. p.	my ny gione	collapsed
 mynygione	gione.x	gione	univerbated	p. p.	my ny gione	
 gione	gione.x	gione	particle	p. p.	my ny gione	synthetic
-my ny giones	gione.x	gione	inflected	p. p.	my ny gione	
-mynygiones	gione.x	gione	inflected	p. p.	my ny gione	collapsed
+my ny giones	gione.x	gione	emphatic	p. p.	my ny gione	
+mynygiones	gione.x	gione	emphatic	p. p.	my ny gione	collapsed
 mynygiones	gione.x	gione	univerbated	p. p.	my ny gione	
-giones	gione.x	gione	inflected	p. p.	my ny gione	
+giones	gione.x	gione	emphatic	p. p.	my ny gione	
 my nyn gione	my-nyn-gione.x	my-nyn-gione	self	p. p.	my-nyn-gione	synthetic
 mynyngione	my-nyn-gione.x	my-nyn-gione	self	p. p.	my-nyn-gione	collapsed
 mynyngione	my-nyn-gione.x	mynyngione	univerbated	p. p.	my-nyn-gione	
 gione	my-nyn-gione.x	my-nyn-gione	particle	p. p.	my-nyn-gione	
-my nyn giones	my-nyn-gione.x	my-nyn-gione	inflected	p. p.	my-nyn-gione	
-mynyngiones	my-nyn-gione.x	my-nyn-gione	inflected	p. p.	my-nyn-gione	collapsed
+my nyn giones	my-nyn-gione.x	my-nyn-gione	emphatic	p. p.	my-nyn-gione	
+mynyngiones	my-nyn-gione.x	my-nyn-gione	emphatic	p. p.	my-nyn-gione	collapsed
 mynyngiones	my-nyn-gione.x	mynyngione	univerbated	p. p.	my-nyn-gione	
 my chione oc	my-chione-oc.x	my-chione oc	self	p. p.	my-chione oc	synthetic
 mychioneoc	my-chione-oc.x	my-chione oc	self	p. p.	my-chione oc	collapsed
@@ -40387,65 +40387,65 @@ mychioneoc	my-chione-oc.x	mychioneoc	univerbated	p. p.	my-chione oc
 chione oc	my-chione-oc.x	my-chione oc	particle	p. p.	my-chione oc	
 chioneoc	my-chione-oc.x	my-chione oc	particle	p. p.	my-chione oc	collapsed
 chioneoc	my-chione-oc.x	mychioneoc	univerbated	p. p.	my-chione oc	
-my chione ocsyn	my-chione-oc.x	my-chione oc	inflected	p. p.	my-chione oc	
-mychioneocsyn	my-chione-oc.x	my-chione oc	inflected	p. p.	my-chione oc	collapsed
+my chione ocsyn	my-chione-oc.x	my-chione oc	emphatic	p. p.	my-chione oc	
+mychioneocsyn	my-chione-oc.x	my-chione oc	emphatic	p. p.	my-chione oc	collapsed
 mychioneocsyn	my-chione-oc.x	mychioneoc	univerbated	p. p.	my-chione oc	
 my my chione	my-my-chione.x	my-my-chione	self	p. p.	my-my-chione	synthetic
 mymychione	my-my-chione.x	my-my-chione	self	p. p.	my-my-chione	collapsed
 mymychione	my-my-chione.x	mymychione	univerbated	p. p.	my-my-chione	
 chione	my-my-chione.x	my-my-chione	particle	p. p.	my-my-chione	
-my my chiones	my-my-chione.x	my-my-chione	inflected	p. p.	my-my-chione	
-mymychiones	my-my-chione.x	my-my-chione	inflected	p. p.	my-my-chione	collapsed
+my my chiones	my-my-chione.x	my-my-chione	emphatic	p. p.	my-my-chione	
+mymychiones	my-my-chione.x	my-my-chione	emphatic	p. p.	my-my-chione	collapsed
 mymychiones	my-my-chione.x	mymychione	univerbated	p. p.	my-my-chione	
 my dty chione	my-dty-chione.x	my-dty-chione	self	p. p.	my-dty-chione	synthetic
 mydtychione	my-dty-chione.x	my-dty-chione	self	p. p.	my-dty-chione	collapsed
 mydtychione	my-dty-chione.x	mydtychione	univerbated	p. p.	my-dty-chione	
 chione	my-dty-chione.x	my-dty-chione	particle	p. p.	my-dty-chione	
-my dty chiones	my-dty-chione.x	my-dty-chione	inflected	p. p.	my-dty-chione	
-mydtychiones	my-dty-chione.x	my-dty-chione	inflected	p. p.	my-dty-chione	collapsed
+my dty chiones	my-dty-chione.x	my-dty-chione	emphatic	p. p.	my-dty-chione	
+mydtychiones	my-dty-chione.x	my-dty-chione	emphatic	p. p.	my-dty-chione	collapsed
 mydtychiones	my-dty-chione.x	mydtychione	univerbated	p. p.	my-dty-chione	
 mygeayrt	mygeayrt.x	mygeayrt	self	pre.	mygeayrt	
 mygeayrt y mysh	mygeayrt-y-mysh.x	mygeayrt y mysh	self	p. p.	mygeayrt y mysh	synthetic
 mygeayrtymysh	mygeayrt-y-mysh.x	mygeayrt y mysh	self	p. p.	mygeayrt y mysh	collapsed
 mygeayrtymysh	mygeayrt-y-mysh.x	mygeayrtymysh	univerbated	p. p.	mygeayrt y mysh	
-mygeayrt y myshin	mygeayrt-y-mysh.x	mygeayrt y mysh	inflected	p. p.	mygeayrt y mysh	
-mygeayrtymyshin	mygeayrt-y-mysh.x	mygeayrt y mysh	inflected	p. p.	mygeayrt y mysh	collapsed
+mygeayrt y myshin	mygeayrt-y-mysh.x	mygeayrt y mysh	emphatic	p. p.	mygeayrt y mysh	
+mygeayrtymyshin	mygeayrt-y-mysh.x	mygeayrt y mysh	emphatic	p. p.	mygeayrt y mysh	collapsed
 mygeayrtymyshin	mygeayrt-y-mysh.x	mygeayrtymysh	univerbated	p. p.	mygeayrt y mysh	
 mygeayrt y mo'ee	mygeayrt-y-mo'ee.x	mygeayrt y mo'ee	self	p. p.	mygeayrt y mo'ee	synthetic
 mygeayrtymo'ee	mygeayrt-y-mo'ee.x	mygeayrt y mo'ee	self	p. p.	mygeayrt y mo'ee	collapsed
 mygeayrtymo'ee	mygeayrt-y-mo'ee.x	mygeayrtymo'ee	univerbated	p. p.	mygeayrt y mo'ee	
-mygeayrt y mo'eeish	mygeayrt-y-mo'ee.x	mygeayrt y mo'ee	inflected	p. p.	mygeayrt y mo'ee	
-mygeayrtymo'eeish	mygeayrt-y-mo'ee.x	mygeayrt y mo'ee	inflected	p. p.	mygeayrt y mo'ee	collapsed
+mygeayrt y mo'eeish	mygeayrt-y-mo'ee.x	mygeayrt y mo'ee	emphatic	p. p.	mygeayrt y mo'ee	
+mygeayrtymo'eeish	mygeayrt-y-mo'ee.x	mygeayrt y mo'ee	emphatic	p. p.	mygeayrt y mo'ee	collapsed
 mygeayrtymo'eeish	mygeayrt-y-mo'ee.x	mygeayrtymo'ee	univerbated	p. p.	mygeayrt y mo'ee	
 mygeayrt y moo	mygeayrt-y-moo.x	mygeayrt y moo	self	p. p.	mygeayrt y moo	synthetic
 mygeayrtymoo	mygeayrt-y-moo.x	mygeayrt y moo	self	p. p.	mygeayrt y moo	collapsed
 mygeayrtymoo	mygeayrt-y-moo.x	mygeayrtymoo	univerbated	p. p.	mygeayrt y moo	
-mygeayrt y moosyn	mygeayrt-y-moo.x	mygeayrt y moo	inflected	p. p.	mygeayrt y moo	
-mygeayrtymoosyn	mygeayrt-y-moo.x	mygeayrt y moo	inflected	p. p.	mygeayrt y moo	collapsed
+mygeayrt y moosyn	mygeayrt-y-moo.x	mygeayrt y moo	emphatic	p. p.	mygeayrt y moo	
+mygeayrtymoosyn	mygeayrt-y-moo.x	mygeayrt y moo	emphatic	p. p.	mygeayrt y moo	collapsed
 mygeayrtymoosyn	mygeayrt-y-moo.x	mygeayrtymoo	univerbated	p. p.	mygeayrt y moo	
 mygeayrt y moom	mygeayrt-y-moom.x	mygeayrt y moom	self	p. p.	mygeayrt y moom	synthetic
 mygeayrtymoom	mygeayrt-y-moom.x	mygeayrt y moom	self	p. p.	mygeayrt y moom	collapsed
 mygeayrtymoom	mygeayrt-y-moom.x	mygeayrtymoom	univerbated	p. p.	mygeayrt y moom	
-mygeayrt y moomys	mygeayrt-y-moom.x	mygeayrt y moom	inflected	p. p.	mygeayrt y moom	
-mygeayrtymoomys	mygeayrt-y-moom.x	mygeayrt y moom	inflected	p. p.	mygeayrt y moom	collapsed
+mygeayrt y moomys	mygeayrt-y-moom.x	mygeayrt y moom	emphatic	p. p.	mygeayrt y moom	
+mygeayrtymoomys	mygeayrt-y-moom.x	mygeayrt y moom	emphatic	p. p.	mygeayrt y moom	collapsed
 mygeayrtymoomys	mygeayrt-y-moom.x	mygeayrtymoom	univerbated	p. p.	mygeayrt y moom	
 mygeayrt y mooin	mygeayrt-y-mooin.x	mygeayrt y mooin	self	p. p.	mygeayrt y mooin	synthetic
 mygeayrtymooin	mygeayrt-y-mooin.x	mygeayrt y mooin	self	p. p.	mygeayrt y mooin	collapsed
 mygeayrtymooin	mygeayrt-y-mooin.x	mygeayrtymooin	univerbated	p. p.	mygeayrt y mooin	
-mygeayrt y mooinyn	mygeayrt-y-mooin.x	mygeayrt y mooin	inflected	p. p.	mygeayrt y mooin	
-mygeayrtymooinyn	mygeayrt-y-mooin.x	mygeayrt y mooin	inflected	p. p.	mygeayrt y mooin	collapsed
+mygeayrt y mooinyn	mygeayrt-y-mooin.x	mygeayrt y mooin	emphatic	p. p.	mygeayrt y mooin	
+mygeayrtymooinyn	mygeayrt-y-mooin.x	mygeayrt y mooin	emphatic	p. p.	mygeayrt y mooin	collapsed
 mygeayrtymooinyn	mygeayrt-y-mooin.x	mygeayrtymooin	univerbated	p. p.	mygeayrt y mooin	
 mygeayrt y mood	mygeayrt-y-mood.x	mygeayrt y mood	self	p. p.	mygeayrt y mood	synthetic
 mygeayrtymood	mygeayrt-y-mood.x	mygeayrt y mood	self	p. p.	mygeayrt y mood	collapsed
 mygeayrtymood	mygeayrt-y-mood.x	mygeayrtymood	univerbated	p. p.	mygeayrt y mood	
-mygeayrt y moods	mygeayrt-y-mood.x	mygeayrt y mood	inflected	p. p.	mygeayrt y mood	
-mygeayrtymoods	mygeayrt-y-mood.x	mygeayrt y mood	inflected	p. p.	mygeayrt y mood	collapsed
+mygeayrt y moods	mygeayrt-y-mood.x	mygeayrt y mood	emphatic	p. p.	mygeayrt y mood	
+mygeayrtymoods	mygeayrt-y-mood.x	mygeayrt y mood	emphatic	p. p.	mygeayrt y mood	collapsed
 mygeayrtymoods	mygeayrt-y-mood.x	mygeayrtymood	univerbated	p. p.	mygeayrt y mood	
 mygeayrt y miu	mygeayrt-y-miu.x	mygeayrt y miu	self	p. p.	mygeayrt y miu	synthetic
 mygeayrtymiu	mygeayrt-y-miu.x	mygeayrt y miu	self	p. p.	mygeayrt y miu	collapsed
 mygeayrtymiu	mygeayrt-y-miu.x	mygeayrtymiu	univerbated	p. p.	mygeayrt y miu	
-mygeayrt y miuish	mygeayrt-y-miu.x	mygeayrt y miu	inflected	p. p.	mygeayrt y miu	
-mygeayrtymiuish	mygeayrt-y-miu.x	mygeayrt y miu	inflected	p. p.	mygeayrt y miu	collapsed
+mygeayrt y miuish	mygeayrt-y-miu.x	mygeayrt y miu	emphatic	p. p.	mygeayrt y miu	
+mygeayrtymiuish	mygeayrt-y-miu.x	mygeayrt y miu	emphatic	p. p.	mygeayrt y miu	collapsed
 mygeayrtymiuish	mygeayrt-y-miu.x	mygeayrtymiu	univerbated	p. p.	mygeayrt y miu	
 my hwoaie	my-hwoaie.a	my-hwoaie	self	a.	my-hwoaie	
 myhwoaie	my-hwoaie.a	my-hwoaie	self	a.	my-hwoaie	collapsed
@@ -40588,35 +40588,35 @@ myr yien	myr-yien.a	myr-yien	self	a.	myr-yien
 myryien	myr-yien.a	myr-yien	self	a.	myr-yien	collapsed
 myryien	myr-yien.a	myryien	univerbated	a.	myr-yien	
 mysh	mysh.x	mysh	self	p. p.	mysh	synthetic
-myshin	mysh.x	mysh	inflected	p. p.	mysh	
+myshin	mysh.x	mysh	emphatic	p. p.	mysh	
 moo'ee	moo'ee.x	moo'ee	self	p. p.	moo'ee	synthetic
-moo'eeish	moo'ee.x	moo'ee	inflected	p. p.	moo'ee	
-eeish	moo'ee.x	moo'ee	inflected	p. p.	moo'ee	
+moo'eeish	moo'ee.x	moo'ee	emphatic	p. p.	moo'ee	
+eeish	moo'ee.x	moo'ee	emphatic	p. p.	moo'ee	
 mo'ee	mo'ee.x	mo'ee	self	p. p.	mo'ee	synthetic
-mo'eeish	mo'ee.x	mo'ee	inflected	p. p.	mo'ee	
-eeish	mo'ee.x	mo'ee	inflected	p. p.	mo'ee	
+mo'eeish	mo'ee.x	mo'ee	emphatic	p. p.	mo'ee	
+eeish	mo'ee.x	mo'ee	emphatic	p. p.	mo'ee	
 m'ee	m'ee.x	m'ee	self	p. p.	m'ee	synthetic
-m'eeish	m'ee.x	m'ee	inflected	p. p.	m'ee	
-eeish	m'ee.x	m'ee	inflected	p. p.	m'ee	
+m'eeish	m'ee.x	m'ee	emphatic	p. p.	m'ee	
+eeish	m'ee.x	m'ee	emphatic	p. p.	m'ee	
 mimbee	mimbee.x	mimbee	self	p. p.	mimbee	synthetic
-mimbeeish	mimbee.x	mimbee	inflected	p. p.	mimbee	
+mimbeeish	mimbee.x	mimbee	emphatic	p. p.	mimbee	
 mumboo	mumboo.x	mumboo	self	p. p.	mumboo	synthetic
-mumboosyn	mumboo.x	mumboo	inflected	p. p.	mumboo	
+mumboosyn	mumboo.x	mumboo	emphatic	p. p.	mumboo	
 moo	moo.x	moo	self	p. p.	moo	synthetic
-moosyn	moo.x	moo	inflected	p. p.	moo	
+moosyn	moo.x	moo	emphatic	p. p.	moo	
 moom	moom.x	moom	self	p. p.	moom	synthetic
-mooms	moom.x	moom	inflected	p. p.	moom	
+mooms	moom.x	moom	emphatic	p. p.	moom	
 mooin	mooin.x	mooin	self	p. p.	mooin	synthetic
-mooinyn	mooin.x	mooin	inflected	p. p.	mooin	
+mooinyn	mooin.x	mooin	emphatic	p. p.	mooin	
 mood	mood.x	mood	self	p. p.	mood	synthetic
 cur mood	cur-mood.x	cur mood	self	i.	cur mood	
 curmood	cur-mood.x	cur mood	self	i.	cur mood	collapsed
 curmood	cur-mood.x	curmood	univerbated	i.	cur mood	
-cur moods	cur-mood.x	cur mood	inflected	i.	cur mood	
-curmoods	cur-mood.x	cur mood	inflected	i.	cur mood	collapsed
+cur moods	cur-mood.x	cur mood	emphatic	i.	cur mood	
+curmoods	cur-mood.x	cur mood	emphatic	i.	cur mood	collapsed
 curmoods	cur-mood.x	curmood	univerbated	i.	cur mood	
 miu	miu.x	miu	self	p. p.	miu	synthetic
-miuish	miu.x	miu	inflected	p. p.	miu	
+miuish	miu.x	miu	emphatic	p. p.	miu	
 myskid	myskid.n	myskid	self	s. m.	myskid	
 e vyskid	myskid.n	myskid	self	s.	e vyskid	
 evyskid	myskid.n	myskid	self	s.	e vyskid	collapsed
@@ -40698,7 +40698,7 @@ nasteynollick	nastey-nollick.n	nasteyNollick	univerbated	s. m.	nastey-Nollick
 naunt	naunt.n	naunt	self	s. f.	naunt	
 nay	nay.x	nay	self	adv.	nay	
 neayr	neayr.x	neayr	self	pre.	neayr	
-neayrys	neayr.x	neayr	inflected	pre.	neayr	
+neayrys	neayr.x	neayr	emphatic	pre.	neayr	
 neeal	neeal.x	neeal	self	adv.	neeal	
 neealloo	neeal.x	neeal	inflected	adv.	neeal	
 tuittym neeal	tuittym-neeal.v	tuittym neeal	self	v.	tuittym neeal	
@@ -40993,7 +40993,7 @@ nieunee	nieunagh.a	nieunagh	mutation	a.	s'nieunee
 nieunys	nieunys.n	nieunys	self	s. f.	nieunys	
 nieunid	nieunys.n	nieunys	variant	s. f.	nieunid	
 nish	nish.x	nish	self	adv.	nish	
-nishtagh	nish.x	nish	inflected	adv.	nish	
+nishtagh	nish.x	nish	emphatic	adv.	nish	
 niurin	niurin.n	niurin	self	s. m.	niurin	
 niurinyn	niurin.n	niurin	inflected	s. m.	niurin	
 niurinagh	niurinagh.a	niurinagh	self	a.	niurinagh	
@@ -41270,7 +41270,7 @@ oayltagh	oayltagh.a	oayltagh	self	a.	oayltagh
 bollagh	bollagh.v	bollagh	self	v.	bollagh	
 boallagh	boallagh.x	boallagh	self	usage.	boallagh	
 boallin	boallin.v	boallin	self	v.	boallin	
-boallins	boallin.v	boallin	inflected	v.	boallin	
+boallins	boallin.v	boallin	emphatic	v.	boallin	
 oayrd	oayrd.n	oayrd	self	s. f.	oayrd	
 oayrdyn	oayrd.n	oayrd	inflected	s. f.	oayrd	
 oard	oard.n	oard	self	s. f.	oard	
@@ -41441,9 +41441,9 @@ oghyr	oghyr.n	oghyr	self	s. f.	oghyr
 oghyryn	oghyr.n	oghyr	inflected	s. f.	oghyr	
 oghyragh	oghyragh.a	oghyragh	self	a. d.	oghyragh	
 oi	noi.x	noï	self	pre.	oï	
-ois	noi.x	noï	inflected	pre.	oï	
+ois	noi.x	noï	emphatic	pre.	oï	
 noi	noi.x	noï	self	pre. & p. p.	noï	
-noisyn	noi.x	noï	inflected	pre. & p. p.	noï	
+noisyn	noi.x	noï	emphatic	pre. & p. p.	noï	
 e hoi	hoi.x	hoï	self	pre.	e hoï	
 ehoi	hoi.x	hoï	self	pre.	e hoï	collapsed
 ehoi	hoi.x	hoï	univerbated	pre.	e hoï	
@@ -41667,8 +41667,8 @@ onnee	onnee.n	Onnee	self	s. f.	Onnee
 onnor	onnor.n	onnor	self	s. m.	onnor	
 onneragh	onneragh.a	onneragh	self	a.	onneragh	
 s'onneragh	onneragh.a	onneragh	inflected	a.	s'onneragh	
-s'onneree	onneragh.a	onneragh	inflected	a.	s'onneragh	
-onneree	onneragh.a	onneragh	inflected	a.	s'onneragh	
+s'onneree	onneragh.a	onneragh	emphatic	a.	s'onneragh	
+onneree	onneragh.a	onneragh	emphatic	a.	s'onneragh	
 s'onneree	onneragh.a	onneragh	compSup	a.	s'onneree	
 onneree	onneragh.a	onneragh	mutation	a.	s'onneree	
 onnerid	onnerid.x	onnerid	self		onnerid	
@@ -41676,7 +41676,7 @@ onnoroil	onnoroil.a	onnoroil	self	a.	onnoroil
 s'onnoroil	onnoroil.a	onnoroil	inflected	a.	s'onnoroil	
 onnoroilid	onnoroilid.n	onnoroilid	self	s. m.	onnoroilid	
 oo	oo.x	oo	self	pro.	oo	
-uss	oo.x	oo	inflected	pro.	oo	
+uss	oo.x	oo	emphatic	pro.	oo	
 oo hene	oo-hene.x	oo-hene	self	pro.	oo-hene	
 oohene	oo-hene.x	oo-hene	self	pro.	oo-hene	collapsed
 oohene	oo-hene.x	oohene	univerbated	pro.	oo-hene	
@@ -44278,7 +44278,7 @@ reenit	reenit.x	reenit	self		reenit
 reeneyder	reeneyder.n	reeneyder	self	s. m.	reeneyder	
 reenid	reenid.n	reenid	self	s. m.	reenid	
 reesht	reesht.x	reesht	self	adv.	reesht	
-reeshtagh	reesht.x	reesht	inflected	adv.	reesht	
+reeshtagh	reesht.x	reesht	emphatic	adv.	reesht	
 reih	reih.n	reih	self	s. m.	reih	
 reighyn	reih.n	reih	inflected	s. m.	reih	
 reih	reih.v	reih	self	v.	reih	
@@ -44489,25 +44489,25 @@ rioeeagh	rioeeagh.a	rioeeagh	self	a.	rioeeagh
 rioder	rioder.n	rioder	self	s. m.	rioder	
 rioderyn	rioder.n	rioder	inflected	s. m.	rioder	
 rish	rish.x	rish	self	adv. p.	rish	
-rishyn	rish.x	rish	inflected	adv. p.	rish	
+rishyn	rish.x	rish	emphatic	adv. p.	rish	
 rish hene	rish-hene.x	rish-hene	self	p. p.	rish-hene	synthetic
 rishhene	rish-hene.x	rish-hene	self	p. p.	rish-hene	collapsed
 rishhene	rish-hene.x	rishhene	univerbated	p. p.	rish-hene	
 r'ee	r'ee.x	r'ee	self	adv. p.	r'ee	
-r'eeish	r'ee.x	r'ee	inflected	adv. p.	r'ee	
-eeish	r'ee.x	r'ee	inflected	adv. p.	r'ee	
+r'eeish	r'ee.x	r'ee	emphatic	adv. p.	r'ee	
+eeish	r'ee.x	r'ee	emphatic	adv. p.	r'ee	
 roo	roo.x	roo	self	p. p.	roo	synthetic
-roosyn	roo.x	roo	inflected	p. p.	roo	
+roosyn	roo.x	roo	emphatic	p. p.	roo	
 roo hene	roo-hene.x	roo-hene	self	p. p.	roo-hene	synthetic
 roohene	roo-hene.x	roo-hene	self	p. p.	roo-hene	collapsed
 roohene	roo-hene.x	roohene	univerbated	p. p.	roo-hene	
 rhym	rhym.x	rhym	self	p. p.	rhym	synthetic
-rhyms	rhym.x	rhym	inflected	p. p.	rhym	
+rhyms	rhym.x	rhym	emphatic	p. p.	rhym	
 rooin	rooin.x	rooin	self	p. p.	rooin	synthetic
 rhyt	rhyt.x	rhyt	self	p. p.	rhyt	synthetic
-rhyts	rhyt.x	rhyt	inflected	p. p.	rhyt	
+rhyts	rhyt.x	rhyt	emphatic	p. p.	rhyt	
 riu	riu.x	riu	self	p. p.	riu	synthetic
-riuish	riu.x	riu	inflected	p. p.	riu	
+riuish	riu.x	riu	emphatic	p. p.	riu	
 riyr	riyr.x	riyr	self	adv.	riyr	
 roa	roa.n	roa	self	s. m.	roa	
 roaghyn	roa.n	roa	inflected	s. m.	roa	
@@ -44576,35 +44576,35 @@ roig	roig.n	roig	self	s. f.	roig
 roih	roih.n	roih	self	s. f.	roih	
 roihaghyn	roih.n	roih	inflected	s. f.	roih	
 roish	roish.x	roish	self	adv.	roish	
-roishyn	roish.x	roish	inflected	adv.	roish	
+roishyn	roish.x	roish	emphatic	adv.	roish	
 roish hene	roish-hene.x	roish-hene	self	p. p.	roish-hene	synthetic
 roishhene	roish-hene.x	roish-hene	self	p. p.	roish-hene	collapsed
 roishhene	roish-hene.x	roishhene	univerbated	p. p.	roish-hene	
 roee	roee.x	roee	self	p. p.	roee	synthetic
-roeeish	roee.x	roee	inflected	p. p.	roee	
+roeeish	roee.x	roee	emphatic	p. p.	roee	
 roie hene	roie-hene.x	roïe-hene	self	p. p.	roïe-hene	synthetic
 roiehene	roie-hene.x	roïe-hene	self	p. p.	roïe-hene	collapsed
 roiehene	roie-hene.x	roïehene	univerbated	p. p.	roïe-hene	
 rhymbee	rhymbee.x	rhymbee	self	adv. p.	rhymbee	
-rhymbeeish	rhymbee.x	rhymbee	inflected	adv. p.	rhymbee	
+rhymbeeish	rhymbee.x	rhymbee	emphatic	adv. p.	rhymbee	
 roue	roue.x	roue	self	p. p.	roue	synthetic
-rouesyn	roue.x	roue	inflected	p. p.	roue	
+rouesyn	roue.x	roue	emphatic	p. p.	roue	
 roue hene	roue-hene.x	roue-hene	self	p. p.	roue-hene	synthetic
 rouehene	roue-hene.x	roue-hene	self	p. p.	roue-hene	collapsed
 rouehene	roue-hene.x	rouehene	univerbated	p. p.	roue-hene	
 rhymboo	rhymboo.x	rhymboo	self	adv. p.	rhymboo	
-rhymboosyn	rhymboo.x	rhymboo	inflected	adv. p.	rhymboo	
+rhymboosyn	rhymboo.x	rhymboo	emphatic	adv. p.	rhymboo	
 roym	roym.x	roym	self	p. p.	roym	synthetic
-royms	roym.x	roym	inflected	p. p.	roym	
+royms	roym.x	roym	emphatic	p. p.	roym	
 roym pene	roym-pene.x	roym-pene	self	p. p.	roym-pene	synthetic
 roympene	roym-pene.x	roym-pene	self	p. p.	roym-pene	collapsed
 roympene	roym-pene.x	roympene	univerbated	p. p.	roym-pene	
-roinyn	roin.x	roïn	inflected	p.	roïn	
+roinyn	roin.x	roïn	emphatic	p.	roïn	
 roin hene	roin-hene.x	roin-hene	self	p. p.	roin-hene	synthetic
 roinhene	roin-hene.x	roin-hene	self	p. p.	roin-hene	collapsed
 roinhene	roin-hene.x	roinhene	univerbated	p. p.	roin-hene	
 royd	royd.x	royd	self	p. p.	royd	synthetic
-royds	royd.x	royd	inflected	p. p.	royd	
+royds	royd.x	royd	emphatic	p. p.	royd	
 royd hene	royd-hene.x	royd-hene	self	p. p.	royd-hene	synthetic
 roydhene	royd-hene.x	royd-hene	self	p. p.	royd-hene	collapsed
 roydhene	royd-hene.x	roydhene	univerbated	p. p.	royd-hene	
@@ -44612,12 +44612,12 @@ royd oo	royd-oo.x	royd oo	self	p. p.	royd oo	synthetic
 roydoo	royd-oo.x	royd oo	self	p. p.	royd oo	collapsed
 roydoo	royd-oo.x	roydoo	univerbated	p. p.	royd oo	
 reue	reue.x	reue	self	adv. p.	reue	
-reueish	reue.x	reue	inflected	adv. p.	reue	
+reueish	reue.x	reue	emphatic	adv. p.	reue	
 reue hene	reue-hene.x	reue-hene	self	adv. p.	reue-hene	
 reuehene	reue-hene.x	reue-hene	self	adv. p.	reue-hene	collapsed
 reuehene	reue-hene.x	reuehene	univerbated	adv. p.	reue-hene	
 rhymbiu	rhymbiu.x	rhymbiu	self	adv. p.	rhymbiu	
-rhymbiuish	rhymbiu.x	rhymbiu	inflected	adv. p.	rhymbiu	
+rhymbiuish	rhymbiu.x	rhymbiu	emphatic	adv. p.	rhymbiu	
 roish y thooilley	roish-y-thooilley.a	roish y thooilley	self	a.	roish y thooilley	
 roishythooilley	roish-y-thooilley.a	roish y thooilley	self	a.	roish y thooilley	collapsed
 roishythooilley	roish-y-thooilley.a	roishythooilley	univerbated	a.	roish y thooilley	
@@ -46907,7 +46907,7 @@ chanhimmey	shimmey.a	shimmey	self	a.	cha nhimmey	collapsed
 chanhimmey	shimmey.a	shimmey	univerbated	a.	cha nhimmey	
 nhimmey	shimmey.a	shimmey	particle	a.	cha nhimmey	
 shin	shin.x	shin	self	pro.	shin	
-shinyn	shin.x	shin	inflected	pro.	shin	
+shinyn	shin.x	shin	emphatic	pro.	shin	
 shin hene	shin-hene.x	shin-hene	self	pro.	shin-hene	
 shinhene	shin-hene.x	shin-hene	self	pro.	shin-hene	collapsed
 shinhene	shin-hene.x	shinhene	univerbated	pro.	shin-hene	
@@ -47017,7 +47017,7 @@ eherveishagh	herveishagh.n	herveishagh	self	s.	e herveishagh	collapsed
 eherveishagh	herveishagh.n	herveishagh	univerbated	s.	e herveishagh	
 herveishagh	herveishagh.n	herveishagh	particle	s.	e herveishagh	demutation-unvalidated
 shiu	shiu.x	shiu	self	pro.	shiu	
-shiuish	shiu.x	shiu	inflected	pro.	shiu	
+shiuish	shiu.x	shiu	emphatic	pro.	shiu	
 shlearagh	shlearagh.a	shlearagh	self	a.	shlearagh	
 shleayst	shleayst.n	shleayst	self	s. f.	shleayst	
 shleaystyn	shleayst.n	shleayst	inflected	s. f.	shleayst	
@@ -47692,8 +47692,8 @@ slaneynsit	slane-ynsit.a	slaneynsit	univerbated	a.	slane-ynsit
 slane ayd	slane-ayd.x	slane-ayd	self	p. p.	slane-ayd	synthetic
 slaneayd	slane-ayd.x	slane-ayd	self	p. p.	slane-ayd	collapsed
 slaneayd	slane-ayd.x	slaneayd	univerbated	p. p.	slane-ayd	
-slane ayds	slane-ayd.x	slane-ayd	inflected	p. p.	slane-ayd	
-slaneayds	slane-ayd.x	slane-ayd	inflected	p. p.	slane-ayd	collapsed
+slane ayds	slane-ayd.x	slane-ayd	emphatic	p. p.	slane-ayd	
+slaneayds	slane-ayd.x	slane-ayd	emphatic	p. p.	slane-ayd	collapsed
 slaneayds	slane-ayd.x	slaneayd	univerbated	p. p.	slane-ayd	
 slane lhiat	slane-lhiat.x	slane-lhiat	self	p. p.	slane-lhiat	synthetic
 slanelhiat	slane-lhiat.x	slane-lhiat	self	p. p.	slane-lhiat	collapsed
@@ -50200,10 +50200,10 @@ my haittym	haittym.v	haittym	self	v.	my haittym	demutation-unvalidated
 myhaittym	haittym.v	haittym	self	v.	my haittym	collapsed
 myhaittym	haittym.v	haittym	univerbated	v.	my haittym	
 haittym	haittym.v	haittym	particle	v.	my haittym	demutation-unvalidated
-my haittyms	haittym.v	haittym	inflected	v.	my haittym	demutation-unvalidated
-myhaittyms	haittym.v	haittym	inflected	v.	my haittym	collapsed
+my haittyms	haittym.v	haittym	emphatic	v.	my haittym	demutation-unvalidated
+myhaittyms	haittym.v	haittym	emphatic	v.	my haittym	collapsed
 myhaittyms	haittym.v	haittym	univerbated	v.	my haittym	
-haittyms	haittym.v	haittym	inflected	v.	my haittym	demutation-unvalidated
+haittyms	haittym.v	haittym	emphatic	v.	my haittym	demutation-unvalidated
 my haittin	taittin.v	taittin	self	v.	my haittin	
 myhaittin	taittin.v	taittin	self	v.	my haittin	collapsed
 myhaittin	taittin.v	taittin	univerbated	v.	my haittin	
@@ -52269,10 +52269,10 @@ erdtyhoshiaght	toshiaght.x	toshiaght	self	in.	er dty hoshiaght	collapsed
 erdtyhoshiaght	toshiaght.x	toshiaght	univerbated	in.	er dty hoshiaght	
 hoshiaght	toshiaght.x	toshiaght	particle	in.	er dty hoshiaght	
 hoshiaght	toshiaght.n	toshiaght	demutated	s. m.	er dty hoshiaght	
-er dty hoshiaghtys	toshiaght.x	toshiaght	inflected	in.	er dty hoshiaght	
-erdtyhoshiaghtys	toshiaght.x	toshiaght	inflected	in.	er dty hoshiaght	collapsed
+er dty hoshiaghtys	toshiaght.x	toshiaght	emphatic	in.	er dty hoshiaght	
+erdtyhoshiaghtys	toshiaght.x	toshiaght	emphatic	in.	er dty hoshiaght	collapsed
 erdtyhoshiaghtys	toshiaght.x	toshiaght	univerbated	in.	er dty hoshiaght	
-hoshiaghtys	toshiaght.x	toshiaght	inflected	in.	er dty hoshiaght	
+hoshiaghtys	toshiaght.x	toshiaght	emphatic	in.	er dty hoshiaght	
 nyn doshiaght	doshiaght.n	doshiaght	self	s.	nyn doshiaght	
 nyndoshiaght	doshiaght.n	doshiaght	self	s.	nyn doshiaght	collapsed
 nyndoshiaght	doshiaght.n	doshiaght	univerbated	s.	nyn doshiaght	
@@ -53396,10 +53396,10 @@ nyhrooid	trooid.x	trooid	self	p. p.	ny hrooid	collapsed
 nyhrooid	trooid.x	trooid	univerbated	p. p.	ny hrooid	
 hrooid	trooid.x	trooid	particle	p. p.	ny hrooid	synthetic
 hrooid	trooid.x	trooid	demutated	adv.	ny hrooid	
-ny hrooidsyn	trooid.x	trooid	inflected	p. p.	ny hrooid	
-nyhrooidsyn	trooid.x	trooid	inflected	p. p.	ny hrooid	collapsed
+ny hrooidsyn	trooid.x	trooid	emphatic	p. p.	ny hrooid	
+nyhrooidsyn	trooid.x	trooid	emphatic	p. p.	ny hrooid	collapsed
 nyhrooidsyn	trooid.x	trooid	univerbated	p. p.	ny hrooid	
-hrooidsyn	trooid.x	trooid	inflected	p. p.	ny hrooid	
+hrooidsyn	trooid.x	trooid	emphatic	p. p.	ny hrooid	
 ny hrooid	trooid.x	trooid	variant	p. p.	ny-hrooid	synthetic
 nyhrooid	trooid.x	trooid	variant	p. p.	ny-hrooid	collapsed
 troosyn	troosyn.n	troosyn	self	s. f.	troosyn	
@@ -53860,7 +53860,7 @@ var a mish	var-a-mish.x	var-a-mish	self	p.	var-a-mish
 varamish	var-a-mish.x	var-a-mish	self	p.	var-a-mish	collapsed
 varamish	var-a-mish.x	varamish	univerbated	p.	var-a-mish	
 veih	veih.x	veih	self	p. p.	veih	synthetic
-veihsyn	veih.x	veih	inflected	p. p.	veih	
+veihsyn	veih.x	veih	emphatic	p. p.	veih	
 voish	voish.x	voish	self	pre.	voish	
 woish	voish.x	voish	self	pre.	woish	
 cre veih	cre-veih.x	cre-veih	variant	adv.	cre veih	
@@ -53874,44 +53874,44 @@ veih shoh	shoh.x	shoh	self	adv.	veih shoh
 veihshoh	shoh.x	shoh	self	adv.	veih shoh	collapsed
 veihshoh	shoh.x	shoh	univerbated	adv.	veih shoh	
 shoh	shoh.x	shoh	particle	adv.	veih shoh	
-voishyn	voish.x	voish	inflected	p. p.	voish	
-woishyn	voish.x	voish	inflected	p. p.	woish	
+voishyn	voish.x	voish	emphatic	p. p.	voish	
+woishyn	voish.x	voish	emphatic	p. p.	woish	
 vo'ee	vo'ee.x	vo'ee	self	p. p.	vo'ee	synthetic
 vo'ee	mo'ee.x	mo'ee	demutated	p. p.	vo'ee	
-vo'eeish	vo'ee.x	vo'ee	inflected	p. p.	vo'ee	
-eeish	vo'ee.x	vo'ee	inflected	p. p.	vo'ee	
+vo'eeish	vo'ee.x	vo'ee	emphatic	p. p.	vo'ee	
+eeish	vo'ee.x	vo'ee	emphatic	p. p.	vo'ee	
 voue	voue.x	voue	self	p. p.	voue	synthetic
-vouesyn	voue.x	voue	inflected	p. p.	voue	
+vouesyn	voue.x	voue	emphatic	p. p.	voue	
 woue	voue.x	voue	self	p. p.	woue	synthetic
 woue	foue.x	foue	demutated	p. p.	woue	
-wouesyn	voue.x	voue	inflected	p. p.	woue	
+wouesyn	voue.x	voue	emphatic	p. p.	woue	
 woue hene	woue-hene.x	woue-hene	self	p. p.	woue-hene	synthetic
 wouehene	woue-hene.x	woue-hene	self	p. p.	woue-hene	collapsed
 wouehene	woue-hene.x	wouehene	univerbated	p. p.	woue-hene	
 voym	voym.x	voym	self	p. p.	voym	synthetic
-voyms	voym.x	voym	inflected	p. p.	voym	
+voyms	voym.x	voym	emphatic	p. p.	voym	
 wooym	wooym.x	wooym	self	p. p.	wooym	synthetic
-wooyms	wooym.x	wooym	inflected	p. p.	wooym	demutation-unvalidated
+wooyms	wooym.x	wooym	emphatic	p. p.	wooym	demutation-unvalidated
 wooym pene	wooym-pene.x	wooym-pene	self	p. p.	wooym-pene	synthetic
 wooympene	wooym-pene.x	wooym-pene	self	p. p.	wooym-pene	collapsed
 wooympene	wooym-pene.x	wooympene	univerbated	p. p.	wooym-pene	
 voin	voin.x	voin	self	p. p.	voin	synthetic
-voinyn	voin.x	voin	inflected	p. p.	voin	
+voinyn	voin.x	voin	emphatic	p. p.	voin	
 wooin	vooin.x	vooin	self	p. p.	wooin	synthetic
 wooin	mooin.n	mooin	demutated	s.	wooin	
 wooin	mooin.v	mooin	demutated	v. i.	wooin	
 wooin	mooin.x	mooin	demutated	p. p.	wooin	
-wooinyn	vooin.x	vooin	inflected	p. p.	wooin	
+wooinyn	vooin.x	vooin	emphatic	p. p.	wooin	
 wooin hene	wooin-hene.x	wooin-hene	self	p.	wooin-hene	demutation-unvalidated
 wooinhene	wooin-hene.x	wooin-hene	self	p.	wooin-hene	collapsed
 wooinhene	wooin-hene.x	wooinhene	univerbated	p.	wooin-hene	
 void	void.x	void	self	p. p.	void	synthetic
-voids	void.x	void	inflected	p. p.	void	
+voids	void.x	void	emphatic	p. p.	void	
 veue	veue.x	veue	self	p. p.	veue	synthetic
-veueish	veue.x	veue	inflected	p. p.	veue	
+veueish	veue.x	veue	emphatic	p. p.	veue	
 weue	veue.x	veue	self	p. p.	weue	synthetic
 weue	feue.x	feue	demutated	adv.	weue	
-weueish	veue.x	veue	inflected	p. p.	weue	
+weueish	veue.x	veue	emphatic	p. p.	weue	
 weue hene	weue-hene.x	weue-hene	self	p. p.	weue-hene	synthetic
 weuehene	weue-hene.x	weue-hene	self	p. p.	weue-hene	collapsed
 weuehene	weue-hene.x	weuehene	univerbated	p. p.	weue-hene	
