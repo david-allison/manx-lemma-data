@@ -3388,7 +3388,6 @@ row	row.x	row	self	p.	row
 rows	row.x	row	emphatic	p.	row	
 r'ou	r'ou.x	r'ou	self	p.	r'ou	
 r'ous	r'ou.x	r'ou	emphatic	p.	r'ou	
-ous	r'ou.x	r'ou	emphatic	p.	r'ou	
 she	she.x	she	self	adv.	she	
 ta	ta.v	ta	self	v.	ta	
 cre t'ayn	t'ayn.x	t'ayn	self		cre t'ayn	
@@ -3443,7 +3442,6 @@ t'ehsyn	t'ehsyn.x	t'ehsyn	self		t'ehsyn
 ehsyn	t'ehsyn.x	t'ehsyn	mutation		t'ehsyn	
 t'ee	t'ee.x	t'ee	self	p.	t'ee	
 t'eeish	t'ee.x	t'ee	emphatic	p.	t'ee	
-eeish	t'ee.x	t'ee	emphatic	p.	t'ee	
 ta'd	ta'd.v	ta'd	self	pro. v.	ta'd	
 ta'dsyn	ta'd.v	ta'd	emphatic	pro. v.	ta'd	
 dsyn	ta'd.v	ta'd	emphatic	pro. v.	ta'd	
@@ -3453,10 +3451,8 @@ tarad	tar-ad.x	tarad	univerbated	p.	tar ad
 t'ou	t'ou.x	t'ou	self	p.	t'ou	
 t'ec	t'ec.x	t'ec	self	p.	t'ec	
 t'ecish	t'ec.x	t'ec	emphatic	p.	t'ec	
-ecish	t'ec.x	t'ec	emphatic	p.	t'ec	
 t'ain	t'ain.v	t'ain	self	pro. v.	t'ain	
 t'ainyn	t'ain.v	t'ain	emphatic	pro. v.	t'ain	
-ainyn	t'ain.v	t'ain	emphatic	pro. v.	t'ain	
 t'eu	t'eu.x	t'eu	self	p.	t'eu	
 t'euish	t'eu.x	t'eu	emphatic	p.	t'eu	
 t'orroo	t'orroo.x	t'orroo	self	p. p.	t'orroo	synthetic
@@ -3475,7 +3471,6 @@ v'eshyn	v'eshyn.x	v'eshyn	self	p.	v'eshyn
 v'ee	v'ee.x	v'ee	self	p.	v'ee	
 v'ee	m'ee.x	m'ee	demutated	p. p.	v'ee	
 v'eeish	v'ee.x	v'ee	emphatic	p.	v'ee	
-eeish	v'ee.x	v'ee	emphatic	p.	v'ee	
 v'ad	v'ad.x	v'ad	self	p.	v'ad	
 v'adsyn	v'ad.x	v'ad	emphatic	p.	v'ad	
 v'ou	v'ou.x	v'ou	self	p.	v'ou	
@@ -18723,7 +18718,6 @@ dasyn	da.x	da	emphatic	p. p.	da
 dasyn	dasyn.x	dasyn	self	p.	dasyn	
 j'ee	j'ee.x	j'ee	self	p. p.	j'ee	synthetic
 j'eeish	j'ee.x	j'ee	emphatic	p. p.	j'ee	
-eeish	j'ee.x	j'ee	emphatic	p. p.	j'ee	
 daue	da.x	da	plural	p. p.	daue	synthetic
 dauesyn	da.x	da	emphatic	p. p.	daue	
 dauesyn	dauesyn.x	dauesyn	self	p. p.	dauesyn	synthetic
@@ -27191,7 +27185,6 @@ cha s'ecish	s'ec.x	s'ec	emphatic	p.	cha s'ec
 chas'ecish	s'ec.x	s'ec	emphatic	p.	cha s'ec	collapsed
 chas'ecish	s'ec.x	s'ec	univerbated	p.	cha s'ec	
 s'ecish	s'ec.x	s'ec	emphatic	p.	cha s'ec	
-ecish	s'ec.x	s'ec	emphatic	p.	cha s'ec	
 cha saec	saec.x	saec	self	p. p.	cha saec	synthetic
 chasaec	saec.x	saec	self	p. p.	cha saec	collapsed
 chasaec	saec.x	saec	univerbated	p. p.	cha saec	
@@ -27224,7 +27217,6 @@ cha s'ainyn	s'ain.x	s'ain	emphatic	p.	cha s'ain
 chas'ainyn	s'ain.x	s'ain	emphatic	p.	cha s'ain	collapsed
 chas'ainyn	s'ain.x	s'ain	univerbated	p.	cha s'ain	
 s'ainyn	s'ain.x	s'ain	emphatic	p.	cha s'ain	
-ainyn	s'ain.x	s'ain	emphatic	p.	cha s'ain	
 cha s'ayd	s'ayd.x	s'ayd	self	p.	cha s'ayd	
 chas'ayd	s'ayd.x	s'ayd	self	p.	cha s'ayd	collapsed
 chas'ayd	s'ayd.x	s'ayd	univerbated	p.	cha s'ayd	
@@ -27700,7 +27692,6 @@ yiow	chiow.v	chiow	demutated	v.	yiow
 yiows	yiow.x	yiow	emphatic	p.	yiow	
 yo'in	yo'in.x	yo'in	self		yo'in	
 yo'ins	yo'in.x	yo'in	emphatic		yo'in	
-ins	yo'in.x	yo'in	emphatic		yo'in	
 yiom	yoin.x	yoin	override	p.	yiom	
 yoin	yoin.x	yoin	self	p.	yoin	
 cha vow	fow.v	fow	override	v.	cha vow	
@@ -27736,7 +27727,6 @@ vows	fow.v	fow	emphatic	v.	vow
 now	now.x	now	self	p.	now	demutation-unvalidated
 no'ym	no'ym.x	no'ym	self	p.	no'ym	
 no'yms	no'ym.x	no'ym	emphatic	p.	no'ym	
-yms	no'ym.x	no'ym	emphatic	p.	no'ym	
 nowys	now.x	now	variant	p.	nowys	demutation-unvalidated
 voghe	voghe.v	voghe	self	v.	voghe	
 cha voghe	voghe.v	voghe	self	v.	cha voghe	
@@ -27745,14 +27735,12 @@ chavoghe	voghe.v	voghe	univerbated	v.	cha voghe
 voghe	voghe.v	voghe	particle	v.	cha voghe	
 vo'in	vo'in.x	vo'in	self	p.	vo'in	
 vo'ins	vo'in.x	vo'in	emphatic	p.	vo'in	
-ins	vo'in.x	vo'in	emphatic	p.	vo'in	
 cha noghe	noghe.v	noghe	self	v.	cha noghe	demutation-unvalidated
 chanoghe	noghe.v	noghe	self	v.	cha noghe	collapsed
 chanoghe	noghe.v	noghe	univerbated	v.	cha noghe	
 noghe	noghe.v	noghe	particle	v.	cha noghe	demutation-unvalidated
 no'in	no'in.x	no'in	self	p.	no'in	
 no'ins	no'in.x	no'in	emphatic	p.	no'in	
-ins	no'in.x	no'in	emphatic	p.	no'in	
 nowin	nowin.x	nowin	self		nowin	
 nowins	nowin.x	nowin	emphatic		nowin	
 hooar	hooar.v	hooar	self	v.	hooar	demutation-unvalidated
@@ -31523,7 +31511,6 @@ nee'ms	nee'm.x	nee'm	emphatic	p.	nee'm
 nym	nym.x	nym	self		nym	
 ne'oo	ne'oo.x	ne'oo	self	p.	ne'oo	
 ne'oos	ne'oo.x	ne'oo	emphatic	p.	ne'oo	
-oos	ne'oo.x	ne'oo	emphatic	p.	ne'oo	
 ren	ren.v	ren	self	v.	ren	
 jeannagh	jeannagh.v	jeannagh	self	v.	jeannagh	
 my yinnin	yinnin.v	yinnin	self	v.	my yinnin	demutation-unvalidated
@@ -35972,7 +35959,6 @@ leshhene	lesh-hene.x	lesh-hene	self	p. p.	lesh-hene	collapsed
 leshhene	lesh-hene.x	leshhene	univerbated	p. p.	lesh-hene	
 lh'ee	lh'ee.x	lh'ee	self	p.	lh'ee	
 lh'eeish	lh'ee.x	lh'ee	emphatic	p.	lh'ee	
-eeish	lh'ee.x	lh'ee	emphatic	p.	lh'ee	
 lhieu	lhieu.x	lhieu	self	p. p.	lhieu	synthetic
 lhieusyn	lhieu.x	lhieu	emphatic	p. p.	lhieu	
 lhiam	lhiam.x	lhiam	self	p.	lhiam	
@@ -40591,13 +40577,10 @@ mysh	mysh.x	mysh	self	p. p.	mysh	synthetic
 myshin	mysh.x	mysh	emphatic	p. p.	mysh	
 moo'ee	moo'ee.x	moo'ee	self	p. p.	moo'ee	synthetic
 moo'eeish	moo'ee.x	moo'ee	emphatic	p. p.	moo'ee	
-eeish	moo'ee.x	moo'ee	emphatic	p. p.	moo'ee	
 mo'ee	mo'ee.x	mo'ee	self	p. p.	mo'ee	synthetic
 mo'eeish	mo'ee.x	mo'ee	emphatic	p. p.	mo'ee	
-eeish	mo'ee.x	mo'ee	emphatic	p. p.	mo'ee	
 m'ee	m'ee.x	m'ee	self	p. p.	m'ee	synthetic
 m'eeish	m'ee.x	m'ee	emphatic	p. p.	m'ee	
-eeish	m'ee.x	m'ee	emphatic	p. p.	m'ee	
 mimbee	mimbee.x	mimbee	self	p. p.	mimbee	synthetic
 mimbeeish	mimbee.x	mimbee	emphatic	p. p.	mimbee	
 mumboo	mumboo.x	mumboo	self	p. p.	mumboo	synthetic
@@ -44495,7 +44478,6 @@ rishhene	rish-hene.x	rish-hene	self	p. p.	rish-hene	collapsed
 rishhene	rish-hene.x	rishhene	univerbated	p. p.	rish-hene	
 r'ee	r'ee.x	r'ee	self	adv. p.	r'ee	
 r'eeish	r'ee.x	r'ee	emphatic	adv. p.	r'ee	
-eeish	r'ee.x	r'ee	emphatic	adv. p.	r'ee	
 roo	roo.x	roo	self	p. p.	roo	synthetic
 roosyn	roo.x	roo	emphatic	p. p.	roo	
 roo hene	roo-hene.x	roo-hene	self	p. p.	roo-hene	synthetic
@@ -53879,7 +53861,6 @@ woishyn	voish.x	voish	emphatic	p. p.	woish
 vo'ee	vo'ee.x	vo'ee	self	p. p.	vo'ee	synthetic
 vo'ee	mo'ee.x	mo'ee	demutated	p. p.	vo'ee	
 vo'eeish	vo'ee.x	vo'ee	emphatic	p. p.	vo'ee	
-eeish	vo'ee.x	vo'ee	emphatic	p. p.	vo'ee	
 voue	voue.x	voue	self	p. p.	voue	synthetic
 vouesyn	voue.x	voue	emphatic	p. p.	voue	
 woue	voue.x	voue	self	p. p.	woue	synthetic
@@ -54469,13 +54450,11 @@ goit	gow.v	gow	irregular	v.		closed-class
 by	she.v	she	irregular	adv.		closed-class
 she	she.v	she	irregular	adv.		closed-class
 smessey	olk.v	olk	irregular	a.		closed-class
-eshyn	eh.x	eh	irregular	pro.		closed-class
-ish	ee.x	ee	irregular	pro.		closed-class
-adsyn	ad.x	ad	irregular	pro.		closed-class
-mish	mee.x	mee	irregular	pro.		closed-class
-uss	oo.x	oo	irregular	pro.		closed-class
-shinyn	shin.x	shin	irregular	pro.		closed-class
-shiuish	shiu.x	shiu	irregular	pro.		closed-class
+eshyn	eh.x	eh	emphatic	pro.		closed-class
+eeish	ee.x	ee	emphatic	pro.		closed-class
+mish	mee.x	mee	emphatic	pro.		closed-class
+ainyn	ain.x	ain	emphatic	pro.		closed-class
+ecish	eck.x	eck	emphatic	pro.		closed-class
 ghoal	goaill.v	goaill	irregular	v.		closed-class
 coair	coar.a	coar	irregular	a.		closed-class
 mart	mayrt.x	mayrt	irregular	p. p.		closed-class
