@@ -558,7 +558,7 @@ agglit	agglit.x	agglit	self		agglit
 s'agglit	agglit.x	agglit	inflected		s'agglit	
 agglagh	agglagh.a	agglagh	self	a.	agglagh	
 s'agglagh	agglagh.a	agglagh	inflected	a.	s'agglagh	
-s'agglee	aggl.v	aggl	inflected	v.	s'agglee	
+s'agglee	agglagh.a	agglagh	compSup	a.	s'agglee	
 agglaghin	agglaghin.n	agglaghin	self	s. m.	agglaghin	
 agglaghinyn	agglaghin.n	agglaghin	inflected	s. m.	agglaghin	
 agglish	agglish.n	agglish	self	s. f.	agglish	
@@ -1017,7 +1017,7 @@ s'anchasherickey	s'anchasherickey.a	s'anchasherickey	self	a.	s'anchasherickey	de
 anchasherickey	s'anchasherickey.a	s'anchasherickey	mutation	a.	s'anchasherickey	demutation-unvalidated
 anchasherickys	anchasherickys.n	anchasherickys	self	s.	anchasherickys	
 anchasley	anchasley.a	anchasley	self	a.	anchasley	
-s'anchasley	anchasley.a	anchasley	inflected	a.	s'anchasley	
+s'anchasley	anchasley.a	anchasley	compSup	a.	s'anchasley	
 anchaslys	anchaslys.n	anchaslys	self	s. m.	anchaslys	
 anchaslysyn	anchaslys.n	anchaslys	inflected	s. m.	anchaslys	
 anchassanagh	anchassanagh.a	anchassanagh	self	a.	anchassanagh	
@@ -1087,7 +1087,7 @@ s'anvennick	anvennick.x	anvennick	inflected	adv.	s'anvennick
 s'anvenkey	anvennick.x	anvennick	compSup	adv.	s'anvenkey	
 anvenkey	anvennick.x	anvennick	mutation	adv.	s'anvenkey	
 anvio	anvio.a	anvio	self	a.	anvio	
-s'anvio	anvio.a	anvio	inflected	a.	s'anvio	
+s'anvio	anvio.a	anvio	compSup	a.	s'anvio	
 anvroie	anvroie.a	anvroie	self	a.	anvroie	
 andrailagh	andrailagh.a	andrailagh	self	a.	andrailagh	
 quaiyl andrailagh	quaiyl-andrailagh.a	Quaiyl Andrailagh	self	a.	Quaiyl Andrailagh	
@@ -1116,7 +1116,7 @@ annaghyn	anney.n	anney	inflected	s. f.	anney
 annaghyn	anney.n	anney	plural	s. f.	annaghyn	
 annoon	annoon.a	annoon	self	a.	annoon	
 s'annoon	annoon.a	annoon	inflected	a.	s'annoon	
-s'annooney	annooney.n	annooney	inflected	s. m.	s'annooney	
+s'annooney	annoon.a	annoon	compSup	a.	s'annooney	
 gannooinagh	gannooinagh.v	gannooinagh	self	v.	gannooinagh	
 gannooinaghey	gannooinagh.v	gannooinagh	variant	v.	gannooinaghey	
 dy gannooinee ad	gannooinee-ad.v	gannooinee ad	self	v.	dy gannooinee ad	demutation-unvalidated
@@ -1201,7 +1201,7 @@ dansoor	ansoor.v	ansoor	self	v.	dansoor
 gansoor	ansoor.v	ansoor	self	v.	gansoor	
 ansoorit	ansoorit.x	ansoorit	self		ansoorit	
 appee	appee.a	appee	self	a.	appee	
-s'appee	appee.a	appee	inflected	a.	s'appee	
+s'appee	appee.a	appee	compSup	a.	s'appee	
 neu appee	neu-appee.a	neu-appee	self	a.	neu-appee	
 neuappee	neu-appee.a	neu-appee	self	a.	neu-appee	collapsed
 neuappee	neu-appee.a	neuappee	univerbated	a.	neu-appee	
@@ -1224,7 +1224,7 @@ coard	co-ard.n	co-ard	self	s.	co-ard	collapsed
 coard	co-ard.n	coard	univerbated	s.	co-ard	
 ardey	ardey.a	ardey	self	a. pl.	ardey	
 s'ard	ard.a	ard	inflected	a.	s'ard	
-syrjey	ard.n	ard	compSup	s. m.	syrjey	
+syrjey	ard.a	ard	compSup	a.	syrjey	
 byrjey	by-syrjey.x	by-syrjey	variant		byrjey	
 by syrjey	by-syrjey.x	by-syrjey	self		by-syrjey	
 bysyrjey	by-syrjey.x	by-syrjey	self		by-syrjey	collapsed
@@ -2410,7 +2410,7 @@ failyvaaish	fail-y-vaaish.a	failyvaaish	univerbated	a.	fail-y-vaaish
 baasoil	baasoil.a	baasoil	self	a.	baasoil	
 baasoiley	baasoiley.a	baasoiley	self	a. pl.	baasoiley	
 s'baasoil	baasoil.a	baasoil	inflected	a.	s'baasoil	
-s'baasoiley	baasoiley.a	baasoiley	inflected	a. pl.	s'baasoiley	
+s'baasoiley	baasoil.a	baasoil	compSup	a.	s'baasoiley	
 feer vaasoil	baasoil.a	baasoil	self	a.	feer vaasoil	
 feervaasoil	baasoil.a	baasoil	self	a.	feer vaasoil	collapsed
 feervaasoil	baasoil.a	baasoil	univerbated	a.	feer vaasoil	
@@ -2545,7 +2545,7 @@ nynmaght	baght.n	baght	self	s.	nyn maght	collapsed
 nynmaght	baght.n	baght	univerbated	s.	nyn maght	
 maght	baght.n	baght	particle	s.	nyn maght	
 baghtal	baghtal.a	baghtal	self	a.	baghtal	
-s'baghtal	baghtal.a	baghtal	inflected	a.	s'baghtal	
+s'baghtal	baghtal.a	baghtal	compSup	a.	s'baghtal	
 feer vaghtal	baghtal.a	baghtal	self	a.	feer vaghtal	
 feervaghtal	baghtal.a	baghtal	self	a.	feer vaghtal	collapsed
 feervaghtal	baghtal.a	baghtal	univerbated	a.	feer vaghtal	
@@ -2655,7 +2655,7 @@ valley	balla.n	balley	demutated	s. m.	dy valley
 valley	balley.n	balley	demutated	s.	dy valley	
 balloo	balloo.a	balloo	self	a.	balloo	
 balloo	balloo.n	balloo	self	s. m.	balloo	
-s'balloo	balloo.a	balloo	inflected	a.	s'balloo	
+s'balloo	balloo.a	balloo	compSup	a.	s'balloo	
 feer valloo	balloo.a	balloo	self	a.	feer valloo	
 feervalloo	balloo.a	balloo	self	a.	feer valloo	collapsed
 feervalloo	balloo.a	balloo	univerbated	a.	feer valloo	
@@ -2673,7 +2673,7 @@ baney	baney.a	baney	self	a. pl.	baney
 vaney	baney.a	baney	self	a. pl.	vaney	
 vaney	baney.a	baney	demutated	a. pl.	vaney	
 s'bane	bane.a	bane	inflected	a.	s'bane	
-s'banee	banee.a	banee	inflected	a.	s'banee	
+s'banee	bane.a	bane	compSup	a.	s'banee	
 s'baney	baney.a	baney	inflected	a. pl.	s'baney	
 feer vane	bane.a	bane	self	a.	feer vane	
 feervane	bane.a	bane	self	a.	feer vane	collapsed
@@ -2823,7 +2823,7 @@ feervannit	bannit.a	bannit	univerbated	a.	feer vannit
 vannit	bannit.a	bannit	particle	a.	feer vannit	
 vannit	bannit.x	bannit	demutated	pt.	feer vannit	
 bannee	bannee.a	bannee	self	a.	bannee	
-s'bannee	bannee.a	bannee	inflected	a.	s'bannee	
+s'bannee	bannee.a	bannee	compSup	a.	s'bannee	
 feer vannee	bannee.a	bannee	self	a.	feer vannee	
 feervannee	bannee.a	bannee	self	a.	feer vannee	collapsed
 feervannee	bannee.a	bannee	univerbated	a.	feer vannee	
@@ -2895,7 +2895,7 @@ varb	barb.a	barb	particle	a.	feer varb
 varb	barb.a	barb	demutated	a.	feer varb	
 barbey	barbey.a	barbey	self	a. pl.	barbey	
 s'barb	barb.a	barb	inflected	a.	s'barb	
-s'barbey	barbey.a	barbey	inflected	a. pl.	s'barbey	
+s'barbey	barb.a	barb	compSup	a.	s'barbey	
 neu varb	neu-varb.a	neu-varb	self	a.	neu-varb	
 neuvarb	neu-varb.a	neu-varb	self	a.	neu-varb	collapsed
 neuvarb	neu-varb.a	neuvarb	univerbated	a.	neu-varb	
@@ -3611,7 +3611,7 @@ bearkyn	beark.n	beark	inflected	s. f.	beark
 birk	beark.n	beark	plural	s. f.	birk	
 beayn	beayn.a	beayn	self	a.	beayn	
 s'beayn	beayn.a	beayn	inflected	a.	s'beayn	
-s'beayney	beayney.a	beayney	inflected	a. d.	s'beayney	
+s'beayney	beayn.a	beayn	compSup	a.	s'beayney	
 ro veayn	beayn.a	beayn	self	a.	ro veayn	
 roveayn	beayn.a	beayn	self	a.	ro veayn	collapsed
 roveayn	beayn.a	beayn	univerbated	a.	ro veayn	
@@ -4121,7 +4121,7 @@ vennalt	bennalt.v	bennalt	demutated	v.	dy vennalt
 beoyn	beoyn.n	beoyn	self	s. m.	beoyn	
 berchagh	berchagh.a	berçhagh	self	a.	berçhagh	
 s'berchagh	berchagh.a	berçhagh	inflected	a.	s'berçhagh	
-s'berchee	berchee.n	berçhee	inflected	s. pl.	s'berçhee	
+s'berchee	berchagh.a	berçhagh	compSup	a.	s'berçhee	
 feer verchagh	berchagh.a	berçhagh	self	a.	feer verçhagh	
 feerverchagh	berchagh.a	berçhagh	self	a.	feer verçhagh	collapsed
 feerverchagh	berchagh.a	berçhagh	univerbated	a.	feer verçhagh	
@@ -4374,7 +4374,7 @@ veeviallys	mee-viallys.n	mee-viallys	particle	s.	e vee-viallys	collapsed
 veeviallys	mee-viallys.n	meeviallys	univerbated	s.	e vee-viallys	
 bibbernee	bibbernee.v	bibbernee	self	v.	bibbernee	
 bieau	bieau.a	bieau	self	a.	bieau	
-s'bieau	bieau.a	bieau	inflected	a.	s'bieau	
+s'bieau	bieau.a	bieau	compSup	a.	s'bieau	
 feer vieau	bieau.a	bieau	self	a.	feer vieau	
 feervieau	bieau.a	bieau	self	a.	feer vieau	collapsed
 feervieau	bieau.a	bieau	univerbated	a.	feer vieau	
@@ -4440,7 +4440,7 @@ mine	bine.n	bine	particle	s.	nyn mine
 bing	bing.a	bing	self	a.	bing	
 bingey	bingey.a	bingey	self	a. pl.	bingey	
 s'bing	bing.a	bing	inflected	a.	s'bing	
-s'bingey	bingey.a	bingey	inflected	a. pl.	s'bingey	
+s'bingey	bing.a	bing	compSup	a.	s'bingey	
 ro ving	bing.a	bing	self	a.	ro ving	
 roving	bing.a	bing	self	a.	ro ving	collapsed
 roving	bing.a	bing	univerbated	a.	ro ving	
@@ -4561,8 +4561,8 @@ bioal	bio-al.x	bioal	univerbated	adv.	bio-al
 bio oil	bio-al.x	bio-al	variant	adv.	bio-oil	
 biooil	bio-al.x	bio-al	variant	adv.	bio-oil	collapsed
 biooil	bio-al.x	bioal	univerbated	adv.	bio-oil	
-s'bio oil	bio-al.x	bio-al	inflected	adv.	s'bio-oil	
-s'biooil	bio-al.x	bio-al	inflected	adv.	s'bio-oil	collapsed
+s'bio oil	bio-al.x	bio-al	compSup	adv.	s'bio-oil	
+s'biooil	bio-al.x	bio-al	compSup	adv.	s'bio-oil	collapsed
 s'biooil	bio-al.x	bioal	univerbated	adv.	s'bio-oil	
 s'bio al	bio-al.x	bio-al	inflected	adv.	s'bio-al	
 s'bioal	bio-al.x	bio-al	inflected	adv.	s'bio-al	collapsed
@@ -4587,7 +4587,7 @@ bioyrey	bioyrey.a	bioyrey	self	a. pl.	bioyrey
 vioyrey	bioyrey.a	bioyrey	self	a. pl.	vioyrey	
 vioyrey	bioyrey.a	bioyrey	demutated	a. pl.	vioyrey	
 s'bioyr	bioyr.a	bioyr	inflected	a.	s'bioyr	
-s'bioyrey	bioyrey.a	bioyrey	inflected	a. pl.	s'bioyrey	
+s'bioyrey	bioyr.a	bioyr	compSup	a.	s'bioyrey	
 feer vioyr	bioyr.a	bioyr	self	a.	feer vioyr	
 feervioyr	bioyr.a	bioyr	self	a.	feer vioyr	collapsed
 feervioyr	bioyr.a	bioyr	univerbated	a.	feer vioyr	
@@ -5566,7 +5566,7 @@ dyvoggeysagh	boggeysagh.v	boggeysagh	univerbated	v.	dy voggeysagh
 voggeysagh	boggeysagh.v	boggeysagh	particle	v.	dy voggeysagh	
 voggeysagh	boggeysagh.a	boggeysagh	demutated	a.	dy voggeysagh	
 boggoil	boggoil.a	boggoil	self	a.	boggoil	
-s'boggoil	boggoil.a	boggoil	inflected	a.	s'boggoil	
+s'boggoil	boggoil.a	boggoil	compSup	a.	s'boggoil	
 ro voggoil	boggoil.a	boggoil	self	a.	ro voggoil	
 rovoggoil	boggoil.a	boggoil	self	a.	ro voggoil	collapsed
 rovoggoil	boggoil.a	boggoil	univerbated	a.	ro voggoil	
@@ -7595,7 +7595,7 @@ vroiet	broiet.a	broiet	particle	a.	ro vroiet
 vroiet	broiet.x	broiet	demutated		ro vroiet	
 broie	broie.a	broie	self	a.	broie	
 broiey	broiey.a	broiey	self	a. pl.	broiey	
-s'broie	broie.a	broie	inflected	a.	s'broie	
+s'broie	broie.a	broie	compSup	a.	s'broie	
 garvroie	garvroie.a	garvroie	self	a.	garvroie	
 neu vroie	neu-vroie.a	neu-vroie	self	a.	neu-vroie	
 neuvroie	neu-vroie.a	neu-vroie	self	a.	neu-vroie	collapsed
@@ -9671,7 +9671,7 @@ garr	garr.n	garr	particle	s.	nyn garr
 carrag	carrag.n	carrag	self	s. f.	carrag	
 carragh	carragh.a	carragh	self	a.	carragh	
 s'carragh	carragh.a	carragh	inflected	a.	s'carragh	
-s'carree	carree.a	carree	inflected	a. d.	s'carree	
+s'carree	carragh.a	carragh	compSup	a.	s'carree	
 ro charragh	charragh.a	charragh	self	a.	ro charragh	
 rocharragh	charragh.a	charragh	self	a.	ro charragh	collapsed
 rocharragh	charragh.a	charragh	univerbated	a.	ro charragh	
@@ -11038,7 +11038,7 @@ ching	ching.a	çhing	self	a.	çhing
 ching	kione.n	king	demutated	s. m.	çhing	
 chingey	chingey.a	çhingey	self	a. pl.	çhingey	
 s'ching	ching.a	çhing	inflected	a.	s'çhing	
-s'chingey	chingey.a	çhingey	inflected	a. pl.	s'çhingey	
+s'chingey	ching.a	çhing	compSup	a.	s'çhingey	
 ro hing	ching.a	ching	self	a.	ro hing	
 rohing	ching.a	ching	self	a.	ro hing	collapsed
 rohing	ching.a	ching	univerbated	a.	ro hing	
@@ -11164,8 +11164,8 @@ hionnt	chionnt.x	chionnt	particle		ro hionnt
 chionn	chionn.a	çhionn	self	a.	çhionn	
 chionney	chionney.a	çhionney	self	a. pl.	çhionney	
 s'chionn	chionn.a	çhionn	inflected	a.	s'çhionn	
-s'chenney	chionn.v	çhionn	compSup	v.	s'çhenney	
-chenney	chionn.v	çhionn	mutation	v.	s'çhenney	
+s'chenney	chionn.a	çhionn	compSup	a.	s'çhenney	
+chenney	chionn.a	çhionn	mutation	a.	s'çhenney	
 yn chennar	chennar.x	çhennar	self		yn çhennar	
 ynchennar	chennar.x	çhennar	self		yn çhennar	collapsed
 ynchennar	chennar.x	çhennar	univerbated		yn çhennar	
@@ -11231,7 +11231,7 @@ chioweyderyn	chioweyder.n	çhioweyder	inflected	s. m.	çhioweyder
 chiu	chiu.a	çhiu	self	a.	çhiu	
 chioo	chioo.a	çhioo	self	a.	çhioo	
 s'chioo	chioo.a	çhioo	inflected	a.	s'çhioo	
-s'chee	chee.v	çhee	inflected	v.	s'çhee	
+s'chee	chiu.a	çhiu	compSup	a.	s'çhee	
 s'cheey	chiu.a	çhiu	compSup	a.	s'çheey	
 cheey	chiu.a	çhiu	mutation	a.	s'çheey	
 ro hiu	chiu.a	chiu	self	a.	ro hiu	
@@ -11446,7 +11446,7 @@ ehymseyder	chymseyder.n	chymseyder	univerbated	s.	e hymseyder
 hymseyder	chymseyder.n	chymseyder	particle	s.	e hymseyder	
 chymsagh	chymsagh.a	çhymsagh	self	a.	çhymsagh	
 s'chymsagh	chymsagh.a	çhymsagh	inflected	a.	s'çhymsagh	
-s'chymsee	chyms.v	çhyms	inflected	v.	s'çhymsee	
+s'chymsee	chymsagh.a	çhymsagh	compSup	a.	s'çhymsee	
 chymsagh	chymsagh.n	çhymsagh	self	s. f.	çhymsagh	
 chymseeyn	chymsagh.n	çhymsagh	inflected	s. f.	çhymsagh	
 chyndaa	chyndaa.v	çhyndaa	self	v.	çhyndaa	
@@ -11509,7 +11509,7 @@ chyrrym	chyrrym.a	çhyrrym	self	a.	çhyrrym
 chirmey	chirmey.a	çhirmey	self	a. pl.	çhirmey	
 chyrmey	chyrmey.a	çhyrmey	self	a. pl.	çhyrmey	
 s'chirm	chirm.v	çhirm	inflected	v.	s'çhirm	
-s'chirmey	chirmey.a	çhirmey	inflected	a. pl.	s'çhirmey	
+s'chirmey	chirm.v	çhirm	compSup	v.	s'çhirmey	
 ro hyrrym	chyrrym.a	chyrrym	self	a.	ro hyrrym	
 rohyrrym	chyrrym.a	chyrrym	self	a.	ro hyrrym	collapsed
 rohyrrym	chyrrym.a	chyrrym	univerbated	a.	ro hyrrym	
@@ -14313,7 +14313,7 @@ buird chooney	buird-chooney.n	buird chooney	self	s. pl.	buird chooney	demutation
 buirdchooney	buird-chooney.n	buird chooney	self	s. pl.	buird chooney	collapsed
 buirdchooney	buird-chooney.n	buirdchooney	univerbated	s. pl.	buird chooney	
 s'coon	coon.a	coon	inflected	a.	s'coon	
-s'cooiney	cooiney.n	cooiney	inflected	s. m.	s'cooiney	
+s'cooiney	coon.a	coon	compSup	a.	s'cooiney	
 ro choon	choon.a	choon	self	a.	ro choon	
 rochoon	choon.a	choon	self	a.	ro choon	collapsed
 rochoon	choon.a	choon	univerbated	a.	ro choon	
@@ -14735,7 +14735,7 @@ suggane corrag	suggane-corrag.n	suggane-corrag	self	s. m.	suggane-corrag
 sugganecorrag	suggane-corrag.n	suggane-corrag	self	s. m.	suggane-corrag	collapsed
 sugganecorrag	suggane-corrag.n	sugganecorrag	univerbated	s. m.	suggane-corrag	
 corragh	corragh.a	corragh	self	a.	corragh	
-s'corragh	corragh.a	corragh	inflected	a.	s'corragh	
+s'corragh	corragh.a	corragh	compSup	a.	s'corragh	
 feer chorragh	chorragh.a	chorragh	self	a.	feer chorragh	
 feerchorragh	chorragh.a	chorragh	self	a.	feer chorragh	collapsed
 feerchorragh	chorragh.a	chorragh	univerbated	a.	feer chorragh	
@@ -14760,7 +14760,7 @@ chorree	chorree.n	chorree	particle	s.	yn chorree
 chorree	corree.n	corree	demutated	s. f.	yn chorree	
 chorree	corree.a	corree	demutated	a.	yn chorree	
 corree	corree.a	corree	self	a.	corree	
-s'corree	corree.a	corree	inflected	a.	s'corree	
+s'corree	corree.a	corree	compSup	a.	s'corree	
 feer chorree	chorree.a	chorree	self	a.	feer chorree	
 feerchorree	chorree.a	chorree	self	a.	feer chorree	collapsed
 feerchorree	chorree.a	chorree	univerbated	a.	feer chorree	
@@ -15764,7 +15764,7 @@ lieh chraue	lieh-chraue.n	lieh-chraue	self	s. f.	lieh-chraue
 liehchraue	lieh-chraue.n	lieh-chraue	self	s. f.	lieh-chraue	collapsed
 liehchraue	lieh-chraue.n	liehchraue	univerbated	s. f.	lieh-chraue	
 craueagh	craueagh.a	craueagh	self	a.	craueagh	
-s'craueagh	craueagh.a	craueagh	inflected	a.	s'craueagh	
+s'craueagh	craueagh.a	craueagh	compSup	a.	s'craueagh	
 feer chraueagh	chraueagh.a	chraueagh	self	a.	feer chraueagh	
 feerchraueagh	chraueagh.a	chraueagh	self	a.	feer chraueagh	collapsed
 feerchraueagh	chraueagh.a	chraueagh	univerbated	a.	feer chraueagh	
@@ -15789,7 +15789,7 @@ chraue feeagh	chraue-feeagh.n	chraue-feeagh	particle	s.	yn chraue-feeagh
 chrauefeeagh	chraue-feeagh.n	chraue-feeagh	particle	s.	yn chraue-feeagh	collapsed
 chrauefeeagh	chraue-feeagh.n	chrauefeeagh	univerbated	s.	yn chraue-feeagh	
 crauee	crauee.a	crauee	self	a.	crauee	
-s'crauee	crauee.a	crauee	inflected	a.	s'crauee	
+s'crauee	crauee.a	crauee	compSup	a.	s'crauee	
 feer chrauee	chrauee.a	chrauee	self	a.	feer chrauee	
 feerchrauee	chrauee.a	chrauee	self	a.	feer chrauee	collapsed
 feerchrauee	chrauee.a	chrauee	univerbated	a.	feer chrauee	
@@ -16244,7 +16244,7 @@ dy creeoil	creeoil.x	creeoil	self	adv.	dy creeoil
 dycreeoil	creeoil.x	creeoil	self	adv.	dy creeoil	collapsed
 dycreeoil	creeoil.x	creeoil	univerbated	adv.	dy creeoil	
 creeoil	creeoil.x	creeoil	particle	adv.	dy creeoil	
-s'creeoil	creeoil.a	creeoil	inflected	a.	s'creeoil	
+s'creeoil	creeoil.a	creeoil	compSup	a.	s'creeoil	
 feer chreeoil	chreeoil.a	chreeoil	self	a.	feer chreeoil	
 feerchreeoil	chreeoil.a	chreeoil	self	a.	feer chreeoil	collapsed
 feerchreeoil	chreeoil.a	chreeoil	univerbated	a.	feer chreeoil	
@@ -16321,7 +16321,7 @@ chreedlagh	chreedlagh.v	chreedlagh	particle	v.	dy chreedlagh
 chreedlagh	creetlagh.x	creedlagh	demutated		dy chreedlagh	
 creen	creen.a	creen	self	a.	creen	
 creeney	creeney.a	creeney	self	a. pl.	creeney	
-s'creen	creen.a	creen	inflected	a.	s'creen	
+s'creen	creen.a	creen	compSup	a.	s'creen	
 ro chreen	chreen.a	chreen	self	a.	ro chreen	
 rochreen	chreen.a	chreen	self	a.	ro chreen	collapsed
 rochreen	chreen.a	chreen	univerbated	a.	ro chreen	
@@ -16517,7 +16517,7 @@ cremagh	cremagh.a	cremagh	self	a.	cremagh
 cremeyder	cremeyder.n	cremeyder	self	s. m.	cremeyder	
 cremeyderyn	cremeyder.n	cremeyder	inflected	s. m.	cremeyder	
 creoi	creoi.a	creoï	self	a.	creoï	
-s'creoi	creoi.a	creoï	inflected	a.	s'creoï	
+s'creoi	creoi.a	creoï	compSup	a.	s'creoï	
 creoi wannallagh	creoi-wannallagh.a	creoï-wannallagh	self	a.	creoï-wannallagh	
 creoiwannallagh	creoi-wannallagh.a	creoï-wannallagh	self	a.	creoï-wannallagh	collapsed
 creoiwannallagh	creoi-wannallagh.a	creoïwannallagh	univerbated	a.	creoï-wannallagh	
@@ -16599,7 +16599,7 @@ nyngreogheyderyn	greogheyder.n	greogheyder	inflected	s.	nyn greogheyder	collapse
 nyngreogheyderyn	greogheyder.n	greogheyder	univerbated	s.	nyn greogheyder	
 greogheyderyn	greogheyder.n	greogheyder	inflected	s.	nyn greogheyder	demutation-unvalidated
 creoidey	creoidey.a	creoidey	self	a.	creoidey	
-s'creoidey	creoidey.a	creoidey	inflected	a.	s'creoidey	
+s'creoidey	creoidey.a	creoidey	compSup	a.	s'creoidey	
 creoidys	creoidys.n	creoidys	self	s. m.	creoidys	
 cretoor	cretoor.n	cretoor	self	s. m.	cretoor	
 cretooryn	cretoor.n	cretoor	inflected	s. m.	cretoor	
@@ -17118,7 +17118,7 @@ gronnaghey	gronnaghey.v	gronnaghey	particle	v.	er gronnaghey
 cronnit	cronnit.x	cronnit	self		cronnit	
 s'cronnit	cronnit.x	cronnit	inflected		s'cronnit	
 cronnal	cronnal.a	cronnal	self	a.	cronnal	
-s'cronnal	cronnal.a	cronnal	inflected	a.	s'cronnal	
+s'cronnal	cronnal.a	cronnal	compSup	a.	s'cronnal	
 feer chronnal	chronnal.a	chronnal	self	a.	feer chronnal	
 feerchronnal	chronnal.a	chronnal	self	a.	feer chronnal	collapsed
 feerchronnal	chronnal.a	chronnal	univerbated	a.	feer chronnal	
@@ -17610,7 +17610,7 @@ ynchrowaltagh	chrowaltagh.n	chrowaltagh	univerbated	s.	yn chrowaltagh
 chrowaltagh	chrowaltagh.n	chrowaltagh	particle	s.	yn chrowaltagh	
 chrowaltagh	crowaltagh.n	crowaltagh	demutated	s. m.	yn chrowaltagh	
 croym	croym.a	croym	self	a.	croym	
-s'croym	croym.a	croym	inflected	a.	s'croym	
+s'croym	croym.a	croym	compSup	a.	s'croym	
 croym	croymm.v	croymm	variant	v.	croym	
 croymm	croymm.v	croymm	self	v.	croymm	
 croymmagh	croymm.v	croymm	inflected	v.	croymm	
@@ -19292,7 +19292,7 @@ dy doaieagh	doaieagh.x	doaieagh	self	adv.	dy doaieagh
 dydoaieagh	doaieagh.x	doaieagh	self	adv.	dy doaieagh	collapsed
 dydoaieagh	doaieagh.x	doaieagh	univerbated	adv.	dy doaieagh	
 doaieagh	doaieagh.x	doaieagh	particle	adv.	dy doaieagh	
-s'doaiagh	doaieagh.a	doaieagh	inflected	a.	s'doaiagh	
+s'doaiagh	doaieagh.a	doaieagh	compSup	a.	s'doaiagh	
 ro ghoaiagh	doaiagh.a	doaiagh	self	a.	ro ghoaiagh	
 roghoaiagh	doaiagh.a	doaiagh	self	a.	ro ghoaiagh	collapsed
 roghoaiagh	doaiagh.a	doaiagh	univerbated	a.	ro ghoaiagh	
@@ -19521,7 +19521,7 @@ dy doillee	doillee.x	doillee	self	adv.	dy doillee
 dydoillee	doillee.x	doillee	self	adv.	dy doillee	collapsed
 dydoillee	doillee.x	doillee	univerbated	adv.	dy doillee	
 doillee	doillee.x	doillee	particle	adv.	dy doillee	
-s'doillee	doillee.a	doillee	inflected	a.	s'doillee	
+s'doillee	doillee.a	doillee	compSup	a.	s'doillee	
 ro ghoillee	doillee.a	doillee	self	a.	ro ghoillee	
 roghoillee	doillee.a	doillee	self	a.	ro ghoillee	collapsed
 roghoillee	doillee.a	doillee	univerbated	a.	ro ghoillee	
@@ -19737,7 +19737,7 @@ neu ghooghyssid	neu-ghooghyssid.n	neu-ghooghyssid	self	s. m.	neu-ghooghyssid
 neughooghyssid	neu-ghooghyssid.n	neu-ghooghyssid	self	s. m.	neu-ghooghyssid	collapsed
 neughooghyssid	neu-ghooghyssid.n	neughooghyssid	univerbated	s. m.	neu-ghooghyssid	
 dooie	dooie.a	dooie	self	a.	dooie	
-s'dooie	dooie.a	dooie	inflected	a.	s'dooie	
+s'dooie	dooie.a	dooie	compSup	a.	s'dooie	
 ro ghooie	ghooie.a	ghooie	self	a.	ro ghooie	
 roghooie	ghooie.a	ghooie	self	a.	ro ghooie	collapsed
 roghooie	ghooie.a	ghooie	univerbated	a.	ro ghooie	
@@ -19884,7 +19884,7 @@ dyghoostey	ghoostey.v	ghoostey	self	v.	dy ghoostey	collapsed
 dyghoostey	ghoostey.v	ghoostey	univerbated	v.	dy ghoostey	
 ghoostey	ghoostey.v	ghoostey	particle	v.	dy ghoostey	demutation-unvalidated
 dooishtit	dooishtit.x	dooishtit	self		dooishtit	
-s'dooishtit	dooishtit.x	dooishtit	inflected		s'dooishtit	
+s'dooishtit	dooishtit.x	dooishtit	compSup		s'dooishtit	
 ro ghooishtit	dooishtit.x	dooishtit	self		ro ghooishtit	
 roghooishtit	dooishtit.x	dooishtit	self		ro ghooishtit	collapsed
 roghooishtit	dooishtit.x	dooishtit	univerbated		ro ghooishtit	
@@ -20441,7 +20441,7 @@ dullishfar	dullish-far.a	dullishfar	univerbated	a.	dullish far
 dullyr	dullyr.n	dullyr	self	s. f.	dullyr	
 dunnal	dunnal.a	dunnal	self	a.	dunnal	
 dunnalley	dunnalley.a	dunnalley	self	a. pl.	dunnalley	
-s'dunnal	dunnal.a	dunnal	inflected	a.	s'dunnal	
+s'dunnal	dunnal.a	dunnal	compSup	a.	s'dunnal	
 ro ghunnal	dunnal.a	dunnal	self	a.	ro ghunnal	
 roghunnal	dunnal.a	dunnal	self	a.	ro ghunnal	collapsed
 roghunnal	dunnal.a	dunnal	univerbated	a.	ro ghunnal	
@@ -20501,7 +20501,7 @@ erdwooaie	er-dwooaie.a	er-dwooaie	self	a.	er-dwooaie	collapsed
 erdwooaie	er-dwooaie.a	erdwooaie	univerbated	a.	er-dwooaie	
 dwooaie	er-dwooaie.a	er-dwooaie	particle	a.	er-dwooaie	
 dwoaiagh	dwoaiagh.a	dwoaiagh	self	a.	dwoaiagh	
-s'dwoaiagh	dwoaiagh.a	dwoaiagh	inflected	a.	s'dwoaiagh	
+s'dwoaiagh	dwoaiagh.a	dwoaiagh	compSup	a.	s'dwoaiagh	
 ro ghwoaiagh	dwoaiagh.a	dwoaiagh	self	a.	ro ghwoaiagh	
 roghwoaiagh	dwoaiagh.a	dwoaiagh	self	a.	ro ghwoaiagh	collapsed
 roghwoaiagh	dwoaiagh.a	dwoaiagh	univerbated	a.	ro ghwoaiagh	
@@ -20729,7 +20729,7 @@ eheaishteyder	eaishteyder.n	eaishteyder	self	s.	e heaishteyder	collapsed
 eheaishteyder	eaishteyder.n	eaishteyder	univerbated	s.	e heaishteyder	
 heaishteyder	eaishteyder.n	eaishteyder	particle	s.	e heaishteyder	
 eajee	eajee.a	eajee	self	a.	eajee	
-s'eajee	eajee.a	eajee	inflected	a.	s'eajee	
+s'eajee	eajee.a	eajee	compSup	a.	s'eajee	
 eajeeys	eajeeys.n	eajeeys	self	s. m.	eajeeys	
 e heajeeys	eajeeys.n	eajeeys	self	s.	e heajeeys	
 eheajeeys	eajeeys.n	eajeeys	self	s.	e heajeeys	collapsed
@@ -21015,7 +21015,7 @@ glaare eddinyn	glaare-eddin.n	glaare-eddin	inflected	s. f.	glaare-eddin
 glaareeddinyn	glaare-eddin.n	glaare-eddin	inflected	s. f.	glaare-eddin	collapsed
 glaareeddinyn	glaare-eddin.n	glaareeddin	univerbated	s. f.	glaare-eddin	
 eddrym	eddrym.a	eddrym	self	a.	eddrym	
-s'eddrym	eddrym.a	eddrym	inflected	a.	s'eddrym	
+s'eddrym	eddrym.a	eddrym	compSup	a.	s'eddrym	
 eddrym	eddrym.v	eddrym	self	v.	eddrym	
 eddrymagh	eddrym.v	eddrym	inflected	v.	eddrym	
 eddrymee	eddrym.v	eddrym	inflected	v.	eddrym	
@@ -21434,7 +21434,7 @@ eignee	eignagh.n	eignagh	inflected	s. m.	eignagh
 eginagh	eignagh.a	eignagh	variant	a.	eginagh	
 eginee	eignagh.a	eignagh	inflected	a.	eginagh	
 s'eignagh	eignagh.a	eignagh	inflected	a.	s'eignagh	
-s'eignee	eign.v	eign	inflected	v.	s'eignee	
+s'eignee	eignagh.a	eignagh	compSup	a.	s'eignee	
 eign	eign.v	eign	self	v.	eign	
 eignagh	eign.v	eign	inflected	v.	eign	
 eignee	eign.v	eign	inflected	v.	eign	
@@ -23715,7 +23715,7 @@ fasscadee	fasscadagh.n	fasscadagh	inflected	s. m.	fasscadagh
 fast	fast.n	fast	self	s. m.	fast	
 fastagh	fastagh.a	fastagh	self	a.	fastagh	
 s'fastagh	fastagh.a	fastagh	inflected	a.	s'fastagh	
-s'fastee	fastee.n	fastee	inflected	s.	s'fastee	
+s'fastee	fastagh.a	fastagh	compSup	a.	s'fastee	
 fastid	fastid.n	fastid	self	s. m.	fastid	
 fastee	fastee.n	fastee	self	s.	fastee	
 fasteeyn	fastee.n	fastee	inflected	s.	fastee	
@@ -23725,6 +23725,7 @@ eastee	fastee.n	fastee	univerbated	s.	e astee
 astee	fastee.n	fastee	particle	s.	e astee	
 astee	fastee.n	fastee	demutated	s.	e astee	
 fasteeagh	fasteeagh.a	fasteeagh	self	a.	fasteeagh	
+s'fastee	s'fastee.a	s'fastee	self	a.	s'fastee	
 s'fasteeagh	fasteeagh.a	fasteeagh	inflected	a.	s'fasteeagh	
 fasteeid	fasteeid.n	fasteeid	self	s. m.	fasteeid	
 fastyr	fastyr.n	fastyr	self	s. m.	fastyr	
@@ -24183,7 +24184,7 @@ feeagh	feeagh.n	feeagh	self	s. m.	feeagh
 fiee	feeagh.n	feeagh	inflected	s. m.	feeagh	
 fee	fee.n	fee	self	s. pl.	fee	
 feeagh	feeagh.a	feeagh	self	a.	feeagh	
-s'feeagh	feeagh.a	feeagh	inflected	a.	s'feeagh	
+s'feeagh	feeagh.a	feeagh	compSup	a.	s'feeagh	
 sheeagh	sheeagh.a	sheeagh	self	a.	sheeagh	
 cha neeagh	feeagh.n	feeagh	self	s.	cha neeagh	
 chaneeagh	feeagh.n	feeagh	self	s.	cha neeagh	collapsed
@@ -25111,7 +25112,7 @@ scaaliaghee	scaa-liaghee.n	scaa-liaghee	self	s. f.	scaa-liaghee	collapsed
 scaaliaghee	scaa-liaghee.n	scaaliaghee	univerbated	s. f.	scaa-liaghee	
 fliaghagh	fliaghagh.a	fliaghagh	self	a.	fliaghagh	
 s'fliaghagh	fliaghagh.a	fliaghagh	inflected	a.	s'fliaghagh	
-s'fliaghee	fliaghee.a	fliaghee	inflected	a. d.	s'fliaghee	
+s'fliaghee	fliaghagh.a	fliaghagh	compSup	a.	s'fliaghee	
 ro liaghagh	fliaghagh.a	fliaghagh	self	a.	ro liaghagh	
 roliaghagh	fliaghagh.a	fliaghagh	self	a.	ro liaghagh	collapsed
 roliaghagh	fliaghagh.a	fliaghagh	univerbated	a.	ro liaghagh	
@@ -25823,7 +25824,7 @@ ryfoddey	ry-foddey.x	ryfoddey	univerbated	adv.	ry-foddey
 surranse foddey	surranse-foddey.n	surranse-foddey	self	s. f.	surranse-foddey	
 surransefoddey	surranse-foddey.n	surranse-foddey	self	s. f.	surranse-foddey	collapsed
 surransefoddey	surranse-foddey.n	surransefoddey	univerbated	s. f.	surranse-foddey	
-sodjey	foddey.x	foddey	compSup	adv.	sodjey	
+sodjey	foddey.a	foddey	compSup	a.	sodjey	
 ny sodjey	ny-sodjey.x	ny-sodjey	self		ny-sodjey	
 nysodjey	ny-sodjey.x	ny-sodjey	self		ny-sodjey	collapsed
 nysodjey	ny-sodjey.x	nysodjey	univerbated		ny-sodjey	
@@ -25995,7 +25996,7 @@ folleyderyn	folleyder.n	folleyder	inflected	s. m.	folleyder
 folliaght	folliaght.n	folliaght	self	s. f.	folliaght	
 folliaghtyn	folliaght.n	folliaght	inflected	s. f.	folliaght	
 follan	follan.a	follan	self	a.	follan	
-s'follan	follan.a	follan	inflected	a.	s'follan	
+s'follan	follan.a	follan	compSup	a.	s'follan	
 s'follaney	follan.a	follan	inflected	a.	s'follan	
 follaney	follan.a	follan	inflected	a.	s'follan	
 neu follan	neu-follan.a	neu-follan	self	a.	neu-follan	
@@ -26713,7 +26714,7 @@ froaishid	froaishid.n	froaishid	self	s. m.	froaishid
 frogh	frogh.a	frogh	self	a.	frogh	
 froghey	froghey.a	froghey	self	a. pl.	froghey	
 s'frogh	frogh.a	frogh	inflected	a.	s'frogh	
-s'froghey	froghey.a	froghey	inflected	a. pl.	s'froghey	
+s'froghey	frogh.a	frogh	compSup	a.	s'froghey	
 froghid	froghid.n	froghid	self	s. m.	froghid	
 frook	frook.n	frook	self	s. m.	frook	
 frookyn	frook.n	frook	inflected	s. m.	frook	
@@ -27492,7 +27493,7 @@ ghareydys	ghareydys.n	ghareydys	particle	s.	e ghareydys
 ghareydys	gareydys.n	gareydys	demutated	s. m.	e ghareydys	
 garg	garg.a	garg	self	a.	garg	
 gargey	gargey.a	gargey	self	a. pl.	gargey	
-s'garg	garg.a	garg	inflected	a.	s'garg	
+s'garg	garg.a	garg	compSup	a.	s'garg	
 gargagh	gargagh.v	gargagh	self	v.	gargagh	
 gargagh	gargagh.a	gargagh	self	a.	gargagh	
 s'gargagh	gargagh.a	gargagh	inflected	a.	s'gargagh	
@@ -27564,7 +27565,7 @@ gish	gish.n	gish	self	s. pl.	gish
 gast	gast.x	gast	self		gast	
 gastey	gastey.a	gastey	self	a.	gastey	
 gastagh	gastey.a	gastey	variant	a.	gastagh	
-s'gastey	gastey.a	gastey	inflected	a.	s'gastey	
+s'gastey	gastey.a	gastey	compSup	a.	s'gastey	
 feer ghastey	ghastey.a	ghastey	self	a.	feer ghastey	
 feerghastey	ghastey.a	ghastey	self	a.	feer ghastey	collapsed
 feerghastey	ghastey.a	ghastey	univerbated	a.	feer ghastey	
@@ -27632,7 +27633,7 @@ geayasnee	geay-asnee.x	geay asnee	self		geay asnee	collapsed
 geayasnee	geay-asnee.x	geayasnee	univerbated		geay asnee	
 geayeeagh	geayeeagh.a	geayeeagh	self	a.	geayeeagh	
 s'geayeeagh	geayeeagh.a	geayeeagh	inflected	a.	s'geayeeagh	
-s'geayee	geayee.a	geayee	inflected	a. d.	s'geayee	
+s'geayee	geayeeagh.a	geayeeagh	compSup	a.	s'geayee	
 geayeeid	geayeeid.n	geayeeid	self	s. m.	geayeeid	
 geayl	geayl.n	geayl	self	s. m.	geayl	
 geaylyn	geayl.n	geayl	inflected	s. m.	geayl	
@@ -27648,7 +27649,7 @@ egheayltyn	gheayltyn.n	gheayltyn	self	s.	e gheayltyn	collapsed
 egheayltyn	gheayltyn.n	gheayltyn	univerbated	s.	e gheayltyn	
 gheayltyn	gheayltyn.n	gheayltyn	particle	s.	e gheayltyn	
 geayney	geayney.a	geayney	self	a.	geayney	
-s'geayney	geayney.a	geayney	inflected	a.	s'geayney	
+s'geayney	geayney.a	geayney	compSup	a.	s'geayney	
 geaynid	geaynid.n	geaynid	self	s. m.	geaynid	
 geaynaghey	geaynaghey.v	geaynaghey	self	v.	geaynaghey	
 geaysh	geaysh.n	geaysh	self	s. f.	geaysh	
@@ -27957,7 +27958,7 @@ oiegheuree	oie-gheuree.a	oie gheuree	self	a. d.	oie gheuree	collapsed
 oiegheuree	oie-gheuree.a	oiegheuree	univerbated	a. d.	oie gheuree	
 geuragh	geuragh.a	geuragh	self	a.	geuragh	
 s'geuragh	geuragh.a	geuragh	inflected	a.	s'geuragh	
-s'geuree	geuree.a	geuree	inflected	a. d.	s'geuree	
+s'geuree	geuragh.a	geuragh	compSup	a.	s'geuree	
 gew	gew.n	gew	self	s. f.	gew	
 lus y ghew	lus-y-ghew.n	lus y ghew	self	s. f.	lus y ghew	
 lusyghew	lus-y-ghew.n	lus y ghew	self	s. f.	lus y ghew	collapsed
@@ -28359,7 +28360,7 @@ gen eddin	gen-eddin.n	gen-eddin	self	s. m.	gen-eddin
 geneddin	gen-eddin.n	gen-eddin	self	s. m.	gen-eddin	collapsed
 geneddin	gen-eddin.n	geneddin	univerbated	s. m.	gen-eddin	
 gennal	gennal.a	gennal	self	a.	gennal	
-s'gennal	gennal.a	gennal	inflected	a.	s'gennal	
+s'gennal	gennal.a	gennal	compSup	a.	s'gennal	
 ben ghennal	ben-ghennal.a	ben ghennal	self	a.	ben ghennal	demutation-unvalidated
 benghennal	ben-ghennal.a	ben ghennal	self	a.	ben ghennal	collapsed
 benghennal	ben-ghennal.a	benghennal	univerbated	a.	ben ghennal	
@@ -28808,7 +28809,7 @@ gleiynagh	gleiynagh.a	gleiynagh	self	a.	gleiynagh
 glen	glen.a	glen	self	a.	glen	
 glenney	glenney.a	glenney	self	a. pl.	glenney	
 s'glen	glen.a	glen	inflected	a.	s'glen	
-s'glenney	glenney.a	glenney	inflected	a. pl.	s'glenney	
+s'glenney	glen.a	glen	compSup	a.	s'glenney	
 glenn	glenn.v	glenn	self	v.	glenn	
 glennagh	glenn.v	glenn	inflected	v.	glenn	
 glennee	glenn.v	glenn	inflected	v.	glenn	
@@ -28861,7 +28862,7 @@ gless huarystal	gless-huarystal.n	gless-huarystal	self	s. m.	gless-huarystal
 glesshuarystal	gless-huarystal.n	gless-huarystal	self	s. m.	gless-huarystal	collapsed
 glesshuarystal	gless-huarystal.n	glesshuarystal	univerbated	s. m.	gless-huarystal	
 glib	glib.a	glib	self	a.	glib	
-s'glib	glib.a	glib	inflected	a.	s'glib	
+s'glib	glib.a	glib	compSup	a.	s'glib	
 glick	glick.a	glick	self	a.	glick	
 gliee	gliee.x	gliee	self		gliee	
 er ghlee	er-ghlee.x	er-ghlee	self	adv.	er-ghlee	
@@ -29109,7 +29110,7 @@ ynghenney	ghenney.n	ghenney	univerbated	s.	yn ghenney
 ghenney	ghenney.n	ghenney	particle	s.	yn ghenney	
 ghenney	genney.n	genney	demutated	s. m.	yn ghenney	
 gennish	gennish.a	gennish	self	a.	gennish	
-s'gennish	gennish.a	gennish	inflected	a.	s'gennish	
+s'gennish	gennish.a	gennish	compSup	a.	s'gennish	
 ro ghennish	ghennish.a	ghennish	self	a.	ro ghennish	
 roghennish	ghennish.a	ghennish	self	a.	ro ghennish	collapsed
 roghennish	ghennish.a	ghennish	univerbated	a.	ro ghennish	
@@ -29391,7 +29392,7 @@ ghortaghyn	ghortagh.n	ghortagh	inflected	s.	yn ghortagh
 gorteyder	gorteyder.n	gorteyder	self	s. m.	gorteyder	
 gort	gort.a	gort	self	a.	gort	
 s'gort	gort.a	gort	inflected	a.	s'gort	
-s'gortey	gortey.n	gortey	inflected	s. m.	s'gortey	
+s'gortey	gort.a	gort	compSup	a.	s'gortey	
 gortagh	gortagh.a	gortagh	self	a.	gortagh	
 ro ghortagh	ghortagh.a	ghortagh	self	a.	ro ghortagh	
 roghortagh	ghortagh.a	ghortagh	self	a.	ro ghortagh	collapsed
@@ -29643,7 +29644,7 @@ ynghrainneyder	ghrainneyder.n	ghrainneyder	univerbated	s.	yn ghrainneyder
 ghrainneyder	ghrainneyder.n	ghrainneyder	particle	s.	yn ghrainneyder	
 ghrainneyder	grainneyder.n	grainneyder	demutated	s. m.	yn ghrainneyder	
 graney	graney.a	graney	self	a.	graney	
-s'graney	graney.a	graney	inflected	a.	s'graney	
+s'graney	graney.a	graney	compSup	a.	s'graney	
 feer ghraney	ghraney.a	ghraney	self	a.	feer ghraney	
 feerghraney	ghraney.a	ghraney	self	a.	feer ghraney	collapsed
 feerghraney	ghraney.a	ghraney	univerbated	a.	feer ghraney	
@@ -30310,10 +30311,10 @@ geayr	geayr.a	geayr	self	a.	geayr
 gyerey	gyerey.a	gyerey	self	a. pl.	gyerey	
 geayrey	geayrey.a	geayrey	self	a. pl.	geayrey	
 s'gyere	gyere.a	gyere	inflected	a.	s'gyere	
-s'gyerey	gyerey.a	gyerey	inflected	a. pl.	s'gyerey	
+s'gyerey	gyere.a	gyere	compSup	a.	s'gyerey	
 s'geayr	geayr.a	geayr	inflected	a.	s'geayr	
 s'geir	geayr.a	geayr	inflected	a.	s'geayr	
-s'geayrey	geayrey.a	geayrey	inflected	a. pl.	s'geayrey	
+s'geayrey	geayr.a	geayr	compSup	a.	s'geayrey	
 ro ghyere	ghyere.a	ghyere	self	a.	ro ghyere	
 roghyere	ghyere.a	ghyere	self	a.	ro ghyere	collapsed
 roghyere	ghyere.a	ghyere	univerbated	a.	ro ghyere	
@@ -30653,7 +30654,7 @@ ny himlee	imlee.n	imlee	self	s.	ny himlee
 nyhimlee	imlee.n	imlee	self	s.	ny himlee	collapsed
 nyhimlee	imlee.n	imlee	univerbated	s.	ny himlee	
 himlee	imlee.n	imlee	particle	s.	ny himlee	
-s'imlee	imlee.a	imlee	inflected	a.	s'imlee	
+s'imlee	imlee.a	imlee	compSup	a.	s'imlee	
 imlee	imlee.v	imlee	self	v.	imlee	
 dimlee	imlee.v	imlee	self	v.	dimlee	
 gimlagh	imlagh.v	imlagh	self	v.	gimlagh	
@@ -31964,7 +31965,7 @@ neuyeerys	neu-yeerys.n	neu-yeerys	self	s. f.	neu-yeerys	collapsed
 neuyeerys	neu-yeerys.n	neuyeerys	univerbated	s. f.	neu-yeerys	
 jeeragh	jeeragh.a	jeeragh	self	a.	jeeragh	
 s'jeeragh	jeeragh.a	jeeragh	inflected	a.	s'jeeragh	
-s'jeeree	jeeree.v	jeeree	inflected	v.	s'jeeree	
+s'jeeree	jeeragh.a	jeeragh	compSup	a.	s'jeeree	
 neu yeeragh	neu-yeeragh.a	neu-yeeragh	self	a.	neu-yeeragh	
 neuyeeragh	neu-yeeragh.a	neu-yeeragh	self	a.	neu-yeeragh	collapsed
 neuyeeragh	neu-yeeragh.a	neuyeeragh	univerbated	a.	neu-yeeragh	
@@ -32355,7 +32356,7 @@ laueyesh	laue-yesh.a	laue yesh	self	a.	laue yesh	collapsed
 laueyesh	laue-yesh.a	laueyesh	univerbated	a.	laue yesh	
 jeshey	jeshey.a	jeshey	self	a. pl.	jeshey	
 s'jesh	jesh.a	jesh	inflected	a.	s'jesh	
-s'jeshey	jeshey.a	jeshey	inflected	a. pl.	s'jeshey	
+s'jeshey	jesh.a	jesh	compSup	a.	s'jeshey	
 ro yesh	jesh.a	jesh	self	a.	ro yesh	
 royesh	jesh.a	jesh	self	a.	ro yesh	collapsed
 royesh	jesh.a	jesh	univerbated	a.	ro yesh	
@@ -32444,7 +32445,7 @@ jiargey	jiargey.a	jiargey	self	a. pl.	jiargey
 yiargey	jiargey.a	jiargey	self	a. pl.	yiargey	
 yiargey	jiargey.a	jiargey	demutated	a. pl.	yiargey	
 s'jiarg	jiarg.a	jiarg	inflected	a.	s'jiarg	
-s'jiargey	jiargey.a	jiargey	inflected	a. pl.	s'jiargey	
+s'jiargey	jiarg.a	jiarg	compSup	a.	s'jiargey	
 jiarg rooisht	jiarg-rooisht.a	jiarg-rooisht	self	a.	jiarg-rooisht	
 jiargrooisht	jiarg-rooisht.a	jiarg-rooisht	self	a.	jiarg-rooisht	collapsed
 jiargrooisht	jiarg-rooisht.a	jiargrooisht	univerbated	a.	jiarg-rooisht	
@@ -32854,7 +32855,7 @@ jooighey	jooighey.a	jooighey	self	a. pl.	jooighey
 yooighey	jooighey.a	jooighey	self	a. pl.	yooighey	
 yooighey	jooighey.a	jooighey	demutated	a. pl.	yooighey	
 s'jooigh	jooigh.a	jooigh	inflected	a.	s'jooigh	
-s'jooighey	jooighey.a	jooighey	inflected	a. pl.	s'jooighey	
+s'jooighey	jooigh.a	jooigh	compSup	a.	s'jooighey	
 ro yooigh	jooigh.a	jooigh	self	a.	ro yooigh	
 royooigh	jooigh.a	jooigh	self	a.	ro yooigh	collapsed
 royooigh	jooigh.a	jooigh	univerbated	a.	ro yooigh	
@@ -33715,7 +33716,7 @@ caigneykeerey	caigney-keerey.x	caigneykeerey	univerbated		caigney keerey
 keeir	keeir.a	keeir	self	a.	keeir	
 keeirey	keeirey.a	keeirey	self	a. pl.	keeirey	
 s'keeir	keeir.a	keeir	inflected	a.	s'keeir	
-s'keeirey	keeirey.a	keeirey	inflected	a. pl.	s'keeirey	
+s'keeirey	keeir.a	keeir	compSup	a.	s'keeirey	
 feer cheeir	cheeir.a	cheeir	self	a.	feer cheeir	
 feercheeir	cheeir.a	cheeir	self	a.	feer cheeir	collapsed
 feercheeir	cheeir.a	cheeir	univerbated	a.	feer cheeir	
@@ -34331,7 +34332,7 @@ keyjeenagh	keyjeenagh.a	keyjeenagh	self	a.	keyjeenagh
 keyl	keyl.a	keyl	self	a.	keyl	
 keyley	keyley.a	keyley	self	a. pl.	keyley	
 s'keyl	keyl.a	keyl	inflected	a.	s'keyl	
-s'keylley	keylley.a	keylley	inflected	a. d.	s'keylley	
+s'keylley	keyl.a	keyl	compSup	a.	s'keylley	
 feer cheyl	keyl.a	keyl	self	a.	feer cheyl	
 feercheyl	keyl.a	keyl	self	a.	feer cheyl	collapsed
 feercheyl	keyl.a	keyl	univerbated	a.	feer cheyl	
@@ -34416,7 +34417,7 @@ kherree	kherree.n	Kherree	self	s. f.	Kherree
 khyrloghe	khyrloghe.a	khyrloghe	self	a.	khyrloghe	
 khyrloghey	khyrloghey.a	khyrloghey	self	a. pl.	khyrloghey	
 s'khyrloghe	khyrloghe.a	khyrloghe	inflected	a.	s'khyrloghe	
-s'khyrloghey	khyrloghey.a	khyrloghey	inflected	a. pl.	s'khyrloghey	
+s'khyrloghey	khyrloghe.a	khyrloghe	compSup	a.	s'khyrloghey	
 khyrloghid	khyrloghid.n	khyrloghid	self	s. m.	khyrloghid	
 kiadd	kiadd.v	kiadd	self	v.	kiadd	
 kiaddagh	kiadd.v	kiadd	inflected	v.	kiadd	
@@ -34817,7 +34818,7 @@ cairt	cairt.a	cairt	self	a.	cairt
 cairtey	cairtey.a	cairtey	self	a. pl.	cairtey	
 s'kiart	kiart.a	kiart	inflected	a.	s'kiart	
 s'cairt	cairt.a	cairt	inflected	a.	s'cairt	
-s'kiartey	kiartey.n	kiartey	inflected	s. m.	s'kiartey	
+s'kiartey	kiart.a	kiart	compSup	a.	s'kiartey	
 s'cairtey	cairtey.a	cairtey	inflected	a. pl.	s'cairtey	
 feer chiart	chiart.a	chiart	self	a.	feer chiart	
 feerchiart	chiart.a	chiart	self	a.	feer chiart	collapsed
@@ -35306,7 +35307,7 @@ kit	kit.n	kit	self	s.	kit
 kiun	kiun.a	kiun	self	a.	kiun	
 s'kiune	s'kiune.a	s'kiune	self	a.	s'kiune	demutation-unvalidated
 kiune	s'kiune.a	s'kiune	mutation	a.	s'kiune	demutation-unvalidated
-s'kiuney	kiuney.n	kiuney	inflected	s. f.	s'kiuney	
+s'kiuney	s'kiune.a	s'kiune	compSup	a.	s'kiuney	demutation-unvalidated
 feer chiun	chiun.a	chiun	self	a.	feer chiun	
 feerchiun	chiun.a	chiun	self	a.	feer chiun	collapsed
 feerchiun	chiun.a	chiun	univerbated	a.	feer chiun	
@@ -35803,7 +35804,7 @@ sollaghey laue	sollaghey-laue.n	sollaghey-laue	self	s.	sollaghey-laue
 sollagheylaue	sollaghey-laue.n	sollaghey-laue	self	s.	sollaghey-laue	collapsed
 sollagheylaue	sollaghey-laue.n	sollagheylaue	univerbated	s.	sollaghey-laue	
 lauee	lauee.a	lauee	self	a.	lauee	
-s'lauee	lauee.a	lauee	inflected	a.	s'lauee	
+s'lauee	lauee.a	lauee	compSup	a.	s'lauee	
 lhag lauee	lhag-lauee.a	lhag-lauee	self	a.	lhag-lauee	
 lhaglauee	lhag-lauee.a	lhag-lauee	self	a.	lhag-lauee	collapsed
 lhaglauee	lhag-lauee.a	lhaglauee	univerbated	a.	lhag-lauee	
@@ -36113,7 +36114,7 @@ saaselheihys	saase-lheihys.n	saase-lheihys	self	s. m.	saase-lheihys	collapsed
 saaselheihys	saase-lheihys.n	saaselheihys	univerbated	s. m.	saase-lheihys	
 lheihysagh	lheihysagh.a	lheihysagh	self	a.	lheihysagh	
 lheeah	lheeah.a	lheeah	self	a.	lheeah	
-s'lheeah	lheeah.a	lheeah	inflected	a.	s'lheeah	
+s'lheeah	lheeah.a	lheeah	compSup	a.	s'lheeah	
 lheeah rio	lheeah-rio.n	lheeah-rio	self	s. f.	lheeah-rio	
 lheeahrio	lheeah-rio.n	lheeah-rio	self	s. f.	lheeah-rio	collapsed
 lheeahrio	lheeah-rio.n	lheeahrio	univerbated	s. f.	lheeah-rio	
@@ -36649,7 +36650,7 @@ lhiuragh	lhiuragh.v	lhiuragh	self	v.	lhiuragh
 lhiurid	lhiurid.n	lhiurid	self	s. m.	lhiurid	
 lhiuridyn	lhiurid.n	lhiurid	inflected	s. m.	lhiurid	
 lickly	lickly.x	lickly	self	adv.	lickly	
-s'lickly	lickly.x	lickly	inflected	adv.	s'lickly	
+s'lickly	lickly.x	lickly	compSup	adv.	s'lickly	
 lieckan	lieckan.n	lieckan	self	s. f.	lieckan	
 lieckanyn	lieckan.n	lieckan	inflected	s. f.	lieckan	
 lieckanagh	lieckanagh.a	lieckanagh	self	a. d.	lieckanagh	
@@ -36806,7 +36807,7 @@ s'loaghtyn	loaghtyn.a	loaghtyn	inflected	a.	s'loaghtyn
 loam	loam.a	loam	self	a.	loam	
 loamey	loamey.a	loamey	self	a. pl.	loamey	
 s'loam	loam.a	loam	inflected	a.	s'loam	
-s'loamey	loamey.a	loamey	inflected	a. pl.	s'loamey	
+s'loamey	loam.a	loam	compSup	a.	s'loamey	
 lhoamid	lhoamid.n	lhoamid	self	s. m.	lhoamid	
 loam	loam.v	loam	self	v.	loam	
 loamagh	loam.v	loam	inflected	v.	loam	
@@ -37591,7 +37592,7 @@ varryms	marr.v	marr	inflected	v.	varr
 varrys	marr.v	marr	inflected	v.	varr	
 marroo	marroo.v	marroo	self	v.	marroo	
 marroo	marroo.a	marroo	self	a.	marroo	
-s'marroo	marroo.a	marroo	inflected	a.	s'marroo	
+s'marroo	marroo.a	marroo	compSup	a.	s'marroo	
 ro varroo	marroo.a	marroo	self	a.	ro varroo	
 rovarroo	marroo.a	marroo	self	a.	ro varroo	collapsed
 rovarroo	marroo.a	marroo	univerbated	a.	ro varroo	
@@ -37776,7 +37777,7 @@ maillyn	maill.n	maill	inflected	s. m.	maill
 maillee	maillee.a	maillee	self	a. d.	maillee	
 maalys	maalys.n	maalys	self	s.	maalys	
 maynrey	maynrey.a	maynrey	self	a.	maynrey	
-s'maynrey	maynrey.a	maynrey	inflected	a.	s'maynrey	
+s'maynrey	maynrey.a	maynrey	compSup	a.	s'maynrey	
 feer vaynrey	maynrey.a	maynrey	self	a.	feer vaynrey	
 feervaynrey	maynrey.a	maynrey	self	a.	feer vaynrey	collapsed
 feervaynrey	maynrey.a	maynrey	univerbated	a.	feer vaynrey	
@@ -37826,7 +37827,7 @@ vayrnt	mayrnt.n	mayrnt	particle	s.	yn Vayrnt
 vayrnt	mayrnt.n	Mayrnt	demutated	s. f.	yn Vayrnt	
 mea	mea.a	mea	self	a.	mea	
 meay	meay.a	meay	self	a.	meay	
-s'mea	mea.a	mea	inflected	a.	s'mea	
+s'mea	mea.a	mea	compSup	a.	s'mea	
 ro vea	mea.a	mea	self	a.	ro vea	
 rovea	mea.a	mea	self	a.	ro vea	collapsed
 rovea	mea.a	mea	univerbated	a.	ro vea	
@@ -38139,7 +38140,7 @@ meeney	meeney.a	meeney	self	a. pl.	meeney
 veeney	meeney.a	meeney	self	a. pl.	veeney	
 veeney	meeney.a	meeney	demutated	a. pl.	veeney	
 s'meein	meein.a	meein	inflected	a.	s'meein	
-s'meeiney	meeiney.a	meeiney	inflected	a. pl.	s'meeiney	
+s'meeiney	meein.a	meein	compSup	a.	s'meeiney	
 ro veein	meein.a	meein	self	a.	ro veein	
 roveein	meein.a	meein	self	a.	ro veein	collapsed
 roveein	meein.a	meein	univerbated	a.	ro veein	
@@ -38427,7 +38428,7 @@ koirveinney	koir-veinney.a	koir veinney	self	a. d.	koir veinney	collapsed
 koirveinney	koir-veinney.a	koirveinney	univerbated	a. d.	koir veinney	
 meiygh	meiygh.a	meiygh	self	a.	meiygh	
 s'meiygh	meiygh.a	meiygh	inflected	a.	s'meiygh	
-s'meiyghey	meiyghey.v	meiyghey	inflected	v.	s'meiyghey	
+s'meiyghey	meiygh.a	meiygh	compSup	a.	s'meiyghey	
 feer veiygh	meiygh.a	meiygh	self	a.	feer veiygh	
 feerveiygh	meiygh.a	meiygh	self	a.	feer veiygh	collapsed
 feerveiygh	meiygh.a	meiygh	univerbated	a.	feer veiygh	
@@ -38556,7 +38557,7 @@ ynvess	mess.n	mess	univerbated	s.	yn vess
 vess	mess.n	mess	particle	s.	yn vess	
 vess	mess.n	mess	demutated	s. m.	yn vess	
 messoil	messoil.a	messoil	self	a.	messoil	
-s'messoil	messoil.a	messoil	inflected	a.	s'messoil	
+s'messoil	messoil.a	messoil	compSup	a.	s'messoil	
 feer vessoil	messoil.a	messoil	self	a.	feer vessoil	
 feervessoil	messoil.a	messoil	self	a.	feer vessoil	collapsed
 feervessoil	messoil.a	messoil	univerbated	a.	feer vessoil	
@@ -39189,7 +39190,7 @@ voayn	moayn.n	moayn	demutated	s. f.	yn voayn
 moanagh	moanagh.a	moanagh	self	a. d.	moanagh	
 moaney	moaney.a	moaney	self	a. d.	moaney	
 s'moanagh	moanagh.a	moanagh	inflected	a. d.	s'moanagh	
-s'moanee	moanee.n	moanee	inflected	s. f.	s'moanee	
+s'moanee	moanagh.a	moanagh	compSup	a. d.	s'moanee	
 feer voanagh	moanagh.a	moanagh	self	a.	feer voanagh	
 feervoanagh	moanagh.a	moanagh	self	a.	feer voanagh	collapsed
 feervoanagh	moanagh.a	moanagh	univerbated	a.	feer voanagh	
@@ -39231,7 +39232,7 @@ evoggil	voggil.n	voggil	univerbated	s.	e voggil
 voggil	voggil.n	voggil	particle	s.	e voggil	demutation-unvalidated
 mogglagh	mogglagh.a	mogglagh	self	a.	mogglagh	
 moghey	moghey.a	moghey	self	a.	moghey	
-s'moghey	moghey.a	moghey	inflected	a.	s'moghey	
+s'moghey	moghey.a	moghey	compSup	a.	s'moghey	
 feer voghey	moghey.a	moghey	self	a.	feer voghey	
 feervoghey	moghey.a	moghey	self	a.	feer voghey	collapsed
 feervoghey	moghey.a	moghey	univerbated	a.	feer voghey	
@@ -39398,7 +39399,7 @@ vollag	bollag.n	bollag	demutated	s. f.	yn vollag
 vollag	mollag.n	mollag	demutated	s. f.	yn vollag	
 mollagh	mollagh.a	mollagh	self	a.	mollagh	
 s'mollagh	mollagh.a	mollagh	inflected	a.	s'mollagh	
-s'mollee	mollee.n	mollee	inflected	s. f.	s'mollee	
+s'mollee	mollagh.a	mollagh	compSup	a.	s'mollee	
 ro vollagh	mollagh.a	mollagh	self	a.	ro vollagh	
 rovollagh	mollagh.a	mollagh	self	a.	ro vollagh	collapsed
 rovollagh	mollagh.a	mollagh	univerbated	a.	ro vollagh	
@@ -40488,7 +40489,7 @@ neuvyghinid	neu-vyghinid.n	neuvyghinid	univerbated	s. m.	neu-vyghinid
 myn	myn.a	myn	self	a.	myn	
 myney	myney.a	myney	self	a. pl.	myney	
 s'myn	myn.a	myn	inflected	a.	s'myn	
-s'myney	myney.a	myney	inflected	a. pl.	s'myney	
+s'myney	myn.a	myn	compSup	a.	s'myney	
 feer vyn	myn.a	myn	self	a.	feer vyn	
 feervyn	myn.a	myn	self	a.	feer vyn	collapsed
 feervyn	myn.a	myn	univerbated	a.	feer vyn	
@@ -40943,7 +40944,7 @@ dyniartaghey	niartaghey.v	niartaghey	univerbated	v.	dy niartaghey
 niartaghey	niartaghey.v	niartaghey	particle	v.	dy niartaghey	
 niartit	niartit.x	niartit	self		niartit	
 niartal	niartal.a	niartal	self	a.	niartal	
-s'niartal	niartal.a	niartal	inflected	a.	s'niartal	
+s'niartal	niartal.a	niartal	compSup	a.	s'niartal	
 ooilley niartal	ooilley-niartal.a	ooilley-niartal	self	a.	ooilley-niartal	
 ooilleyniartal	ooilley-niartal.a	ooilley-niartal	self	a.	ooilley-niartal	collapsed
 ooilleyniartal	ooilley-niartal.a	ooilleyniartal	univerbated	a.	ooilley-niartal	
@@ -40985,7 +40986,7 @@ niurinagh	niurinagh.n	niurinagh	self	s. m.	niurinagh
 niurinys	niurinys.n	niurinys	self	s. f.	niurinys	
 noa	noa.a	noa	self	a.	noa	
 noaey	noaey.a	noaey	self	a. pl.	noaey	
-s'noa	noa.a	noa	inflected	a.	s'noa	
+s'noa	noa.a	noa	compSup	a.	s'noa	
 thalk noa	thalk-noa.a	thalk-noa	self	a.	thalk-noa	
 thalknoa	thalk-noa.a	thalk-noa	self	a.	thalk-noa	collapsed
 thalknoa	thalk-noa.a	thalknoa	univerbated	a.	thalk-noa	
@@ -41642,7 +41643,7 @@ dy oney	oney.x	oney	self	adv.	dy oney
 dyoney	oney.x	oney	self	adv.	dy oney	collapsed
 dyoney	oney.x	oney	univerbated	adv.	dy oney	
 oney	oney.x	oney	particle	adv.	dy oney	
-s'oney	oney.a	oney	inflected	a.	s'oney	
+s'oney	oney.a	oney	compSup	a.	s'oney	
 onid	onid.n	onid	self	s. m.	onid	
 onnane	onnane.n	onnane	self	s. f.	onnane	
 onnaneyn	onnane.n	onnane	inflected	s. f.	onnane	
@@ -41657,7 +41658,7 @@ s'onneree	onneragh.a	onneragh	compSup	a.	s'onneree
 onneree	onneragh.a	onneragh	mutation	a.	s'onneree	
 onnerid	onnerid.x	onnerid	self		onnerid	
 onnoroil	onnoroil.a	onnoroil	self	a.	onnoroil	
-s'onnoroil	onnoroil.a	onnoroil	inflected	a.	s'onnoroil	
+s'onnoroil	onnoroil.a	onnoroil	compSup	a.	s'onnoroil	
 onnoroilid	onnoroilid.n	onnoroilid	self	s. m.	onnoroilid	
 oo	oo.x	oo	self	pro.	oo	
 uss	oo.x	oo	emphatic	pro.	oo	
@@ -41666,7 +41667,7 @@ oohene	oo-hene.x	oo-hene	self	pro.	oo-hene	collapsed
 oohene	oo-hene.x	oohene	univerbated	pro.	oo-hene	
 ooasle	ooasle.a	ooasle	self	a.	ooasle	
 ooasley	ooasley.a	ooasley	self	a. pl.	ooasley	
-s'ooasle	ooasle.a	ooasle	inflected	a.	s'ooasle	
+s'ooasle	ooasle.a	ooasle	compSup	a.	s'ooasle	
 ooashl	ooashl.v	ooashl	self	v.	ooashl	
 ooashlagh	ooashl.v	ooashl	inflected	v.	ooashl	
 ooashlee	ooashl.v	ooashl	inflected	v.	ooashl	
@@ -41911,7 +41912,7 @@ s'ooirrit	ooirrit.x	ooirrit	inflected		s'ooirrit
 ooirreyder	ooirreyder.n	ooirreyder	self	s. m.	ooirreyder	
 ooirragh	ooirragh.a	ooirragh	self	a.	ooirragh	
 s'ooirragh	ooirragh.a	ooirragh	inflected	a.	s'ooirragh	
-s'ooirree	ooir.n	ooir	inflected	s. f.	s'ooirree	
+s'ooirree	ooirragh.a	ooirragh	compSup	a.	s'ooirree	
 ooley	ooley.n	ooley	self	s. m.	ooley	
 ooleyder	ooleyder.n	ooleyder	self	s. m.	ooleyder	
 ooleyderyn	ooleyder.n	ooleyder	inflected	s. m.	ooleyder	
@@ -41969,7 +41970,7 @@ oonleyderyn	oonleyder.n	oonleyder	inflected	s. m.	oonleyder
 oor	oor.a	oor	self	a.	oor	
 oorey	oorey.a	oorey	self	a. pl.	oorey	
 s'oor	oor.a	oor	inflected	a.	s'oor	
-s'oorey	oorey.a	oorey	inflected	a. pl.	s'oorey	
+s'oorey	oor.a	oor	compSup	a.	s'oorey	
 oor	oor.v	oor	self	v.	oor	
 ooragh	oor.v	oor	inflected	v.	oor	
 ooree	oor.v	oor	inflected	v.	oor	
@@ -42193,7 +42194,7 @@ ehoyryn	oyr.n	oyr	univerbated	s.	e hoyr
 hoyryn	oyr.n	oyr	inflected	s.	e hoyr	
 paa	paa.a	paa	self	a.	paa	
 paagh	paa.a	paa	inflected	a.	paa	
-s'paa	paa.a	paa	inflected	a.	s'paa	
+s'paa	paa.a	paa	compSup	a.	s'paa	
 s'paagh	paa.a	paa	inflected	a.	s'paa	
 ro phaa	phaa.a	phaa	self	a.	ro phaa	
 rophaa	phaa.a	phaa	self	a.	ro phaa	collapsed
@@ -42370,7 +42371,7 @@ paitchagh	paitchagh.a	paitçhagh	self	a.	paitçhagh
 paitt	paitt.n	paitt	self	s. f.	paitt	
 paittagh	paittagh.a	paittagh	self	a.	paittagh	
 paittoil	paittoil.a	paittoil	self	a.	paittoil	
-s'paittoil	paittoil.a	paittoil	inflected	a.	s'paittoil	
+s'paittoil	paittoil.a	paittoil	compSup	a.	s'paittoil	
 palchey	palchey.n	palçhey	self	s. m.	palçhey	
 palchaghyn	palchey.n	palçhey	inflected	s. m.	palçhey	
 nyn balchey	palchey.n	palçhey	self	s.	nyn balçhey	
@@ -42386,7 +42387,7 @@ dy palchey	palchey.x	palçhey	self	adv.	dy palçhey
 dypalchey	palchey.x	palçhey	self	adv.	dy palçhey	collapsed
 dypalchey	palchey.x	palçhey	univerbated	adv.	dy palçhey	
 palchey	palchey.x	palçhey	particle	adv.	dy palçhey	
-s'palchey	palchey.a	palçhey	inflected	a.	s'palçhey	
+s'palchey	palchey.a	palçhey	compSup	a.	s'palçhey	
 slane palchey	slane-palchey.n	slane palçhey	self	s.	slane palçhey	
 slanepalchey	slane-palchey.n	slane palçhey	self	s.	slane palçhey	collapsed
 slanepalchey	slane-palchey.n	slanepalçhey	univerbated	s.	slane palçhey	
@@ -42515,7 +42516,7 @@ beccagh	peccagh.n	peccagh	particle	s. m.	nyn beccagh
 py'agh	py'agh.n	py'agh	self	s. m.	py'agh	
 p'agh	py'agh.n	py'agh	variant	s. m.	p'agh	
 peccoil	peccoil.a	peccoil	self	a.	peccoil	
-s'peccoil	peccoil.a	peccoil	inflected	a.	s'peccoil	
+s'peccoil	peccoil.a	peccoil	compSup	a.	s'peccoil	
 peccoillys	peccoillys.n	peccoillys	self	s. f.	peccoillys	
 peddyr	peddyr.n	Peddyr	self	s. m.	Peddyr	
 bossan pheddyr	bossan-pheddyr.n	bossan-pheddyr	variant	s. m.	bossan-Pheddyr	
@@ -43172,7 +43173,7 @@ slanepooar	slane-pooar.n	slane pooar	self	s.	slane pooar	collapsed
 slanepooar	slane-pooar.n	slanepooar	univerbated	s.	slane pooar	
 pooaral	pooaral.a	pooaral	self	a.	pooaral	
 s'pooaragh	pooaragh.a	pooaragh	inflected	a. d.	s'pooaragh	
-s'pooaral	pooaral.a	pooaral	inflected	a.	s'pooaral	
+s'pooaral	pooaral.a	pooaral	compSup	a.	s'pooaral	
 pooaryn	pooar.n	pooar	inflected	s. m.	pooar	
 poodyr	poodyr.n	poodyr	self	s. m.	poodyr	
 poodyryn	poodyr.n	poodyr	inflected	s. m.	poodyr	
@@ -44076,7 +44077,7 @@ raistylagh	raistylagh.a	raistylagh	self	a.	raistylagh
 rangan	rangan.n	rangan	self	s. m.	rangan	
 ranganyn	rangan.n	rangan	inflected	s. m.	rangan	
 rank	rank.a	rank	self	a.	rank	
-s'rank	rank.a	rank	inflected	a.	s'rank	
+s'rank	rank.a	rank	compSup	a.	s'rank	
 rankid	rankid.n	rankid	self	s.	rankid	
 rankys	rankid.n	rankid	variant	s.	rankys	
 rannee	rannee.n	rannee	self	s. m.	rannee	
@@ -44133,7 +44134,7 @@ re	re.n	re	self	s. f.	re
 ray	ray.x	ray	self		ray	
 rea	rea.a	rea	self	a.	rea	
 rea	frea.n	frea	demutated	s. m.	rea	
-s'rea	rea.a	rea	inflected	a.	s'rea	
+s'rea	rea.a	rea	compSup	a.	s'rea	
 rea id	rea-id.n	rea-id	self	s. m.	rea-id	
 reaid	rea-id.n	rea-id	self	s. m.	rea-id	collapsed
 reaid	rea-id.n	reaid	univerbated	s. m.	rea-id	
@@ -44199,7 +44200,7 @@ ree	ree.n	ree	self	s. m.	ree
 reeaghyn	ree.n	ree	inflected	s. m.	ree	
 reeghyn	ree.n	ree	inflected	s. m.	ree	
 reeoil	reeoil.x	reeoil	self		reeoil	
-s'reeoil	reeoil.x	reeoil	inflected		s'reeoil	
+s'reeoil	reeoil.x	reeoil	compSup		s'reeoil	
 ardys reeoil	ardys-reeoil.n	ardys-reeoil	self	s. m.	ardys-reeoil	
 ardysreeoil	ardys-reeoil.n	ardys-reeoil	self	s. m.	ardys-reeoil	collapsed
 ardysreeoil	ardys-reeoil.n	ardysreeoil	univerbated	s. m.	ardys-reeoil	
@@ -44249,7 +44250,7 @@ reen	reen.a	reen	self	a.	reen
 reeney	reeney.a	reeney	self	a. pl.	reeney	
 reeney	freeney.n	freeney	demutated	s. m.	reeney	
 s'reen	reen.a	reen	inflected	a.	s'reen	
-s'reeney	reeney.a	reeney	inflected	a. pl.	s'reeney	
+s'reeney	reen.a	reen	compSup	a.	s'reeney	
 reen	reen.v	reen	self	v.	reen	
 reenagh	reen.v	reen	inflected	v.	reen	
 reenys	reen.v	reen	inflected	v.	reen	
@@ -44830,7 +44831,7 @@ rhumbyl	rhumbyl.n	rhumbyl	self	s. m.	rhumbyl
 runt	runt.a	runt	self	a.	runt	
 runtey	runtey.a	runtey	self	a. pl.	runtey	
 s'runt	runt.a	runt	inflected	a.	s'runt	
-s'runtey	runtey.a	runtey	inflected	a. pl.	s'runtey	
+s'runtey	runt.a	runt	compSup	a.	s'runtey	
 runt	runt.v	runt	self	v.	runt	
 runtagh	runt.v	runt	inflected	v.	runt	
 runtee	runt.v	runt	inflected	v.	runt	
@@ -44847,7 +44848,7 @@ runtid	runtid.n	runtid	self	s. m.	runtid
 ruy	ruy.a	ruy	self	a.	ruy	
 ruyey	ruyey.a	ruyey	self	a. pl.	ruyey	
 s'ruy	ruy.a	ruy	inflected	a.	s'ruy	
-s'ruyey	ruyey.a	ruyey	inflected	a. pl.	s'ruyey	
+s'ruyey	ruy.a	ruy	compSup	a.	s'ruyey	
 ruyghey	ruyghey.v	ruyghey	self	v.	ruyghey	
 ruyid	ruyid.n	ruyid	self	s. m.	ruyid	
 ruagh	ruagh.a	ruagh	self	a.	ruagh	
@@ -50409,7 +50410,7 @@ tarroo ushtey	tarroo-ushtey.n	tarroo-ushtey	self	s. m.	tarroo-ushtey
 tarrooushtey	tarroo-ushtey.n	tarroo-ushtey	self	s. m.	tarroo-ushtey	collapsed
 tarrooushtey	tarroo-ushtey.n	tarrooushtey	univerbated	s. m.	tarroo-ushtey	
 tarroogh	tarroogh.a	tarroogh	self	a.	tarroogh	
-s'tarroogh	tarroogh.a	tarroogh	inflected	a.	s'tarroogh	
+s'tarroogh	tarroogh.a	tarroogh	compSup	a.	s'tarroogh	
 ro harroogh	tarroogh.a	tarroogh	self	a.	ro harroogh	
 roharroogh	tarroogh.a	tarroogh	self	a.	ro harroogh	collapsed
 roharroogh	tarroogh.a	tarroogh	univerbated	a.	ro harroogh	
@@ -51019,7 +51020,7 @@ ehesmad	tesmad.n	tesmad	univerbated	s.	e hesmad
 hesmad	tesmad.n	tesmad	particle	s.	e hesmad	
 hesmad	tesmad.n	tesmad	demutated	s. f.	e hesmad	
 tessen	tessen.a	tessen	self	a.	tessen	
-s'tessen	tessen.a	tessen	inflected	a.	s'tessen	
+s'tessen	tessen.a	tessen	compSup	a.	s'tessen	
 ro hessen	tessen.a	tessen	self	a.	ro hessen	
 rohessen	tessen.a	tessen	self	a.	ro hessen	collapsed
 rohessen	tessen.a	tessen	univerbated	a.	ro hessen	
@@ -52693,7 +52694,7 @@ travalyn	traval.n	traval	inflected	s. f.	traval
 trean	trean.a	trean	self	a.	trean	
 treaney	treaney.a	treaney	self	a. pl.	treaney	
 s'trean	trean.a	trean	inflected	a.	s'trean	
-s'treaney	treaney.a	treaney	inflected	a. pl.	s'treaney	
+s'treaney	trean.a	trean	compSup	a.	s'treaney	
 ro hrean	trean.a	trean	self	a.	ro hrean	
 rohrean	trean.a	trean	self	a.	ro hrean	collapsed
 rohrean	trean.a	trean	univerbated	a.	ro hrean	
@@ -52819,7 +52820,7 @@ nyndreigeilagh	treigeilagh.n	treigeilagh	self	s.	nyn dreigeilagh	collapsed
 nyndreigeilagh	treigeilagh.n	treigeilagh	univerbated	s.	nyn dreigeilagh	
 dreigeilagh	treigeilagh.n	treigeilagh	particle	s.	nyn dreigeilagh	
 treih	treih.a	treih	self	a.	treih	
-s'treih	treih.a	treih	inflected	a.	s'treih	
+s'treih	treih.a	treih	compSup	a.	s'treih	
 ro hreih	treih.a	treih	self	a.	ro hreih	
 rohreih	treih.a	treih	self	a.	ro hreih	collapsed
 rohreih	treih.a	treih	univerbated	a.	ro hreih	
@@ -52986,7 +52987,7 @@ trelleenagh	trelleenagh.a	trelleenagh	self	a.	trelleenagh
 trenshoor	trenshoor.n	trenshoor	self	s. f.	trenshoor	
 trenshooryn	trenshoor.n	trenshoor	inflected	s. f.	trenshoor	
 treoghe	treoghe.a	treoghe	self	a.	treoghe	
-s'treoghe	treoghe.a	treoghe	inflected	a.	s'treoghe	
+s'treoghe	treoghe.a	treoghe	compSup	a.	s'treoghe	
 ben hreoghe	ben-hreoghe.n	ben hreoghe	self	s.	ben hreoghe	demutation-unvalidated
 benhreoghe	ben-hreoghe.n	ben hreoghe	self	s.	ben hreoghe	collapsed
 benhreoghe	ben-hreoghe.n	benhreoghe	univerbated	s.	ben hreoghe	
@@ -53985,7 +53986,7 @@ warpit	warpit.x	warpit	self	pt.	warpit
 warrag	warrag.n	warrag	self	s. f. m.	warrag	
 warragyn	warrag.n	warrag	inflected	s. f. m.	warrag	
 warree	warree.a	warree	self	a.	warree	
-s'warree	warree.a	warree	inflected	a.	s'warree	
+s'warree	warree.a	warree	compSup	a.	s'warree	
 wass	wass.x	wass	self	adv.	wass	
 wass	bass.n	bass	demutated	s.	wass	
 wass	fass.v	fass	demutated	v.	wass	
@@ -54326,7 +54327,7 @@ ynnydagh	ynnydagh.a	ynnydagh	self	a.	ynnydagh
 ynrican	ynrican.a	ynrican	self	a.	ynrican	
 unrick	unrick.a	unrick	self	a.	unrick	
 ynrick	ynrick.a	ynrick	self	a.	ynrick	
-s'ynrick	ynrick.a	ynrick	inflected	a.	s'ynrick	
+s'ynrick	ynrick.a	ynrick	compSup	a.	s'ynrick	
 ynrickys	ynrickys.n	ynrickys	self	s. f.	ynrickys	
 yns	yns.v	yns	self	v.	yns	
 ynsagh	yns.v	yns	inflected	v.	yns	
@@ -58045,6 +58046,7 @@ fasseyder	fass.v	fass	derived	v.	fass
 fastagh	fast.n	fast	derived	s. m.	fast	
 fastid	fast.n	fast	derived	s. m.	fast	
 fasteeagh	fastee.n	fastee	derived	s.	fastee	
+s'fastee	fastee.n	fastee	derived	s.	fastee	
 fasteeid	fastee.n	fastee	derived	s.	fastee	
 sy n'astyr	fastyr.n	fastyr	derived	s. m.	fastyr	
 fastyragh	fastyr.n	fastyr	derived	s. m.	fastyr	
