@@ -89,3 +89,17 @@ hellooder	shellooder.n	shellooder	mutation	s. m.	shellooder	generated-lenition
 crank	crank.v	crank	self	v.	crank	unverified
 cronkal	crank.v	crank	undecided	v.	crank	unverified
 chrank	crank.v	crank	mutation	v.	crank	generated-lenition
+spyrryd	spyrryd.n	spyrryd	self	s. m.	spyrryd	unverified
+sp'ryd	spyrryd.n	spyrryd	undecided	s. m.	spyrryd	unverified
+sp'rydyn	spyrryd.n	spyrryd	undecided	s. m.	spyrryd	unverified
+drogh	drogh.a	drogh	self	a.	drogh	unverified
+ghrogh	drogh.a	drogh	undecided	a.	drogh	unverified
+nrogh	drogh.a	drogh	mutation	a.	drogh	generated-eclipsis
+drogh spyrryd	drogh-spyrryd.n	drogh-spyrryd	self	s. m.	drogh-spyrryd	unverified
+droghspyrryd	drogh-spyrryd.n	drogh-spyrryd	self	s. m.	drogh-spyrryd	collapsed unverified
+drogh sp'ryd	drogh-spyrryd.n	drogh-spyrryd	undecided	s. m.	drogh-spyrryd	unverified
+droghsp'ryd	drogh-spyrryd.n	drogh-spyrryd	undecided	s. m.	drogh-spyrryd	collapsed unverified
+ghrogh sp'ryd	drogh-spyrryd.n	drogh-spyrryd	undecided	s. m.	drogh-spyrryd	unverified
+ghroghsp'ryd	drogh-spyrryd.n	drogh-spyrryd	undecided	s. m.	drogh-spyrryd	collapsed unverified
+ghrogh spyrryd	drogh-spyrryd.n	drogh-spyrryd	undecided	s. m.	drogh-spyrryd	unverified
+ghroghspyrryd	drogh-spyrryd.n	drogh-spyrryd	undecided	s. m.	drogh-spyrryd	collapsed unverified
